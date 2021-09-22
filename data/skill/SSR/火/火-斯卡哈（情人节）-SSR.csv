@@ -1,0 +1,12 @@
+id,name,detail
+npc,斯卡哈,3040260000
+special,火烈鸟,火属性伤害(特大)/自身甘露+1(最大5)/我方全体逆境效果
+skill-1,追随本心,<div class="prt-text-small">我方全体获得相当于自身最大HP25%屏障效果(最大5000)<br><span class="text-blue">◆我方全体消耗25%最大HP</span></div>
+skill-1+,追随本心,<div class="prt-text-small">我方全体获得相当于自身最大HP25%屏障效果(最大5000)<br><span class="text-blue">◆我方全体消耗25%最大HP</span></div>
+skill-2,迪尔德丽的仁爱,<div class="prt-text-small">我方全体火属性攻击UP/净化1个弱化效果/随甘露数量我方全体HP回复<br><span class="text-blue">◆使用消耗全部甘露</span></div>
+skill-2+,迪尔德丽的仁爱,<div class="prt-text-small">我方全体火属性攻击UP/净化1个弱化效果/随甘露数量我方全体HP回复<br><span class="text-blue">◆使用消耗全部甘露</span></div>
+skill-3,醇厚追求,<div class="prt-text-small">根据甘露的数量向敌人造成最大24倍火属性伤害/驱散1个强化效果<br><span class="text-blue">◆使用消耗全部甘露</span></div>
+support-1,来自真龙的礼物,<div class="prt-text-small">自身成为被攻击目标時，甘露+1(最大5)/回合结束时，若自身HP在25%以下(频死)，则自动发动"我方全体火属性角色HP全回复"的效果，只能发动1次</div>
+support-2,二人独处的茶会,处于屏障的我方角色，普通攻击时进行火属性追击
+skill-lb,LB技能,回復性能+30%
+intro,仁爱真龙,ヒトの営みにいたく興味を示す真龍がこの度耳にしたのはバレンタイン。想いを伝えるのに甘味が必要というその手間を面映ゆくも面白く思う彼女は、自らも行事を体験すべくチョコレー島へと繰り出した。

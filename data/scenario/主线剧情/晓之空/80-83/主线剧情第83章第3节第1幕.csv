@@ -1,6 +1,6 @@
 id,en,jp,trans
 0-chapter_name,"83: Old Battles, New Paths",第83章　決着と新たな旅路,第83章 了结与新的旅途
-0-synopsis,Cain reveals that he's a general in the Idelva Army and explains to the crew the danger of the seal they'd secured earlier. He invites the crew to stay in Idelva Kingdom as guests while he helps them find their missing friends.," 姬塔一行は、カインがイデルバ王国の将軍である事、そしてレオナと名乗る女性がカインの副官であり義姉でもある事を明かされる。はぐれた仲間を探す姬塔達に、カインは一時的にイデルバ王国に身を寄せてはどうかと提案し、仲間探しも手伝うと申し出る。 姬塔は提案に乗り、イデルバ王国へと渡る事を決めるのだった。",姬塔等人知道了该隐是伊迪尔瓦王国的将军，而名为蕾欧娜的女性自称为该隐的副官，同时也是他义姐。该隐向打算寻找失散同伴的姬塔等人提议，可以暂时寄身于伊迪尔瓦王国，并协助他们一同寻找。姬塔同意了这个建议，决定前往伊迪尔瓦王国。
+0-synopsis,Cain reveals that he's a general in the Idelva Army and explains to the crew the danger of the seal they'd secured earlier. He invites the crew to stay in Idelva Kingdom as guests while he helps them find their missing friends.," 姬塔一行は、カインがイデルバ王国の将軍である事、そしてレオナと名乗る女性がカインの副官であり義姉でもある事を明かされる。はぐれた仲間を探す姬塔達に、カインは一時的にイデルバ王国に身を寄せてはどうかと提案し、仲間探しも手伝うと申し出る。姬塔は提案に乗り、イデルバ王国へと渡る事を決めるのだった。",姬塔等人知道了该隐是伊迪尔瓦王国的将军，而名为蕾欧娜的女性自称为该隐的副官，同时也是他义姐。该隐向打算寻找失散同伴的姬塔等人提议，可以暂时寄身于伊迪尔瓦王国，并协助他们一同寻找。姬塔同意了这个建议，决定前往伊迪尔瓦王国。
 0,"Having surrendered to Idelva Kingdom, all the outlaws, regardless of their injuries, are to be escorted to the capital.",<span class='scene-font-katari'>イデルバ王国に降伏した盗賊達は、</span><br><span class='scene-font-katari'>傷を負った者は居るものの、</span><br><span class='scene-font-katari'>全員が王都へと連行されることとなった。</span>,<span class='scene-font-katari'>向伊迪尔瓦王国投降的盗贼，无论伤残与否，都要被押解到王都。</span>
 1,"The crew is gathered nearby, and Vyrn decides to ask the burning question on everyone's mind.",<span class='scene-font-katari'>連行される盗賊達の傍らで、</span><br><span class='scene-font-katari'>ビィは不思議そうに口を開く。</span>,<span class='scene-font-katari'>众人与盗贼们随行，碧有些疑惑地开口。</span>
 2,"So... Just who are you anyway, Cain？",――で？<br>結局、カインは何者なんだよ？,——所以。最后，该隐你到底是什么人啊？
@@ -14,8 +14,8 @@ id,en,jp,trans
 9-sel1_txt,He's a handful.,<span class='scene-font-katari'>大変だった</span>,真的很辛苦啊
 9-sel2_txt,He's a lifesaver.,<span class='scene-font-katari'>むしろ助けられた</span>,不如说帮到我们了
 10,"Ohhh... I'm very, very, <span class='scene-font-italic'>very</span> sorry then.",ううっ……<br>ホント、ホントもう、<br>本当にごめんなさい……,呜…真的，真的，真的很抱歉……
-11,"Oh！ But, see... he also shared a lot with us, so he was a big help too.",あ、あのっ、そんな……<br>私達、カインさんに色々教えてもらって、<br>助けてもらいましたし……,那，那个，比这么说，该隐也告诉我们很多事情帮到了我们。
-12,"That's right！ If you think about it, it was kind of a give-and-take！",そうそう！<br>なんだかんだで、<br>持ちつ持たれつ、ってな！,是啊是啊！总之就是互相帮助吧！
+11,"Oh！But, see... he also shared a lot with us, so he was a big help too.",あ、あのっ、そんな……<br>私達、カインさんに色々教えてもらって、<br>助けてもらいましたし……,那，那个，比这么说，该隐也告诉我们很多事情帮到了我们。
+12,"That's right！If you think about it, it was kind of a give-and-take！",そうそう！<br>なんだかんだで、<br>持ちつ持たれつ、ってな！,是啊是啊！总之就是互相帮助吧！
 13,"He was, but not before getting us involved in his crazy antics only seconds after meeting him...",とはいえ、初めて会ったとき、<br>いきなり巻き込まれたのには<br>びっくりしたぜ……,虽说如此，刚见面的时候突然把我们卷进去也是吓了一跳呢。
 14,Ah... I knew there was more to the story. I'm really sorry.,ああああ……<br>やっぱりそんなことが……<br>本当にごめんなさい……,啊啊…果然发生了这样的事，真的很抱歉。
 15,"Well, you know, I was in a bit of a tight spot...<br>Sorry about that.",い、いや、あれは、<br>しょうがなかったっていうかさ……<br>なんていうか……すまん。,不，那件事，该说是无可奈何呢还是…总之，抱歉。
@@ -37,7 +37,7 @@ id,en,jp,trans
 31,"I thought that if I could get control of it, then they'd quietly give up the island.",あれを抑えれば盗賊達も、<br>大人しく島を明け渡すと思ったんだ。,我以为用它就能压制住对方，让盗贼们老老实实交出这座岛了。
 32,"Ah, but in the end, Reinhardtzar read me like a book and turned my threat against me.",まぁ、結局……それを<br>ラインハルザに読まれて、逆に<br>追い詰められちまったわけだけどさ。,嘛，结果被莱茵哈萨察觉到了，反过来被对方威胁了。
 33,...,…………,…………
-34,But e-everyone's still alive！ Isn't that what's important？,け、けどよぅ！<br>結局、誰も死ななかったんだから、<br>それでいいじゃねーか！,但，但是，最后谁都没死，不是挺好的嘛！
+34,But e-everyone's still alive！Isn't that what's important？,け、けどよぅ！<br>結局、誰も死ななかったんだから、<br>それでいいじゃねーか！,但，但是，最后谁都没死，不是挺好的嘛！
 35,Leona backs up Vyrn's awkward attempt to turn lemons into lemonade.,<span class='scene-font-katari'>明るく振る舞うビィに、</span><br><span class='scene-font-katari'>ぎこちないながらもレオナが後を追う。</span>,<span class='scene-font-katari'>碧试图活跃话题气氛，之后蕾欧娜生硬地接过话。
 36,That's true. The point is that all of you made it through unharmed.,そうですね……<br>ともかく、カインも、<br>皆さんもご無事で何よりです。,是的。总之，该隐和大家没事真的太好了。
 37,"Now then, 姬塔, I heard you're searching for some lost friends.",それで、姬塔さん達は、<br>離ればなれになってしまった<br>仲間を探していらっしゃるとか……,然后，听说姬塔你们正在寻找四散各地的同伴。
@@ -46,13 +46,13 @@ id,en,jp,trans
 40,"If you're searching for something, you'll need information and a base of operations.",人探しをするなら、<br>何より情報が不可欠だろうし、<br>身を寄せる拠点も必要になる。,如果要找人的话，情报是不可或缺的，而且也要有一个行动据点。
 41,"So I thought, why not come to Idelva Kingdom for a spell？",それなら、うちの国、<br>イデルバ王国に<br>来たらいいんじゃねぇかと思ってさ。,既然如此，来我们的国家——伊迪尔瓦王国如何呢？
 42,"You helped us get back the island, and that's enough reason for the country to welcome you as a guest.",ここの制圧に協力してもらったわけだし<br>国としても、<br>客人として迎える理由は充分ある。,你们帮助了我们镇压了这里，有充分的理由欢迎各位作为我国的贵客。
-43,"I can't promise you lots of resources, but I'll do everything in my power to help you find your friends.",国をあげて、ってわけにはいかねぇけど<br>俺に出来る範囲なら、<br>仲間探しにも協力するぜ。,虽然不可能赐给你们领地，但是在我能做到的范围内，我会协助你们寻找同伴的。
+43,"I can't promise you lots of resources, but I'll do everything in my power to help you find your friends.",国をあげて、ってわけにはいかねぇけど<br>俺に出来る範囲なら、<br>仲間探しにも協力するぜ。,虽然不可能赐给你们领地，但我会在我能做到的范围内，协助你们寻找同伴的。
 44,Katalina seems pleased by Cain's offer.,<span class='scene-font-katari'>カインの提案に、</span><br><span class='scene-font-katari'>カタリナは納得した表情を見せる。</span>,<span class='scene-font-katari'>卡塔莉娜看上去欣然接受该隐的提议。</span>
 45,I see now... This is what you meant by making it worth our while.,なるほど……<br>見返りというのは、そういうことか。,原来如此，回礼就是这么回事吗。
 46,Your offer is just the help we need right now.,いまの私達にとっては、<br>願ってもない申し出だな。,对现在的我们来说，是求之不得的帮助。
 46-sel1_txt,We happily accept.,<span class='scene-font-katari'>それじゃあ、よろしく</span>,那么，请多指教
 46-sel2_txt,Let me think about it.,<span class='scene-font-katari'>どうしようかな</span>,该怎么办呢
-47,"Great！ We welcome your addition, 姬塔！",おう！<br>歓迎するぜ、姬塔！,哦！欢迎你哦，姬塔！
+47,"Great！We welcome your addition, 姬塔！",おう！<br>歓迎するぜ、姬塔！,哦！欢迎你哦，姬塔！
 49,Hey now... shouldn't we just accept his offer here？,なぁなぁ……<br>ここは提案に乗っておいたほうが、<br>いいんじゃねーか？,呐呐，这里接受提议不是挺好的吗？
 50,"We don't have a plan, and we're stuck in Nalhegrande. I think he could help us out！",オイラ達、何の準備もなしに、<br>ナル・グランデ空域に来ちまったし、<br>色々助かると思うぜ。,我们毫无准备地就来到纳尔·格兰德空域，我想他能帮我们很多呢。
 51,I think so too... We won't be able to find everyone on our own.,そうですね……<br>私達だけじゃ、<br>皆を探せそうにないですし……,同感，只靠我们自己恐怕很难找到其他同伴。

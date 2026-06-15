@@ -12,7 +12,7 @@ id,en,jp,trans
 6,"I'm a living disgrace, just as you wished. Are you happy now？",貴方達の望んだ通り、いまもこうして、<br>私は生き恥を曝しています……<br>こう言えば満足ですか？,如你们所愿，我现在还这幅模样屈辱地苟活于世，这么说你们满足了吗？
 7,"Hey, I think we might've hit a touchy topic here...",おい……余計なこと聞くから、<br>すっげー空気悪く<br>なっちまったじゃねーか……,喂……听到这些多余的话，谈话的气氛不是更糟糕了吗。
 8,"Freesia, we've come here to ask you a question.",フリーシア……<br>私達は君に尋ねたいことがあって、<br>ここまで来たんだ。,芙莉西雅，我们是有要向你询问的事情才来到这里的。
-9,Oh？ And just what would you like to ask all the way out here in the middle of the desert？,ほう……<br>わざわざこの辺境の砂漠に<br>足を運んでまで、いったいなにを……？,哦？特意来到如此边远的沙漠也要问我的事，到底是什么呢？
+9,Oh？And just what would you like to ask all the way out here in the middle of the desert？,ほう……<br>わざわざこの辺境の砂漠に<br>足を運んでまで、いったいなにを……？,哦？特意来到如此边远的沙漠也要问我的事，到底是什么呢？
 10,It's about the piece of sky map the Astrals gave to Erste.,かつてエルステが星の民から預かった、<br><span class='scene-font-spword'>空図の欠片</span>についてだ。,是关于过去埃尔斯特从星之民那里得到的<span class='scene-font-spword'>空图碎片</span>的事情。
 11,I can't promise you I'll answer.,答えるかどうかを<br>約束するつもりはありませんが……,我可不保证自己会不会回答你们。
 12,But what could you possibly want to know to warrant coming all the way here？,わざわざ私の元にまで来て、<br>いったい何を知りたいというのですか？,特意来到这里来找我，到底是想知道些什么？</span>
@@ -38,14 +38,14 @@ id,en,jp,trans
 32,姬塔 and company grow excited by this new revelation.,<span class='scene-font-katari'>見出した希望に、</span><br><span class='scene-font-katari'>姬塔一行は色めき立つ。</span>,<span class='scene-font-katari'>众人再次有了希望，松了口气。</span>
 33,But Freesia breaks in with a cold voice.,<span class='scene-font-katari'>しかし、そんな姬塔一行に、</span><br><span class='scene-font-katari'>フリーシアは冷たい声を投げかける。</span>,<span class='scene-font-katari'>然而芙莉西雅却泼了一盆冷水。</span>
 34,What are you so happy about？,何を……喜んでいるのですか？,你们在高兴些什么呢？
-35,Huh？ But you just said that the map piece is here.,え？<br>だって、<span class='scene-font-spword'>空図の欠片</span>が<br>ちゃんとこの島にあるって……,什么？因为<span class='scene-font-spword'>空图碎片</span>还在这个岛上啊……
+35,Huh？But you just said that the map piece is here.,え？<br>だって、<span class='scene-font-spword'>空図の欠片</span>が<br>ちゃんとこの島にあるって……,什么？因为<span class='scene-font-spword'>空图碎片</span>还在这个岛上啊……
 36,"Oh yes. A piece of the sky map is somewhere on this island, no doubt.",そうですね……<br><span class='scene-font-spword'>空図の欠片</span>は間違いなく、<br>この島のどこかにあることでしょう。,说的没错呢。<span class='scene-font-spword'>空图碎片</span>毫无疑问还在这座岛上的某个地方。
-37,"Oy, oy, give us a break here. Don't tell me you're keepin' yer lips sealed now！",お、おいおい……勘弁してくれ。<br>まさか場所は教えねぇ、<br>ってんじゃあねぇよな……？,喂喂，饶了我吧，不会是不告诉我们在哪吧？
+37,"Oy, oy, give us a break here. Don't tell me you're keepin' yer lips sealed now！",お、おいおい……勘弁してくれ。<br>まさか場所は教えねぇ、<br>ってんじゃあねぇよな……？,喂喂，饶了我吧，你不会是不打算告诉我们在哪吧？
 38,And why should I cooperate with the likes of you？,なぜ……私が貴様らに協力をすると？,为什么会觉得我会与你们协力呢？
 39,I will never forgive you. You ruined my plans. You defied me in every way.,私は絶対に貴様らを許しはしない。<br>私の計画を阻んだ貴様らを……<br>私の全てを否定した貴様らを……,我永远不会原谅你们，阻止了我的计划……否认了我所有的你们……
 40,"You might have spared my life, but I shall spend it making you pay.",そして、私を生かし続ける貴様らを、<br>貴様らが救った命の<br>全てをかけて復讐しましょう。,而且只要我还活着，我就会赌上你们所救下来的这条命的全部向你们复仇。
 41,...,…………,…………
 42,Mark my words. I will have my revenge.,必ず……必ずだ。<br>私はお前達に復讐する。,一定要…一定要…向你们复仇。
-43,"And until that day, may you wander the desert in search of your precious map piece.",せいぜいそのときまで、<br><span class='scene-font-spword'>空図の欠片</span>を探して、<br>この砂漠を彷徨い続けることです……,到那时为止你们就好好彷徨在这个大沙漠中寻找<span class='scene-font-spword'>空图碎片</span>去吧。
+43,"And until that day, may you wander the desert in search of your precious map piece.",せいぜいそのときまで、<br><span class='scene-font-spword'>空図の欠片</span>を探して、<br>この砂漠を彷徨い続けることです……,在那之前，你们就好好彷徨在这个大沙漠中寻找<span class='scene-font-spword'>空图碎片</span>去吧。
 44,姬塔 and company can only stare as a tranquil smile spreads slowly across her face.,<span class='scene-font-katari'>フリーシアは</span><br><span class='scene-font-katari'>姬塔一行にそう告げると、</span><br><span class='scene-font-katari'>穏やかな笑みを浮かべるのだった。</span>,<span class='scene-font-katari'>芙莉西雅对姬塔等人这么说着，脸上浮现了一种异样平静的笑容。</span>
 info,1,1,scene_cp71_q1_s10

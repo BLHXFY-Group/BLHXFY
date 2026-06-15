@@ -21,7 +21,7 @@ id,name,text,trans
 23,ビィ/碧,やれやれ……<br>ホントにどーいう嬢ちゃんなんだよ……,哎……<br>真拿她没辙……
 24,ラインハルザ/莱茵哈萨,行くぞ。<br>いまは悩むだけ無駄だ。,走了。<br>现在你们再头疼也没用。
 25,ラインハルザ/莱茵哈萨,あまり隠す気もないようだが、<br>正直に話すつもりもないようだからな。,虽说她没打算向我们隐瞒什么，但也没打算如实告诉我们真相。
-31,,<span class='scene-font-katari'>洞窟を進む一行の耳に、</span><br><span class='scene-font-katari'>威嚇するような唸り声が届く。</span>,<span class='scene-font-katari'>众人走近洞穴，听到一阵威吓般的低吼。</span>
+31,,<span class='scene-font-katari'>洞窟を進む一行の耳に、</span><br><span class='scene-font-katari'>威嚇するような唸り声が届く。</span>,<span class='scene-font-katari'>众人在洞穴中前进，突然听到一阵威吓般的低吼。</span>
 33,？？？,グルルルルル……,吼——……
 33-sel1_txt,,<span class='scene-font-katari'>星晶獣……！</span>,<span class='scene-font-katari'>星晶兽……！</span>
 33-sel2_txt,,<span class='scene-font-katari'>カインを返せ！</span>,<span class='scene-font-katari'>把该隐还来！</span>

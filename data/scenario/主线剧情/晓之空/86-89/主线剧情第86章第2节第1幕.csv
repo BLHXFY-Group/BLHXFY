@@ -17,15 +17,15 @@ id,name,text,trans
 11,カイン/该隐,しかし、<br>騎空艇で空域を越えるとなると……,但是，如果用骑空艇穿越空域的话……
 13,ラインハルザ/莱茵哈萨,もうじき<span class='scene-font-place'>クルーガー島</span>の港に着くそうだ。<br>この軍の指揮官が、<br>こんなところで何して――,马上就到<span class='scene-font-place'>克尔加岛</span>了。<br>你这个指挥官在这里闲逛什么——
 15,？？？,<span class='scene-font-gray'>えーっと……こほん。</span><br><span class='scene-font-gray'>そこの戦艦……</span><br><span class='scene-font-gray'>貴方達、イデルバ王国なのよね？</span>,<span class='scene-font-gray'>呃……咳咳。前面的战舰……你们是伊迪尔瓦王国的吧？</span>
-16,カイン/该隐,っ！？　これ……<br>魔法で声をこっちに<br>届けてるのか……！？,唔！？ 这是……<br>对方在用魔法和我们通讯吗……！？
+16,カイン/该隐,っ！？　これ……<br>魔法で声をこっちに<br>届けてるのか……！？,唔！？这是……<br>对方在用魔法和我们通讯吗……！？
 17,ルリア/露莉亚,こ、この声って……！！,这、这个声音是……！！
 18,？？？,<span class='scene-font-gray'>もし、この島を侵略に来たんだったら、</span><br><span class='scene-font-gray'>いますぐ引き返して。</span><br><span class='scene-font-gray'>そうすれば、マスターも――</span>,<span class='scene-font-gray'>如果你们是来侵略这座岛的，就请你们赶快回去。那样的话，老师也会——</span>
-19,ルリア/露莉亚,イ、イオちゃんっ！！<br>私達です！　ルリアです！,伊、伊欧！！<br>是我们！ 我是露莉亚！
+19,ルリア/露莉亚,イ、イオちゃんっ！！<br>私達です！　ルリアです！,伊、伊欧！！<br>是我们！我是露莉亚！
 19-sel1_txt,,<span class='scene-font-katari'>忘れたとは言わせない！</span>,<span class='scene-font-katari'>可别说把我们忘了！</span>
 19-sel2_txt,,<span class='scene-font-katari'>やっと見つけた！</span>,<span class='scene-font-katari'>终于找到你了！</span>
 20,イオ/伊欧,<span class='scene-font-gray'>えっ……！</span><br><span class='scene-font-gray'>う、うそ……</span>,<span class='scene-font-gray'>咦……！</span><br><span class='scene-font-gray'>不会吧……！</span>
 26,,<span class='scene-font-katari'>一行が港にイデルバの軍艦を停泊させ、</span><br><span class='scene-font-katari'>クルーガー島に降り立つと、</span><br><span class='scene-font-katari'>すぐさま駆け寄ってくる姿があった。</span>,<span class='scene-font-katari'>伊迪尔瓦的军舰在克尔加岛的港口停下。众人一落地便看到伊欧向他们跑来。</span>
-32,イオ/伊欧,うわー！　なんで！？<br>どうしてルリア達が、<br>イデルバ王国の戦艦に……,哇！ 为什么！？<br>为什么你们会乘着伊迪尔瓦王国的战舰来……
+32,イオ/伊欧,うわー！　なんで！？<br>どうしてルリア達が、<br>イデルバ王国の戦艦に……,哇！为什么！？<br>为什么你们会乘着伊迪尔瓦王国的战舰来……
 33,イオ/伊欧,ううん、それよりも！<br>とにかく無事で良かった！,不管这个了！<br>你们没事就好！
 34,ルリア/露莉亚,イオちゃん！<br>イオちゃんも無事で良かったです！,伊欧！<br>你也没事，真是太好了！
 35,ビィ/碧,へへっ……<br>まさかこの島で、<br>いきなりイオに会えるとはなぁ……,嘿嘿……<br>没想到能在这个岛遇见伊欧……

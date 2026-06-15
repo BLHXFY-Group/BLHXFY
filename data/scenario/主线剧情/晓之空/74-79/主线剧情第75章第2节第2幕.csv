@@ -4,7 +4,7 @@ id,en,jp,trans
 0,"As the crew trudges through the snow-covered mountain, Lyria suddenly turns to look behind her.",<span class='scene-font-katari'>白く雪が降り積もる山を進む中、</span><br><span class='scene-font-katari'>不意にルリアは不思議そうに振り返る。</span>,<span class='scene-font-katari'>众人在雪山中行进时，露莉亚突然感到不可思议一般地转身。</span>
 1,...？,……？,…？
 2,What's wrong？,どうしたの……？,怎么了？
-3,"Oh, I got a weird feeling just now.",えっと……<br>なんだかいま、変な感覚が……,えっと，刚刚好像有奇怪的感觉。
+3,"Oh, I got a weird feeling just now.",えっと……<br>なんだかいま、変な感覚が……,呃，刚刚好像有奇怪的感觉。
 4,Aaah！,<span class='scene-font-5'>きゃああああ！！</span>,啊啊啊啊啊啊！
 5,！<br>What was that just now？,っ！？<br>なんだいまのは……！,刚才的是什么？
 6,W-was that... a woman screaming？,い、いまの……<br>女の人の悲鳴だったわよね……？,刚刚是…一名女性的悲鸣声吧？
@@ -14,8 +14,8 @@ id,en,jp,trans
 10,"Well, I dunno who it is, but she must be in some serious trouble, right？",だ、誰の悲鳴かはわかんねーけど、<br>とにかくヤバい状況なんじゃねーか！？,虽然不知道是谁发出的悲鸣声，但是应该是很糟糕的情况吧？
 11,I would imagine so. And we're probably the only ones who heard her scream.,そうね……<br>そして、あの悲鳴を聞いたのは、<br>きっとアタシ達だけでしょうね。,确实，而且能听到那个声音的肯定只有我们了。
 12,It doesn't seem like there are lots of people in Silverwind Stretch after all...,この<span class='scene-font-place'>白風の境</span>に、<br>そんなにたくさん人がいるとは<br>思えないもの……,毕竟我觉得在这个<span class='scene-font-place'>白风之境</span>不会有那么多人的。
-13,"Tch. If we don't do something, I'll be tossing and turning in my sleep about it.",ちっ……<br>無視をするのも寝覚めが悪いな……,ちっ…如果置之不理的话怕是都睡不好觉了。
-14,"All right, let's fly！ The scream came from that way！",急ごうぜ！<br>声がしたのはこっちだ！,我们过去吧，是这个方向发出的声音！
+13,"Tch. If we don't do something, I'll be tossing and turning in my sleep about it.",ちっ……<br>無視をするのも寝覚めが悪いな……,切……如果置之不理的话怕是都睡不好觉了。
+14,"All right, let's fly！The scream came from that way！",急ごうぜ！<br>声がしたのはこっちだ！,我们过去吧，是这个方向发出的声音！
 15,姬塔 and the crew charge their way through the giant monsters as they rush toward the source of the scream.,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>巨大な魔物を蹴散らしながら、</span><br><span class='scene-font-katari'>悲鳴が上がった方向へと向かう。</span>,<span class='scene-font-katari'>姬塔等人击退了巨大的魔物，朝着悲鸣声的方向去了。</span>
 info,1,1,scene_cp75_q2_s20
 ,,,

@@ -4,7 +4,7 @@ id,en,jp,trans
 0,Whoa... What's going on？,んなっ……<br>ど、どうなってんだ……？,嗯呐，到…到底发生什么了
 1,"While flying high above the village, Vyrn gets a shock watching the scene below.",<span class='scene-font-katari'>上空から</span><br><span class='scene-font-katari'>村の様子をうかがっていたビィは、</span><br><span class='scene-font-katari'>一人、驚きの声をあげる。</span>,<span class='scene-font-katari'>在空中观察村中情况的碧突然惊讶地说道。</span>
 7,"He hurries back down to 姬塔 and the crew, who are eager to hear from him.",<span class='scene-font-katari'>慌てた様子で降りてきたビィに、</span><br><span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>不思議そうに声をかける。</span>,<span class='scene-font-katari'>对事态感到奇怪的碧慌忙地降落下来询问姬塔等人。
-8,What happened？ It sounded like you were yelling something.,どうしたんだ？<br>先ほど、<br>何か驚いたような声をあげていたが……,怎么了？刚刚我好像有听到你惊慌的声音。
+8,What happened？It sounded like you were yelling something.,どうしたんだ？<br>先ほど、<br>何か驚いたような声をあげていたが……,怎么了？刚刚我好像有听到你惊慌的声音。
 9,And there was a loud noise coming from the village just now too...,それにさっき、<br>村があるほうから、<br>おっきな音が……,而且刚刚从村子那边传来了很大的声响。
 10,"I-I'm not really sure... But some lady showed up all of a sudden, and well...",オ、オイラもよくわかんねーんだ……<br>いきなり知らねー姉さんが出てきて、<br>何がなんだか……,我也不是很明白…突然一个不认识的大姐姐出现，到底发生了什么我也不太明白。
 10-sel1_txt,Let's check it out.,<span class='scene-font-katari'>行ってみよう</span>,去看看吧
@@ -26,19 +26,19 @@ id,en,jp,trans
 27,Cain. You're getting a long lecture after this.,カイン……<br>あとでお説教だからね。,该隐，待会要好好说教你了。
 28,What！,うぇっ！？,呜诶！？
 29,Reinhardtzar raises his voice at Cain.,<span class='scene-font-katari'>間の抜けた声を上げるカインに対し、</span><br><span class='scene-font-katari'>ラインハルザは声を荒げる。</span>,<span class='scene-font-katari'>该隐装出一副不明所以的样子大声叫道。</span>
-30,Cain！ You coward... You were buying time all along！,カイン、てめぇ……！<br>全部時間稼ぎだったってのか！？,该隐，你这混蛋！这一切都是为了拖延时间吗！？
+30,Cain！You coward... You were buying time all along！,カイン、てめぇ……！<br>全部時間稼ぎだったってのか！？,该隐，你这混蛋！这一切都是为了拖延时间吗！？
 31,Nope... I had my own plans. But it was only a matter of time before the army showed up.,いや……本気だったぜ。<br>ただ、軍が動くのも、<br>もう時間の問題だった。,不，我是认真的。只是军队行动起来也不过是时间的问题。
 32,"If I could, I would've wanted to avoid the head-to-head clash we've got here.",出来る事なら、<br>全面衝突を避けたかったんだよ。,如果可以的话我还是想避免全面冲突的。
 33,"I knew if you and the Idelva Army went at it full speed, neither one of you would get away with just a scratch...",イデルバ王国軍とお前らが<br>全力でぶつかったら、<br>どっちもただじゃすまねぇからな。,如果伊迪尔瓦王国军与你互相全力对抗，恐怕双方都会元气大伤。
 34,...,…………,…………
 35,"As Cain and Reinhardtzar glare at each other, soldiers continue pouring into the village.",<span class='scene-font-katari'>カインとラインハルザが</span><br><span class='scene-font-katari'>睨み合っている間にも、</span><br><span class='scene-font-katari'>続々と兵士達が村へと駆けつける。</span>,<span class='scene-font-katari'>就在该隐和莱茵哈萨对视期间，士兵们已经接连赶到村内。</span>
 36,"Just as tension fills the air, 姬塔 and the crew arrive on the scene.",<span class='scene-font-katari'>そして、</span><br><span class='scene-font-katari'>緊迫した空気の村に、</span><br><span class='scene-font-katari'>今度は姬塔達が現れる。</span>,<span class='scene-font-katari'>村中的气氛越发紧张，而此时姬塔等人现身了。</span>
-37,Cain！ Are you all right？,カインさん！<br>大丈夫ですかっ！？,该隐！你没事吧！？
+37,Cain！Are you all right？,カインさん！<br>大丈夫ですかっ！？,该隐！你没事吧！？
 38,"Cain, who are all these people？",カイン、彼らは……？,该隐，他们是？
 39,Katalina stays on her guard as she looks around at the soldiers gathering in the village.,<span class='scene-font-katari'>カタリナは警戒した様子で、</span><br><span class='scene-font-katari'>集まりつつある兵達について問う。</span>,<span class='scene-font-katari'>卡塔莉娜警戒着问着逐渐聚集的士兵的事情。</span>
 40,No need to fret. Leo and the soldiers are all my allies.,心配いらねぇよ。<br>レオ姉もそいつらも、<br>俺達の味方だ。,不用担心，蕾欧姐和他们都是我们的同伴。
 41,Cain then turns to speak to Reinhardtzar.,<span class='scene-font-katari'>そう答えるとカインは、</span><br><span class='scene-font-katari'>今度はラインハルザへと向き直る。</span>,<span class='scene-font-katari'>该隐回答道，然后他转向莱茵哈萨。</span>
-42,"So... let's end this, shall we？ The stalemate's over. And it's your loss, Reinhardtzar.",なぁ……もう終わりにしようぜ。<br>もう状況は五分じゃない。<br>お前の負けだ、ラインハルザ。,呐，就到此为止吧。局势已经不是对半开了，你输了，莱茵哈萨。
+42,"So... let's end this, shall we？The stalemate's over. And it's your loss, Reinhardtzar.",なぁ……もう終わりにしようぜ。<br>もう状況は五分じゃない。<br>お前の負けだ、ラインハルザ。,呐，就到此为止吧。局势已经不是对半开了，你输了，莱茵哈萨。
 43,No... We haven't lost yet.,いいや……<br>まだオレ達は負けてねぇ。,不，我们还没有失败。
 44,Reinhardtzar then sets his gaze toward the fortress.,<span class='scene-font-katari'>そう言って、</span><br><span class='scene-font-katari'>ラインハルザは</span><br><span class='scene-font-katari'>砦のある方向へと目をやる。</span>,<span class='scene-font-katari'>莱茵哈萨说道，然后他的目光投向要塞所在之处。</span>
 46,Tzar！,キング！！,老大！！

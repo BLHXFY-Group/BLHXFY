@@ -8,7 +8,7 @@ id,en,jp,trans
 6,,<span class='scene-font-katari'>見張りのゴーレムを退けた一行は、</span><br><span class='scene-font-katari'>正面から力づくで、</span><br><span class='scene-font-katari'>イスタバイオン軍の砦に侵入する。</span>,<span class='scene-font-katari'>一行人击退看守的魔像后，从正面侵入了伊斯塔拜恩军的据点。</span>
 9,,くそっ……どうなってる！？<br>この砦は瘴流域の中なんだぞ！？<br>どうして賊が侵入できる！？,可恶，发生什么事了？这里可是在瘴流域里啊！这些贼人是如何侵入的？
 10,,俺が知るか！<br>とにかく、騎士様に連絡を……,我怎么知道！总之，快去联络黄金骑士大人。
-14,,がはっ……！？,がはっ……！？
+14,,がはっ……！？,噶啊……！？
 16,,やれやれ……<br>こいつら、侵入者への対応は、<br>ロクに訓練してなかったみてぇだな。,呀嘞呀嘞，看来这些家伙没接受过正经的应对入侵者的训练啊。
 17,,しょーがねーだろ……<br>だってここ、瘴流域の中なんだし、<br>誰か来るなんて思わねぇって。,也没什么奇怪的，毕竟这里是瘴流域里，想都想不到有人会进来啊。
 18,,しかし、それでも流石に、<br>全ての兵の相手をするのは無茶だ……<br>一気に助け出して脱出するぞ！,但是即便如此对抗这里所有的士兵是不可能的，一口气救出他们然后逃出去吧！
@@ -27,8 +27,8 @@ id,en,jp,trans
 34,,ただぼんやり待ってたら、<br>スツルム殿に怒られちゃうからね～,只是呆呆等着，会惹斯特姆阁下生气的呢。
 35,,<span class='scene-font-katari'>そう言いながらドランクは、</span><br><span class='scene-font-katari'>のんびりとした様子で</span><br><span class='scene-font-katari'>牢の扉に近づいていく。</span>,<span class='scene-font-katari'>德朗克一边说着，一边悠哉地靠近了监狱的门。</span>
 36,,え？<br>行くって、でも、鍵が……,诶？说要出发，但是这里的钥匙…
-37,,ふっふーん……<br>鍵なんてものはね～,ふっふん…钥匙这种东西呢~
-38,,<span class='scene-font-katari'>ドランクはおもむろに、</span><br><span class='scene-font-katari'>牢の扉の鍵を抱え込むようにして、</span><br><span class='scene-font-katari'>何らかの作業を始める。</span>,<span class='scene-font-katari'>德朗克像是身边带了牢门的钥匙一般，在那边慢慢地进行着某种作业。</span>
+37,,ふっふーん……<br>鍵なんてものはね～,哼哼…钥匙这种东西呢~
+38,,<span class='scene-font-katari'>ドランクはおもむろに、</span><br><span class='scene-font-katari'>牢の扉の鍵を抱え込むようにして、</span><br><span class='scene-font-katari'>何らかの作業を始める。</span>,<span class='scene-font-katari'>德朗克不慌不忙地，像是把牢门上的锁紧紧抱住一般开始动手，开始了某种作业。</span>
 39,,こうして……<br>こーやって……,这样…然后这么搞…
 41,,こう！,最后像这样！
 43,,おおー……,哦——
@@ -41,15 +41,15 @@ id,en,jp,trans
 50,,……どうしたの？,怎么了？
 51,,ん？<br>んふふ～……ナイショ。,嗯？呵呵……秘密。
 52,,ナイショ……？,秘密？
-53,,さ、それより、<br>スツルム殿達と合流しなくちゃね！<br>ほら、急いで急いで！,撒，比起这个，赶紧去和斯特姆殿下她们汇合吧！好了，快点快点！
+53,,さ、それより、<br>スツルム殿達と合流しなくちゃね！<br>ほら、急いで急いで！,好啦，比起这个，赶紧去和斯特姆殿下她们汇合吧！好了，快点快点！
 54,,う、うん……！,嗯，嗯！
-55,,<span class='scene-font-katari'>ドランクはイオ達を追い立てると、</span><br><span class='scene-font-katari'>しかし、自分はその後を追うことなく、</span><br><span class='scene-font-katari'>ゆっくりと牢の前に出る。</span>,<span class='scene-font-katari'>德朗克催促着伊欧她们离开，但是自己却，没有从后面追上去，慢慢地走出牢房。</span>
+55,,<span class='scene-font-katari'>ドランクはイオ達を追い立てると、</span><br><span class='scene-font-katari'>しかし、自分はその後を追うことなく、</span><br><span class='scene-font-katari'>ゆっくりと牢の前に出る。</span>,<span class='scene-font-katari'>德朗克催促着伊欧她们离开，但是自己却没有立刻从后面追上去，而是慢慢地走出牢房。</span>
 56,,さて……,接下来…
 57,,<span class='scene-font-katari'>大きく伸びをし、</span><br><span class='scene-font-katari'>ドランクはイオ達が消えたのとは、</span><br><span class='scene-font-katari'>反対方向の通路に向き直る。</span>,<span class='scene-font-katari'>德朗克大大地伸了个懒腰，然后朝着与伊欧她们离开的相反方向去了。</span>
 58,,止めないでくれたのは、<br>騎士サマなりの優しさかな……？,没有阻止我们是因为骑士大人的仁慈吗？
 59,,<span class='scene-font-katari'>ドランクは通路の虚空へと声を投げる。</span>,<span class='scene-font-katari'>德朗克对着空无一人的通道说话。</span>
 60,,<span class='scene-font-katari'>すると、その声に応じるように、</span><br><span class='scene-font-katari'>ゆっくりと黄金の騎士が姿を現す。</span>,<span class='scene-font-katari'>然后，像是回应着那句话一般，黄金骑士慢慢地走了出来。</span>
-61,,彼らを見逃したことで、<br>恩を売る気はありませんが……,我是没打算卖人情让她们逃走的。
+61,,彼らを見逃したことで、<br>恩を売る気はありませんが……,我是没打算卖人情让他们逃走的。
 62,,しかし、<br>貴方が勝手に恩を感じるというのなら、<br>私は大いに結構です。,但是，你擅自认为我对你有恩，对来我说也很不错。
 63,,ん～……<br>ここで僕も見逃してくれたら、<br>考えようかなぁ～……,嗯~让我走的话，倒是可以考虑一下呢~
 64,,それは、貴方次第です。,这取决于你。

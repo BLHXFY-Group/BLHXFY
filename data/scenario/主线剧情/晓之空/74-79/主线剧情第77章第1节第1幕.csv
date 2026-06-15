@@ -31,7 +31,7 @@ id,en,jp,trans
 32,,もし……いいえ、きっとね。<br>きっと姬塔さん達は<br>無事だわ。,如果……不，肯定…姬塔他们肯定会平安无事的。
 33,,だから……<br>アタシ達の囚われているこの砦にも、<br>きっとたどり着くことが出来る。,所以，他们也一定能抵达我们被囚禁的这个据点。
 34,,姬塔達だけじゃない……<br>スツルムもいる。<br>だから……きっと大丈夫。,不只有姬塔，还有斯特姆也在。所以，一定没事的。
-37,,<span class='scene-font-katari'>一方その頃、姬塔達は、</span><br><span class='scene-font-katari'>見知らぬ少年を前に、</span><br><span class='scene-font-katari'>ただひたすら驚いていた。</span>,<span class='scene-font-katari'>另一方面，面对这位少年，姬塔等人表现出的只有吃惊。</span>
+37,,<span class='scene-font-katari'>一方その頃、姬塔達は、</span><br><span class='scene-font-katari'>見知らぬ少年を前に、</span><br><span class='scene-font-katari'>ただひたすら驚いていた。</span>,<span class='scene-font-katari'>另一方面，面对这位陌生的少年，姬塔等人只是震惊不已。</span>
 38,,…………,…………
 39,,どういうことなんだ……<br>私達は、確かにあの雪原で、<br>遭難しかけていたハズだが……,这是怎么回事？我们确实是在那片雪原遇难了吧。
 40,,そうですね……<br>それを僕達が見つけて、<br>この集落にお連れしたんです。,是的……然后我们找到了你们，然后把你们带到村里来了。
@@ -40,7 +40,7 @@ id,en,jp,trans
 43,,ですが、実際は違う……,但实际上不是……
 44,,人が住まう地ではないからこそ、<br>この<span class='scene-font-place'>白風の境</span>には、僕達のような者が、<br>身を潜めることが出来るんです……,正是因为此地无人居住，我们这样的人才能潜伏在<span class='scene-font-place'>白风之境</span>这样的地方。
 45,,<span class='scene-font-katari'>少年は言葉とは裏腹に、</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>に恨みでもあるかのように</span><br><span class='scene-font-katari'>語気を強める。</span>,<span class='scene-font-katari'>少年话语之中，似乎还夹杂着对</span><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>这个地方的怨恨之类的东西。</span>
-46,,<span class='scene-font-katari'>しかし、それは一瞬のことであり、</span><br><span class='scene-font-katari'>すぐさま少年は花のような笑顔を咲かせ、</span><br><span class='scene-font-katari'>姬塔達に向き直る。</span>,<span class='scene-font-katari'>但这只是一瞬间的事情，少年很快又向姬塔等人展露出美丽的微笑。</span>
+46,,<span class='scene-font-katari'>しかし、それは一瞬のことであり、</span><br><span class='scene-font-katari'>すぐさま少年は花のような笑顔を咲かせ、</span><br><span class='scene-font-katari'>姬塔達に向き直る。</span>,<span class='scene-font-katari'>但这只是一瞬间的事情，少年很快又向姬塔等人展露出花儿似的微笑。</span>
 47,,そういえば、<br>自己紹介がまだでしたね。,说起来，还没有自我介绍呢。
 48,,僕は……,我叫做…
 49,,<span class='scene-font-katari'>不意に、ハッとした様子で、</span><br><span class='scene-font-katari'>少年は言葉を区切る。</span>,<span class='scene-font-katari'>很意外的是，少年突然中断了自己的介绍。</span>
@@ -50,7 +50,7 @@ id,en,jp,trans
 53,,っていうか、これ、<br>ホントは本名じゃない、っていうか……,说起来，这也不是我的本名…
 54,,おい……<br>なにか聞こえてるぞ……,喂…都听到了哦…
 55,,だ、だだ大丈夫ですっ！<br>大丈夫！　僕はハルですっ！,没、没关系！没关系！我就是哈尔！
-56,,ふふっ……ハルさんですね！<br>私はルリアです！,ふふっ……是哈尔吧，我叫露莉亚！
+56,,ふふっ……ハルさんですね！<br>私はルリアです！,呵呵……是哈尔吧，我叫露莉亚！
 57,,まぁ……<br>聞けばここには<br>隠れ住んでいるそうじゃないか。,嘛，你之前说是偷偷住在这的吧。
 58,,助けてもらった恩もある。<br>私達も必要以上に<br>詮索しようとは思わないさ。,我们欠你一份恩情，所以我们也不会过度深究这里的情况。
 59,,恩だなんてそんな……<br>先にご恩を受けたのは、<br>僕達のほうですから。,恩情什么的…其实是因为先得到帮助的是我们啊。
@@ -63,7 +63,7 @@ id,en,jp,trans
 67,,嗚呼……<br>お目覚めになっていたのですね。,啊！各位终于醒了呢。
 68,,お気づきの通り、エオニオ山脈の中腹で、<br>魔物に襲われていたところを<br>救っていただいた者です。,你们可能已经注意到了，我就是在艾欧尼欧山脉半山腰被你们从魔物手中救出的那个人。
 69,,その節は、<br>本当にありがとうございました。,关于此事，真的万分感激！
-70,,そして、あの場では<br>何も告げず立ち去ってしまい、<br>大変申し訳ありませんでした……,我也为自己在那里不辞而别一事感动由衷地抱歉。
+70,,そして、あの場では<br>何も告げず立ち去ってしまい、<br>大変申し訳ありませんでした……,我也为自己在那里不辞而别一事感到由衷地抱歉。
 71,,<span class='scene-font-katari'>そう言うと女性は、</span><br><span class='scene-font-katari'>申し訳なさそうに深々と頭を下げる。</span>,<span class='scene-font-katari'>女性一边这么说，一边满怀歉意地低下了头。</span>
 72,,そうか……<br>貴女もまた、<br>この集落に隠れ住んでいるのですね？,是这样啊，你也是秘密住在这个村落的人吧。
 73,,<span class='scene-font-katari'>カタリナの言葉に、</span><br><span class='scene-font-katari'>女性は神妙な様子で頷く。</span>,<span class='scene-font-katari'>对于卡塔莉娜的话，女性很老实地点了点头。</span>
@@ -98,14 +98,14 @@ id,en,jp,trans
 105,,正直に言って……<br>いま、このままお仲間を探しに行くのは、<br>自殺行為です。,恕我直言，继续这样寻找同伴无异于自杀。
 106,,だから……,所以…
 107,,だから……なんだ？,所以…怎么了？
-108,,っ……,っ……
+108,,っ……,唔……
 109,,<span class='scene-font-katari'>スツルムは刺すような視線をハルに向け、</span><br><span class='scene-font-katari'>部屋の出口へと歩いていく。</span>,<span class='scene-font-katari'>斯特姆锐利的目光刺向哈尔，然后她向房屋的出口走去。</span>
-110,,だから……<br>はい、そうですか、なんて、<br>言えるわけがないだろ。,所以…“好，就这么办吧”，怎么可能说出这样的话。
+110,,だから……<br>はい、そうですか、なんて、<br>言えるわけがないだろ。,所以……“好，就听你的吧”，这种话我怎么可能说出口。
 111,,こいつらに<br>ドランクの救出を依頼したのは、<br>あたしなんだ……,请求他们去救出德朗克的人就是我。
 112,,依頼主には<br>依頼の顛末を見守る権利がある。,委托者理应见证委托的整个始末。
 113,,そして、<br>あたしが依頼したのは、<br>ここに居る奴らだけじゃない……,而且我所请求的人不光是这里的人。
 114,,ここに居ない、<br>こいつらの仲間全員に依頼をした……<br>全員揃っての騎空団に依頼をしたんだ。,还有不在这里的，我向这些家伙的伙伴，他们骑空团全员都提出了这样的请求。
-115,,誰一人……<br>あたしの依頼で<br>欠けさせたりなんてするものか……！,谁也好…我不可能在我的这次委托中让任何人遭遇不测。
+115,,誰一人……<br>あたしの依頼で<br>欠けさせたりなんてするものか……！,不管是谁……我都不可能让他在我的这次委托中遭遇不测。
 116,,<span class='scene-font-katari'>そう言い残すと、</span><br><span class='scene-font-katari'>スツルムは振り返ることなく、</span><br><span class='scene-font-katari'>部屋を出ていったのだった。</span>,<span class='scene-font-katari'>留下这句话后，斯特姆头也不回地离开了这间屋子。</span>
 117,,…………,…………
 118,,すまないな……<br>君の親切には、本当に、<br>心から感謝する……,对不起…对于你的诚恳请求，真的由衷感谢。

@@ -4,10 +4,10 @@ id,name,text,trans
 1,,<span class='scene-font-katari'>ギルベルトを止めるため、</span><br><span class='scene-font-katari'>グレートウォールへの魔法陣を目指し、</span><br><span class='scene-font-katari'>廃墟を急ぐ姬塔一行。</span>,为了阻止吉尔伯特，朝着魔法阵急行的姬塔一行。
 2,,<span class='scene-font-katari'>順調に異形の存在達を</span><br><span class='scene-font-katari'>退けていたものの、</span><br><span class='scene-font-katari'>強烈な殺気が一行の足を止めさせる。</span>,虽然顺利地击退了异形的存在，但是强烈的杀气却使一行人停下了脚步。
 3,ロゼッタ/萝赛塔,……っ！？,……唔！？
-4,ロゼッタ/萝赛塔,<span class='scene-font-4'>よけて！</span><br><span class='scene-font-4'>姬塔さん！</span>,快闪开！ 姬塔！
+4,ロゼッタ/萝赛塔,<span class='scene-font-4'>よけて！</span><br><span class='scene-font-4'>姬塔さん！</span>,快闪开！姬塔！
 4-sel1_txt,,<span class='scene-font-katari'>っ！？</span>,呜！？
-6,？？？,<span class='scene-font-5'>はああぁぁッ！！</span>,啊啊啊！ ！
-13,イオ/伊欧,な、なに、いまの！？,什，什么，刚才那个！ ？
+6,？？？,<span class='scene-font-5'>はああぁぁッ！！</span>,啊啊啊！！
+13,イオ/伊欧,な、なに、いまの！？,什，什么，刚才那个！？
 14,ビィ/碧,嘘だろ、おい……<br>建物が半分以上吹っ飛んじまったぜ……,骗人的吧，喂……居然把一大半建筑物都给吹飞了……
 15,カタリナ/卡塔莉娜,まだ、<br>これほどの力を出せるのか……貴殿は。,原来您……还能使出这种程度的力量啊……
 19,緋色の騎士,…………,…………
@@ -20,7 +20,7 @@ id,name,text,trans
 26,カイン/该隐,いや……<br>トリッド王国第一王子バラゴナ。,不……特里德王国第一王子巴拉戈纳。
 27,カイン/该隐,あんたはギルベルトが<br>何をしようとしているか<br>知っているのか？,你知道吉尔伯特想干什么吗？
 28,緋色の騎士,無論です。<br>彼はグレートウォールを<br>起動させようとしている。,当然。他要启动长城。
-29,カイン/该隐,じゃあ、何故……！？,那你为什么…… ！ ？
+29,カイン/该隐,じゃあ、何故……！？,那你为什么……！？
 30,カイン/该隐,<span class='scene-font-4'>あんたの目的は</span><br><span class='scene-font-4'>いったい何なんだ！？</span>,你到底想干什么？
 31,緋色の騎士,誰に何度問われようと、<br>いま、私に答えるつもりはありません。,现在，不论是谁问我多少问题，我都不会回答的。
 32,緋色の騎士,こう答えることすら、<br>私にとっては危険な橋なのです。,回答这个问题对我来说，就好像是在走独木桥一般。
@@ -28,31 +28,31 @@ id,name,text,trans
 34,,<span class='scene-font-katari'>そう告げると、</span><br><span class='scene-font-katari'>緋色の騎士はゆっくりと剣を構える。</span>,绯色骑士说完后，慢慢举起了手中的剑。
 35,ラカム/拉卡姆,やめときな。<br>しつこいぜ、七曜の騎士サンよ。,别这样。你很烦诶七曜骑士先生。
 36,ラカム/拉卡姆,あんたの目的は知らねぇが、<br>もう勝負は決まったはずだぜ。,我不知道你想干什么，但是胜负已经决定了。
-37,緋色の騎士,まだです……<br>まだ、私の戦いは終わっていない。,还没有…… 我的战斗还没有结束。
-38,緋色の騎士,<span class='scene-font-kokoro'>（必ず……</span><br><span class='scene-font-kokoro'>ギルベルトを</span><br><span class='scene-font-kokoro'>終わりまで導かなければ……）</span>,(一定要…… 带领吉尔伯特走到尽头为止……)
+37,緋色の騎士,まだです……<br>まだ、私の戦いは終わっていない。,还没有……我的战斗还没有结束。
+38,緋色の騎士,<span class='scene-font-kokoro'>（必ず……</span><br><span class='scene-font-kokoro'>ギルベルトを</span><br><span class='scene-font-kokoro'>終わりまで導かなければ……）</span>,(一定要……带领吉尔伯特走到尽头为止……)
 39,,<span class='scene-font-katari'>緋色の騎士の闘志に対し、</span><br><span class='scene-font-katari'>ラカム、オイゲン、イオ、ロゼッタは、</span><br><span class='scene-font-katari'>彼の前へと進み出る。</span>,与绯色骑士的斗志相对，拉卡姆、欧根、伊欧以及罗塞塔朝着他走了过去。
 40,ロゼッタ/萝赛塔,ここはアタシ達に任せて、<br>前へ進んで頂戴、姬塔さん。,这里交给我们。姬塔，你继续前进吧。
-51,イオ/伊欧,うん……！　行って！　姬塔！<br>あたし達だけで大丈夫なんだから！,嗯…… ！ 快走！ 姬塔！有我们在的话一定没事的！
+51,イオ/伊欧,うん……！　行って！　姬塔！<br>あたし達だけで大丈夫なんだから！,嗯……！快走！姬塔！有我们在的话一定没事的！
 62,オイゲン/欧根,悪ぃなぁ……<br>戦いが終わってねぇのは<br>オレ達も同じでよ。,对不起……战斗还没有结束这点，对我来说也是一样。
 63,オイゲン/欧根,オレ達を止めようとする<br>理由も聞かずに、<br>やめられる戦いじゃあねぇのよ。,这并不是一场问清理由就能让我们停下的战斗。
 70,ラカム/拉卡姆,そういうわけだ。<br>むしろ、<br>俺達があんたを足止めさせてもらうぜ。,就是这样。不如说，我们是不会让他阻挠你们前进的。
 71,緋色の騎士,くっ……,唔……
-72,ラカム/拉卡姆,<span class='scene-font-4'>行け！</span><br><span class='scene-font-4'>姬塔！　カイン！</span>,快走！ 姬塔！ 该隐！
+72,ラカム/拉卡姆,<span class='scene-font-4'>行け！</span><br><span class='scene-font-4'>姬塔！　カイン！</span>,快走！姬塔！该隐！
 73,ラカム/拉卡姆,ここは絶対に通さねぇから、<br>安心して<br>ギルベルトの野郎をぶん殴ってこい！,绝对不会让他通过的，你们就放心地去把吉尔伯特那家伙揍一顿吧！
 73-sel1_txt,,<span class='scene-font-katari'>任せた！</span>,交给我了！
 73-sel2_txt,,<span class='scene-font-katari'>死なないでね！</span>,别死啊！
 75,,<span class='scene-font-katari'>姬塔、ビィ、ルリア、</span><br><span class='scene-font-katari'>カタリナ、カイン、ラインハルザは、</span><br><span class='scene-font-katari'>この場をラカム達に任せ、先を急ぐ。</span>,姬塔、碧、露莉亚、卡塔莉娜、该隐和莱茵哈撒把这里托付给了他们后，继续赶路。
-76,ラカム/拉卡姆,さぁ、始めようぜ……！！,好，就让我们开始吧…… ！ ！
+76,ラカム/拉卡姆,さぁ、始めようぜ……！！,好，就让我们开始吧……！！
 77,,<span class='scene-font-katari'>その背後では、</span><br><span class='scene-font-katari'>島をも揺るがす死闘が、</span><br><span class='scene-font-katari'>幕を開けたのだった。</span>,在一行人的身后，一场震撼着整个岛屿的死斗拉开了帷幕。
 82,,<span class='scene-font-katari'>一方、その頃──</span>,另一边，在这个时候——
-87,ギルベルト,はぁ……はぁ……,哈啊…… 哈啊……
+87,ギルベルト,はぁ……はぁ……,哈啊……哈啊……
 88,ギルベルト,がっ……ごほっ……<br>ぐあ……,唔……咳咳……呕…
-89,ギルベルト,力だ……<br>力さえあれば……,是力量…… 只要有力量的话……
+89,ギルベルト,力だ……<br>力さえあれば……,是力量……只要有力量的话……
 90,フォリア/芙莉亚,────,————
 91,,<span class='scene-font-katari'>フォリアを引きずり、</span><br><span class='scene-font-katari'>荒い息を吐きながら、</span><br><span class='scene-font-katari'>廃墟を進むギルベルト。</span>,抱着芙莉雅的吉尔伯特艰难地喘息着，在废墟中前进。
 92,ギルベルト,…………,…………
 93,ギルベルト,あ……？,啊……？
-96,黄金の騎士/黄金骑士,待っていたぞ……ギルベルト。,我一直在等你…… 吉尔伯特。
+96,黄金の騎士/黄金骑士,待っていたぞ……ギルベルト。,我一直在等你……吉尔伯特。
 97,,<span class='scene-font-katari'>ギルベルトの前には、</span><br><span class='scene-font-katari'>黄金の鎧に身を包んだ騎士が佇む。</span>,站在吉尔伯特面前的，是一位身穿黄金铠甲的骑士。
 98,,<span class='scene-font-katari'>計画に含まれぬその決意は、</span><br><span class='scene-font-katari'>少しずつ、</span><br><span class='scene-font-katari'>歯車を狂わせていくのだった。</span>,这个并不包含在计划之内的决意，令导致这一切的齿轮变得疯狂了。
 info,,,scene_cp108_q4_s10

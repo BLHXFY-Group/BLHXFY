@@ -19,7 +19,7 @@ id,en,jp,trans
 15,,私達以外に、<br>人影は無いようだが……,除了我们，似乎没有其他人影了。
 16,,そ、そうですよね……<br>あ、そうだ、<br>それで、えっと……,应该是的…啊，对了，那个，呃…
 17,,<span class='scene-font-katari'>ルリアは何事もなかったかのように、</span><br><span class='scene-font-katari'>おずおずと</span><span class='scene-font-spword'>空図の欠片</span><span class='scene-font-katari'>を</span><br><span class='scene-font-katari'>星晶獣ディコトムスに差し出す。</span>,<span class='scene-font-katari'>露莉亚像是想起了什么，十分拘谨地向星晶兽迪克特穆斯递出了</span><span class='scene-font-spword'>空图碎片</span><span class='scene-font-katari'>。</span>
-18,,これ……私達に渡せ、って、<br>誰かに無理やり<br>命令されてたんですよね……？,将这个…交给我们，是某人不顾及你逼迫你做的吧。
+18,,これ……私達に渡せ、って、<br>誰かに無理やり<br>命令されてたんですよね……？,将这个…交给我们，是某人无视你的意愿，逼迫你做的吧。
 19,,だから、これ……,所以，这个就…
 20,,…………,…………
 24,,あっ……,啊…
@@ -31,12 +31,12 @@ id,en,jp,trans
 30,,託されたんだもの、<br>きちんともらって大切にしないと、<br>却って失礼だわ。,这是托付于我们的东西，不把它小心保管好，可是很失礼的哦。
 31,,そう……そうですね！,嗯，确实如此！
 32,,<span class='scene-font-katari'>ルリアは安堵した様子で嬉しそうに、</span><br><span class='scene-font-katari'>星晶獣ディコトムスから託された</span><br><span class='scene-font-katari'><span class='scene-font-spword'>空図の欠片</span>を握りしめる。</span>,<span class='scene-font-katari'>露莉亚放下心来，很开心地握住迪克特穆斯所托付的</span><span class='scene-font-spword'>空图碎片</span><span class='scene-font-katari'>。</span>
-33,,<span class='scene-font-katari'>星晶獣ディコトムスを襲っていた</span><br><span class='scene-font-katari'>事態の収束に、</span><br><span class='scene-font-katari'>一行は安堵の息をつくのだった。</span>,<span class='scene-font-katari'>星晶兽迪克特穆斯袭击的事件已经结束，众人都松了口气。</span>
+33,,<span class='scene-font-katari'>星晶獣ディコトムスを襲っていた</span><br><span class='scene-font-katari'>事態の収束に、</span><br><span class='scene-font-katari'>一行は安堵の息をつくのだった。</span>,<span class='scene-font-katari'>星晶兽迪克特穆斯袭击的事件圆满收场，众人都松了口气。</span>
 39,,ぃよしっ！<br>それじゃこのまま、<br>山のてっぺんまで登っちまおうぜ！,好嘞！就这样继续向山顶前进吧！
 40,,もう瘴流域も終わりみてーだし、<br>頂上は目の前だぜ！,瘴流域看来已经到头了，山顶就在眼前了呦！
 41,,お？　お？　一仕事終えたことだし、<br>見晴らしのいい頂上で、<br>祝杯ってのも悪くねぇなぁ、おい！,哦，哦？既然委托都已经搞定，山顶的视野想必也很开阔，举杯畅饮也不错是嘛！
 42,,おいおい……<br>おっさん、<br>まさか酒持ってきてんのか！？,喂喂，大叔难道带了酒来吗？
-43,,あ？　気つけ用のやつだがよ。<br>せっかくなんだから、<br>固いこたぁ、言いっこナシだろ。," 啊？当然是保险用的咯，难得有这次机会，就别搞得那么死板了。"
+43,,あ？　気つけ用のやつだがよ。<br>せっかくなんだから、<br>固いこたぁ、言いっこナシだろ。,啊？当然是保险用的咯，难得有这次机会，就别搞得那么死板了。
 44,,はぁ……<br>これだからおっさんって……,哈…所以才说大叔啊…
 45,,ふふ……<br>でも、浮足立つ気持ちは、<br>アタシもわからないでもないわ。,呵呵，但是我也不是不能理解这种难以平复的心情呢。
 46,,空域を越えるのは、<br>いつだってすごくドキドキするもの。<br>それに、自分たちの足でなんて……,穿越空域无论什么时候都是一件激动人心的事情，而且还是靠自己的双脚走过去。
@@ -47,7 +47,7 @@ id,en,jp,trans
 51,,<span class='scene-font-katari'>そう言うと、</span><br><span class='scene-font-katari'>ハルは姬塔に対し、</span><br><span class='scene-font-katari'>深々と頭を下げる。</span>,<span class='scene-font-katari'>哈尔说完，面向姬塔等人深深低头致意。</span>
 52,,君は見て行かないのかい？<br>山頂からの景色。,你不去看看吗？从山顶眺望的景色。
 53,,瘴流域を越えた先……<br>エオニオ山脈の尾根は、<br>すでにナル・グランデ空域ですから。,瘴流域的前方是艾欧尼欧山脉的后半段，已经是纳尔格兰德空域的范围了。
-54,,僕はファータ・グランデ空域の<br><span class='scene-font-place'>白風の境</span>から出られないんです……<br>だから……僕はここまでです。,我不能从法塔格兰德空域的<span class='scene-font-place'>白风之境</span>走出去…所以我就知足而返了吧。
+54,,僕はファータ・グランデ空域の<br><span class='scene-font-place'>白風の境</span>から出られないんです……<br>だから……僕はここまでです。,我不能从法塔格兰德空域的<span class='scene-font-place'>白风之境</span>走出去…所以我就知足而返吧。
 55,,<span class='scene-font-katari'>寂しげながらも、</span><br><span class='scene-font-katari'>有無を言わせぬハルの口調に、</span><br><span class='scene-font-katari'>一行はかける言葉を失う。</span>,<span class='scene-font-katari'>即便哈尔挂着一副寂寞的表情，那不容分说的语气也让众人如鲠在喉。</span>
 56,,それは……<br>どうしても<br>守らなければならないものなんだな？,那是你无论如何都要守护的东西吗？
 57,,ってもよぉ……<br>本当にあとちょっとだぜ？,但是哦，真的就只差一点就到了哦。
@@ -69,7 +69,7 @@ id,en,jp,trans
 72,,<span class='scene-font-katari'>姬塔一行に別れを告げたハルは</span><br><span class='scene-font-katari'>何度も何度も振り返りながら、</span><br><span class='scene-font-katari'>従者達と共に一行の元を離れる。</span>,<span class='scene-font-katari'>哈尔与众人告别后，数度回首，但还是和佣人们一同离开了这里。</span>
 73,,<span class='scene-font-katari'>一行もまた、</span><br><span class='scene-font-katari'>ハルの姿が見えなくなるまで、</span><br><span class='scene-font-katari'>大きく手を振って送るのだった。</span>,<span class='scene-font-katari'>一行人也一直挥手告别，直到哈尔的身影再也看不到为止。</span>
 78,,行ってしまったな……,已经走远了。
-79,,けどまぁ……またどっかで会えんだろ。<br>あいつ、なんだかんだで、<br>ちゃんと芯のある奴だったからな。,但是一定还能在哪里再会的吧。发生了这么多事看来，那家伙也是相当有骨气的人。
+79,,けどまぁ……またどっかで会えんだろ。<br>あいつ、なんだかんだで、<br>ちゃんと芯のある奴だったからな。,但是一定还能在哪里再会的吧。从与他相处的经历来看，那家伙也是相当有骨气的人。
 80,,あいつに再会した時、<br>笑われちまわないように<br>俺達も気張っていかねぇとな！,下次再见面的时候，为了不被看笑话，我们可要加把劲啊！
 81,,そうだな！<br>いまよりもっとすっげー騎空団になって、<br>ハルのこと、びっくりさせてやろうぜ！,是啊！成为比现在还要厉害的骑空团，让哈尔大吃一惊吧！
 82,,<span class='scene-font-katari'>こうして姬塔一行は、</span><br><span class='scene-font-katari'>見えなくなったハルの背中に、</span><br><span class='scene-font-katari'>再会を固く誓うのだった。</span>,<span class='scene-font-katari'>就这样姬塔等人对着已经不见身影的哈尔的背影立下再会之誓。</span>

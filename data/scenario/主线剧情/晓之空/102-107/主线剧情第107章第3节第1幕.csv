@@ -4,7 +4,7 @@ id,name,text,trans
 12,オーキス/欧姬丝,っあ……！,啊……！
 17,スツルム/斯特姆,<span class='scene-font-4'>オーキス！</span>,欧姬丝！
 18,ドランク/德朗克,……ッ！！,……啧！！
-19,,<span class='scene-font-katari'>追い詰められるオーキスを見て、</span><br><span class='scene-font-katari'>スツルムとドランクは咄嗟に前に出る。</span>,看到被步步紧逼着的欧姬丝，斯特姆和德朗克突然冲到了她的面前。
+19,,<span class='scene-font-katari'>追い詰められるオーキスを見て、</span><br><span class='scene-font-katari'>スツルムとドランクは咄嗟に前に出る。</span>,看到被步步紧逼的欧姬丝，斯特姆和德朗克突然冲到了她的面前。
 20,ギルベルト,くっ……くく……,唔……唔唔……
 21,,<span class='scene-font-katari'>しかし、ギルベルトには、</span><br><span class='scene-font-katari'>そんなふたりの介入を</span><br><span class='scene-font-katari'>意に介する様子はない。</span>,然而，吉尔伯特却一副完全不在意这两人介入的样子。
 22,,<span class='scene-font-katari'>それどころか、その瞳はもはや、</span><br><span class='scene-font-katari'>戦っていたはずのオーキスの姿すら</span><br><span class='scene-font-katari'>映していなかった。</span>,倒不如说，他的眼里已经没有与他进行着战斗的、欧姬丝的身姿了。
@@ -12,7 +12,7 @@ id,name,text,trans
 25,ギルベルト,よこ、せ……<br>チカラ……オレニ……,来，来……把力量……给我……
 32,ギルベルト,ヨコセ……<br>オレニ、ヨコセ……！！,给我……把力量……给我……！！
 33,オーキス/欧姬丝,……っ！,……唔！
-39,カイン/该隐,ちっ……浅かったか！？,啧……太浅了吗！？
+39,カイン/该隐,ちっ……浅かったか！？,啧……力道不够吗！？
 40,ラインハルザ/莱茵哈萨,<span class='scene-font-4'>おおおおおッ！！</span>,哦哦哦哦！！
 53,ギルベルト,ぐあっ……！？<br>く……,咕啊……！？咕……
 54,ギルベルト,っ……！？<br>俺は……なにを……？,唔……！？我……我在做什么……？
@@ -36,15 +36,15 @@ id,name,text,trans
 73,オーキス/欧姬丝,……あ。,……啊。
 74,ラインハルザ/莱茵哈萨,助けられっぱなしってのが<br>性に合わねぇだけだ。<br>オレもこいつもな。,就算没有被帮助我们两个也不会放任不管的。不论我还是这家伙都是。
 75,オーキス/欧姬丝,うん……<br>でも、ありがとう。,嗯……不过，谢谢。
-76,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>皆の集結に安堵の笑みを浮かべる。</span>,众人终于得以汇合，姬塔一行人终于露出了微笑。
+76,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>皆の集結に安堵の笑みを浮かべる。</span>,众人终于得以汇合，姬塔一行人终于露出了安心的微笑。
 77,,<span class='scene-font-katari'>しかし、相対するギルベルトは、</span><br><span class='scene-font-katari'>それすら眼中に無い様子で、</span><br><span class='scene-font-katari'>呆然と自身の両手を見つめていた。</span>,然而，吉尔伯特却茫然地注视着自己的双手。
 78,ギルベルト,…………,…………
-79,ギルベルト,<span class='scene-font-kokoro'>（いま……</span><br><span class='scene-font-kokoro'>俺は何をしようとしていた……？）</span>,(刚才……我都干了些什么……？)
-80,ギルベルト,<span class='scene-font-kokoro'>（いや……</span><br><span class='scene-font-kokoro'>何になろうとしていたんだ……？）</span>,(不……我想成为什么样的人……？)
+79,ギルベルト,<span class='scene-font-kokoro'>（いま……</span><br><span class='scene-font-kokoro'>俺は何をしようとしていた……？）</span>,(刚才……我是想干什么来着……？)
+80,ギルベルト,<span class='scene-font-kokoro'>（いや……</span><br><span class='scene-font-kokoro'>何になろうとしていたんだ……？）</span>,(不……我是想变成什么样来着……？)
 81,ビィ/碧,やいやい、ギルベルト！<br>ぼーっとしてないで、<br>フォリアを離しやがれ！,喂喂喂，吉尔伯特！你别发呆了！快从芙莉雅身边离开！！
 82,ギルベルト,…………,…………
 83,ギルベルト,ふふ……くくっ……,呼呼……哼哼……
-84,ギルベルト,いや、いいか……<br>なんだって……,不，听着……该说些什么呢……
+84,ギルベルト,いや、いいか……<br>なんだって……,不，这都无关紧要……毕竟……
 85,ギルベルト,<span class='scene-font-kokoro'>（元々俺は力が欲しかったんだ……</span><br><span class='scene-font-kokoro'>どんな力でもいい、</span><br><span class='scene-font-kokoro'>とにかく大きな力が……）</span>,(原本我就是想要获得力量……不论什么力量都可以，总之就是强大的力量……)
 86,ギルベルト,<span class='scene-font-kokoro'>（力が無い奴は惨めに死ぬ……</span><br><span class='scene-font-kokoro'>俺はもう負け犬にはならない）</span>,(没有力量的人会凄惨地死去……我可不会做那样的败家之犬。)
 87,ギルベルト,<span class='scene-font-kokoro'>（全てを支配するために……</span><br><span class='scene-font-kokoro'>俺は全ての力が欲しい……！）</span>,(为了统治一切……我想要得到一切力量……！)

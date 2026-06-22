@@ -8,17 +8,17 @@ id,name,text,trans
 10,カタリナ/卡塔莉娜,<span class='scene-font-4'>ッ！？</span><br>危ないッ！　ビィくんッ！,啊！危险 ！！碧！
 12,ビィ/碧,んえっ！？,嗯诶！？
 13,ギルベルト,シネ……,去死……
-14,カイン/该隐,<span class='scene-font-kokoro'>（くそっ……！　油断した！</span><br><span class='scene-font-kokoro'>あいつまだ力を持ってたのか！？）</span>,（可恶……！大意了！原来那家伙还有力量！）
+14,カイン/该隐,<span class='scene-font-kokoro'>（くそっ……！　油断した！</span><br><span class='scene-font-kokoro'>あいつまだ力を持ってたのか！？）</span>,（可恶……！大意了！那家伙居然还有余力！？）
 17,,<span class='scene-font-katari'>カインはビィを庇うように、</span><br><span class='scene-font-katari'>咄嗟にギルベルトの前に出る。</span>,该隐就像是要保护碧一般，突然闪到了吉尔伯特面前
 18,ラインハルザ/莱茵哈萨,ッ……！！,啧……！！
 21,カイン/该隐,うおっ！？,呜哇！？
 22,,<span class='scene-font-katari'>しかし、その直後、</span><br><span class='scene-font-katari'>ラインハルザの体当たりにより、</span><br><span class='scene-font-katari'>カインはビィごと弾き飛ばされる。</span>,但是在那之后，莱茵哈撒的就代替该隐和碧被击飞了出去。
 23,カイン/该隐,ラインハルザっ……！！,莱茵哈撒……！！
-24,ギルベルト,<span class='scene-font-4'>ガアアァァッ！！</span>,啊啊啊！！
+24,ギルベルト,<span class='scene-font-4'>ガアアァァッ！！</span>,噶啊啊啊！！
 34,,<span class='scene-font-katari'>土煙が晴れるも、</span><br><span class='scene-font-katari'>そこにラインハルザの姿は無く……</span>,烟尘已经散去，但到处都没有莱茵哈撒的踪影。
 35,,<span class='scene-font-katari'>ギルベルトの攻撃によって</span><br><span class='scene-font-katari'>叩き割られた地面からは、</span><br><span class='scene-font-katari'>空の底まで見通すことが出来た。</span>,在吉尔伯特的攻击之下，地面就像是开了个洞一般，能够透过去直接看到空之底。
 36,カイン/该隐,あ……,啊……
-37,カタリナ/卡塔莉娜,落ちてしまったのか……？<br>空の、底に……,难道是掉下去了？掉到……空之底了吗……
+37,カタリナ/卡塔莉娜,落ちてしまったのか……？<br>空の、底に……,难道是掉下去了？掉到……空之底……
 38,ルリア/露莉亚,そんな……,怎么可能……
 39,ビィ/碧,え……,诶……
 40,ビィ/碧,ま、待てよ！<br>どっかに隠れてるんだろ？<br>なぁ！　出てきてくれよ！,等、等等！一定是躲在某个地方了对吧？喂！快出来啊！
@@ -60,7 +60,7 @@ id,name,text,trans
 116,ギルベルト,っ……！！,唔……！！
 120,,<span class='scene-font-katari'>カインは</span><br><span class='scene-font-katari'>しっかりとした足取りで剣を構え、</span><br><span class='scene-font-katari'>ギルベルトの一閃を受け止める。</span>,该隐稳稳地举起剑，接住了吉尔伯特的一击。
 121,,<span class='scene-font-katari'>そんなカインの頭上から、</span><br><span class='scene-font-katari'>一つの、聞き慣れた声が響く。</span>,正在这时，从该隐上方传来了某个熟悉的声音。
-122,？？？,上等だ……<br>お前、ひとりでも立てるじゃねぇか。,好极了……你一个人也能稳稳地站着了啊。
+122,？？？,上等だ……<br>お前、ひとりでも立てるじゃねぇか。,好极了……这不是一个人也能站稳嘛。
 123,カイン/该隐,っ！？<br>ラインハルザ！？,什么！？莱茵哈撒！？
 124,ルリア/露莉亚,あっ！　あれって……！,啊！那是……！
 125,,<span class='scene-font-katari'>そこにあったのは、</span><br><span class='scene-font-katari'>ラインハルザの姿だけではなかった。</span>,在那里的，不仅仅只是莱茵哈撒而已。
@@ -80,7 +80,7 @@ id,name,text,trans
 147,ハクタク/白泽,むしろ、我が王の忠臣として、<br>駆けつけるのが遅くなったことを<br>お詫び申し上げます。,不如说，我作为王的忠臣，现在才赶来真的是非常抱歉。
 148,レオナ/蕾欧娜,<span class='scene-font-4'>はぁぁっ！！</span>,啊啊！！
 156,ギルベルト,っ！？,唔！？
-160,,<span class='scene-font-katari'>レオナの一薙ぎに対し、</span><br><span class='scene-font-katari'>その巨躯をもっても耐え切れず、</span><br><span class='scene-font-katari'>ギルベルトは吹き飛ばされる。</span>,蕾欧娜不断挥舞着薙刀，在她的攻击之下，吉尔伯特巨大的身体也无法承受，就这么飞了出去。
+160,,<span class='scene-font-katari'>レオナの一薙ぎに対し、</span><br><span class='scene-font-katari'>その巨躯をもっても耐え切れず、</span><br><span class='scene-font-katari'>ギルベルトは吹き飛ばされる。</span>,蕾欧娜的全力一挥令吉尔伯特巨大的身体也无法承受，就这么飞了出去。
 161,レオナ/蕾欧娜,…………,…………
 162,ビィ/碧,しかしよぅ……あの姉ちゃん、<br>ギルベルトを圧倒してるぜ？<br>こんなに強かったのかよ？,但是……那个大姐竟然压制了吉尔伯特哟？以前她有那么强么？
 163,ハクタク/白泽,いえ、長くはもちません。<br>すぐに止めないと……,不，她撑不了太久。必须马上制止她……
@@ -106,7 +106,7 @@ id,name,text,trans
 183,レオナ/蕾欧娜,私は私の正しさを信じて行動した。<br>だからこそ、<br>ちゃんとその責任を取りたいんだ。,我做了我认为正确的行为。因此，我也要付起相应的责任才行。
 184,カイン/该隐,レオ姉……,蕾欧姐……
 185,レオナ/蕾欧娜,カイン、お話はこれでお終い。<br>もう決めたことだから。,该隐，什么都不用说了。因为我已经决定了。
-186,レオナ/蕾欧娜,それより……油断しないで。<br>まだ何も終わってない。,话说回来……可不要大意。什么都还没结束。
+186,レオナ/蕾欧娜,それより……油断しないで。<br>まだ何も終わってない。,话说回来……可不要大意。什么都还没结束呢。
 187,,<span class='scene-font-katari'>レオナの言葉通り、</span><br><span class='scene-font-katari'>吹き飛ばされたギルベルトは、</span><br><span class='scene-font-katari'>既に立ち上がり、再び剣を構えていた。</span>,正如蕾欧娜所说，被炸飞的吉尔伯特已经站起来，并且再次举起了他的剑。
 188,ギルベルト,…………,…………
 193,,<span class='scene-font-katari'>さらに、その周囲には、</span><br><span class='scene-font-katari'>幽世の力の断末魔に呼ばれ、</span><br><span class='scene-font-katari'>異形の存在達が集まっていたが──</span>,此外，在幽世力量的垂死挣扎之下，异形的存在也逐渐聚集到了大家周围。

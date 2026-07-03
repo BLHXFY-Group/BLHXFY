@@ -12,10 +12,10 @@ id,name,text,trans
 17,,<span class='scene-font-katari'>カインはビィを庇うように、</span><br><span class='scene-font-katari'>咄嗟にギルベルトの前に出る。</span>,该隐就像是要保护碧一般，突然闪到了吉尔伯特面前
 18,ラインハルザ/莱茵哈萨,ッ……！！,啧……！！
 21,カイン/该隐,うおっ！？,呜哇！？
-22,,<span class='scene-font-katari'>しかし、その直後、</span><br><span class='scene-font-katari'>ラインハルザの体当たりにより、</span><br><span class='scene-font-katari'>カインはビィごと弾き飛ばされる。</span>,但是在那之后，莱茵哈撒的就代替该隐和碧被击飞了出去。
-23,カイン/该隐,ラインハルザっ……！！,莱茵哈撒……！！
+22,,<span class='scene-font-katari'>しかし、その直後、</span><br><span class='scene-font-katari'>ラインハルザの体当たりにより、</span><br><span class='scene-font-katari'>カインはビィごと弾き飛ばされる。</span>,但是在那之后，莱茵哈萨的就代替该隐和碧被击飞了出去。
+23,カイン/该隐,ラインハルザっ……！！,莱茵哈萨……！！
 24,ギルベルト,<span class='scene-font-4'>ガアアァァッ！！</span>,噶啊啊啊！！
-34,,<span class='scene-font-katari'>土煙が晴れるも、</span><br><span class='scene-font-katari'>そこにラインハルザの姿は無く……</span>,烟尘已经散去，但到处都没有莱茵哈撒的踪影。
+34,,<span class='scene-font-katari'>土煙が晴れるも、</span><br><span class='scene-font-katari'>そこにラインハルザの姿は無く……</span>,烟尘已经散去，但到处都没有莱茵哈萨的踪影。
 35,,<span class='scene-font-katari'>ギルベルトの攻撃によって</span><br><span class='scene-font-katari'>叩き割られた地面からは、</span><br><span class='scene-font-katari'>空の底まで見通すことが出来た。</span>,在吉尔伯特的攻击之下，地面就像是开了个洞一般，能够透过去直接看到空之底。
 36,カイン/该隐,あ……,啊……
 37,カタリナ/卡塔莉娜,落ちてしまったのか……？<br>空の、底に……,难道是掉下去了？掉到……空之底……
@@ -52,26 +52,26 @@ id,name,text,trans
 93,ギルベルト,終わりだ……<br>終わらせてやる……何もかも！,结束了……我要结束这一切……一切！
 94,カイン/该隐,…………,…………
 96,ラインハルザ/莱茵哈萨,何があっても、お前は前に進め。<br>オレはその時、お前の隣にいる。,无论发生什么，你都只管向前看。到那时候，我会在你的身边。
-98,カイン/该隐,わかったよ……ラインハルザ。,我知道了……莱茵哈撒。
+98,カイン/该隐,わかったよ……ラインハルザ。,我知道了……莱茵哈萨。
 99,ギルベルト,<span class='scene-font-4'>オオオオォッ！！</span>,哦哦哦！！
 99-sel1_txt,,<span class='scene-font-katari'>カインっ！</span>,该隐！
-112,カイン/该隐,これでいいんだよな、ラインハルザ。,这样就可以了吧，莱茵哈撒。
+112,カイン/该隐,これでいいんだよな、ラインハルザ。,这样就可以了吧，莱茵哈萨。
 113,カイン/该隐,俺は進み続けるぜ……<br>お前を置いていくことになっても。,就算被你抛下了……我也会继续前进的。
 116,ギルベルト,っ……！！,唔……！！
 120,,<span class='scene-font-katari'>カインは</span><br><span class='scene-font-katari'>しっかりとした足取りで剣を構え、</span><br><span class='scene-font-katari'>ギルベルトの一閃を受け止める。</span>,该隐稳稳地举起剑，接住了吉尔伯特的一击。
 121,,<span class='scene-font-katari'>そんなカインの頭上から、</span><br><span class='scene-font-katari'>一つの、聞き慣れた声が響く。</span>,正在这时，从该隐上方传来了某个熟悉的声音。
 122,？？？,上等だ……<br>お前、ひとりでも立てるじゃねぇか。,好极了……这不是一个人也能站稳嘛。
-123,カイン/该隐,っ！？<br>ラインハルザ！？,什么！？莱茵哈撒！？
+123,カイン/该隐,っ！？<br>ラインハルザ！？,什么！？莱茵哈萨！？
 124,ルリア/露莉亚,あっ！　あれって……！,啊！那是……！
-125,,<span class='scene-font-katari'>そこにあったのは、</span><br><span class='scene-font-katari'>ラインハルザの姿だけではなかった。</span>,在那里的，不仅仅只是莱茵哈撒而已。
-126,,<span class='scene-font-katari'>ラインハルザを背に乗せ現れたのは、</span><br><span class='scene-font-katari'>星晶獣ハクタクであり、</span><br><span class='scene-font-katari'>その背には、レオナの姿もあった。</span>,此时载着莱茵哈撒的除了星晶兽白泽以外，还有蕾欧娜。
+125,,<span class='scene-font-katari'>そこにあったのは、</span><br><span class='scene-font-katari'>ラインハルザの姿だけではなかった。</span>,在那里的，不仅仅只是莱茵哈萨而已。
+126,,<span class='scene-font-katari'>ラインハルザを背に乗せ現れたのは、</span><br><span class='scene-font-katari'>星晶獣ハクタクであり、</span><br><span class='scene-font-katari'>その背には、レオナの姿もあった。</span>,此时载着莱茵哈萨的除了星晶兽白泽以外，还有蕾欧娜。
 129,レオナ/蕾欧娜,<span class='scene-font-4'>はあぁぁっ！！</span>,啊啊啊啊！！
 131,ギルベルト,ぐっ……！？,咕……！？
 132,,<span class='scene-font-katari'>レオナはハクタクの背から飛び降り、</span><br><span class='scene-font-katari'>その勢いをそのまま</span><br><span class='scene-font-katari'>ギルベルトへとぶつける。</span>,蕾欧娜从白泽身上跳下后，顺势劈向了吉尔伯特。
 136,レオナ/蕾欧娜,<span class='scene-font-4'>はぁっ！！</span>,哈！！
 138,ギルベルト,<span class='scene-font-4'>なぁッ！？</span><br><span class='scene-font-4'>馬鹿なッ……！？</span>,什么……！？不可能……！？
 139,,<span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>に降り立ったレオナは、</span><br><span class='scene-font-katari'>幽世の力をまとうギルベルトと、</span><br><span class='scene-font-katari'>互角以上に切り結ぶのだった。</span>,降落在修特尔克岛上的蕾欧娜，竟然与持有幽世之力的吉尔伯特展开了不分胜负的对决。
-140,カイン/该隐,<span class='scene-font-4'>ラインハルザっ！</span><br>無事だったんだな！,莱茵哈撒！原来你没事啊！
+140,カイン/该隐,<span class='scene-font-4'>ラインハルザっ！</span><br>無事だったんだな！,莱茵哈萨！原来你没事啊！
 141,ビィ/碧,へへっ！<br>心配させるんじゃねーや！,嘿嘿！让我好一番担心！
 143,ラインハルザ/莱茵哈萨,無事じゃねぇ。<br>実際、島からは落とされたからな。,也不是没事。实际上，我已经从岛上掉出去了。
 144,ラインハルザ/莱茵哈萨,たまたまその場で、<br>こいつに拾われただけだ。,只是碰巧被这家伙捡到了而已。
@@ -116,7 +116,7 @@ id,name,text,trans
 207,オイゲン/欧根,善戦してるってぇわけでも<br>なさそうだなぁ、おい！,看来也不是什么善战的家伙啊，喂！
 208,イオ/伊欧,あれ……？<br>っていうか、いつの間に<br>レオナさんとハクタクさんが？,咦……？蕾欧娜小姐和白泽先生是什么时候……？
 209,ロゼッタ/萝赛塔,ふふ……理由はどうあれ、<br>味方が増えるのは良いことだわ。,哼哼……不管原因是什么，增加盟友总是件好事。
-210,カタリナ/卡塔莉娜,皆……お互い無事で何よりだ。<br>緋色の騎士はどうなった？,大家……大家都没事比什么都好。绯色骑士怎么样了？
+210,カタリナ/卡塔莉娜,皆……お互い無事で何よりだ。<br>緋色の騎士はどうなった？,大家……大家都没事比什么都好。绯骑士怎么样了？
 211,ラカム/拉卡姆,ああ、それなんだが……<br>正直、よくわからねぇ。,是啊，说到这个……说实话，我也不太清楚。
 212,イオ/伊欧,途中まで普通に戦ってたんだけど、<br>いきなりどっか行っちゃったのよね。,我们打到一半的时候，他突然就走掉了。
 213,ロゼッタ/萝赛塔,彼は彼なりに、<br>何か頃合いだったようだけど……,他说要以自己的方式去做什么了解……

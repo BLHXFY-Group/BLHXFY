@@ -6,7 +6,7 @@ id,en,jp,trans
 4,So hear me out.,じゃあ、改めて聞こうか。,那么再问你们一次。
 5,I didn't bring you here for some kind of revenge.,オレ達がお前らを攫ったのは、<br>何も仕返しをしようってんじゃない。,我们把你们带到这来并不是为了报复你们什么。
 6,I'm going to make Merkmal Island an independent country.,オレはこの<span class='scene-font-place'>メルクマール島</span>を、<br>国として独立させる。,我想让这座<span class='scene-font-place'>美克马尔岛</span>作为国家而独立。
-7,But I need power to win against Idelva and Rhem.,そのためには、<br>イデルバやレムに<br>負けない力が必要なんだ。,为次我需要能够不输于伊迪尔瓦和雷姆的力量。
+7,But I need power to win against Idelva and Rhem.,そのためには、<br>イデルバやレムに<br>負けない力が必要なんだ。,为次我需要能够不输于伊德尔瓦和雷姆的力量。
 8,That's why I'm asking you to lend me your strength.,だから、<br>お前らの力をオレに貸してくれ。,所以把你们的力量借给我吧。
 8-sel1_txt,No can do.,<span class='scene-font-katari'>出来ない</span>,做不到
 8-sel2_txt,We're kind of busy.,<span class='scene-font-katari'>行くところがある</span>,我们有要去的地方
@@ -35,10 +35,10 @@ id,en,jp,trans
 31,I get what you've been saying. And I'll admit that your ideals aren't bad either.,お前の言ってることはわかった。<br>お前の理想も、<br>そう悪いもんじゃないと思う。,你所说的我已经理解了，你的理想并不是不好的东西。
 32,It's just... I don't want to see any more deaths.,だけど俺……<br>もう誰も死なせたくねーんだ。,但是我不想再看到任何人死了。
 33,Cain speaks as if the words are spilling from his very heart.,<span class='scene-font-katari'>ぽつりと、</span><br><span class='scene-font-katari'>まるで唯一の本音を漏らすように、</span><br><span class='scene-font-katari'>カインは告げる。</span>,<span class='scene-font-katari'>该隐像是透露出自己唯一的心声一般嘟囔一声。</span>
-34,In truth Nalhegrande is turning to shambles now.,いま、ナル・グランデは、<br>確かに荒れ放題だ。,现在纳尔格兰德确实在日渐混乱。
-35,But it's not only Idelva and Rhem you have to worry about. Istavion in Oarlyegrande will get involved in this as well.,イデルバにレムだけじゃない。<br>アウライ・グランデの<br>イスタバイオンまで絡んできてやがる。,不仅是伊迪尔瓦和雷姆，奥莱・格兰德空域的伊斯塔拜恩也纠缠了进来。
+34,In truth Nalhegrande is turning to shambles now.,いま、ナル・グランデは、<br>確かに荒れ放題だ。,现在纳尔·格兰德\n确实乱得不成样子。
+35,But it's not only Idelva and Rhem you have to worry about. Istavion in Oarlyegrande will get involved in this as well.,イデルバにレムだけじゃない。<br>アウライ・グランデの<br>イスタバイオンまで絡んできてやがる。,不仅是伊德尔瓦和雷姆，奥莱・格兰德空域的伊斯塔拜恩也纠缠了进来。
 36,Perhaps new countries are being built as we speak.,いま、こうしてる間にも、<br>新しい国が<br>生まれようとしてるのかもしれねぇ。,也许就在我们谈话期间都有新国家诞生也说不定。
-37,But to build a country in Nalhegrande right now...,けど……<br>いま、このナル・グランデで<br>国を建てるってことは……,但是现在要在纳尔格兰德建立国家…
+37,But to build a country in Nalhegrande right now...,けど……<br>いま、このナル・グランデで<br>国を建てるってことは……,但是现在要在纳尔·格兰德建立国家…
 38,"It's the same as declaring war on the world, and you know it.",お前もわかってる通り、<br>世界と戦う、ってことなんだ。,正如你所知的，就是在和全世界为敌。
 39,"No matter how good a country it is or how noble your goals are, a whole new war is certain.",それがどんだけ良い国でも、<br>どんだけ崇高な目的があっても、<br>絶対に新たな争いを生む。,那么无论是多美好的一个国家，无论是出自多么崇高的目的，也一定会引发新的争端。
 40,War means death. It's no use how well you bargain or maneuver your men.,争いが生まれれば人が死ぬ。<br>どんだけ上手く交渉しようと、<br>どんだけ上手く軍を動かそうと、だ。,发生争端的话人就会死，无论你的谈判手段有多么高明，无论你调兵遣将有多么优秀。

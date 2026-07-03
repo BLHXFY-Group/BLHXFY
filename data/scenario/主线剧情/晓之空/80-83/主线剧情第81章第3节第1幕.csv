@@ -48,13 +48,13 @@ id,en,jp,trans
 44,Reinhardtzar glances once at Katalina before shifting his gaze to the rising fortress in the distance.,<span class='scene-font-katari'>ラインハルザはカタリナを一瞥すると、</span><br><span class='scene-font-katari'>遠くそびえる砦に目を向ける。</span>,<span class='scene-font-katari'>莱茵哈萨瞟过卡塔莉娜，目光朝向远处的据点。</span>
 45,Tell me. Have you ever wanted to be a ruler？,お前、王を志したことはあるか？,你有想过成为一名王者吗？
 46,What is this about？,何の話だ……,这又扯到什么话题了？
-47,A ruler means reigning over others. Me taking money from the villagers is no different from them paying taxes.,王ってのは、君臨するもんだ。<br>オレが村から金品を奪うのは、<br>税を徴収することと変わらない。,王者应君临天下。我们从村子里夺走值钱的东西，和征税也没有两样。
+47,A ruler means reigning over others. Me taking money from the villagers is no different from them paying taxes.,王ってのは、君臨するもんだ。<br>オレが村から金品を奪うのは、<br>税を徴収することと変わらない。,王者理应君临天下。我们从村子里夺走值钱的东西，和征税也没有两样。
 48,"Besides, we spare them their lives and a fair portion of their fortunes.",同時に、オレ達はアイツらの命や、<br>予め決めた以上の財産を<br>奪うことはしない。,同时我们也不会夺走那些家伙的生命以及超过预定部分的财产。
 49,"In exchange for all that, we protect the village from enemies and monsters.",その上で、外敵や魔物からは、<br>オレ達が村を守ってんだ。,作为交换，我们会保护村子免受外敌和魔物侵扰。
-50,"Merkmal Island may belong to Idelva Kingdom on paper, but there's been no government here.",この<span class='scene-font-place'>メルクマール島</span>は、<br>名目上、イデルバ王国領だが、<br>実質、何の統治もされていなかった。,这座<span class='scene-font-place'>美克马尔岛</span>表面上是伊迪尔瓦王国的领地，但是却没有实质性地统治。
+50,"Merkmal Island may belong to Idelva Kingdom on paper, but there's been no government here.",この<span class='scene-font-place'>メルクマール島</span>は、<br>名目上、イデルバ王国領だが、<br>実質、何の統治もされていなかった。,这座<span class='scene-font-place'>美克马尔岛</span>表面上是伊德尔瓦王国的领地，但是却没有实质性地统治。
 51,"Until we showed up, there was barely a village with all those monsters disrupting their way of life.",だからオレ達が来るまでは、<br>村は村として体裁を保つのが難しいほど、<br>魔物に脅かされていたそうだ。,所以在我们出现以前，村子受到魔物的威胁，也难以维持村子的形式。
 52,Those folks aren't afraid of us. They're afraid of us leaving them.,アイツらはオレ達を恐れてるんじゃない。<br>オレ達がこの島を<br>出ていくことを恐れてんだ。,他们不是在害怕我们，而是在害怕我们离开这座岛。
-53,"And considering we don't draft people to join us, it's more peaceful to live here than in Idelva or Rhem.",しかも徴兵が無いことを考えれば、<br>イデルバ王国やレム王国よりも、<br>遥かに平和に暮らせている。,而且考虑到这里没有征兵制，比起伊迪尔瓦王国和雷姆王国，反倒是更和平的居住之所。
+53,"And considering we don't draft people to join us, it's more peaceful to live here than in Idelva or Rhem.",しかも徴兵が無いことを考えれば、<br>イデルバ王国やレム王国よりも、<br>遥かに平和に暮らせている。,而且考虑到这里没有征兵制，比起伊德尔瓦王国和雷姆王国，反倒是更和平的居住之所。
 54,So？You'd say we're a threat to the village still？,これでも……<br>オレ達が村を虐げてる、ってのか。,即便如此，你还认为我们在欺压村子吗。
 55,Humph... But it's not just that...,くっ……<br>し、しかしだな……,这……但是…
 56,I'll say you're a threat.,虐げてる、と俺は思うぜ。,我还是认为你们欺压了。
@@ -71,5 +71,5 @@ id,en,jp,trans
 67,Cain grows silent all at once. His defiance from earlier begins to dissipate.,<span class='scene-font-katari'>滔々とラインハルザに</span><br><span class='scene-font-katari'>相対していたカインは、</span><br><span class='scene-font-katari'>不意に返すべき言葉を見失う。</span>,<span class='scene-font-katari'>莱茵哈萨咄咄逼人地问道，而该隐却意外地无法回答。</span>
 68,It's all right if you don't know the answer right now.,今はまとまらないのなら、<br>それで構わない。,现在不知道答案的话没有关系。
 69,"But if you happen to find it, let me hear it. I'm curious...",ただ、もし、見つけられたのなら……<br>聞かせてみろよ、興味がある。,但是，如果你找到了答案，也让我听听吧，我很感兴趣。
-70,"With nothing left to say, the crew follows behind Reinhardtzar as they continue their trek to the outlaw den.",<span class='scene-font-katari'>そう告げるラインハルザに、</span><br><span class='scene-font-katari'>誰も返す言葉を持たぬまま、</span><br><span class='scene-font-katari'>一行はアジトへと進んでいくのだった。</span>,<span class='scene-font-katari'>莱茵哈萨说完，谁都没有回答；就这样一行人继续赶往据点。</span>
+70,"With nothing left to say, the crew follows behind Reinhardtzar as they continue their trek to the outlaw den.",<span class='scene-font-katari'>そう告げるラインハルザに、</span><br><span class='scene-font-katari'>誰も返す言葉を持たぬまま、</span><br><span class='scene-font-katari'>一行はアジトへと進んでいくのだった。</span>,<span class='scene-font-katari'>莱茵哈萨说完，谁都没有回答。就这样一行人继续赶往据点。</span>
 info,1,1,scene_cp81_q3_s10

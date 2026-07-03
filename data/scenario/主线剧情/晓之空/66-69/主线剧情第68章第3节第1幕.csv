@@ -8,7 +8,7 @@ id,en,jp,trans
 4,I know but... I just can't keep still here.,それはそうなんだが……<br>しかし、<br>居ても立っても居られないんだ。,我知道啊，但是……总觉得坐立不安的。
 5,"It's like, I need to hurry... for something important.",何かこう……<br>大切な何かが……私には……,感觉就像是什么很重要的东西，而我……
 7,Katalina！,カタリナーっ！,卡塔莉娜！
-8,So you were here all along！And Eugen's here with you！,へへっ！<br>姐さん、こんなとこに居たんだな！<br>それにオイゲンも居るじゃねーか！,嘿嘿，大姐头原来你在这里啊！而且欧根也和你在一块。
+8,So you were here all along！And Eugen's here with you！,へへっ！<br>姐さん、こんなとこに居たんだな！<br>それにオイゲンも居るじゃねーか！,嘿嘿，大姐头原来你在这里啊！而且欧根也和你在一块儿。
 9,Huh？How does this lizard know who I am？,あん？<br>このトカゲ、<br>何でオレの名前を知ってんだ？,啊？为什么这只四脚蛇知道我的名字啊？
 10,I ain't a lizard！,オイラはトカゲじゃねーっつの！,我才不是四脚蛇啊！
 11,Looks like you were about to get on that airship. We're just in time！,見たところ、<br>騎空艇に乗ろうとしてたみてーだな。<br>間一髪ってとこか？,看上去你们是要登上骑空艇的样子啊，真是千钧一发啊。
@@ -66,9 +66,9 @@ id,en,jp,trans
 62,"But if it's a primal beast that's messin' with memories, then it makes a lot of sense.",星晶獣が絡んで<br>記憶をいじられてるってんなら、<br>このもやもやも納得ってぇもんだ。,但是既然和星晶兽有关，又是可以操作记忆的，也就能接受心中的那块疙瘩了。
 63,"Suddenly, Rosetta comes down from the airship with a sullen look on her face.",<span class='scene-font-katari'>そうこうしていると、</span><br><span class='scene-font-katari'>今度は暗い顔をしたロゼッタが、</span><br><span class='scene-font-katari'>騎空艇から降りてくるのだった。</span>,<span class='scene-font-katari'>在那时，萝赛塔从骑空艇上下来了，但是她脸上带着阴暗的表情。
 64,I couldn't find them. Io and Lecia aren't on this airship.,ダメね……<br>この騎空艇の中には、<br>イオちゃんもリーシャちゃんも居ないわ。,不行呢，伊欧和莉夏不在这艘骑空艇上。
-65,"Io is a young child, and there are hardly any children in the Dydroit Belt. She should stand out.",イオ、というのは確か幼い少女でしたね。<br>場所柄、ダイダロイトベルトで子供は、<br>非常に目立つはずです。,我记得，伊欧的话确实是那个年纪很小的女孩吧。这种情况下，在这碎石环上理应会有小孩的目击情报的。
+65,"Io is a young child, and there are hardly any children in the Dydroit Belt. She should stand out.",イオ、というのは確か幼い少女でしたね。<br>場所柄、ダイダロイトベルトで子供は、<br>非常に目立つはずです。,我记得，伊欧确实是那个年纪很小的女孩吧。\n这种情况下，在这碎石环上\n理应会有小孩的目击情报的。
 66,"And Lecia is a member of the Crew of Enforcers, so let's return to their station for now.",リーシャは秩序の騎空団の<br>団員ということもありますし、<br>一度、あの駐屯所に戻りましょう。,而莉夏是秩序骑空团的成员，不如就这么暂且回到驻扎所去吧。
 67,There may be information coming in already about the two of them.,もしかすると、<br>それぞれ何らかの情報が<br>入っているかもしれません。,可能已经有关于他们两个的信息了。
-68,"The gang agrees, and they head toward the Crew of Enforcers' station, driving back monsters along the way.",<span class='scene-font-katari'>黄金の騎士の言葉に一行は納得し、</span><br><span class='scene-font-katari'>強風の中襲いくる魔物を蹴散らしながら、</span><br><span class='scene-font-katari'>秩序の騎空団の駐屯所へと戻る。</span>,<span class='scene-font-katari'>接受了黄金骑士提议的众人，击退了在狂风中来袭的魔物，回到秩序骑空团的驻扎所去了。
+68,"The gang agrees, and they head toward the Crew of Enforcers' station, driving back monsters along the way.",<span class='scene-font-katari'>黄金の騎士の言葉に一行は納得し、</span><br><span class='scene-font-katari'>強風の中襲いくる魔物を蹴散らしながら、</span><br><span class='scene-font-katari'>秩序の騎空団の駐屯所へと戻る。</span>,<span class='scene-font-katari'>接受了金骑士提议的众人，击退了在狂风中来袭的魔物，回到秩序骑空团的驻扎所去了。
 info,1,1,scene_cp68_q3_s10
 ,,,

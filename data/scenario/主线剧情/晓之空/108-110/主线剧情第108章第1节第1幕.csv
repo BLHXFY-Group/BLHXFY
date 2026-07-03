@@ -1,29 +1,29 @@
 id,name,text,trans
 0-chapter_name,,第108章　集う意志,第108章　集结的意志
-0-synopsis,,ギルベルトに連れ去られたフォリアを救出すべく、<span class='scene-font-place'>シュテルケ島</span>へと向かう姬塔一行。カインはひとりで思い詰めていたが、ラインハルザと姬塔にもう個人の問題ではないと説かれ、共に戦うことを決意する。その周囲にはいつの間にか仲間達も揃い、姬塔達はこれまでの旅路を振り返りつつ作戦を立てるのだった。,为了营救被吉尔伯特带走的芙莉雅，姬塔一行人触发前往修特尔克岛。该隐独自一人想了很久，在莱茵哈撒以及姬塔的说服下，他终于明白这已经不仅是个人问题，于是他决定也一起参加战斗。不知不觉中，同伴们都聚集到了一起。反复考虑过姬塔一行人到目前为止的旅途后，该隐制定了一个计划。
-1,,<span class='scene-font-katari'>ギルベルトによって、</span><br><span class='scene-font-katari'>フォリアを連れ去られてしまった</span><br><span class='scene-font-katari'>姬塔一行。</span>,姬塔一行人看着吉尔伯特带走了芙莉雅。
-6,,<span class='scene-font-katari'>フォリアを連れたギルベルトは、</span><br><span class='scene-font-katari'>港の兵士達を薙ぎ払い、</span><br><span class='scene-font-katari'>騎空艇で</span><span class='scene-font-place'>ライヒェ島</span><span class='scene-font-katari'>を後にする。</span>,带着芙莉雅的吉尔伯特，绕开了港口士兵的追捕，登上了骑空艇。然后就这么离开了莱耶岛。
+0-synopsis,,ギルベルトに連れ去られたフォリアを救出すべく、<span class='scene-font-place'>シュテルケ島</span>へと向かう姬塔一行。カインはひとりで思い詰めていたが、ラインハルザと姬塔にもう個人の問題ではないと説かれ、共に戦うことを決意する。その周囲にはいつの間にか仲間達も揃い、姬塔達はこれまでの旅路を振り返りつつ作戦を立てるのだった。,为了营救被吉尔伯特带走的芙莉亚，姬塔一行人触发前往修特尔克岛。该隐独自一人想了很久，在莱茵哈萨以及姬塔的说服下，他终于明白这已经不仅是个人问题，于是他决定也一起参加战斗。不知不觉中，同伴们都聚集到了一起。反复考虑过姬塔一行人到目前为止的旅途后，该隐制定了一个计划。
+1,,<span class='scene-font-katari'>ギルベルトによって、</span><br><span class='scene-font-katari'>フォリアを連れ去られてしまった</span><br><span class='scene-font-katari'>姬塔一行。</span>,姬塔一行人看着吉尔伯特带走了芙莉亚。
+6,,<span class='scene-font-katari'>フォリアを連れたギルベルトは、</span><br><span class='scene-font-katari'>港の兵士達を薙ぎ払い、</span><br><span class='scene-font-katari'>騎空艇で</span><span class='scene-font-place'>ライヒェ島</span><span class='scene-font-katari'>を後にする。</span>,带着芙莉亚的吉尔伯特，绕开了港口士兵的追捕，登上了骑空艇。然后就这么离开了莱耶岛。
 7,,<span class='scene-font-katari'>ギルベルトを乗せた騎空艇は、</span><br><span class='scene-font-katari'>隠そうとする素振りを見せもせず、</span><br><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>へと向かっていた。</span>,吉尔伯特乘坐的骑空艇朝着修特尔克岛驶去，丝毫没有隐藏行程的意思。
 13,,<span class='scene-font-katari'>姬塔一行は</span><br><span class='scene-font-katari'>フォリアを救出すべく、</span><br><span class='scene-font-katari'>一路、</span><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>へと向かう。</span>,为了救出芙莉亚，姬塔一行人也开始向修特尔克岛进发。
 14,カイン/该隐,…………,…………
 15,,<span class='scene-font-katari'>甲板に立つカインは、</span><br><span class='scene-font-katari'>真剣な表情で空を見上げる。</span>,该隐正站在甲板上，严肃地看着天空。
-18,,<span class='scene-font-katari'>そこには、ナル・グランデ空域の</span><br><span class='scene-font-katari'>象徴たる遺物、</span><br><span class='scene-font-katari'>グレートウォールが鎮座していた。</span>,在那里的是，象征着纳尔格兰迪空域的遗物——长城，正静静地耸立在那里。
-19,カイン/该隐,<span class='scene-font-kokoro'>（ドランクさん達からの</span><br><span class='scene-font-kokoro'>情報をまとめると……）</span>,(根据从德朗克一行人得来的情报……)
-20,カイン/该隐,<span class='scene-font-kokoro'>（あの「天罰」は、</span><br><span class='scene-font-kokoro'>グレートウォールによって</span><br><span class='scene-font-kokoro'>引き起こされた）</span>,(那个“天罚”正是由长城所引发的。)
-21,カイン/该隐,<span class='scene-font-kokoro'>（そして、グレートウォールの正体は、</span><br><span class='scene-font-kokoro'>島すら破壊する強力な兵器であり……）</span>,(所以，长城的真面目是能够将岛屿摧毁的强大兵器…)
-22,カイン/该隐,<span class='scene-font-kokoro'>（ギルベルトは陛下の魔力を燃料に、</span><br><span class='scene-font-kokoro'>グレートウォールを</span><br><span class='scene-font-kokoro'>再び起動しようとしている……）</span>,(吉尔伯特想将陛下的魔力作为燃料，再次将长城启动……)
-23,カイン/该隐,<span class='scene-font-kokoro'>（そして、ギルベルトは言った──）</span>,(而且，吉尔伯特还说——)
+18,,<span class='scene-font-katari'>そこには、ナル・グランデ空域の</span><br><span class='scene-font-katari'>象徴たる遺物、</span><br><span class='scene-font-katari'>グレートウォールが鎮座していた。</span>,在那里的是，象征着纳尔·格兰德空域的遗物——长城，正静静地耸立在那里。
+19,カイン/该隐,<span class='scene-font-kokoro'>（ドランクさん達からの</span><br><span class='scene-font-kokoro'>情報をまとめると……）</span>,（根据从德朗克一行人得来的情报……）
+20,カイン/该隐,<span class='scene-font-kokoro'>（あの「天罰」は、</span><br><span class='scene-font-kokoro'>グレートウォールによって</span><br><span class='scene-font-kokoro'>引き起こされた）</span>,（那个“天罚”正是由长城所引发的。）
+21,カイン/该隐,<span class='scene-font-kokoro'>（そして、グレートウォールの正体は、</span><br><span class='scene-font-kokoro'>島すら破壊する強力な兵器であり……）</span>,（所以，长城的真面目是能够将岛屿摧毁的强大兵器…）
+22,カイン/该隐,<span class='scene-font-kokoro'>（ギルベルトは陛下の魔力を燃料に、</span><br><span class='scene-font-kokoro'>グレートウォールを</span><br><span class='scene-font-kokoro'>再び起動しようとしている……）</span>,（吉尔伯特想将陛下的魔力作为燃料，再次将长城启动……）
+23,カイン/该隐,<span class='scene-font-kokoro'>（そして、ギルベルトは言った──）</span>,（而且，吉尔伯特还说——）
 29,ギルベルト,俺がこの手で始末しただろうが！<br>あのガキを守ろうとしたお前をな！,明明我已经亲手把你杀掉了！就因为你硬要保护那个小鬼！
 30,ギルベルト,<span class='scene-font-4'>アベル！！</span>,亚伯！
 31,ギルベルト,よく覚えてる……<br>あのガキで最後だったからな。,我记得很清楚……因为那个小鬼是最后一个。
 32,ギルベルト,あそこで無様に死んだくせに、<br>いまさら出てくるんじゃあねぇ！！,既然你已经死在那里了，现在就不要出来妨碍我！！
 38,カイン/该隐,………,………
-39,カイン/该隐,<span class='scene-font-kokoro'>（あいつが兄さんの仇なら……）</span>,(如果那家伙就是杀害哥哥的仇人……)
-40,カイン/该隐,<span class='scene-font-kokoro'>（どんな犠牲を払ったっていい。</span><br><span class='scene-font-kokoro'>俺はあいつを……）</span>,（那么无论付出什么代价，我都要把那家伙给……)
+39,カイン/该隐,<span class='scene-font-kokoro'>（あいつが兄さんの仇なら……）</span>,（如果那家伙就是杀害哥哥的仇人……）
+40,カイン/该隐,<span class='scene-font-kokoro'>（どんな犠牲を払ったっていい。</span><br><span class='scene-font-kokoro'>俺はあいつを……）</span>,（那么无论付出什么代价，我都要把那家伙给……）
 42,ラインハルザ/莱茵哈萨,また何か面倒なことを考えてんのか。,你又在想什么麻烦事了。
 42-sel1_txt,,<span class='scene-font-katari'>相談して</span>,跟我商量一下
 42-sel2_txt,,<span class='scene-font-katari'>一緒に考えよう</span>,我们一起想办法
-43,カイン/该隐,ラインハルザ、<br>姬塔……,莱茵哈撒，姬塔……
+43,カイン/该隐,ラインハルザ、<br>姬塔……,莱茵哈萨，姬塔……
 44,ラインハルザ/莱茵哈萨,お前はすぐに<br>ひとりで思い詰めるからな……,你老是一个人钻牛角尖……
 45,ラインハルザ/莱茵哈萨,少しは他人を使うんじゃなく、<br>相談することも覚えろ。,别光知道使唤别人，也学学跟人商量商量。
 46,カイン/该隐,はは……<br>ひでー言われようだな。,哈哈……你说得可真过分。
@@ -39,9 +39,9 @@ id,name,text,trans
 55,ラインハルザ/莱茵哈萨,そうだな……<br>オレ達はドルザ・レム国王に、<br>ギルベルトを止めると約束した。,是啊……我们答应了多尔扎·雷姆国王，要阻止吉尔伯特的。
 56,ラインハルザ/莱茵哈萨,わかるか？<br>奴と戦うことは、<br>もうお前だけの問題じゃねぇ。,你明白了吗？和他战斗，已经不是你一个人的问题了。
 57,ラインハルザ/莱茵哈萨,オレ達は同じ危機に瀕して、<br>同じ敵を倒そうとしてんだよ。,我们面临着同样的危机，要打败的敌人也是一样的。
-58,,<span class='scene-font-katari'>ラインハルザは、</span><br><span class='scene-font-katari'>まるで仇であるかのように、</span><br><span class='scene-font-katari'>グレートウォールを睨みつける。</span>,莱茵哈撒死死地盯着长城，就好像它就是自己的仇人一般。
+58,,<span class='scene-font-katari'>ラインハルザは、</span><br><span class='scene-font-katari'>まるで仇であるかのように、</span><br><span class='scene-font-katari'>グレートウォールを睨みつける。</span>,莱茵哈萨死死地盯着长城，就好像它就是自己的仇人一般。
 59,ラインハルザ/莱茵哈萨,だったら、<br>お前が何考えてるか、<br>話してくれてもいいんじゃねぇか。,所以，能不能把你的想法，和我们说说呢。
-60,カイン/该隐,ラインハルザ……,莱茵哈撒……
+60,カイン/该隐,ラインハルザ……,莱茵哈萨……
 60-sel1_txt,,<span class='scene-font-katari'>一緒に戦おう</span>,我们一起战斗吧
 61,カイン/该隐,…………,…………
 62,カイン/该隐,俺は……ギルベルトを倒したい。<br>いや、<br>俺が倒さなくちゃいけないんだ。,我……想打倒吉尔伯特。不，我们非打倒他不可。
@@ -61,7 +61,7 @@ id,name,text,trans
 73,カイン/该隐,でもいまは、<br>姬塔達を信じてる。,但是现在，我相信姬塔，也相信大家。
 74,カイン/该隐,だから全てを話した上で、<br>力を借りたいんだ。,所以我会把一切都告诉你，来请求你借我力量。
 75,,<span class='scene-font-katari'>カインは確信めいた様子で、</span><br><span class='scene-font-katari'>空を見上げ、己の思いを吐露する。</span>,该隐自信地看着天空，吐露着自己的想法。
-76,カイン/该隐,今回の件……<br>俺やラインハルザだけじゃ、<br>どうにもならない気がするんだ。,这次的事情……光靠我和莱茵哈撒两人，是远远不够的。
+76,カイン/该隐,今回の件……<br>俺やラインハルザだけじゃ、<br>どうにもならない気がするんだ。,这次的事情……光靠我和莱茵哈萨两人，是远远不够的。
 77,カイン/该隐,ギルベルトを止めるには、<br>きっと、<br>姬塔達の存在が鍵になる。,要想阻止吉尔伯特，姬塔你们的存在，才是一切的关键。
 78,カイン/该隐,おかしな感覚だけどさ、<br>なんかそんな気がするんだ。,虽然感觉稍微有点贵，但我总有这种预感。
 79,カイン/该隐,だから、改めて聞かせてくれないか？<br>姬塔達の、<br>これまでの冒険のことを。,所以，能不能再和我们说一说呢？姬塔你们，到目前为止所经历的冒险。
@@ -76,7 +76,7 @@ id,name,text,trans
 88,オイゲン/欧根,思い出してみりゃあ、<br>もうずいぶん<br>長ぇ付き合いだなぁ、おい。,回想起来，我们也认识很久了，嘿。
 89,オイゲン/欧根,なんたって空域まで超えたんだ。<br>ここまで成し遂げた騎空団は、<br>そう多くはねぇはずだぜ。,没想到我们竟然跨越了空域。能走到这个地步的骑空团，可没有太多哦。
 90,ロゼッタ/萝赛塔,ある意味、アタシ達それぞれが、<br>姬塔さんの、<br>旅の記録と言えるかもしれないわね。,从某种意义上来说，我们所有人都是姬塔旅途中的回忆。
-91,イオ/伊欧,じゃあ、あたし、<br><span class='scene-font-place'>バルツ</span>でのことを教えたげる！<br>あの島で、どんなことがあったのか！,那么，就让我从巴尔兹的事，开始慢慢告诉你吧！
+91,イオ/伊欧,じゃあ、あたし、<br><span class='scene-font-place'>バルツ</span>でのことを教えたげる！<br>あの島で、どんなことがあったのか！,那么，就让我从瓦尔兹的事，开始慢慢告诉你吧！
 92,ドランク/德朗克,ねぇねぇ、どうしよう？<br>スツルム殿～,喂喂，怎么办？斯特姆小姐~
 93,ドランク/德朗克,僕達、<br>ちょーっと語れることが少ないよねぇ～,虽然我们可没什么好说的~
 94,ドランク/德朗克,どうしよっか？<br>色々と暗躍してた内容話しちゃう？,怎么样？我们要把暗中活跃的事情说出来嘛？

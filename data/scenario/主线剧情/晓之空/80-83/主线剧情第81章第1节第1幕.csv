@@ -6,10 +6,10 @@ id,en,jp,trans
 2,"Unbelievable... Swallowed by the Grim Basin from the Silver Wall, and yet here you are...",なんと……<br>あの白壁から瘴流域に飲まれて、<br>こちらにいらっしゃったとは……,令人震惊啊，竟然是在那个银白之壁上被瘴流域卷入而来到这里的。
 3,"The elder, along with other villagers who have gathered there, stares in open wonder at 姬塔 and the crew.",<span class='scene-font-katari'>長老や、集まってきた村人達は、</span><br><span class='scene-font-katari'>皆一様に、</span><br><span class='scene-font-katari'>姬塔達へ奇異の目を向ける。</span>,<span class='scene-font-katari'>长老和聚集而来的村民们都向一行人投以惊诧的目光。</span>
 4,"Pardon me, but did you say Silver Wall？",あの……<br>白壁、というのは？,那个…你说的银白之壁是？
-5,"That's the Eoniho Mountains. It's what they're called in Phantagrande, right？",エオニオ山脈……<br>確かファータ・グランデじゃ、<br>そう呼ぶんだっけか。,艾欧尼欧山脉——我记得在法塔格兰德空域那边是这么称呼的吧。
-6,"So in Nalhegrande, those big mountains are called the Silver Wall. I see！",ナル・グランデ空域では、<br>あのおっきなお山のことを、<br>そんな風に呼ぶんですね。,纳尔格兰德空域这里是这样称呼那座大山的呢。
+5,"That's the Eoniho Mountains. It's what they're called in Phantagrande, right？",エオニオ山脈……<br>確かファータ・グランデじゃ、<br>そう呼ぶんだっけか。,艾欧尼欧山脉——我记得在法塔·格兰德空域那边是这么称呼的吧。
+6,"So in Nalhegrande, those big mountains are called the Silver Wall. I see！",ナル・グランデ空域では、<br>あのおっきなお山のことを、<br>そんな風に呼ぶんですね。,纳尔·格兰德空域这里是这样称呼那座大山的呢。
 7,"Now you mention it, they do look like one giant silvery wall！",確かに、<br>デッケぇ白い壁みたいにも見えるよな！,确实很像是一堵巨大的白色墙壁呢。
-8,Merkmal Island here is on the outskirts of Nalhegrande... Extremely close to the Silver Wall.,ここ、<span class='scene-font-place'>メルクマール島</span>は、<br>ナル・グランデ空域のはずれ……<br>白壁にずいぶん近い島ですから……,<span class='scene-font-place'>美克马尔岛</span>，这里是纳尔格兰德空域中离银白之壁最近的岛屿了。
+8,Merkmal Island here is on the outskirts of Nalhegrande... Extremely close to the Silver Wall.,ここ、<span class='scene-font-place'>メルクマール島</span>は、<br>ナル・グランデ空域のはずれ……<br>白壁にずいぶん近い島ですから……,<span class='scene-font-place'>美克马尔岛</span>，这里是纳尔·格兰德空域中离银白之壁最近的岛屿了。
 9,"As such, it's a name that came up naturally over time.",日々、目にする姿から、<br>自ずとそのような名前がついたのです。,每天都能亲眼目睹那里的景色，于是我们自己给它取了这样的名字。
 10,A wave of relief washes over Katalina after hearing how close they are to Silverwind Stretch.,<span class='scene-font-place'>メルクマール島</span><span class='scene-font-katari'>が</span><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>に近いと聞き、</span><br><span class='scene-font-katari'>カタリナは安堵した表情を見せる。</span>,<span class='scene-font-katari'>听说了</span><span class='scene-font-katari'>美克马尔岛</span><span class='scene-font-katari'>离</span><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>很近之后，卡塔莉娜安心了一些。</span>
 11,I guess we weren't thrown very far in the end.,あまり遠くまで<br>飛ばされたわけではなかったようだな。,看来我们还没有被吹飞到太远的地方啊。
@@ -20,15 +20,15 @@ id,en,jp,trans
 16,"With a grave tone in his voice, the elder begins to answer.",<span class='scene-font-katari'>問いかけるカタリナに対し、</span><br><span class='scene-font-katari'>長老はそれを答えとするように、</span><br><span class='scene-font-katari'>沈痛な表情を浮かべる。</span>,<span class='scene-font-katari'>对于卡塔莉娜的问题，长老带着沉痛的表情准备回答。</span>
 17,Truth be told... it's a miracle that you all are even here.,あのさ……ハッキリ言うと、<br>いま姬塔達が<br>ここに居るだけでも、奇跡に近いんだぜ。,其实呢…直截了当地说，你们现在能待在这里已经是近乎奇迹的事了。
 18,What's that you say？,なに……？,什么？
-19,"Compared to Phantagrande, Grim Basin research has come pretty far in Nalhegrande.",このナル・グランデ空域は、<br>ファータ・グランデよりも、<br>瘴流域の研究が進んでてさ……,其实纳尔格兰德空域对于瘴流域的研究比法塔格兰德空域更进一步。
+19,"Compared to Phantagrande, Grim Basin research has come pretty far in Nalhegrande.",このナル・グランデ空域は、<br>ファータ・グランデよりも、<br>瘴流域の研究が進んでてさ……,其实纳尔·格兰德空域对于瘴流域的研究比法塔·格兰德空域更进一步。
 20,We now know that within the Grim Basin is a fixed current that acts much like an airflow.,瘴流域には、<br>気流みたいな一定の流れがあることが<br>わかってんだ。,我们知道在瘴流域中有像气流那样的流体存在。
 21,But it's dozens of times stronger than those that normally carry airships.,ただそれは、<br>騎空艇を動かすような気流の<br>何十倍も強くて……,但是那个比驱动骑空艇飞行的气流要强上数十倍。
 22,"On top of that, it courses around the Grim Basin, ultimately connecting all the skydoms.",しかも、全空域を繋ぐ壁である<br>瘴流域全体を巡るように流れてる。,瘴流域是接邻着所有空域的障壁，而那股流体是在整个瘴流域中流动。
 23,So... what you're saying is...,えっと……<br>じゃあ、それって……,那…那么，就是说…
-24,"I'm saying... once you're taken in by the Grim Basin, there's no telling where you'll end up.",つまり……<br>一度、瘴流域に飲まれて流されたら、<br>どこで瘴流域を出られるかわからない。,也就是说，一旦被瘴流域卷入其中，就不知道会在哪从瘴流域中出来。
+24,"I'm saying... once you're taken in by the Grim Basin, there's no telling where you'll end up.",つまり……<br>一度、瘴流域に飲まれて流されたら、<br>どこで瘴流域を出られるかわからない。,也就是说，\n一旦被瘴流域卷入其中，\n就不知道会从瘴流域的哪个地方出来。
 25,It has been many decades since anyone has survived a Grim Basin collapse only to wind up here on Merkmal.,瘴流域に飲まれた漂流者が、<br>この<span class='scene-font-place'>メルクマール島</span>に流れ着いたのも、<br>もう数十年ぶりの出来事です……,上次被卷进瘴流域的漂流者漂流到这座<span class='scene-font-place'>美克马尔岛</span>上恐怕已经有数十年之久了。
 26,"Even if your friends were able to escape, we've no place to begin looking for them.",お連れさん方が瘴流域から<br>吐き出されていたとしても、<br>それがいったいどこになるか……,即便你们的同伴从瘴流域中出来，恐怕也无从得知他们究竟在哪。
-27,"In the worst case, they may have been swept away to some other unknown skydom...",最悪の場合、ナル・グランデでも、<br>ファータ・グランデでもない空域に、<br>流れ着くこともありましょうな……,最坏的情况是他们漂流到了既不是纳尔格兰德也不是法塔格兰德空域的其他空域去了。
+27,"In the worst case, they may have been swept away to some other unknown skydom...",最悪の場合、ナル・グランデでも、<br>ファータ・グランデでもない空域に、<br>流れ着くこともありましょうな……,最坏的情况是他们漂流到了既不是纳尔·格兰德也不是法塔·格兰德空域的其他空域去了。
 28,...,…………,…
 29,...,…………,…
 30,...,…………,…
@@ -54,7 +54,7 @@ id,en,jp,trans
 55,"If that's the case, then there's no talking our way out of this.",だとするならば、<br>私達も他人事では済まないぞ……,如果是这样的话，我们也不能把这当成是别人的事了。
 61,Tzar！It's them！,キング！　こいつらだ！,老大！就是他们！
 62,"Say, are you the ones my guys were giving trouble to？",おう、お前らか、<br>オレの部下が迷惑かけた、ってのは。,喔，给我部下造成麻烦的就是你们啊。
-63,The man called Tzar glares at 姬塔 and the crew.,<span class='scene-font-katari'>キングと呼ばれるドラフの男は、</span><br><span class='scene-font-katari'>ギロリと</span><br><span class='scene-font-katari'>姬塔達を睨みつける。</span>,<span class='scene-font-katari'>被叫做老大的那个牛族男子凶巴巴地瞪着姬塔一行人</span>
+63,The man called Tzar glares at 姬塔 and the crew.,<span class='scene-font-katari'>キングと呼ばれるドラフの男は、</span><br><span class='scene-font-katari'>ギロリと</span><br><span class='scene-font-katari'>姬塔達を睨みつける。</span>,<span class='scene-font-katari'>被叫做老大的那个多拉夫族男子凶巴巴地瞪着姬塔一行人</span>
 64,I'm Reinhardtzar. I'm in charge of the outlaws on this island.,オレはラインハルザだ。<br>この島のゴロツキを仕切ってる。,我是莱茵哈萨，统率着这座岛上的盗贼们。
 65,Something about you folks has got me curious though. Come with me to our den.,それで、<br>お前らに興味があるんだ。<br>ちょっとアジトまで付き合えよ。,我对你们颇感兴趣，跟我去一趟据点如何。
 66,"Sorry, but we don't have time to go anywhere with you right now.",悪いが……<br>いま私達には貴殿らに付き合っている<br>時間はない。,抱歉，我们现在并没有时间奉陪你们。

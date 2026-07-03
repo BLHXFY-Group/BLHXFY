@@ -5,7 +5,7 @@ id,en,jp,trans
 1,Hoo...,はぁ……,诶……
 2,"Ah, heh heh... Heh...",あ、あははは……はは……,啊，啊哈哈……哈哈哈…
 3,Come now！How 'bout some more？We've got plenty of food！,さ、さぁさぁ！<br>おかわりはどうだい？<br>料理はまだまだあるからね！,撒撒，还要再来一碗吗？料理还有很多呢！
-4,"Sure！I'll have some more！How about you, Io？",あ！　わ、私、おかわり欲しいです！<br>イオちゃんもどうですか？,啊！我还想再来一碗！伊欧酱怎样呢？
+4,"Sure！I'll have some more！How about you, Io？",あ！　わ、私、おかわり欲しいです！<br>イオちゃんもどうですか？,啊！我还想再来一碗！小伊欧怎样呢？
 5,Humph！,むぅぅ……,姆~~……
 6,Oh boy...,あうぅ……,啊…呜…
 7,Look now... This is gettin' to be a real pain.,おいおい……<br>こりゃあ、<br>面倒くせぇことになったなぁ……,喂，这可真是变成麻烦的事了呢。
@@ -18,7 +18,7 @@ id,en,jp,trans
 14,"Look, Io... I didn't mean anything by it. So could you just... let it go？",なぁ、イオ……<br>さっきのは深い意味はなかった、<br>っつうか、その……機嫌直せよ、な？,呐伊欧啊，刚才的话没什么特别的意思…转换一下心情让它就这么过去了吧？
 15,Humph！,むぅぅーっ……！！,姆……！！
 16,It seems the problem can be traced back to a few hours ago...,<span class='scene-font-katari'>事の発端は、</span><br><span class='scene-font-katari'>数時間前に遡る。</span>,<span class='scene-font-katari'>事情的开始，可以追溯到几个小时前。</span>
-22,姬塔 and company had foiled Prime Minister Freesia's plans in Agastia.,<span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>にて、</span><br><span class='scene-font-katari'>宰相フリーシアの陰謀を</span><br><span class='scene-font-katari'>見事打ち破った姬塔一行。</span>,<span class='scene-font-place'>帝都阿加丝提亚</span><span class='scene-font-katari'>，</span><br><span class='scene-font-katari'>在那里姬塔一行人破坏了芙莉西雅宰相的阴谋。</span>
+22,姬塔 and company had foiled Prime Minister Freesia's plans in Agastia.,<span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>にて、</span><br><span class='scene-font-katari'>宰相フリーシアの陰謀を</span><br><span class='scene-font-katari'>見事打ち破った姬塔一行。</span>,<span class='scene-font-place'>帝都阿加斯提亚</span><span class='scene-font-katari'>，</span><br><span class='scene-font-katari'>在那里姬塔一行人破坏了芙莉西雅宰相的阴谋。</span>
 23,"And in Mephorash, they had settled the score with the Black Knight once and for all.",<span class='scene-font-katari'>さらに一行は</span><span class='scene-font-place'>メフォラシュ</span><span class='scene-font-katari'>にて、<br><span class='scene-font-katari'>黒騎士との因縁に決着をつける。,<span class='scene-font-katari'>而且众人也在</span><span class='scene-font-place'>美佛拉修</span><span class='scene-font-katari'>与黑骑士作出了了断。</span>
 24,"Then, the crew went to visit 姬塔's hometown of Zinkenstill in order to assure everyone that 姬塔 is doing okay.",<span class='scene-font-katari'>その後、姬塔一行は、</span><br><span class='scene-font-katari'>姬塔の無事を伝えるため、</span><br><span class='scene-font-katari'>故郷の</span><span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を訪れる。</span>,<span class='scene-font-katari'>在那之后，姬塔一行人为了传达平安无事的消息，重返故乡</span><span class='scene-font-place'>赞克汀泽</span><span class='scene-font-katari'>。</span>
 25,"Upon their arrival, a crowd of villagers gathered to welcome 姬塔 and company.",<span class='scene-font-katari'>するとそこには、</span><br><span class='scene-font-katari'>姬塔達を歓迎するように</span><br><span class='scene-font-katari'>村人達が集まっていた。</span>,<span class='scene-font-katari'>当地村民们便聚集起来欢迎他们。</span>
@@ -98,7 +98,7 @@ id,en,jp,trans
 99,"Just like her... Like Yggdrasil, primal beasts can form pacts with their islands.",あの子……<br>ユグドラシルがそうであったように、<br>星晶獣は島と契約を結ぶことが出来るの。,正像尤格多拉希尔那样，星晶兽是可以和岛屿结立契约的。
 100,Those who form pacts become the divine protector of the island and can bring out its true power.,島と契約を結んだ星晶獣は、<br>その島の守り神となる代わりに、<br>その島では絶対的な力を発揮するわ。,与岛屿签订契约的星晶兽，作为这座岛屿的保护神，在这个岛上可以发挥出其真正的力量。
 101,"Not only that, but its power as a guardian can greatly affect the island.",それだけじゃなく、<br>守護神となった星晶獣の力は、<br>島に大きな影響を及ぼすの。,不仅如此，成为守护神的星晶兽的力量也会对岛屿产生很大的影响。
-102,"I gotcha. So Tiamat's protection accounts for the wind in Port Breeze, huh？",なるほどな……その星晶獣の力の影響を、<br><span class='scene-font-place'>ポート・ブリーズ</span>では<br>ティアマトの加護って呼んでたわけか。,我明白了，这种星晶兽之力的影响就可以解释在<span class='scene-font-place'>微风港群岛</span>的提亚马特的加护了吧。
+102,"I gotcha. So Tiamat's protection accounts for the wind in Port Breeze, huh？",なるほどな……その星晶獣の力の影響を、<br><span class='scene-font-place'>ポート・ブリーズ</span>では<br>ティアマトの加護って呼んでたわけか。,我明白了，这种星晶兽之力的影响就可以解释在<span class='scene-font-place'>微风港群岛</span>的提亚玛特的加护了吧。
 103,"And the seas of 奥古斯特 are tied to Leviathan... Well, it makes sense！",<span class='scene-font-place'>アウギュステ</span>の海と、<br>リヴァイアサンの関係は……<br>まぁ、言うまでもねぇか。,也可以解释<span class='scene-font-place'>奥古斯特</span>的海与利维坦之间的关系了吧，就是这么回事吗。
 104,"But, what about Luminiera's power on 阿尔比昂？",しかし、<span class='scene-font-place'>アルビオン</span>の<br>シュヴァリエのような例は……？,但是，<span class='scene-font-place'>阿尔比昂</span>的修瓦利耶怎么说呢？
 105,"Of course, there are a few exceptions.",もちろん、ある程度の例外はあるわ。,当然，也有一些例外。
@@ -125,7 +125,7 @@ id,en,jp,trans
 131,！,～～～～っ！！,~~~~！！
 132,Why would you say that！You blockhead！,なんでそんなこと言うのよ！？<br>ばかーっ！！,你为什么这么说！？笨蛋！！
 134,Hey！Oy！,あっ！　おい！,啊…喂！
-135,Io...,イオちゃん……,伊欧酱……
+135,Io...,イオちゃん……,小伊欧……
 136,"Io runs away, but no one goes to stop her. An awkward silence falls over the group.",<span class='scene-font-katari'>結局、走り去るイオを</span><br><span class='scene-font-katari'>誰も追うことは出来ず、</span><br><span class='scene-font-katari'>気まずい沈黙が流れる。</span>,<span class='scene-font-katari'>伊欧跑出去之后，没人去阻拦她，尴尬的沉默笼罩着众人。</span>
 137,...,…………,…………
 138,I suppose it's all true... The Erste Empire really is gone...,確かに……<br>もうエルステ帝国は、<br>存在しないんですよね……,确实，埃尔斯特帝国已经不复存在了呢。

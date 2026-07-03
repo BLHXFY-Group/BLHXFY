@@ -11,7 +11,7 @@ id,name,text,trans
 13,,<span class='scene-font-katari'>そう言い残すと、</span><br><span class='scene-font-katari'>もうひとりのラカムは、</span><br><span class='scene-font-katari'>嵐の中へと消えていったのだった。</span>,说完这句话，另一个拉卡姆便消失在了风暴之中。
 14,ラカム/拉卡姆,ふぅ……<br>ティアマト、そっちは大丈夫か？,呼……提亚玛特，你那边没事吧？
 15,ティアマト/提亚玛特,――――,————
-17,,<span class='scene-font-katari'>まとわりつく嵐から解放され、</span><br><span class='scene-font-katari'>ティアマトは</span><br><span class='scene-font-katari'>ラカムの元へと降りてくる。</span>,终于从环绕着她的风暴中解脱出来，提亚马特立刻降落到了拉卡姆身边。
+17,,<span class='scene-font-katari'>まとわりつく嵐から解放され、</span><br><span class='scene-font-katari'>ティアマトは</span><br><span class='scene-font-katari'>ラカムの元へと降りてくる。</span>,终于从环绕着她的风暴中解脱出来，提亚玛特立刻降落到了拉卡姆身边。
 18,ラカム/拉卡姆,あいつの言っていたこと……<br>ありゃ、確かに俺の本心だ。,那家伙说的话……那确实是我的真心话。
 19,ラカム/拉卡姆,まぁ、本心に従って、<br>尻尾を巻いて逃げようなんて気は、<br>毛頭ねぇけどよ。,不过，就算是遵循本心，我也不想夹着尾巴逃跑。
 20,ラカム/拉卡姆,結局あいつは、<br>いったい何だったんだ？,他到底是什么人啊？
@@ -19,17 +19,17 @@ id,name,text,trans
 22,,<span class='scene-font-katari'>ラカムの疑問に、</span><br><span class='scene-font-katari'>ティアマトもまた</span><br><span class='scene-font-katari'>困惑している様子で首を振る。</span>,对于拉卡姆的疑问，提亚玛特困惑地摇了摇头。
 23,ラカム/拉卡姆,そうか……<br>いや、とにかくいまは、<br>このまま街に入ろうぜ。,这样啊……不管怎么说，我们现在先到城镇里去把。
 24,ラカム/拉卡姆,他にも人がいりゃ、この嵐のことや、<br>もうひとりの俺についても、<br>何か聞けるかもしれねぇ。,如果哪里还有其他人的话，也许还能听到有关这场暴风、以及另一个我的事。
-25,,<span class='scene-font-katari'>ラカムとティアマトは、</span><br><span class='scene-font-katari'>不可思議な邂逅に思いを巡らせながら、</span><br><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>の城下町へと入る。</span>,拉卡姆和提亚马特一边回想着这场不可思议的邂逅，一边朝着波特布里茨的城郊镇走去。
+25,,<span class='scene-font-katari'>ラカムとティアマトは、</span><br><span class='scene-font-katari'>不可思議な邂逅に思いを巡らせながら、</span><br><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>の城下町へと入る。</span>,拉卡姆和提亚玛特一边回想着这场不可思议的邂逅，一边朝着波特布里茨的城郊镇走去。
 31,,<span class='scene-font-katari'>一方その頃オイゲンは――</span>,与此同时，欧根那边——
 33,アルテミシア,あ、お湯が沸いたみたい。,啊，水好像烧开了。
-35,,<span class='scene-font-katari'>立ち上がり、お茶の準備をしようとする</span><br><span class='scene-font-katari'>アルテミシアを、</span><br><span class='scene-font-katari'>オイゲンはやや強引に制する。</span>,欧根强行制止了正准备起身泡茶的阿尔提米希亚。
+35,,<span class='scene-font-katari'>立ち上がり、お茶の準備をしようとする</span><br><span class='scene-font-katari'>アルテミシアを、</span><br><span class='scene-font-katari'>オイゲンはやや強引に制する。</span>,欧根强行制止了正准备起身泡茶的阿尔忒弥西亚。
 36,オイゲン/欧根,まーまーまー座ってろって！<br>これくらいオレがやっからよ。,你坐着别动！这种事，我来做就行了。
 37,アルテミシア,ふふ……そう？<br>じゃあ、お願いし――,哈哈……是吗？那么，拜托了——
 38,アルテミシア,――あ。,——啊。
 39,オイゲン/欧根,ど、どうした！？<br>大丈夫か！？,怎，怎么了！你还好吗 ！？
 40,アルテミシア,もう……<br>そんな大事じゃないから。,真是的……不用那么关心我啦。
 41,アルテミシア,また動いたわ。<br>今日はなんだか、<br>とっても元気みたい。,他又动了。不知怎么的，他今天的精神好像特别棒。
-42,,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>アルテミシアは愛おしそうに、</span><br><span class='scene-font-katari'>自らの腹部を撫でる。</span>,阿尔提米希亚一边说着，一边怜爱地抚摸着自己的腹部。
+42,,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>アルテミシアは愛おしそうに、</span><br><span class='scene-font-katari'>自らの腹部を撫でる。</span>,阿尔忒弥西亚一边说着，一边怜爱地抚摸着自己的腹部。
 43,アルテミシア,アポロも、<br>やっぱりお父さんが近くにいると、<br>嬉しいのかしらね……,有爸爸在身边，阿波罗果然也很高兴……
 44,オイゲン/欧根,はは……<br>そうだといいんだがなぁ……,哈哈……希望如此……
 45,,<span class='scene-font-katari'>過去の</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>でオイゲンは、</span><br><span class='scene-font-katari'>身重の妻を甲斐甲斐しく支えながら、</span><br><span class='scene-font-katari'>穏やかな日々を送っていた。</span>,在过去的奥古斯特，欧根全心全意地照顾着怀孕的妻子，过着平稳的生活。
@@ -43,21 +43,21 @@ id,name,text,trans
 54,,<span class='scene-font-katari'>よそ見をしていたオイゲンは、</span><br><span class='scene-font-katari'>つい熱されたやかんに触れてしまう。</span>,四处翻找的欧根，不小心碰到了滚烫的水壶。
 55,アルテミシア,だ、大丈夫！？,没、没事吧！？
 56,アルテミシア,いけない……すぐに冷やさないと。,不行……得用冷水冲冲。
-57,オイゲン/欧根,はは……大したことねぇさ。<br>自分で出来るから、<br>アルテミシアは座っててくれ。,哈哈……没什么大不了的。我自己能行，阿尔提米希亚你坐著别动。
+57,オイゲン/欧根,はは……大したことねぇさ。<br>自分で出来るから、<br>アルテミシアは座っててくれ。,哈哈……没什么大不了的。我自己能行，阿尔忒弥西亚你坐著别动。
 58,アルテミシア,もう……<br>ちゃんと手当てしないと、<br>あとで大変なんだからね？,真是的……现在不好好处理的话，以后会变得很麻烦的哦？
 59,オイゲン/欧根,そいつぁ百も承知だぜ。<br>騎空士は火を使う魔物と戦うことも、<br>珍しくねぇからなぁ。,我当然明白的。毕竟骑空士也经常会和火属性的魔物交战，算不上什么稀奇事。
-60,,<span class='scene-font-katari'>ごそごそと火傷の手当てをする</span><br><span class='scene-font-katari'>オイゲンを見て、アルテミシアは</span><br><span class='scene-font-katari'>ふと、笑みをこぼす。</span>,看着正在处理伤口的欧根，阿尔提米希亚噗地笑出了声。
+60,,<span class='scene-font-katari'>ごそごそと火傷の手当てをする</span><br><span class='scene-font-katari'>オイゲンを見て、アルテミシアは</span><br><span class='scene-font-katari'>ふと、笑みをこぼす。</span>,看着正在处理伤口的欧根，阿尔忒弥西亚噗地笑出了声。
 61,アルテミシア,ふふ……なんだか不思議。<br>あんなに空が好きだった貴方が……,哈哈……总觉得不可思议。你明明那么喜欢天空……
 62,アルテミシア,いまはこうして家に居て、<br>のんびりしてるなんて……,现在居然老实地待在家里……
 63,オイゲン/欧根,そりゃ……まぁ、なんだ。<br>身重の妻を置いて空に出るなんざ、<br>流石にありえねぇ、っつーかな……,那是因为……怎么说呢。抛下怀有身孕的妻子出去旅行，也太不像话了，是吧……
-64,オイゲン/欧根,<span class='scene-font-kokoro'>（嘘だ……</span><br><span class='scene-font-kokoro'>オレはこの時も、</span><br><span class='scene-font-kokoro'>やっぱり空に夢中だったんだ……）</span>,(骗人……我当时明明也是沉迷于天空中的……)
-65,オイゲン/欧根,<span class='scene-font-kokoro'>（アポロの出産には立ち会えたが、</span><br><span class='scene-font-kokoro'>家を空けている日も多かった……）</span>,(虽然见证了阿波罗的分娩，但更多的日子并不是在家中渡过的……)
-66,オイゲン/欧根,<span class='scene-font-kokoro'>（それが騎空士、っつう</span><br><span class='scene-font-kokoro'>仕事の因果とはいえ……）</span>,(这就是……身为骑空士的因果吗……)
-67,オイゲン/欧根,<span class='scene-font-kokoro'>（オレは身重のアルテミシアに</span><br><span class='scene-font-kokoro'>寂しい思いをさせちまった……）</span>,(我既然让怀孕的阿尔提米希亚感到寂寞了……)
+64,オイゲン/欧根,<span class='scene-font-kokoro'>（嘘だ……</span><br><span class='scene-font-kokoro'>オレはこの時も、</span><br><span class='scene-font-kokoro'>やっぱり空に夢中だったんだ……）</span>,（骗人……我当时明明也是沉迷于天空中的……）
+65,オイゲン/欧根,<span class='scene-font-kokoro'>（アポロの出産には立ち会えたが、</span><br><span class='scene-font-kokoro'>家を空けている日も多かった……）</span>,（虽然见证了阿波罗的分娩，但更多的日子并不是在家中渡过的……）
+66,オイゲン/欧根,<span class='scene-font-kokoro'>（それが騎空士、っつう</span><br><span class='scene-font-kokoro'>仕事の因果とはいえ……）</span>,（这就是……身为骑空士的因果吗……）
+67,オイゲン/欧根,<span class='scene-font-kokoro'>（オレは身重のアルテミシアに</span><br><span class='scene-font-kokoro'>寂しい思いをさせちまった……）</span>,（我既然让怀孕的阿尔忒弥西亚感到寂寞了……）
 68,オイゲン/欧根,…………,…………
-69,オイゲン/欧根,<span class='scene-font-kokoro'>（ここは過去であって過去じゃねぇ……</span><br><span class='scene-font-kokoro'>おそらくはオレの過去に似せた、</span><br><span class='scene-font-kokoro'>また別の場所だ……）</span>,(这里既是过去，也不是过去……只是模仿着我过去的，另一个地方……)
-70,オイゲン/欧根,<span class='scene-font-kokoro'>（いま、アルテミシアに尽くしたって、</span><br><span class='scene-font-kokoro'>失ったもんは戻ってこねぇ……</span><br><span class='scene-font-kokoro'>過去は変えられねぇんだ……）</span>,(不论现在我怎么为阿尔提米希亚补偿，失去的东西也回不来了……毕竟过去的事情是改变不了的……)
-71,オイゲン/欧根,<span class='scene-font-kokoro'>（そいつはオレも、</span><br><span class='scene-font-kokoro'>わかっちゃいるんだが……）</span>,(这点，我当然是知道的……)
+69,オイゲン/欧根,<span class='scene-font-kokoro'>（ここは過去であって過去じゃねぇ……</span><br><span class='scene-font-kokoro'>おそらくはオレの過去に似せた、</span><br><span class='scene-font-kokoro'>また別の場所だ……）</span>,（这里既是过去，也不是过去……只是模仿着我过去的，另一个地方……）
+70,オイゲン/欧根,<span class='scene-font-kokoro'>（いま、アルテミシアに尽くしたって、</span><br><span class='scene-font-kokoro'>失ったもんは戻ってこねぇ……</span><br><span class='scene-font-kokoro'>過去は変えられねぇんだ……）</span>,（不论现在我怎么为阿尔忒弥西亚补偿，失去的东西也回不来了……毕竟过去的事情是改变不了的……）
+71,オイゲン/欧根,<span class='scene-font-kokoro'>（そいつはオレも、</span><br><span class='scene-font-kokoro'>わかっちゃいるんだが……）</span>,（这点，我当然是知道的……）
 72,アルテミシア,オイゲン？　大丈夫？<br>ボーっとして、熱でもあるの？,欧根？你还好吗？怎么一直在发呆。你发烧了吗？
 73,オイゲン/欧根,ああ、いや、なんでもねぇ……,啊啊，不，没什么……
 74,オイゲン/欧根,それよりどうだ？<br>今晩食いたいもんは決まったか？<br>やっぱり鮮度がいいもんがいいか？,比起这个， 你决定今晚想吃什么了吗？果然是新鲜的东西？
@@ -90,7 +90,7 @@ id,name,text,trans
 112,,<span class='scene-font-katari'>返す言葉を持つことが出来ず、</span><br><span class='scene-font-katari'>歯ぎしりと共に</span><br><span class='scene-font-katari'>オイゲンは頭を抱える。</span>,在黑骑士面前，欧根紧紧咬着牙关，抱着头，一个字也说不出来。
 113,,<span class='scene-font-katari'>そこへもう一つ、</span><br><span class='scene-font-katari'>足音が近づいていることに、</span><br><span class='scene-font-katari'>オイゲンは気づく。</span>,这时，欧根注意到另一个脚步声也越来越近了。
 114,アルテミシア,…………,…………
-115,オイゲン/欧根,アルテミシア……<br>お前、なんでここに……,阿尔提米希亚……你，你怎么会在这里……
+115,オイゲン/欧根,アルテミシア……<br>お前、なんでここに……,阿尔忒弥西亚……你，你怎么会在这里……
 116,,<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>アルテミシアは答えることなく</span><br><span class='scene-font-katari'>オイゲンと黒騎士の間に割って入る。</span>,她没有回答，只是走到了欧根和黑骑士之间。
 117,アルテミシア,…………,…………
 118,黒騎士？/黑骑士？,…………,…………
@@ -100,7 +100,7 @@ id,name,text,trans
 123,アルテミシア,ふぅ……,呼……
 124,アルテミシア,大丈夫？　オイゲン。,你还好吗？欧根。
 125,オイゲン/欧根,あ、ああ……,啊，啊啊……
-126,,<span class='scene-font-katari'>呆然とするオイゲンの手を取った</span><br><span class='scene-font-katari'>アルテミシアは、</span><br><span class='scene-font-katari'>その手を握り、引いていく。</span>,看着站在原地发呆的欧根，阿尔提米希亚牵起了他的手，然后紧紧地握住了。
+126,,<span class='scene-font-katari'>呆然とするオイゲンの手を取った</span><br><span class='scene-font-katari'>アルテミシアは、</span><br><span class='scene-font-katari'>その手を握り、引いていく。</span>,看着站在原地发呆的欧根，阿尔忒弥西亚牵起了他的手，然后紧紧地握住了。
 127,アルテミシア,帰りましょう、オイゲン。,我们回家吧，欧根。
 128,オイゲン/欧根,ああ……そうだな。,嗯……也是。
 129,,<span class='scene-font-katari'>オイゲンは握られた手を、</span><br><span class='scene-font-katari'>愛おしそうに握り返す。</span>,<span class='scene-font-katari'>欧根怀抱着爱意，紧紧地握住了对方的手。</span>

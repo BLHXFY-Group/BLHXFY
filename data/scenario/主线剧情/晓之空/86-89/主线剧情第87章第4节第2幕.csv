@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第87章　思わぬ再会,第87章 未预之再会
-0-synopsis,,カタリナの一刀を鎧に受け、ラカムはついに膝をつく。ラカムの苦しげな表情に姬塔が思わず駆け寄ると、ラカムは姬塔だけに聞こえる声で、グランサイファーを助けてほしいと、切実な憂いを帯びた言葉を囁くのだった。,铠甲受到了卡塔莉娜的一击，拉卡姆终于屈膝。看到拉卡姆痛苦的表情，姬塔不由得到他身边。拉卡姆用只有姬塔能听到的声音说出了，希望你们能请救救格兰塞法号，他的话语中确实包含了迫切的忧虑。
+0-synopsis,,カタリナの一刀を鎧に受け、ラカムはついに膝をつく。ラカムの苦しげな表情に姬塔が思わず駆け寄ると、ラカムは姬塔だけに聞こえる声で、グランサイファーを助けてほしいと、切実な憂いを帯びた言葉を囁くのだった。,铠甲受到了卡塔莉娜的一击，拉卡姆终于屈膝。看到拉卡姆痛苦的表情，姬塔不由得到他身边。拉卡姆用只有姬塔能听到的声音说出了，希望你们能请救救格兰赛法号，他的话语中确实包含了迫切的忧虑。
 0,カタリナ/卡塔莉娜,<span class='scene-font-4'>はあぁぁっ！</span>,<span class='scene-font-4'>哈！</span>
 2,ラカム/拉卡姆,くっ……,咕…
 3,,<span class='scene-font-katari'>カタリナの一刀を鎧に受け、</span><br><span class='scene-font-katari'>ついにラカムは膝をつく。</span>,<span class='scene-font-katari'>铠甲受到了卡塔莉娜的一击，拉卡姆终于屈膝。</span>
@@ -14,9 +14,9 @@ id,name,text,trans
 9,,<span class='scene-font-katari'>崩れ落ちそうになるラカムは、</span><br><span class='scene-font-katari'>姬塔にもたれかかるようにして、</span><br><span class='scene-font-katari'>その耳元に口を寄せる。</span>,<span class='scene-font-katari'>身体摇摇欲坠的拉卡姆像是要搭上姬塔的肩膀，凑向姬塔的耳边。</span>
 10,,<span class='scene-font-katari'>そうしてラカムは、</span><br><span class='scene-font-katari'>姬塔に囁くように、</span><br><span class='scene-font-katari'>己の本心を告げるのだった。</span>,<span class='scene-font-katari'>然后拉卡姆向姬塔轻诉出了自己内心的想法。</span>
 11,ラカム/拉卡姆,<span class='scene-font-2'>すまねぇ……</span><br><span class='scene-font-2'>だが、</span><br><span class='scene-font-2'>いまはこれしか方法がなかったんだ。</span>,<span class='scene-font-2'>不好意思，现在只能这么做了。</span>
-12,ラカム/拉卡姆,<span class='scene-font-2'>無茶な頼みだってのはわかってる……</span><br><span class='scene-font-2'>だが見捨てるなんて、</span><br><span class='scene-font-2'>俺には出来るわけがねぇ……</span>,<span class='scene-font-2'>我也知道这是个很胡来的请求，但是要舍弃的话，我办不到。</span>
+12,ラカム/拉卡姆,<span class='scene-font-2'>無茶な頼みだってのはわかってる……</span><br><span class='scene-font-2'>だが見捨てるなんて、</span><br><span class='scene-font-2'>俺には出来るわけがねぇ……</span>,我也知道这是个很胡来的请求，\n但是要我舍弃它的话，\n我办不到。
 13,,<span class='scene-font-katari'>ラカムは姬塔に預ける身に、</span><br><span class='scene-font-katari'>懇願を示すかのように力を入れる。</span>,由姬塔支撑着的拉卡姆的身体，似乎为了表达出这一恳切的愿望而倾注了力气。</span>
-14,ラカム/拉卡姆,<span class='scene-font-2'>だから……助けてくれ。</span><br><span class='scene-font-2'>俺達の艇……グランサイファーを。</span>,<span class='scene-font-2'>所以，请你救救它——我们的骑空艇，格兰塞法号。</span>
+14,ラカム/拉卡姆,<span class='scene-font-2'>だから……助けてくれ。</span><br><span class='scene-font-2'>俺達の艇……グランサイファーを。</span>,<span class='scene-font-2'>所以，请你救救它——我们的骑空艇，格兰赛法号。</span>
 15,,<span class='scene-font-katari'>姬塔はラカムが告げる内容に、</span><br><span class='scene-font-katari'>驚きの表情を見せる。</span>,<span class='scene-font-katari'>对于拉卡姆告知的内容，姬塔浮现出震惊的表情。</span>
 16,,<span class='scene-font-katari'>しかし、姬塔の耳にだけ届いた</span><br><span class='scene-font-katari'>その言葉は、何よりも切実な</span><br><span class='scene-font-katari'>憂いを帯びているのだった。</span>,<span class='scene-font-katari'>但是，这番话中的无比迫切的忧虑之情也确实传达到了姬塔那里。</span>
 info,,,scene_cp87_q4_s30

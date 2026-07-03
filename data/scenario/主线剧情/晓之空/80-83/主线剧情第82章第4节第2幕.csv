@@ -1,6 +1,6 @@
 id,en,jp,trans
 0-chapter_name,82: Cain's Trap,第82章　カインの罠,第82章 该隐设陷
-0-synopsis,"While 姬塔 and the crew signal to Cain that they've secured the seal, Cain explains to the villagers that destroying the seal will cause the fortress to self-destruct. Despite the danger to his men, Reinhardtzar refuses to surrender and attempts to harm a villager, but he's soon stopped by the woman searching for Cain.",盗賊を倒した姬塔一行は、「封印」破壊の合図を待つことにする。カインの言う「封印」とは、星の民が残した、砦を自壊させる装置であった。カインはラインハルザに、砦もろとも仲間を犠牲にするか、村人を解放しイデルバ王国に降伏するか、どちらかを選べと迫る。ラインハルザは降伏を拒み、後には引けないのだと村人に拳を振り上げる。その時、カインを探していた女性が現れ、ラインハルザを制止する。,姬塔一行击败了盗贼后，继续等待着破坏“封印”的信号。该隐所说的“封印”，是星之民留下的让要塞自毁的装置。该隐质问莱茵哈萨，是要牺牲自己的同伴还是要释放村民并向伊迪尔瓦王国投降。莱茵哈萨拒绝了投降，表示自己已经没有回头路可走，便向村民挥出了拳头。那时，寻找该隐的那位女性现身，制止了莱茵哈萨。
+0-synopsis,"While 姬塔 and the crew signal to Cain that they've secured the seal, Cain explains to the villagers that destroying the seal will cause the fortress to self-destruct. Despite the danger to his men, Reinhardtzar refuses to surrender and attempts to harm a villager, but he's soon stopped by the woman searching for Cain.",盗賊を倒した姬塔一行は、「封印」破壊の合図を待つことにする。カインの言う「封印」とは、星の民が残した、砦を自壊させる装置であった。カインはラインハルザに、砦もろとも仲間を犠牲にするか、村人を解放しイデルバ王国に降伏するか、どちらかを選べと迫る。ラインハルザは降伏を拒み、後には引けないのだと村人に拳を振り上げる。その時、カインを探していた女性が現れ、ラインハルザを制止する。,姬塔一行击败了盗贼后，继续等待着破坏“封印”的信号。该隐所说的“封印”，是星之民留下的让要塞自毁的装置。该隐质问莱茵哈萨，是要牺牲自己的同伴还是要释放村民并向伊德尔瓦王国投降。莱茵哈萨拒绝了投降，表示自己已经没有回头路可走，便向村民挥出了拳头。那时，寻找该隐的那位女性现身，制止了莱茵哈萨。
 2,Nghh...,ぐふっ……,ぐふっ……
 3,"Forgive me, Tzar...",すまねぇ、キング……,对不起，老大……
 5,"Good job, 姬塔. That should be the last of them...",流石だな、姬塔。<br>これで、粗方片付いたか……,不愧是姬塔，这样就全部收拾掉了吧。
@@ -43,7 +43,7 @@ id,en,jp,trans
 42,...,…………,…………
 43,But what's this... self-destruct seal anyway？,だからその、<br>自壊封印、ってのは……？,所以那个自坏封印到底是…？
 44,Cain decides to take a moment to explain what exactly the seal does.,<span class='scene-font-katari'>村人の問いにカインは、</span><br><span class='scene-font-katari'>一度間を置き、</span><br><span class='scene-font-katari'>丁寧に説明するように口を開く。</span>,<span class='scene-font-katari'>该隐暂时没有回应村民的问题，而是十分细心地开始说明。</span>
-45,"The self-destruct seal is a seal that, once broken, will make Sturren Fort collapse.",自壊封印、ってのは、<br>あの砦……<span class='scene-font-place'>シュテルンフォート</span>を<br>破壊するためのものなんだ。,自坏封印是为了破坏那座<span class='scene-font-place'>修特伦要塞</span>所作出的东西。
+45,"The self-destruct seal is a seal that, once broken, will make Sturren Fort collapse.",自壊封印、ってのは、<br>あの砦……<span class='scene-font-place'>シュテルンフォート</span>を<br>破壊するためのものなんだ。,自坏封印是为了\n破坏那座<span class='scene-font-place'>修特伦要塞</span>而制造的。
 46,That fortress will collapse？But why was such a thing...,あの砦を破壊……？<br>なんでそんなものが……,破坏那座要塞？为什么会有这样的东西…
 47,"Long story short, Sturren Fort was built by the Astrals a long time ago.",んー。細かい話は省略するけど、<br><span class='scene-font-place'>シュテルンフォート</span>は、<br>かつて星の民が作ったものなんだ。,嗯…过于细致的事情就省略了，那座<span class='scene-font-place'>修特伦要塞</span>过去是星之民做出的东西。
 48,Haven't you ever wondered why this island on the Nalhegrande border has a fortress？,そもそも、<br>ナル・グランデの辺境であるこの島に、<br>どうして砦があるのか……,说起来，为什么在纳尔・格兰德边境的这座岛上，会有那座要塞呢。
@@ -77,7 +77,7 @@ id,en,jp,trans
 76,Reinhardtzar hears the matter-of-fact tone of Cain's voice.,<span class='scene-font-katari'>カインはあくまで淡々と、</span><br><span class='scene-font-katari'>ラインハルザに告げる。</span>,<span class='scene-font-katari'>该隐一直保持着淡漠的态度与莱茵哈萨对话。</span>
 77,"Now we're in a stalemate. So what's your next move, Your Majesty？",これで状況は五分だぜ。<br>さぁ、どうする、盗賊王。,这样局势就对半开了，那么你要怎么办呢，盗贼王？
 78,Well... you're holding all my men hostage in the fortress. So what are your demands？,お前は……<br>砦に居るオレの仲間全てを人質にして、<br>何を要求するってんだ？,你把要塞中我的所有同伴都当成人质，打算提出什么要求？
-79,Release the villagers. And hand the island back over to the Idelva Kingdom without any further resistance.,村人の解放。<br>それとこの島を無抵抗で<br>イデルバ王国に明け渡してほしい。,释放村民，并且无抵抗地将这座岛交还给伊迪尔瓦王国。
+79,Release the villagers. And hand the island back over to the Idelva Kingdom without any further resistance.,村人の解放。<br>それとこの島を無抵抗で<br>イデルバ王国に明け渡してほしい。,释放村民，并且无抵抗地将这座岛交还给伊德尔瓦王国。
 80,Reinhardtzar pauses a moment to think before giving a curt answer.,<span class='scene-font-katari'>カインの要求に対し、</span><br><span class='scene-font-katari'>ラインハルザはわずかに間を置き、</span><br><span class='scene-font-katari'>しかし、ハッキリと答えを返す。</span>,<span class='scene-font-katari'>对于该隐的要求，莱茵哈萨特意停顿片刻，然后明确地给予回复。</span>
 81,I refuse. You say you'll break the seal？Then let's see you do it.,断わる。<br>自壊封印の破壊？<br>やれるもんならやってみろよ。,我拒绝，破坏自坏封印？能做得到的话就去做啊。
 82,Tzar... But then the men in the fortress...,キ、キング……？<br>それじゃあ、砦の奴らは……,老…老大，那样的话要塞里的家伙就…

@@ -29,7 +29,7 @@ id,name,text,trans
 66,スツルム/斯特姆,足手まといにだけはなるなよ。,你们别拖我后腿。
 67,イオ/伊欧,ふふん……<br>そんなこと言えるのも、<br>いまのうちだけなんだから！,哼……能让你这么说的，也就只有现在了。
 68,イオ/伊欧,強くなったあたし達を見て、<br>びっくりしないでよね。,等会你看到变强之后的我们，可别吓一跳哦。
-69,,<span class='scene-font-katari'>オーキスは</span><br><span class='scene-font-katari'>やってきたカインとラインハルザに、</span><br><span class='scene-font-katari'>改めて礼を告げる。</span>,欧姬丝再次向该隐和莱茵哈撒致谢。
+69,,<span class='scene-font-katari'>オーキスは</span><br><span class='scene-font-katari'>やってきたカインとラインハルザに、</span><br><span class='scene-font-katari'>改めて礼を告げる。</span>,欧姬丝再次向该隐和莱茵哈萨致谢。
 70,オーキス/欧姬丝,ありがとう……<br>さっきは、助けてくれて。,谢谢你……刚才，多谢你了。
 71,カイン/该隐,気にすんなって。<br>だって、君が先に<br>俺達を助けてくれただろ？,没关系。毕竟，你之前也救了我们不是么？
 72,カイン/该隐,ほら、<span class='scene-font-place'>ベスティエ島</span>の森でさ。,那个，就是在贝斯缇耶岛的森林里。
@@ -39,15 +39,15 @@ id,name,text,trans
 76,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>皆の集結に安堵の笑みを浮かべる。</span>,众人终于得以汇合，姬塔一行人终于露出了安心的微笑。
 77,,<span class='scene-font-katari'>しかし、相対するギルベルトは、</span><br><span class='scene-font-katari'>それすら眼中に無い様子で、</span><br><span class='scene-font-katari'>呆然と自身の両手を見つめていた。</span>,然而，吉尔伯特却茫然地注视着自己的双手。
 78,ギルベルト,…………,…………
-79,ギルベルト,<span class='scene-font-kokoro'>（いま……</span><br><span class='scene-font-kokoro'>俺は何をしようとしていた……？）</span>,(刚才……我是想干什么来着……？)
-80,ギルベルト,<span class='scene-font-kokoro'>（いや……</span><br><span class='scene-font-kokoro'>何になろうとしていたんだ……？）</span>,(不……我是想变成什么样来着……？)
-81,ビィ/碧,やいやい、ギルベルト！<br>ぼーっとしてないで、<br>フォリアを離しやがれ！,喂喂喂，吉尔伯特！你别发呆了！快从芙莉雅身边离开！！
+79,ギルベルト,<span class='scene-font-kokoro'>（いま……</span><br><span class='scene-font-kokoro'>俺は何をしようとしていた……？）</span>,（刚才……我是想干什么来着……？）
+80,ギルベルト,<span class='scene-font-kokoro'>（いや……</span><br><span class='scene-font-kokoro'>何になろうとしていたんだ……？）</span>,（不……我是想变成什么样来着……？）
+81,ビィ/碧,やいやい、ギルベルト！<br>ぼーっとしてないで、<br>フォリアを離しやがれ！,喂喂喂，吉尔伯特！你别发呆了！快从芙莉亚身边离开！！
 82,ギルベルト,…………,…………
 83,ギルベルト,ふふ……くくっ……,呼呼……哼哼……
 84,ギルベルト,いや、いいか……<br>なんだって……,不，这都无关紧要……毕竟……
-85,ギルベルト,<span class='scene-font-kokoro'>（元々俺は力が欲しかったんだ……</span><br><span class='scene-font-kokoro'>どんな力でもいい、</span><br><span class='scene-font-kokoro'>とにかく大きな力が……）</span>,(原本我就是想要获得力量……不论什么力量都可以，总之就是强大的力量……)
-86,ギルベルト,<span class='scene-font-kokoro'>（力が無い奴は惨めに死ぬ……</span><br><span class='scene-font-kokoro'>俺はもう負け犬にはならない）</span>,(没有力量的人会凄惨地死去……我可不会做那样的败家之犬。)
-87,ギルベルト,<span class='scene-font-kokoro'>（全てを支配するために……</span><br><span class='scene-font-kokoro'>俺は全ての力が欲しい……！）</span>,(为了统治一切……我想要得到一切力量……！)
+85,ギルベルト,<span class='scene-font-kokoro'>（元々俺は力が欲しかったんだ……</span><br><span class='scene-font-kokoro'>どんな力でもいい、</span><br><span class='scene-font-kokoro'>とにかく大きな力が……）</span>,（原本我就是想要获得力量……不论什么力量都可以，总之就是强大的力量……）
+86,ギルベルト,<span class='scene-font-kokoro'>（力が無い奴は惨めに死ぬ……</span><br><span class='scene-font-kokoro'>俺はもう負け犬にはならない）</span>,（没有力量的人会凄惨地死去……我可不会做那样的败家之犬。）
+87,ギルベルト,<span class='scene-font-kokoro'>（全てを支配するために……</span><br><span class='scene-font-kokoro'>俺は全ての力が欲しい……！）</span>,（为了统治一切……我想要得到一切力量……！）
 88,,<span class='scene-font-katari'>ギルベルトは己を取り戻し、</span><br><span class='scene-font-katari'>上機嫌そうな笑みを浮かべる。</span>,终于找回真心的吉尔伯特，终于露出了开心的笑容。
 89,ギルベルト,くく……くははは……！,咕咕……咕哈哈……！
 90,ビィ/碧,なんだぁ、あいつ……<br>なんで笑ってやがんだ……？,搞什么，那家伙……他为什么要笑……？

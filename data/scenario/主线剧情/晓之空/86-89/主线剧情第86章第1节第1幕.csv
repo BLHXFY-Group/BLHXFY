@@ -4,7 +4,7 @@ id,name,text,trans
 1,カタリナ/卡塔莉娜,千里眼の賢者……？,千里眼的贤者……？
 2,フォリア/芙莉亚,うむ……<br>このナル・グランデにはな、<br>そう呼ばれる男がおるのじゃ。,正是……<br>在这个纳尔·格兰德，有一个男人号称千里眼的贤者。
 3,,<span class='scene-font-katari'>イデルバ国王フォリアから期待に応え、</span><br><span class='scene-font-katari'>その力を認められた姬塔一行。</span>,<span class='scene-font-katari'>姬塔一行通过了试炼，伊德尔瓦国王芙莉亚认同了众人的实力。</span>
-4,,<span class='scene-font-place'>首都ルクスリエース</span><span class='scene-font-katari'>に戻った数日後、</span><br><span class='scene-font-katari'>姬塔達はフォリアから</span><br><span class='scene-font-katari'>呼び出され、玉座の間を訪れていた。</span>,<span class='scene-font-katari'>回到</span><span class='scene-font-place'>首都卢克西里厄斯</span><span class='scene-font-katari'>后数日，芙莉亚再次召见众人。</span>
+4,,<span class='scene-font-place'>首都ルクスリエース</span><span class='scene-font-katari'>に戻った数日後、</span><br><span class='scene-font-katari'>姬塔達はフォリアから</span><br><span class='scene-font-katari'>呼び出され、玉座の間を訪れていた。</span>,<span class='scene-font-katari'>回到</span><span class='scene-font-place'>首都卢克西里厄斯</span><span class='scene-font-katari'>数日后，芙莉亚再次召见众人。</span>
 5,フォリア/芙莉亚,これがまた、実に厄介な男でな……<br>その異名に違わず、<br>あらゆることを見透かしてきよる。,他是个非常难对付的男人……<br>名副其实，能够看穿一切。
 6,フォリア/芙莉亚,以前、妾自ら、奴の元まで<br>出向いたこともあったが、<br>早々に妾の正体を見破りおっての。,妾身曾经亲自拜访过他，他早早地识破了妾身的身份。
 7,フォリア/芙莉亚,こちらがあ奴で遊ぶどころか、<br>礼を尽くして丁重に<br>出迎えられてしもうたわ。,别说陪妾身游玩了，他竟对妾身大礼相迎。
@@ -42,15 +42,15 @@ id,name,text,trans
 35,フォリア/芙莉亚,つまりはお主らが、一時的とはいえ、<br>イデルバの名を負うことを、<br>良しとするかじゃな。,各位如果接受委托，就会暂时成为我伊德尔瓦的一员。看各位能否接受了。
 35-sel1_txt,,<span class='scene-font-katari'>…………</span>,
 36,ビィ/碧,なぁ、どうする、姬塔……？,怎么办啊，姬塔……？
-37,ビィ/碧,オイラ達、騎空団、ってことを考えると、<br>確かにちょっと、<br>もやっとする部分があるよな……,想到咱们是个骑空团，就觉得这样不太妥当……
+37,ビィ/碧,オイラ達、騎空団、ってことを考えると、<br>確かにちょっと、<br>もやっとする部分があるよな……,想到咱们是个骑空团，俺总觉得这样不太妥当……
 38,ルリア/露莉亚,でも……<br>その賢者さんが、<br>なんでも知ってる人なら……,但是……<br>如果那位贤者真的什么都知道……
 39,ルリア/露莉亚,もしかすると、離ればなれになってる<br>騎空団の皆のことを、<br>教えてもらえるかもしれません。,说不定能告诉我们其他同伴都在哪里。
-40,ルリア/露莉亚,それに、<span class='scene-font-spword'>星の民</span>じゃないのに、<br>星晶獣の力が使える、っていうのも、<br>すごく気になるんです。,而且我也很在意。他明明不是<span class='scene-font-spword'>星之民</span>却能使用星晶兽的力量。
+40,ルリア/露莉亚,それに、<span class='scene-font-spword'>星の民</span>じゃないのに、<br>星晶獣の力が使える、っていうのも、<br>すごく気になるんです。,而且我也很在意。为什么他明明不是<span class='scene-font-spword'>星之民</span>，却能使用星晶兽的力量。
 41,カタリナ/卡塔莉娜,ふむ……ビィ君の言うことも、<br>ルリアの言うことも、<br>どちらも正しい。,唔……碧和露莉亚说的都有道理。
 42,カタリナ/卡塔莉娜,姬塔……君はどう思う？<br>この依頼、受けるかどうかは、<br>君の判断に任せよう。,姬塔……你怎么想？<br>要不要接受这个委托，由你来决定。
 42-sel1_txt,,<span class='scene-font-katari'>いまは仲間が心配</span>,<span class='scene-font-katari'>我比较担心同伴们</span>
 42-sel2_txt,,<span class='scene-font-katari'>得られる情報は多そう</span>,<span class='scene-font-katari'>感觉能得到很多情报</span>
-43,ビィ/碧,まぁ、確かに……<br>いまはとにかく早く、<br>他の奴らと合流しねーとな！,也是啊……<br>我们现在得优先和其他人汇合才行！
+43,ビィ/碧,まぁ、確かに……<br>いまはとにかく早く、<br>他の奴らと合流しねーとな！,也是啊……<br>俺们现在得优先和其他人汇合才行！
 44,ルリア/露莉亚,はい……いまの私達は、<br>この空域についても、それ以外でも、<br>知らないことばっかりですし……,是的……我们现在对于这个空域和其他事情都知道的太少了……
 45,フォリア/芙莉亚,ふむ……<br>話はまとまった様じゃが、<br>改めて聞くぞ。,唔……<br>看来你们已经商量好了，妾身再问一遍。
 46,フォリア/芙莉亚,千里眼の賢者の島……<br><span class='scene-font-place'>クルーガー島</span>へ、行ってくれるか、<br>姬塔よ。,你们能为我国前往千里眼贤者的岛屿……<span class='scene-font-place'>克尔加岛</span>么？

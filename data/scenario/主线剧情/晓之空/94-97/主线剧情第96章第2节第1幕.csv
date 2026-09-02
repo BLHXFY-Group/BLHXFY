@@ -8,7 +8,7 @@ id,name,text,trans
 3,,<span class='scene-font-katari'>その眼前には、</span><br><span class='scene-font-katari'>静かに眠り続ける</span><br><span class='scene-font-katari'>ラカムとオイゲンの姿があった。</span>,在他们面前，拉卡姆和欧根只是静静地睡着。
 4,カタリナ/卡塔莉娜,ふたりが意識を失ってから、<br>これでもう３日だ……,他们已经失去知觉三天了……
 5,カタリナ/卡塔莉娜,本当に、<br>ふたりは大丈夫なんだろうな……？,他们两个……真的没事吗……？
-6,,<span class='scene-font-katari'>教えの最奥へと至るため、</span><br><span class='scene-font-katari'>ゼエンの力によって、星晶獣と</span><br><span class='scene-font-katari'>仮の契約を結んだラカム、オイゲン。</span>,为了领悟教义的秘奥，在泽恩的帮助之下，拉卡姆、欧根与星晶兽签订了临时契约。
+6,,<span class='scene-font-katari'>教えの最奥へと至るため、</span><br><span class='scene-font-katari'>ゼエンの力によって、星晶獣と</span><br><span class='scene-font-katari'>仮の契約を結んだラカム、オイゲン。</span>,为了领悟教义的秘奥，在泽恩的帮助之下，拉卡姆、欧根与星晶兽缔结了临时契约。
 7,,<span class='scene-font-katari'>ふたりはその瞬間から</span><br><span class='scene-font-katari'>現在にいたるまで、</span><br><span class='scene-font-katari'>昏々と眠り続けていたのだった。</span>,从那时起，他们就像这样一直昏睡不醒。
 8,ゼエン,仮とは言え、彼らはいま、<br>星晶獣との契約状態にある。,虽说是暂时的，但他们现在正处于和星晶兽缔结契约的状态。
 9,ゼエン,言い方を変えるならば、<br>星晶獣と融合を果たしている、<br>とも言えるだろう。,换句话说，他现在是与星晶兽融为一体的。
@@ -26,7 +26,7 @@ id,name,text,trans
 19,カタリナ/卡塔莉娜,確かに一般的には、<br>星晶獣は<span class='scene-font-spword'>星の民</span>でないと従えることは<br>出来ない、と言われているな……,的确，一般来说，星晶兽只会服从星之民的命令……
 20,カタリナ/卡塔莉娜,しかし、七曜の騎士達の力を思うと、<br>星晶獣や<span class='scene-font-spword'>星の民</span>には、<br>まだ私達の知らない秘密がありそうだ。,但是，从七曜骑士的力量看来，星晶兽和星之民们似乎还有什么我们不知道的秘密。
 21,,<span class='scene-font-katari'>ゼエンは姬塔達に対し、</span><br><span class='scene-font-katari'>講義を行うように手を広げる。</span>,泽恩就像是要给姬塔他们上课一般，张开了双臂。
-22,カタリナ/卡塔莉娜,<span class='scene-font-place'>アルビオン</span>の星晶獣シュヴァリエは、<br>私達空の民であっても、<br>契約を結べていたが……,即便我们是空之民，阿尔比昂的星晶兽修瓦利耶也依然与我们签订了契约……
+22,カタリナ/卡塔莉娜,<span class='scene-font-place'>アルビオン</span>の星晶獣シュヴァリエは、<br>私達空の民であっても、<br>契約を結べていたが……,即便我们是空之民，阿尔比昂的星晶兽修瓦利耶也依然与我们缔结了契约……
 23,ゼエン,あれは<span class='scene-font-place'>クルーガー島</span>の教えの最奥とは、<br>また異なるものだ。,这是与克尔加岛的教义秘奥截然不同的存在。
 24,ゼエン,シュヴァリエは仕手を必要とする<br>星晶獣であり、君達の言う契約とは、<br>そのためのものだろう。,修瓦利耶是一种需要操纵者的星晶兽。你所说的契约，大概就是这么回事吧。
 25,,<span class='scene-font-katari'>ゼエンは姬塔達に対し、</span><br><span class='scene-font-katari'>講義を行うように手を広げる。</span>,泽恩就像是要给姬塔他们上课一般，张开了双臂。

@@ -1,66 +1,66 @@
 id,name,text,trans
 0-chapter_name,,第98章　蠢く凶兆,第98章 蠢动的凶兆
-0-synopsis,,調べものを続けていたレオナは、ハクタクの能力で隠されていた情報を見つける。やがてレオナはフォリアが隠してきた真実を知り、忠義心と復讐心の板挟みになる。そこに、虚ろな様子のカインが現れ、アベルのため仇を討てとレオナを唆す。レオナがフォリアのもとへ向かったあと、正気に戻ったカインは何が起きたかわからない様子で書庫を後にするのだった。,继续调查的了蕾欧娜发现了许多被白泽隐藏起来的真相。没过多久，她便发现了芙莉亚所隐藏的真相，陷入了忠诚与复仇的夹缝之中。这时候，眼神空洞的该隐出现，教唆蕾欧娜为亚伯报仇。正在蕾欧娜准备前往芙莉亚的住处只是，该隐突然恢复了原来的样子，然后离开了档案室，就像是什么都没有发生一般。
-1,,<span class='scene-font-katari'>星晶獣ハクタクにより、</span><br><span class='scene-font-katari'>何らかの能力を解除されたレオナ。</span>,在蕾欧娜被星晶兽白泽解除了某种限制之后。
-2,,<span class='scene-font-katari'>その後レオナは、</span><br><span class='scene-font-katari'>フォリアが言い残した通り、</span><br><span class='scene-font-katari'>調べものを続けていた。</span>,正如芙莉亚所说，她一直在进行着调查。
+0-synopsis,,調べものを続けていたレオナは、ハクタクの能力で隠されていた情報を見つける。やがてレオナはフォリアが隠してきた真実を知り、忠義心と復讐心の板挟みになる。そこに、虚ろな様子のカインが現れ、アベルのため仇を討てとレオナを唆す。レオナがフォリアのもとへ向かったあと、正気に戻ったカインは何が起きたかわからない様子で書庫を後にするのだった。,继续调查的蕾欧娜发现了被白泽的能力隐藏起来的情报。没过多久，她便发现了芙莉亚隐瞒的真相，陷入了忠诚与复仇的夹缝之中。这时候，眼神空洞的该隐出现，教唆蕾欧娜为亚伯报仇。正在蕾欧娜准备前往芙莉亚的住处之时，该隐突然恢复了原来的样子，然后离开了档案室，就像是什么都没有发生一般。
+1,,<span class='scene-font-katari'>星晶獣ハクタクにより、</span><br><span class='scene-font-katari'>何らかの能力を解除されたレオナ。</span>,在蕾欧娜被星晶兽白泽<br>解除了某种限制之后。
+2,,<span class='scene-font-katari'>その後レオナは、</span><br><span class='scene-font-katari'>フォリアが言い残した通り、</span><br><span class='scene-font-katari'>調べものを続けていた。</span>,她照着芙莉亚留下的指示，<br>一直在进行着调查。
 5,レオナ/蕾欧娜,……やっぱりだ。,……果然是这样。
-6,レオナ/蕾欧娜,この資料、こっちの文献も、<br>さっき調べたときは、<br>こんな記述なかったのに……,这份资料，那边的文献也，刚才进行调查的时候明明没有这样的记录……
-7,,<span class='scene-font-katari'>レオナが手にしているのは、</span><br><span class='scene-font-katari'>先ほどフォリアに見つかる前に、</span><br><span class='scene-font-katari'>目を通した資料だった。</span>,蕾欧娜手里拿的是刚才被芙莉亚发现之前浏览过的资料。
-8,,<span class='scene-font-katari'>しかし、そこには、</span><br><span class='scene-font-katari'>先ほど読んだときには無かった情報が</span><br><span class='scene-font-katari'>幾つも記されていた。</span>,可是，上面却记载着好几条刚才没能读到的信息。
-9,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（記述が書き加えられた……？</span><br><span class='scene-font-kokoro'>でも、こんな、</span><br><span class='scene-font-kokoro'>あっちもこっちもたくさん……）</span>,（难道是添加了描述吗……？但是，也不会这么多吧……）
-10,,<span class='scene-font-katari'>内容の書き加えられた</span><br><span class='scene-font-katari'>無数の資料を前に、</span><br><span class='scene-font-katari'>レオナは一つの可能性に気付く。</span>,面对着无数的资料，蕾欧娜发现了一种可能性。
+6,レオナ/蕾欧娜,この資料、こっちの文献も、<br>さっき調べたときは、<br>こんな記述なかったのに……,这份资料，那边的文献也，<br>刚才进行调查的时候<br>明明没有这样的记录……
+7,,<span class='scene-font-katari'>レオナが手にしているのは、</span><br><span class='scene-font-katari'>先ほどフォリアに見つかる前に、</span><br><span class='scene-font-katari'>目を通した資料だった。</span>,蕾欧娜手里拿的<br>是刚才被芙莉亚发现之前<br>浏览过的资料。
+8,,<span class='scene-font-katari'>しかし、そこには、</span><br><span class='scene-font-katari'>先ほど読んだときには無かった情報が</span><br><span class='scene-font-katari'>幾つも記されていた。</span>,可是，上面却记载着<br>好几条刚才没能读到的信息。
+9,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（記述が書き加えられた……？</span><br><span class='scene-font-kokoro'>でも、こんな、</span><br><span class='scene-font-kokoro'>あっちもこっちもたくさん……）</span>,（难道是添加了描述吗……？<br>但是，也不会这么多吧……）
+10,,<span class='scene-font-katari'>内容の書き加えられた</span><br><span class='scene-font-katari'>無数の資料を前に、</span><br><span class='scene-font-katari'>レオナは一つの可能性に気付く。</span>,面对着无数的资料，<br>蕾欧娜发现了一种可能性。
 11,レオナ/蕾欧娜,まさか……逆？,难道是……反过来？
-12,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（書かれていることが</span><br><span class='scene-font-kokoro'>変わったんじゃなくて……）</span>,（不是改变了上面记载着的东西……）
+12,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（書かれていることが</span><br><span class='scene-font-kokoro'>変わったんじゃなくて……）</span>,（不是改变了<br>上面记载着的东西……）
 13,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（書かれていることに、</span><br><span class='scene-font-kokoro'>私がさっきまで</span><br><span class='scene-font-kokoro'>気付いていなかった……？）</span>,（而是我没能注意到……？）
-14,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（でもこれだけの情報、</span><br><span class='scene-font-kokoro'>単純に読み過ごした、ってことは……）</span>,（但是如此大量的情报，我不可能就这么忽略掉……）
+14,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（でもこれだけの情報、</span><br><span class='scene-font-kokoro'>単純に読み過ごした、ってことは……）</span>,（但是如此大量的情报，<br>我不可能就这么忽略掉……）
 15,レオナ/蕾欧娜,…………,…………
-16,レオナ/蕾欧娜,気付けないようにさせられていた……？<br>おそらく、ハクタクさんの能力で……,难道说是什么力量令我没能注意到……？恐怕，这就是白泽的能力吧……
-17,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（ハクタクさんは星晶獣だし、</span><br><span class='scene-font-kokoro'>それくらいのことは出来るのかも……）</span>,（白泽是星晶兽，做到这点也许并不难……）
-18,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（そして、それだけのことをして、</span><br><span class='scene-font-kokoro'>この情報を隠していたってことは……）</span>,（而且，居然动用了这样的手段，来隐藏这些情报……）
-19,,<span class='scene-font-katari'>レオナは何かに憑りつかれたように、</span><br><span class='scene-font-katari'>手当たり次第に資料を漁っていく。</span>,蕾欧娜像是着了魔似的，抓到哪个是哪个，拼命翻找着资料。
-25,,<span class='scene-font-katari'>そうしてレオナは、</span><br><span class='scene-font-katari'>ギルベルトの告げた内容について、</span><br><span class='scene-font-katari'>一つの真実にたどり着くのだった。</span>,就这样，蕾欧娜终于找到了吉尔伯特所说的那个真相。
+16,レオナ/蕾欧娜,気付けないようにさせられていた……？<br>おそらく、ハクタクさんの能力で……,难道说是什么力量<br>令我没能注意到……？<br>恐怕，这就是白泽的能力吧……
+17,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（ハクタクさんは星晶獣だし、</span><br><span class='scene-font-kokoro'>それくらいのことは出来るのかも……）</span>,（白泽是星晶兽，<br>做到这点也许并不难……）
+18,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（そして、それだけのことをして、</span><br><span class='scene-font-kokoro'>この情報を隠していたってことは……）</span>,（而且，居然动用了这样的手段，<br>来隐藏这些情报……）
+19,,<span class='scene-font-katari'>レオナは何かに憑りつかれたように、</span><br><span class='scene-font-katari'>手当たり次第に資料を漁っていく。</span>,蕾欧娜像是着了魔似的，<br>抓到哪个是哪个，<br>拼命翻找着资料。
+25,,<span class='scene-font-katari'>そうしてレオナは、</span><br><span class='scene-font-katari'>ギルベルトの告げた内容について、</span><br><span class='scene-font-katari'>一つの真実にたどり着くのだった。</span>,就这样，蕾欧娜终于找到了<br>吉尔伯特所说的那个真相。
 26,レオナ/蕾欧娜,…………,…………
-27,レオナ/蕾欧娜,これが……<br>ギルベルトの言っていた、<br>陛下の罪……,这就是……吉尔伯特所说的，陛下的罪过……
-28,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（繋がった……</span><br><span class='scene-font-kokoro'>ギルベルトの言葉も、</span><br><span class='scene-font-kokoro'>陛下の行動も、全て……）</span>,（一切都连起来了……吉尔伯特的话和陛下一直以来的行动，全都……）
-29,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（確かにこれは、</span><br><span class='scene-font-kokoro'>とても公に出来る内容じゃない。）</span>,（确实，这些都是不能公开的内容。）
-30,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（それに、</span><br><span class='scene-font-kokoro'>復讐の機会の意味もわかった……）</span>,（而且，我也知道了“复仇的机会”到底意味着什么……）
-31,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（わかった……</span><br><span class='scene-font-kokoro'>けど……）</span>,（我已经知道了，可是……）
-32,,<span class='scene-font-katari'>フォリアの真実を知り、</span><br><span class='scene-font-katari'>レオナは忠義心と復讐心の</span><br><span class='scene-font-katari'>板挟みになっていた。</span>,知道了有关芙莉亚的真相后，蕾欧娜一时陷入了忠诚心与复仇心的夹缝之中。
-33,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（アベル……</span><br><span class='scene-font-kokoro'>私はどうしたらいいのかな……</span><br><span class='scene-font-kokoro'>もし、貴方なら……）</span>,（亚伯……我该怎么办呢……如果，是你的话……）
-35,レオナ/蕾欧娜,<span class='scene-font-4'>っ！？　だ、誰ですかっ！？</span>,啊！是、是谁啊！？
-36,,<span class='scene-font-katari'>突然の物音に思わず身をすくめ、</span><br><span class='scene-font-katari'>レオナは振り返る。</span>,突如其来的声音把蕾欧娜吓了一跳，她连忙回过头。
+27,レオナ/蕾欧娜,これが……<br>ギルベルトの言っていた、<br>陛下の罪……,这就是……<br>吉尔伯特所说的，<br>陛下的罪过……
+28,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（繋がった……</span><br><span class='scene-font-kokoro'>ギルベルトの言葉も、</span><br><span class='scene-font-kokoro'>陛下の行動も、全て……）</span>,（一切都连起来了……<br>吉尔伯特的话<br>和陛下一直以来的行动，全都……）
+29,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（確かにこれは、</span><br><span class='scene-font-kokoro'>とても公に出来る内容じゃない。）</span>,（确实，<br>这些都是不能公开的内容。）
+30,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（それに、</span><br><span class='scene-font-kokoro'>復讐の機会の意味もわかった……）</span>,（而且，我也知道了<br>“复仇的机会”到底意味着什么……）
+31,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（わかった……</span><br><span class='scene-font-kokoro'>けど……）</span>,（我已经知道了，<br>可是……）
+32,,<span class='scene-font-katari'>フォリアの真実を知り、</span><br><span class='scene-font-katari'>レオナは忠義心と復讐心の</span><br><span class='scene-font-katari'>板挟みになっていた。</span>,知道了有关芙莉亚的真相后，<br>蕾欧娜一时陷入了<br>忠诚心与复仇心的夹缝之中。
+33,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（アベル……</span><br><span class='scene-font-kokoro'>私はどうしたらいいのかな……</span><br><span class='scene-font-kokoro'>もし、貴方なら……）</span>,（亚伯……<br>我该怎么办呢……<br>如果，是你的话……）
+35,レオナ/蕾欧娜,<span class='scene-font-4'>っ！？　だ、誰ですかっ！？</span>,啊！？是、是谁啊！？
+36,,<span class='scene-font-katari'>突然の物音に思わず身をすくめ、</span><br><span class='scene-font-katari'>レオナは振り返る。</span>,突如其来的声音把蕾欧娜吓了一跳，<br>她连忙回过头。
 37,カイン/该隐,…………,…………
-38,レオナ/蕾欧娜,カインか……<br>びっくりしたぁ……,是该隐啊……吓我一跳啊……
-39,レオナ/蕾欧娜,そうだ、カイン。<br>貴方にも見てほしいものが……,对了，该隐。我有些东西想让你看看……
+38,レオナ/蕾欧娜,カインか……<br>びっくりしたぁ……,是该隐啊……<br>吓我一跳啊……
+39,レオナ/蕾欧娜,そうだ、カイン。<br>貴方にも見てほしいものが……,对了，该隐。<br>我有些东西想让你看看……
 40,カイン/该隐,どうして。,为什么。
 41,レオナ/蕾欧娜,え……？,咦……？
-42,カイン/该隐,どうしてお前はあの時……<br>あの<span class='scene-font-place'>ベスティエ島</span>で、<br>すぐギルベルトに襲い掛かったんだ？,为什么你那时候……在贝斯缇耶岛上，上来就先攻击了吉尔伯特？
-43,カイン/该隐,吹き飛ばされた俺を助けるより、<br>ギルベルトを倒すことを優先した。<br>それは何故だ？,你把打倒吉尔伯特放在了救助被攻击炸飞的我之前。这是为什么？
-44,レオナ/蕾欧娜,え……ど、どうしたのカイン？<br>何かちょっと変だよ？,咦……怎、怎么了该隐？你好像，有点不对劲哦？
+42,カイン/该隐,どうしてお前はあの時……<br>あの<span class='scene-font-place'>ベスティエ島</span>で、<br>すぐギルベルトに襲い掛かったんだ？,为什么你那时候……<br>在贝斯缇耶岛上，<br>上来就先攻击了吉尔伯特？
+43,カイン/该隐,吹き飛ばされた俺を助けるより、<br>ギルベルトを倒すことを優先した。<br>それは何故だ？,你把打倒吉尔伯特<br>放在了救助被攻击炸飞的我之前。<br>这是为什么？
+44,レオナ/蕾欧娜,え……ど、どうしたのカイン？<br>何かちょっと変だよ？,咦……怎、怎么了该隐？<br>你好像，有点不对劲哦？
 45,カイン/该隐,答えろ。,回答我。
-46,レオナ/蕾欧娜,っ……<br>あ、あの時は、咄嗟のことで、<br>上手く説明できないんだけど……,啊……啊，那个时候，我下意识就冲上去了，我也不知道该怎么解释……
+46,レオナ/蕾欧娜,っ……<br>あ、あの時は、咄嗟のことで、<br>上手く説明できないんだけど……,啊……<br>啊，那个时候，我下意识就冲上去了，<br>我也不知道该怎么解释……
 47,カイン/该隐,あれが、お前の本心だったんだ。,因为，那才是你的本意。
-48,カイン/该隐,お前にとってカインは、<br>所詮、怒りや復讐心の憑代でしかない。,对你来说，该隐不过是是用来抒发愤怒与复仇心的寄托罢了。
-49,カイン/该隐,どれだけ大切だと口にしていようと、<br>カインはお前の<br>心の平静を保つための道具に過ぎない。,不论你口头上如何说他很重要，但在你眼中，该隐只是用来让你保持平和心态的道具而已。
+48,カイン/该隐,お前にとってカインは、<br>所詮、怒りや復讐心の憑代でしかない。,对你来说，该隐不过是<br>用来抒发愤怒与复仇心的寄托罢了。
+49,カイン/该隐,どれだけ大切だと口にしていようと、<br>カインはお前の<br>心の平静を保つための道具に過ぎない。,不论你口头上如何说他很重要，<br>但在你眼中，该隐<br>只是用来让你保持平和心态的工具而已。
 50,レオナ/蕾欧娜,な、なに言ってるの……？,你、你在说什么……？
-51,カイン/该隐,アベルのこともそうだ。<br>お前はアベルのことすら、<br>すでにどうとも思っていない。,亚伯也是如此。而且，现在的你已经连亚伯也不在乎了。
-52,カイン/该隐,ただ、整理のつかない感情を、<br>誤魔化し続けているだけだ。<br>そこに真にアベルを思う気持ちは無い。,你只是在逃避你无法整理的感情，不断欺骗自己罢了。其实根本没有真正为亚伯着想。
-53,レオナ/蕾欧娜,ッ！！　そんなわけない！<br>私はアベルを……<br>そのために……,这、这怎么可能！我所做的一切……都是为了亚伯……
+51,カイン/该隐,アベルのこともそうだ。<br>お前はアベルのことすら、<br>すでにどうとも思っていない。,亚伯也是如此。<br>而且，现在的你<br>已经连亚伯也不在乎了。
+52,カイン/该隐,ただ、整理のつかない感情を、<br>誤魔化し続けているだけだ。<br>そこに真にアベルを思う気持ちは無い。,你只是在逃避你无法整理的感情，<br>不断欺骗自己罢了。<br>其实根本没有真正为亚伯着想。
+53,レオナ/蕾欧娜,ッ！！　そんなわけない！<br>私はアベルを……<br>そのために……,这、这怎么可能！<br>我所做的一切……<br>都是为了亚伯……
 54,カイン/该隐,なら、何を迷っている。,那么，你到底在犹豫什么。
-55,カイン/该隐,討つべき相手を見つけながら、<br>それを成さないのは、<br>アベルに対する裏切りだ。,明明已经找到了应该复仇的对象，却没有立刻付出行动。这就是对亚伯的背叛。
-56,カイン/该隐,お前の思いなど、<br>所詮は己の保身を優先できる、<br>その程度のものだったんだ。,你心中想着的，说到头来只是保全自己这种程度的东西。
-57,レオナ/蕾欧娜,<span class='scene-font-4'>違うッ！！</span><br>私はアベルを……<br>そのためなら、なんだって……！！,不是的！！我是为了亚伯………为了他，我什么都会做……！！
-58,カイン/该隐,ならば迷うな。<br>仇を討ち、無念を晴らせ。,那就别犹豫。为他报仇，为他雪除冤屈吧。
+55,カイン/该隐,討つべき相手を見つけながら、<br>それを成さないのは、<br>アベルに対する裏切りだ。,明明已经找到了应该复仇的对象，<br>却没有立刻付出行动。<br>这就是对亚伯的背叛。
+56,カイン/该隐,お前の思いなど、<br>所詮は己の保身を優先できる、<br>その程度のものだったんだ。,你心中想着的，<br>说到头来只是保全自己这种程度的东西。
+57,レオナ/蕾欧娜,<span class='scene-font-4'>違うッ！！</span><br>私はアベルを……<br>そのためなら、なんだって……！！,不是的！！<br>我是为了亚伯………<br>为了他，我什么都会做……！！
+58,カイン/该隐,ならば迷うな。<br>仇を討ち、無念を晴らせ。,那就别犹豫。<br>为他报仇，为他雪除冤屈吧。
 59,レオナ/蕾欧娜,ッ……！！,唔……！！
-61,,<span class='scene-font-katari'>レオナは妄執にかられた様子で、</span><br><span class='scene-font-katari'>振り返ることなく、</span><br><span class='scene-font-katari'>資料庫を飛び出していく。</span>,蕾欧娜皱着眉头，头也不回地冲出了资料库。
+61,,<span class='scene-font-katari'>レオナは妄執にかられた様子で、</span><br><span class='scene-font-katari'>振り返ることなく、</span><br><span class='scene-font-katari'>資料庫を飛び出していく。</span>,蕾欧娜皱着眉头，<br>头也不回地冲出了资料库。
 62,カイン/该隐,…………,…………
-64,,<span class='scene-font-katari'>次の瞬間、</span><br><span class='scene-font-katari'>虚ろな様子で佇んでいたカインは、</span><br><span class='scene-font-katari'>不意に体勢を崩すのだった。</span>,下个瞬间，该隐的身体突然失去了平衡。
+64,,<span class='scene-font-katari'>次の瞬間、</span><br><span class='scene-font-katari'>虚ろな様子で佇んでいたカインは、</span><br><span class='scene-font-katari'>不意に体勢を崩すのだった。</span>,下个瞬间，<br>该隐的身体突然失去了平衡。
 67,カイン/该隐,っ……,唔……
-68,カイン/该隐,んん……？<br>あ、あれ……どこだ？　ここ。,嗯嗯……？咦、咦……这……是哪？
+68,カイン/该隐,んん……？<br>あ、あれ……どこだ？　ここ。,嗯嗯……？<br>咦、咦……这……是哪？
 69,カイン/该隐,俺、こんなところで何を……？,我在这种地方做什么……？
-70,カイン/该隐,あ、そうだ。<br>確か、レオ姉を探してて……,啊，对了。我刚才确实是在找蕾欧姐……
-71,,<span class='scene-font-katari'>カインは確認するように、</span><br><span class='scene-font-katari'>資料庫の中を見回す。</span>,该隐环顾资料库，像是在寻找蕾欧娜的身影。
-72,カイン/该隐,ここにもいない、か……<br>むぅ……レオ姉、どこ行ったんだ……？,也不在这里啊……唔……蕾欧姐，究竟去哪里了……？
-73,,<span class='scene-font-katari'>カインは困った様子で頭をかきながら、</span><br><span class='scene-font-katari'>資料庫を後にする。</span>,该隐一脸困惑地挠着头，离开了档案室。
-74,,<span class='scene-font-katari'>その裏では、</span><br><span class='scene-font-katari'>一つの国の崩壊が</span><br><span class='scene-font-katari'>始まりつつあるのだった。</span>,在这一切的背后，一个国家的崩溃，正缓缓解开了帷幕。
+70,カイン/该隐,あ、そうだ。<br>確か、レオ姉を探してて……,啊，对了。<br>我刚才确实是在找蕾欧姐……
+71,,<span class='scene-font-katari'>カインは確認するように、</span><br><span class='scene-font-katari'>資料庫の中を見回す。</span>,该隐环顾资料库，<br>像是在寻找蕾欧娜的身影。
+72,カイン/该隐,ここにもいない、か……<br>むぅ……レオ姉、どこ行ったんだ……？,也不在这里啊……<br>唔……蕾欧姐，究竟去哪里了……？
+73,,<span class='scene-font-katari'>カインは困った様子で頭をかきながら、</span><br><span class='scene-font-katari'>資料庫を後にする。</span>,该隐一脸困惑地挠着头，<br>离开了档案室。
+74,,<span class='scene-font-katari'>その裏では、</span><br><span class='scene-font-katari'>一つの国の崩壊が</span><br><span class='scene-font-katari'>始まりつつあるのだった。</span>,在这一切的背后，<br>一个国家的崩溃，<br>正缓缓揭开了帷幕。
 info,,,scene_cp98_q1_s10

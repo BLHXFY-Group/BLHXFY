@@ -2,7 +2,7 @@ id,en,jp,trans
 0-chapter_name,81: King of the Outlaws,第81章　盗賊王,第81章 盗贼王
 0-synopsis,"The outlaws force Cain, 姬塔, and the crew to follow them to their den. The gang leader Reinhardtzar explains that they're all ex-soldiers from a corrupted, fallen country and that he wants to build a country safe for all. Cain angrily opposes his plan as it means war against other kingdoms and deaths of innocent people.",盗賊団のアジトに連行されるカインと姬塔達。その道中、姬塔達はラインハルザ率いる盗賊団が元々はトリッド王国の正規軍であり、今は、弱い立場の者でも生きていける国作りを目指していると聞かされる。カインはその考えを真っ向から非難するも、ラインハルザは顔色一つ変えず、「お前の思う理想の王ってのは、なんだ？」と問うのだった。,在被带去盗贼据点的路上，姬塔等人意外得知莱茵哈萨率领的盗贼团原是特里德王国的正规军，而现在他想建立一个让弱者可以生存的国家。该隐正面驳斥了这一设想，但莱茵哈萨却不为所动，反问他“对你而言理想的王是怎样的”。
 0,"Cain, 姬塔, and the crew, led by Reinhardtzar's gang, walk the path to the den.",<span class='scene-font-katari'>姬塔達とカインは、</span><br><span class='scene-font-katari'>ラインハルザ率いる盗賊団に囲まれ、</span><br><span class='scene-font-katari'>彼らのアジトへの道を進む。</span>,<span class='scene-font-katari'>姬塔等人<br>被莱茵哈萨统率的盗贼团包围着，<br>走向他们的据点。</span>
-1,...,…………,…
+1,...,…………,
 2,I wonder what's going to happen to us...,はぁ……<br>この先、どうなっちまうんだ？<br>オイラ達……,哈……<br>接下来俺们会被怎么样啊……
 3,I don't know... But we have to find the others no matter what.,わかりません……<br>でも、絶対に、<br>他の皆と合流しないと……,不知道，<br>但是我们必须得想办法<br>和其他同伴会合……
 4,"Don't worry. Even in a pinch like this, we could easily...",大丈夫だ……<br>こんな包囲など、簡単に……,没关系，<br>这样的包围圈很轻易就……
@@ -29,7 +29,7 @@ id,en,jp,trans
 25,Suddenly Cain's eyes grow wide in surprise.,<span class='scene-font-katari'>それを聞き、</span><br><span class='scene-font-katari'>カインは驚いたように目を見開く。</span>,<span class='scene-font-katari'>听说这件事后，<br>该隐震惊地瞪大了眼。</span>
 26,Does that mean... you're from Torhid Kingdom？,それじゃあ……<br>お前、トリッド王国の……？,难道说……<br>你是特里德王国的……
 27,"That's right. From the look on your face, I'm guessing you know something about it.",そうだよ。<br>その様子じゃ、お前も関係者か？,没错，看样子你也是相关人士啊。
-28,...,…………,…
+28,...,…………,
 29,"Well, it's no matter. What's done is done. Hindsight's 50/50 they say, but it won't do us any good now.",まぁ、なんだっていい。<br>無いものはもう無いんだ。<br>それをとやかく言っても仕方がない。,不过也都无所谓了。<br>失去的东西已经无可挽回，<br>再怎么说也都是白费力气。
 30,The real problems didn't start till later. We were looking for a new country that'd take us in.,問題はその後だ……<br>オレ達はオレ達を受け入れてくれる<br>新たな国を探した。,问题是在那之后，<br>我们去寻找能接纳我们的新国家。
 31,But it was nowhere to be found. Despite the fact that our country was in such disarray.,だが、そんな国は、どこにも無かった。<br>あれだけ国の乱立していた時代にも<br>関わらず、だ。,但是那样的国家哪都没有，<br>虽然这也和各国分立的时代背景<br>有关系就是了。
@@ -44,7 +44,7 @@ id,en,jp,trans
 40,"The other outlaws gaze up at Reinhardtzar, with a faint glimmer of hope in their eyes.",<span class='scene-font-katari'>ラインハルザは強く拳を握りしめ、</span><br><span class='scene-font-katari'>盗賊達はそんなラインハルザの横顔に、</span><br><span class='scene-font-katari'>期待の眼差しを送っていた。</span>,<span class='scene-font-katari'>莱茵哈萨紧攥拳头，<br>盗贼们用期待的目光<br>望向莱茵哈萨的侧脸。</span>
 41,"But Katalina seems unconvinced. Raising an eyebrow, she begins a bitter reply.",<span class='scene-font-katari'>しかし、それとは対照的に</span><br><span class='scene-font-katari'>カタリナは眉をひそめ、</span><br><span class='scene-font-katari'>吐き捨てるように告げる。</span>,<span class='scene-font-katari'>但是与之相对，<br>卡塔莉娜则蹙着眉，<br>用一种唾弃的口吻说道：</span>
 42,That's a joke... What about the villagers？How can you threaten them one moment and spout your powerlessness in the next？,詭弁だな……<br>村人達を……弱者を虐げておきながら、<br>お前は何を言っているんだ。,真是诡辩，\n明明之前那样欺压村民……\n弱者们，你还能说出这样的话？
-43,...,…………,…
+43,...,…………,
 44,Reinhardtzar glances once at Katalina before shifting his gaze to the rising fortress in the distance.,<span class='scene-font-katari'>ラインハルザはカタリナを一瞥すると、</span><br><span class='scene-font-katari'>遠くそびえる砦に目を向ける。</span>,<span class='scene-font-katari'>莱茵哈萨瞟了一眼卡塔莉娜，<br>目光望向远处的据点。</span>
 45,Tell me. Have you ever wanted to be a ruler？,お前、王を志したことはあるか？,你有想过成为一名王者吗？
 46,What is this about？,何の話だ……,这又扯到什么话题了？

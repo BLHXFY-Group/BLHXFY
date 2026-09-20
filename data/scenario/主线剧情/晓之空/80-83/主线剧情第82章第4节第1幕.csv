@@ -72,14 +72,14 @@ id,en,jp,trans
 75,"Oh yeah？Well, Cain did say it was a seal or something...",なんだって……！<br>確かカインの奴、「封印」、<br>って言ってたし……,你说什么！<br>该隐说过它是个“封印”吧。
 76,Maybe the primal beast on this island is sealed up.,もしかして、<br>この島の星晶獣を<br>封印してあるのか……？,难道是封印着<br>这座岛上的星晶兽吗？
 77,"Hm... It feels like it, but it's still different from primal beast power somehow.",うーん……<br>でも、似てるんだけど、<br>星晶獣とはまた違う感じがして……,嗯，虽然很像，<br>但是感觉和星晶兽<br>又有点不一样。
-78,Nevertheless it's clear that the Astrals were involved somehow.,ともあれ、<br>星の民が絡んでいることは、<br>確かなようだな……,无论如何，<br>可以确定的是，<br>它与星之民有关。
+78,Nevertheless it's clear that the Astrals were involved somehow.,ともあれ、<br>星の民が絡んでいることは、<br>確かなようだな……,无论如何，<br>可以确定的是，<br>它与<span class='scene-font-spword'>星之民</span>有关。
 79,"But for now you'd better get your weapon ready, 姬塔. They've come, just as he said they would.",それと……<br>剣を構えるんだ、姬塔。<br>お出ましのようだぞ、彼の予想通りにな。,而且……<br>姬塔，摆好架势。<br>如他所料，那些人来了。
 80,姬塔 and the crew ready themselves as Reinhardtzar's outlaws start to appear.,<span class='scene-font-katari'>姬塔達が</span><br><span class='scene-font-katari'>臨戦態勢を整えるのとほぼ同時に、</span><br><span class='scene-font-katari'>周囲から盗賊達が姿を現す。</span>,<span class='scene-font-katari'>几乎就在姬塔等人做好战斗准备的同一时刻，<br>一帮盗贼从他们身旁涌现。</span>
 81,Why are you sniffin' around here？Put your weapons down and your hands up.,お前ら、ここで何してやがる……<br>大人しく武器を捨てて、<br>両手を上げろ。,你们这些人在这做什么！<br>老老实实放下武器，<br>举起双手！
 82,"As the outlaw speaks, the other outlaws form a circle around 姬塔 and the crew.",<span class='scene-font-katari'>そう告げる盗賊達は、</span><br><span class='scene-font-katari'>姬塔達を囲むように、</span><br><span class='scene-font-katari'>幾重にも輪を作っていた。</span>,<span class='scene-font-katari'>盗贼这么宣告着，<br>围成了好几圈，<br>将姬塔等人团团围住。</span>
 83,Yikes... We're surrounded...,うげ……<br>囲まれちまってるじゃねーか……,糟了……<br>这不是被包围了吗。
 84,It's just as Cain said. We're in a do-or-die situation here.,カインの言っていた通り、<br>ここが正念場になるだろうな。,正如该隐所说，<br>这就是关键时刻了吧。
-85,"But we agreed to help him, so there's no room for failure！",託された以上、<br>失敗するわけにはいかない……！,既然受人所托<br>，我们就决不能在此落败！
+85,"But we agreed to help him, so there's no room for failure！",託された以上、<br>失敗するわけにはいかない……！,既然受人所托，<br>我们就决不能在此落败！
 86,"Let's fight them off, 姬塔！Both Cain and the villagers are counting on us to make it through！",村人とカインのためにも、<br>ここを切り抜けるぞ！<br>姬塔！,为了村民和该隐，<br>杀出去吧！姬塔！
 info,1,1,scene_cp82_q4_s10
 ,,,

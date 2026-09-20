@@ -19,11 +19,11 @@ id,en,jp,trans
 15,...which wouldn't be the case if you had carried out those orders in Nalhegrande Skydom.,これというのも、<br>お前がナル・グランデで<br>然るべき責務を果たさないせいだ……,事情会发展成这样，<br>还不是你没能在纳尔·格兰德空域<br>履行理应达成的使命。
 16,It would only be right of you to make amends and dutifully obey this order.,せめてもの罪滅ぼしとして、<br>真摯に任務にあたることだな。,至少为了将功赎罪，<br>还请务必尽职尽责完成这个任务。
 17,"Now now, that seems a bit stern...",やれやれ……<br>これは手厳しい……,哎哟哟，<br>可真是严厉啊。
-18,...,…………,…
+18,...,…………,
 19,Baragona's blithe attitude fans the flames of the knight's seething anger.,<span class='scene-font-katari'>飄々としたバラゴナの態度に、</span><br><span class='scene-font-katari'>黄金の騎士はなおも苛立ちを募らせる。</span>,<span class='scene-font-katari'>对于巴拉格纳这一事不关己的态度，</span><br><span class='scene-font-katari'>金骑士怒意渐盛。</span>
 20,"Under the king's orders, you were supposed to keep watch over Akasha at Lumacie.",陛下から命じられ、<span class='scene-font-place'>ルーマシー群島</span>で<br>お前は星晶獣アーカーシャを<br>監視していたはずだな……,根据陛下的命令，<br>你本该在<span class='scene-font-place'>露玛茜群岛</span>监视好阿卡夏。
 21,How could you do nothing when the Empire's men took Akasha away？,なぜエルステの手の者が、<br>アーカーシャを持ち出した時、<br>何も手を打たなかった？,在帝国的那些家伙搬出阿卡夏时，<br>为什么你什么都没做？
-22,...,…………,…
+22,...,…………,
 23,"Answer me, Baragona！",答えろッ！　バラゴナッ！！,回答我！巴拉格纳！！
 24,Things happen as they happen. That is my answer.,物事は成るようにしかならない……<br>それが私の答えだ。,世事总是风云变幻捉摸不透，<br>这就是我的回答。
 25,Fool！Do you taunt me？,このっ……！<br>お前は私をおちょくっているのか！？,你！！<br>是在捉弄我吗！？
@@ -33,6 +33,6 @@ id,en,jp,trans
 29,"Without a single warning, the Golden Knight draws her sword.",<span class='scene-font-katari'>バラゴナのその言葉に、</span><br><span class='scene-font-katari'>ついに黄金の騎士は、</span><br><span class='scene-font-katari'>己の愛剣を振りかぶる。</span>,<span class='scene-font-katari'>听闻巴拉格纳此言，</span><br><span class='scene-font-katari'>金骑士最终还是举起了自己的剑。</span>
 30,Scoundrel！,<span class='scene-font-5'>貴様ぁあぁッ！！</span>,<span class='scene-font-5'>你这家伙！！</span>
 31,！,………！！,！
-35,The clash shakes the ground beneath them as a loud rumble resonates through the Dydroit Belt.,<span class='scene-font-katari'>その衝突は巨大な振動と音になり、</span><br><span class='scene-font-place'>ダイダロイトベルト</span><span class='scene-font-katari'>全体を、</span><br><span class='scene-font-katari'>瞬く間に駆け巡るのだった。</span>,<span class='scene-font-katari'>那一冲击引发的巨大震动声，</span><br><span class='scene-font-katari'>一瞬间就传遍了整个</span><span class='scene-font-place'>碎石环</span><span class='scene-font-katari'>。</span>
+35,The clash shakes the ground beneath them as a loud rumble resonates through the Dydroit Belt.,<span class='scene-font-katari'>その衝突は巨大な振動と音になり、</span><br><span class='scene-font-place'>ダイダロイトベルト</span><span class='scene-font-katari'>全体を、</span><br><span class='scene-font-katari'>瞬く間に駆け巡るのだった。</span>,<span class='scene-font-katari'>那一冲击引发的巨大震动与声音，</span><br><span class='scene-font-katari'>一瞬间就传遍了整个</span><span class='scene-font-place'>碎石环</span><span class='scene-font-katari'>。</span>
 info,1,1,scene_cp67_q1_s10
 ,,,

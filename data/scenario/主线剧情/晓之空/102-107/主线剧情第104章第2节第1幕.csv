@@ -38,7 +38,7 @@ id,name,text,trans
 47,モニカ/莫妮卡,ともかく、だ……<br>いまの私達は<br>そう簡単には身分を明かせない。,不管怎么说……<br>现在我们不能轻易暴露身份。
 48,モニカ/莫妮卡,何しろヴァルフリート団長直々に<br>秘密裏に調査してくれ、<br>とのことだったからな。,毕竟那个委托人<br>是直接找上瓦尔弗利德团长，<br>要求进行秘密调查的。
 49,モニカ/莫妮卡,となると、戦争状態のイデルバやレムに<br>私達だけで忍び込むのは、<br>現実的ではないな……,这样一来，潜入<br>战争状态的伊德尔瓦或者雷姆，<br>就不怎么现实了……
-50,リーシャ/莉夏,あまり人は住んでいませんけど、<br><span class='scene-font-place'>クルーガー島</span>や<span class='scene-font-place'>ベスティエ島</span>を<br>先に調査しますか？,虽然那边的人不算太多，<br>我们要先去克尔加岛<br>或者贝斯缇耶岛看看吗？
+50,リーシャ/莉夏,あまり人は住んでいませんけど、<br><span class='scene-font-place'>クルーガー島</span>や<span class='scene-font-place'>ベスティエ島</span>を<br>先に調査しますか？,虽然那边的人不算太多，<br>我们要先去<span class='scene-font-place'>克尔加岛</span><br>或者<span class='scene-font-place'>贝斯缇耶岛</span>看看吗？
 51,モニカ/莫妮卡,むむぅ……<br>そうだな……どうしたものか……,唔唔……<br>也是……到底先去哪儿呢……
 52,,<span class='scene-font-katari'>ナル・グランデ空域に来て早々、</span><br><span class='scene-font-katari'>早くも調査が行き詰まりかける</span><br><span class='scene-font-katari'>リーシャとモニカ。</span>,莉夏和莫妮卡<br>虽然早早地就来到了纳尔·格兰德空域，<br>可调查却一度陷入了僵局。
 53,,<span class='scene-font-katari'>そんな中リーシャは、</span><br><span class='scene-font-katari'>ナル・グランデに関する資料をめくり、</span><br><span class='scene-font-katari'>第３の候補地を提案する。</span>,就在这时，莉夏<br>翻开了和纳尔·格兰德空域的相关资料，<br>提出了第三个候补地。
@@ -59,9 +59,9 @@ id,name,text,trans
 68,モニカ/莫妮卡,もしかするとこの依頼は、<br>ナル・グランデがまだ一つだった頃の<br>罪を指しているのかもしれん。,也许……这个委托说的是<br>纳尔·格兰德空域在统一时期所犯下的罪。
 69,リーシャ/莉夏,ナル・グランデが一つだった頃……<br>ということは、<br>トリッド王国が……？,纳尔·格兰德统一的时期……<br>你是说，特里德王国？
 70,モニカ/莫妮卡,可能性はある。<br>十分、賭けるに足る可能性だ。,有可能。<br>而且可能性相当高。
-71,モニカ/莫妮卡,無論、<span class='scene-font-spword'>星の民</span>による占領時代も、<br>一つのナル・グランデだったと<br>言えるだろうがな。,当然，在星之民占领的时代，<br>纳尔·格兰德空域也是统一的。
-72,リーシャ/莉夏,<span class='scene-font-spword'>星の民</span>の占領時代……,被星之民占领的时代……
-73,リーシャ/莉夏,そういえば、あれ……<br>あの遺跡、<span class='scene-font-spword'>『グレートウォール』</span>は、<br><span class='scene-font-spword'>星の民</span>の占領時代からあるそうですよ。,说起来，那个叫做“长城”的遗迹，<br>确实是从星之民占领时代就有了的呢。
+71,モニカ/莫妮卡,無論、<span class='scene-font-spword'>星の民</span>による占領時代も、<br>一つのナル・グランデだったと<br>言えるだろうがな。,当然，在<span class='scene-font-spword'>星之民</span>占领的时代，<br>纳尔·格兰德空域也是统一的。
+72,リーシャ/莉夏,<span class='scene-font-spword'>星の民</span>の占領時代……,被<span class='scene-font-spword'>星之民</span>占领的时代……
+73,リーシャ/莉夏,そういえば、あれ……<br>あの遺跡、<span class='scene-font-spword'>『グレートウォール』</span>は、<br><span class='scene-font-spword'>星の民</span>の占領時代からあるそうですよ。,说起来，那个叫做“长城”的遗迹，<br>确实是从<span class='scene-font-spword'>星之民</span>占领时代就有了的呢。
 74,,<span class='scene-font-katari'>そう告げるリーシャに釣られ、</span><br><span class='scene-font-katari'>モニカも空を見上げる。</span>,莫妮卡被莉夏的话勾起了兴趣，<br>也抬头望向天空。
 75,モニカ/莫妮卡,グレートウォールか……<br>あれは何なんだ？<br>どうして浮いている？,长城啊……<br>那到底是什么？<br>为什么会漂浮在那里？
 76,リーシャ/莉夏,浮いている理由はわかりませんが……,虽然我不知道<br>它为什么会浮在空中……

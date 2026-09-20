@@ -1,12 +1,12 @@
 id,en,jp,trans
 0-chapter_name,64: Night of Reflection,第64章　逡巡の夜,第64章 逡巡之夜
 0-synopsis,"The night that 姬塔 and company are treated to a hearty welcome by the villagers, 姬塔 discusses with Lyria, Vyrn, Katalina, and Lecia about what they should do on their journey ahead. Lyria and Vyrn wish to continue their journey to discover their true identities, and Katalina swears an oath to continue protecting Lyria. Lecia too, clumsy as she may be, acknowledges her longing to continue traveling with the crew.",姬塔一行が村人達から歓待を受けたその日の夜、ルリア、ビィ、カタリナ、リーシャと共に今後の旅について話し合う姬塔。ルリアとビィは自らの正体を知るため旅を続けたいと話し、カタリナは改めてルリアを守り続けることを誓う。そしてリーシャもまた不器用ながら、姬塔達と旅を続けたい思いを明かすのだった。,在姬塔和同伴受到村民热烈欢迎的那天夜里，姬塔与露莉亚、碧、卡塔莉娜和莉夏共同讨论了关于未来旅途的事。露利亚和碧为了发掘他们的真实身份而决定继续旅行，卡塔莉娜宣誓继续保护露莉亚。莉夏认为自己还不够成熟，但也很想继续这趟旅途。
-0,"In another room, 姬塔, Lyria, Vyrn, Katalina, and Lecia sit in a circle talking about the journey ahead.",<span class='scene-font-katari'>その部屋では、姬塔、ルリア、</span><br><span class='scene-font-katari'>ビィ、カタリナ、リーシャが車座になり、</span><br><span class='scene-font-katari'>今後の旅について話しあっていた。</span>,<span class='scene-font-katari'>在另一个房间里，姬塔，露莉亚，</span><br><span class='scene-font-katari'>碧，卡塔莉娜和莉夏围成一圈，</span><br><span class='scene-font-katari'>谈论着未来的旅程。</span>
+0,"In another room, 姬塔, Lyria, Vyrn, Katalina, and Lecia sit in a circle talking about the journey ahead.",<span class='scene-font-katari'>その部屋では、姬塔、ルリア、</span><br><span class='scene-font-katari'>ビィ、カタリナ、リーシャが車座になり、</span><br><span class='scene-font-katari'>今後の旅について話しあっていた。</span>,<span class='scene-font-katari'>在另一个房间里，姬塔、露莉亚、</span><br><span class='scene-font-katari'>碧、卡塔莉娜和莉夏围成一圈，</span><br><span class='scene-font-katari'>谈论着未来的旅程。</span>
 1,Katalina begins to sum up everyone's situations.,<span class='scene-font-katari'>そんな中、カタリナは指を立て、</span><br><span class='scene-font-katari'>自分達の置かれている状況を整理する。</span>,<span class='scene-font-katari'>卡塔莉娜开始总结每个人的情况。
 2,"We have a choice here, but...",ひとつの選択肢として、だが……,这可以作为一个备选项，但……
 3,"Since we're no longer wanted by the empire, there's no need to journey beyond the skydom.",帝国から追われる身でなくなった以上、<br>私達には、<br>無理に空域を越える理由は無い。,现在已经没有帝国在后头追着我们，\n所以我们也没有必要穿越空域了。
 4,"Lyria, if you want, we can leave and go live somewhere in peace.",ルリア、姬塔……<br>君達がそれを望むなら、<br>このまま静かに暮らすことも出来るんだ。,露莉亚，姬塔……\n如果你们希望，\n今后我们可以就这样平静地生活下去。
-5,...,…………,…
+5,...,…………,
 6,"In peace, huh？That could be really nice！But we'd be a little lonely.",確かにまぁ……<br>そーいうのもありかもしんねーよな。<br>……ちょっと寂しくなるけどよ。,确实啊，那可能也挺不错的，<br>但总觉得以后就变得有点寂寞了。
 7,"But there are plenty of skyfarers who live in one place, too.",騎空士と言えど、<br>特定の島に定住なさってる方も<br>たくさんいらっしゃいますもんね……,就算在骑空士里，<br>也有很多是定居在一个岛上的呢。
 8,"What do you think, Lyria？",姬塔の意思は<br>固まっているようだが、<br>君はどうしたい？　ルリア……,姬塔看来已经下定决心了，<br>但你是怎么想的呢，露莉亚？
@@ -60,7 +60,7 @@ id,en,jp,trans
 52,"You mean, Akasha's reach is limited only to things existing in this world？",アーカーシャの能力の対象範囲は、<br>あくまでこの世界の存在に<br>限定される……と？,你的意思是，<br>阿卡夏的影响范围<br>仅限于这个世界存在的东西？
 53,But then that would mean... Lyria is...,で、ですが、そうなると、<br>ルリアは……,但那意味着……<br>露莉亚……
 54,So... That means Lyria was born outside the sky？On the island of the Astrals？,つ、つまり……<br>ルリアはやっぱり、空の外……<br>星の世界で生まれた、ってことなのか？,所以……\n这意味着露莉亚果然是在这片天空之外……\n在星之世界诞生的吗？
-55,But the Black Knight had said that Lyria was certainly not an Astral.,黒騎士はルリアについて、<br>星の民ではない、<br>と断言していたが……,但黑骑士曾断言过<br>露莉亚肯定不是星之民。
+55,But the Black Knight had said that Lyria was certainly not an Astral.,黒騎士はルリアについて、<br>星の民ではない、<br>と断言していたが……,但黑骑士曾断言过<br>露莉亚肯定不是<span class='scene-font-spword'>星之民</span>。
 56,"But！Then she said that she's not a skydweller either, right？",で、でもよぅ！<br>あんとき、空の住人でもない、<br>ってのも言ってたよな？,但、但是！<br>那时她也说过露莉亚<br>并非天空的居民，对吧？
 57,I don't know if we can find the answer right now.,いまここで、<br>答えは出ないんだと思います……,我想我们现阶段无法得出答案……
 58,That's why... I want to keep going. So I can find out for myself.,だから私は……旅を続けたい。<br>私が私に、答えを見つけるために。,所以……我想继续前进……\n为了亲手找到关于自己的答案。

@@ -1,12 +1,12 @@
 ﻿id,en,jp,trans
 0-chapter_name,71: Captivating Truth,第71章　囚われの真実,第71章 被囚的真相
-0-synopsis,"The crew learns that the prison golems have gone berserk, which may allow Freesia to escape. Along with Adam, they rush to the scene.",エリヤ・ヘルム宮殿で朝を迎えた姬塔一行。今日するべきことについて話し合っていると、監獄を守るはずのゴーレムが暴走を始めたと聞かされる。フリーシアの脱獄を危惧し、姬塔一行はアダムと共にフリーシアの監獄へと急ぎ向かう。,姬塔一行在埃利亚·海姆王宫迎来了清晨。就在他们讨论当天的计划时，突然得知监狱的魔像失控了，而这很可能会让芙莉西雅趁机逃脱。为了避免这件事发生，姬塔一行与亚当一起紧急赶往监狱。
+0-synopsis,"The crew learns that the prison golems have gone berserk, which may allow Freesia to escape. Along with Adam, they rush to the scene.",エリヤ・ヘルム宮殿で朝を迎えた姬塔一行。今日するべきことについて話し合っていると、監獄を守るはずのゴーレムが失控を始めたと聞かされる。フリーシアの脱獄を危惧し、姬塔一行はアダムと共にフリーシアの監獄へと急ぎ向かう。,姬塔一行在埃利亚·海姆王宫迎来了清晨。就在他们讨论当天的计划时，突然得知监狱的魔像失控了，而这很可能会让芙莉西雅趁机逃脱。为了避免这件事发生，姬塔一行与亚当一起紧急赶往监狱。
 0,"Having accepted Orchis and Adam's kind offer, 姬塔 and company stay at the Palace of Elijah Chelm.",<span class='scene-font-katari'>アダム達の厚意を受け、</span><br><span class='scene-font-katari'>エリヤ・ヘルム宮殿で、</span><br><span class='scene-font-katari'>一夜を明かした姬塔一行。</span>,<span class='scene-font-katari'>众人接受了亚当的厚意，<br>在埃利亚·海姆王宫度过了一晚。</span>
 1,"Morning comes, and 姬塔 and company gather to decide their plans for the day.",<span class='scene-font-katari'>朝を迎えた姬塔一行は、</span><br><span class='scene-font-katari'>皆で集まり、</span><br><span class='scene-font-katari'>今日の行動について話し合っていた。</span>,<span class='scene-font-katari'>早晨，姬塔一行集合起来，<br>谈论起今日的行动计划。</span>
 2,"We're looking for the map piece today. First, let's start with one of Erste's main facilities.",今日は<span class='scene-font-spword'>空図の欠片</span>の探索ですね。<br>まず、エルステにとって<br>主要な施設から……,今天继续找<span class='scene-font-spword'>空图碎片</span>吧。<br>首先从埃尔斯特的重要场所开始吧。
 4,There's an emergency！,た、大変ですっ！,不、不好了！
 5,What's the matter？Calm down and explain the situation.,どうなさいました？<br>落ち着いて説明してください。,怎么了？<br>冷静点，解释一下情况。
-6,The golems guarding Freesia's prison have just begun to rampage！,ついさきほど、<br>フリーシアの監獄を守っている<br>ゴーレムが暴走を始めました！,就在刚刚，<br>看守芙莉西雅监狱的魔像们<br>都失控了。
+6,The golems guarding Freesia's prison have just begun to rampage！,ついさきほど、<br>フリーシアの監獄を守っている<br>ゴーレムが失控を始めました！,就在刚刚，<br>看守芙莉西雅监狱的魔像们<br>都失控了。
 7,The prison is about to be destroyed and Freesia will get away！,このままでは監獄を破壊され、<br>フリーシアが逃げ出しかねません！,这么下去的话监狱会被破坏，<br>让芙莉西雅逃出来！
 8,I see. Notify the others immediately.,……わかりました。<br>至急、他の者達にも知らせてください。,明白了，<br>立刻去通知其他的人。
 9,And assemble all the combat power you can. We'll depart when they're ready.,そして、いますぐに出動できる<br>全戦力をかき集めてください。<br>集まり次第、すぐに出ます。,并且集合一下<br>现在能出动的所有战力，<br>集合之后立刻出击。
@@ -25,7 +25,7 @@
 24,Gotcha！Just leave it to us！,おう！　まかしとけってんだ！,哦！都交给我们吧！
 25,"Sheesh. It's too early in the morning for a tough job like this, no？",ったく……<br>朝っぱらから面倒なことに<br>なってるみてぇだなぁ、おい……,一大早就碰上了<br>这么麻烦的事情啊喂……
 26,Ha！Think of it as a wake-up call！,へっ……<br>眠気覚ましにゃ、ちょうどいいだろ！,嘿……<br>拿来醒觉倒是正合适！
-27,"Normally, golems don't go berserk without being provoked.",ゴーレムは通常、<br>何の影響も無しに<br>暴走するようなものではありません。,通常来说，<br>魔像不会在<br>没有任何影响的情况下失控。
+27,"Normally, golems don't go berserk without being provoked.",ゴーレムは通常、<br>何の影響も無しに<br>失控するようなものではありません。,通常来说，<br>魔像不会在<br>没有任何影响的情况下失控。
 28,This is most likely part of someone's schemes.,おそらくいまの事態は、<br>何者かの手引きによるもの……,现在发生的事态\n可能是由某些人的计划<br>导致的。
 29,The goal is probably to give Freesia a way to escape.,そしてその狙いは、<br>投獄中のフリーシアの解放でしょう。,而且其目标很有可能就是<br>让芙莉西雅逃狱。
 30,But we can't allow that. Now let's hurry to the prison！,フリーシアを決して<br>自由にするわけにはいきません……<br>すぐに監獄に向かいましょう！,决不能让芙莉西雅重获自由，<br>我们现在立刻赶往监狱那边去吧！

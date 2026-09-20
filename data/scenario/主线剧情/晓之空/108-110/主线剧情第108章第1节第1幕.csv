@@ -88,5 +88,5 @@ id,name,text,trans
 100,カイン/该隐,じゃあ、さっそく聞かせてくれ！,那么，请马上说给我听听吧！
 101,カイン/该隐,姬塔達のこれまでの旅の中に、<br>ギルベルトを倒す<br>ヒントが隠れてる気がするんだ。,我总觉得在姬塔一行人的旅途中，<br>一定藏着能够打倒吉尔伯特的关键点。
 102,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>に着くまでの間、</span><br><span class='scene-font-katari'>これまでの旅を振り返る一行。</span>,就这样，<br>在去往修特尔克岛的途中，<br>一行人就这么回顾着往日的旅程。
-103,,<span class='scene-font-katari'>そして、そうしたこれまでの経験から、</span><br><span class='scene-font-katari'>ギルベルトを止めるための作戦を</span><br><span class='scene-font-katari'>皆で打ち立てるのだった。</span>,就这样，<br>根据迄今为止的旅行经历，<br>该隐制定出了打倒吉尔伯特的计划。
+103,,<span class='scene-font-katari'>そして、そうしたこれまでの経験から、</span><br><span class='scene-font-katari'>ギルベルトを止めるための作戦を</span><br><span class='scene-font-katari'>皆で打ち立てるのだった。</span>,就这样，<br>根据姬塔一行迄今为止的旅行经历，<br>众人一起制定出了打倒吉尔伯特的计划。
 info,,,scene_cp108_q1_s10

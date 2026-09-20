@@ -12,10 +12,10 @@ id,en,jp,trans
 18,Orchid？<br>What was that... Aah！,オーキス……<br>いったい何が……あっ！,欧姬丝……<br>到底是怎么……啊！
 19,Io yelps in surprise at the sight before her.,<span class='scene-font-katari'>周囲を見渡し、</span><br><span class='scene-font-katari'>イオは驚きの声をあげる。</span>,<span class='scene-font-katari'>看到周围的景象，<br>伊欧下意识地惊叫出声。</span>
 20,The entire landscape is bathed in white from the avalanche.,<span class='scene-font-katari'>雪崩によって、</span><br><span class='scene-font-katari'>イオ達の周囲は塗り潰されるように、</span><br><span class='scene-font-katari'>真っ白な雪に覆われていた。</span>,<span class='scene-font-katari'>伊欧周围的土地因为雪崩，<br>已经彻底被雪覆盖了。</span>
-21,...,…………,…
+21,...,…………,
 22,"Thanks to Orchid, who was quick to use Lloyd as a shield, everyone is safe from the crash.",<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>オーキスは咄嗟にロイドを盾にし、</span><br><span class='scene-font-katari'>イオ達を雪崩から守ったのだった。</span>,<span class='scene-font-katari'>但是，欧姬丝立刻以罗伊德作为护盾，<br>保护伊欧等人<br>不被雪崩卷入。</span>
 23,"It's over now... I guess. Thank you, Lloyd.",もう……収まったみたい。<br>ありがとう、ロイド。,好像……已经结束了。<br>谢谢你，罗伊德。
-25,...,…………,…
+25,...,…………,
 27,Whew...,ふぅ……,呼……
 28,"So this is the kind of power you have now, Orchid.",これが……<br>いまのオーキスちゃんの力なのね。,这就是现在的小欧姬丝的力量吗。
 29,"I wanted to do something too, but I'm sorry...",ごめんなさい……<br>アタシも何とか<br>したかったのだけれど……,很抱歉……<br>我也很想做些什么的……
@@ -49,7 +49,7 @@ id,en,jp,trans
 57,That's the spirit.,ふふ……その意気だわ。,呵呵……就该这样才对。
 58,Well then there's no point in standin' around here.,ははっ！<br>となりゃあ、<br>立ち止まってるわけにはいかねぇな。,哈哈！<br>那么我们就不能<br>继续这么傻站在这了。
 59,First let's try and figure out where they might be. Any clue will do...,さぁて……なんでもいい。<br>まずはアイツらがいま<br>何処に居るのか、手がかりを……,好了……不管那么多了。<br>首先得找到<br>他们现在的位置吧。
-61,Groarrr！,<span class='scene-font-5'>グオオォォッ！！</span>,咕哦噢噢噢噢！
+61,Groarrr！,<span class='scene-font-5'>グオオォォッ！！</span>,咕嗷嗷嗷嗷！
 62,Oh really！We don't have time to play around with you right now！,もうっ！<br>いまは魔物の相手してる<br>時間なんてないんだから！,真是的！<br>我们现在可没工夫和魔物战斗！
 63,"There's no avoiding the monsters here on Silverwind Stretch, I suppose.",ここが<span class='scene-font-place'>白風の境</span>である以上、<br>この子達と戦うことは避けられないわ。,既然这里是<span class='scene-font-place'>白风之境</span>，<br>那么和这些孩子战斗就在所难免。
 64,"And there aren't many of us, so let's be careful as we go.",人数も少ないことだし、<br>注意して進むしかないようね……,而且我们人数很少，<br>多加注意地前进吧。

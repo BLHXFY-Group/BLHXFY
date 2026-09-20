@@ -24,7 +24,7 @@ id,name,text,trans
 19-sel2_txt,,<span class='scene-font-katari'>相手は組織的</span>,<span class='scene-font-katari'>敌人有组织地行动</span>
 20,ラインハルザ/莱茵哈萨,そうだ。しかもそれだけじゃねぇ。<br>かなりの手練れ……<br>ある一定以上、訓練された組織だ。,没错。不仅如此。<br>他们非常老练……<br>是经过了一定训练的组织。
 21,ラインハルザ/莱茵哈萨,そうだな……<br>見張り全員をほぼ同時に潰すとは、<br>ずいぶんと手慣れた連携だ。,没错……<br>同时放倒所有守卫，<br>看来配合得相当熟练。
-22,ラインハルザ/莱茵哈萨,そして、いまこの<span class='scene-font-place'>クルーガー島</span>には、<br>犯人探しが出来るほど、<br>幾つもの集団があるわけじゃあねぇ。,而且，在这<span class='scene-font-place'>克尔加岛</span>上也没有几个组织能供我们排查。
+22,ラインハルザ/莱茵哈萨,そして、いまこの<span class='scene-font-place'>クルーガー島</span>には、<br>犯人探しが出来るほど、<br>幾つもの集団があるわけじゃあねぇ。,而且，在这<span class='scene-font-place'><span class='scene-font-place'>克尔加岛</span></span>上<br>也没有几个组织能供我们排查。
 23,ラインハルザ/莱茵哈萨,この島の規模だ。<br>集落が複数あるようにも見えねぇ。<br>となりゃあ……,岛就这么大。<br>看着也不像有其他群体。<br>那么……
 23-sel1_txt,,<span class='scene-font-katari'>犯人はゼエン達……？</span>,<span class='scene-font-katari'>犯人是泽恩他们……？</span>
 24,ビィ/碧,おいおい、嘘だろ……<br>昼間は全然、<br>そんな素振りなかったぜ……？,喂喂，不会吧……<br>白天他们看起来可不像会做这种事的人……

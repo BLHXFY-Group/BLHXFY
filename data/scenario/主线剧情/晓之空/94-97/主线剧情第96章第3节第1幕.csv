@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第96章　燻る火種,第96章 阴燃的火种
-0-synopsis,,嵐の中、人の気配が消えた<span class='scene-font-place'>ポート・ブリーズ</span>の街を歩くラカム。人が居そうな場所に向かうと、避難していた人々を見つけ、ここがティアマトの暴走により崩壊した世界だと聞かされる。ラカムはようやく事情を呑み込むが、そのとき轟音と共に群島が崩れ始める。ラカムは<span class='scene-font-place'>ポート・ブリーズ</span>の危機を救うため、もうひとりのラカムを探すのだった。,风暴中，拉卡姆正在空无一人的微风港城镇中前进。最后他来到了一个可能有人的建筑，并从在那里避难的人们口中打听到了这里是因提亚玛特的失控而濒临崩溃的世界。拉卡姆终于明白了事情的来龙去脉，但随着一声巨响，岛屿却开始崩塌。为了挽救即将崩塌的微风港群岛，拉卡姆开始寻找另一个拉卡姆。
+0-synopsis,,嵐の中、人の気配が消えた<span class='scene-font-place'>ポート・ブリーズ</span>の街を歩くラカム。人が居そうな場所に向かうと、避難していた人々を見つけ、ここがティアマトの失控により崩壊した世界だと聞かされる。ラカムはようやく事情を呑み込むが、そのとき轟音と共に群島が崩れ始める。ラカムは<span class='scene-font-place'>ポート・ブリーズ</span>の危機を救うため、もうひとりのラカムを探すのだった。,风暴中，拉卡姆正在空无一人的微风港城镇中前进。最后他来到了一个可能有人的建筑，并从在那里避难的人们口中打听到了这里是因提亚玛特的失控而濒临崩溃的世界。拉卡姆终于明白了事情的来龙去脉，但随着一声巨响，岛屿却开始崩塌。为了挽救即将崩塌的微风港群岛，拉卡姆开始寻找另一个拉卡姆。
 1,,<span class='scene-font-katari'>もうひとりのラカムを退けた、</span><br><span class='scene-font-katari'>ラカムとティアマトは、</span><br><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>の街へと入る。</span>,打败了另一个拉卡姆后，<br>拉卡姆和提亚玛特走进了微风港的城镇。
 2,,<span class='scene-font-katari'>しかし、街に人影は一切無く、</span><br><span class='scene-font-katari'>廃墟のごとき静けさが、</span><br><span class='scene-font-katari'>ラカム達を迎えたのだった。</span>,然而，这座城镇却空无一人，<br>迎接拉卡姆等人的，<br>是如同废墟般的寂静。
 3,ラカム/拉卡姆,嵐だっつーことを考えりゃ、<br>外に人が居ないのは、<br>別段、不思議でもねぇが……,风暴刮得这么猛，<br>室外没有人倒也不稀奇……
@@ -47,7 +47,7 @@ id,name,text,trans
 57,ポート・ブリーズの住人１,けどラカム……お前も残ったんだな。<br>いや、そうか……<br>そういう奴だよな、お前は。,但是，拉卡姆……你也留下了啊。<br>不，应该说……<br>你就是这种人吧。
 58,ラカム/拉卡姆,悪い……<br>ちっと状況が飲み込めねぇんだが……,对不起……<br>我有点无法理解现在的状况……
 59,ラカム/拉卡姆,聞かせてくれねぇか……<br><span class='scene-font-place'>ポート・ブリーズ</span>に、<br>いったい何があったのか……,能不能告诉我，<br>微风港到底发生了什么事……
-64,ラカム/拉卡姆,<span class='scene-font-4'>なっ……！？</span><br><span class='scene-font-4'>ティアマトが</span><br><span class='scene-font-4'>暴走させられただぁ！？</span>,什么……！？<br>提亚玛特失控了！？
+64,ラカム/拉卡姆,<span class='scene-font-4'>なっ……！？</span><br><span class='scene-font-4'>ティアマトが</span><br><span class='scene-font-4'>失控させられただぁ！？</span>,什么……！？<br>提亚玛特失控了！？
 65,,<span class='scene-font-katari'>そう聞かされたラカムは、</span><br><span class='scene-font-katari'>慌てて傍らのティアマトを見る。</span>,听到这话时，<br>拉卡姆连忙看了一眼<br>身边的提亚玛特。
 66,ティアマト/提亚玛特,……？,……？
 67,,<span class='scene-font-katari'>しかし、ティアマトもまた、</span><br><span class='scene-font-katari'>困惑した様子で首を振る。</span>,但是提亚玛特<br>只是困惑地摇了摇头。
@@ -81,7 +81,7 @@ id,name,text,trans
 99,ラカム/拉卡姆,<span class='scene-font-kokoro'>（いま、この状況には、</span><br><span class='scene-font-kokoro'>俺達だけが知っている、</span><br><span class='scene-font-kokoro'>二つの大きなズレがある……）</span>,（现在，只有我们知道……<br>造成目前状况的原因有两个……）
 100,ラカム/拉卡姆,<span class='scene-font-kokoro'>（それは、</span><br><span class='scene-font-kokoro'>俺がこの世界に</span><br><span class='scene-font-kokoro'>もうひとり居ることと……）</span>,（那就是，<br>在这个世界里还有另一个我存在……）
 101,ティアマト/提亚玛特,────,————
-102,ラカム/拉卡姆,<span class='scene-font-kokoro'>（ティアマトもまた、</span><br><span class='scene-font-kokoro'>暴走している奴とは別に、</span><br><span class='scene-font-kokoro'>ここに確かに居ることだ……）</span>,（而且这里似乎也存在着，<br>正在失控的另一个提亚玛特……）
+102,ラカム/拉卡姆,<span class='scene-font-kokoro'>（ティアマトもまた、</span><br><span class='scene-font-kokoro'>失控している奴とは別に、</span><br><span class='scene-font-kokoro'>ここに確かに居ることだ……）</span>,（而且这里似乎也存在着，<br>正在失控的另一个提亚玛特……）
 103,ラカム/拉卡姆,<span class='scene-font-kokoro'>（この世界は、俺が知っている</span><br><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-kokoro'>の顛末とは、</span><br><span class='scene-font-kokoro'>明らかに異なってる……）</span>,（这个世界与我所知道的微风港<br>截然不同……）
 104,ラカム/拉卡姆,<span class='scene-font-kokoro'>（ってことは、俺にとっての異常に、</span><br><span class='scene-font-kokoro'>この状況を解く</span><br><span class='scene-font-kokoro'>鍵があるかもしれねぇ……）</span>,（也就是说，<br>在我所认为的异常中，<br>也许藏有打破当前局面的钥匙……）
 105,ラカム/拉卡姆,<span class='scene-font-kokoro'>（それに何より……）</span>,（更重要的是……）

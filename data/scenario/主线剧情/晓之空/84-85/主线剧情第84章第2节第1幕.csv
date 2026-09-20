@@ -1,8 +1,8 @@
 id,name,text,trans
 0-chapter_name,,第84章　イデルバ王国,第84章 伊德尔瓦王国
-0-synopsis,,イデルバ王国の首都、ルクスリエースに降り立った姬塔達は王に謁見する。カインは、メルクマール島を支配していた盗賊について、本来なら極刑であるが、島の治安を守っていたことをふまえ処遇を考え直すよう王を説得する。それに対し王は、一行に西の森の洞窟に棲み着いた星晶獣の討伐を命じ、盗賊達の処分や一行の扱いは、その結果により判断すると言い渡す。,姬塔一行降落在伊德尔瓦王国首都卢克斯列斯，进宫谒见国王。占领美克马尔岛的盗贼本应处以极刑，该隐想要说服国王，看在他们维持着岛屿治安的份上重新考虑。国王命众人前往西方森林的洞窟中讨伐星晶兽，根据众人的成果判断是否重新考虑盗贼的处置。
+0-synopsis,,イデルバ王国の首都、ルクスリエースに降り立った姬塔達は王に謁見する。カインは、メルクマール島を支配していた盗賊について、本来なら極刑であるが、島の治安を守っていたことをふまえ処遇を考え直すよう王を説得する。それに対し王は、一行に西の森の洞窟に棲み着いた星晶獣の討伐を命じ、盗賊達の処分や一行の扱いは、その結果により判断すると言い渡す。,姬塔一行降落在伊德尔瓦王国首都<span class='scene-font-place'>卢克斯列斯</span>，进宫谒见国王。占领美克马尔岛的盗贼本应处以极刑，该隐想要说服国王，看在他们维持着岛屿治安的份上重新考虑。国王命众人前往西方森林的洞窟中讨伐星晶兽，根据众人的成果判断是否重新考虑盗贼的处置。
 0,,<span class='scene-font-katari'>魔物を退けながら航路を進み……</span>,<span class='scene-font-katari'>姬塔一行在与魔物的战斗中<br>继续航行……</span>
-1,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>無事、イデルバ王国の首都、</span><br><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>に降り立つ。</span>,<span class='scene-font-katari'>最终平安抵达了伊德尔瓦王国的首都<br></span><span class='scene-font-place'>卢克斯列斯</span><span class='scene-font-katari'>。</span>
+1,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>無事、イデルバ王国の首都、</span><br><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>に降り立つ。</span>,<span class='scene-font-katari'>最终平安抵达了伊德尔瓦王国的首都<br></span><span class='scene-font-place'><span class='scene-font-place'>卢克斯列斯</span></span><span class='scene-font-katari'>。</span>
 2,ルリア/露莉亚,わぁ……！<br>いままで見てきた街とは、<br>なんだかちょっぴり違う感じがします！,哇……！<br>感觉和之前去的地方<br>都不太一样呢！
 2-sel1_txt,,<span class='scene-font-katari'>ワクワクするね！</span>,<span class='scene-font-katari'>好期待！</span>
 2-sel2_txt,,<span class='scene-font-katari'>気のせいじゃない？</span>,<span class='scene-font-katari'>是错觉吧？</span>
@@ -25,7 +25,7 @@ id,name,text,trans
 22-sel2_txt,,<span class='scene-font-katari'>そうでもない</span>,<span class='scene-font-katari'>还好吧</span>
 23,カタリナ/卡塔莉娜,雰囲気に飲まれているようで情けないが、<br>こういう場でお会いするとなると、<br>どうにも身を硬くしてしまうな……,虽说被气氛所影响不太像话，<br>不过一想到马上就要谒见国王，<br>全身都紧张得僵硬起来……
 24,ビィ/碧,ホント、姬塔は、<br>どこ行っても肝が据わってるよな……,还是你胆子大啊，<br>姬塔……
-25,,<span class='scene-font-katari'>姬塔達が小声で話していると、</span><br><span class='scene-font-katari'>どこからともなく厳かな声が響く。</span>,<span class='scene-font-katari'>正当姬塔等人窃窃私语时，一道严肃的声音响起。</span>
+25,,<span class='scene-font-katari'>姬塔達が小声で話していると、</span><br><span class='scene-font-katari'>どこからともなく厳かな声が響く。</span>,<span class='scene-font-katari'>正当姬塔等人窃窃私语时，<br>一道严肃的声音响起。</span>
 26,？？？,間もなく王がお見えになられます。<br>どうぞお静かにお待ちください。,陛下就要驾到。<br>请各位保持肃静。
 27,ルリア/露莉亚,…………,
 28,ビィ/碧,…………,
@@ -79,7 +79,7 @@ id,name,text,trans
 78,,<span class='scene-font-katari'>首を傾げる一同に対し、</span><br><span class='scene-font-katari'>イデルバ国王は凛とした声で告げる。</span>,<span class='scene-font-katari'>一行人正感纳闷，<br>伊德尔瓦国王凛然宣告道：</span>
 79,イデルバ国王,イデルバは強き者の国じゃ。<br>あらゆる処遇は、<br>その者の能力によってのみ決まる。,伊德尔瓦是强者之国。<br>处置和待遇皆取决于能力。
 80,イデルバ国王,ここより西に進んだ森の中の洞窟に<br>ある星晶獣が棲み着いてしまっての……,往西的森林中有个洞穴，<br>里面有一只星晶兽……
-81,イデルバ国王,流れ着いたその星晶獣は、<br>暴走しているようでな。<br>危なくて森に入れんと苦情が来ておる。,这只星晶兽流浪到此地便开始失控，<br>民众反映它太过危险，<br>无法进入森林。
+81,イデルバ国王,流れ着いたその星晶獣は、<br>失控しているようでな。<br>危なくて森に入れんと苦情が来ておる。,这只星晶兽流浪到此地便开始失控，<br>民众反映它太过危险，<br>无法进入森林。
 82,レオナ/蕾欧娜,まさか……,什么……
 83,イデルバ国王,カイン、レオナ、<br>そして異郷の騎空士達よ……,该隐，蕾欧娜，<br>还有异乡的骑空士啊……
 84,イデルバ国王,お主らには、<br>森の洞窟に棲み着いた星晶獣の<br>討伐の任を言い渡す。,妾身命令你们<br>前去讨伐森林中的星晶兽。

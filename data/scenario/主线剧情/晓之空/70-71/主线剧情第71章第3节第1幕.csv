@@ -13,7 +13,7 @@ id,en,jp,trans
 9,But Adam responds unfazed.,<span class='scene-font-katari'>それに対しアダムは、</span><br><span class='scene-font-katari'>あくまで淡々と言葉を続けるのだった。</span>,<span class='scene-font-katari'>作为回应，亚当平和地说道。</span>
 10,Her Highness has been confined to the palace for several days now due to her official duties.,ここ数日、事務仕事ばかりで、<br>女王陛下は宮殿に<br>篭ってらっしゃいましたね……,数日以来，<br>女王陛下为了处理事务<br>一直把自己关在宫中。
 11,And there's still a mountain of paperwork I would like to have her look over.,それでもまだ、<br>目を通して頂きたい書類は、<br>山ほどあるのですが……,即便如此，<br>要处理的文书仍然堆积成山。
-12,...,…………,…
+12,...,…………,
 13,But connecting with the citizens and inspecting the city are also important royal duties.,しかしながら、民との交流、街の視察は、<br>エルステ王家が重んじてきた<br>大事な公務でもあります。,但是，与民众的交流，视察城市情况，<br>对于埃尔斯特王室来说<br>也是极其重要的公务。
 14,"And after all, we owe 姬塔 and company very much for rescuing Erste.",ましてや、姬塔さん達は、<br>エルステを救った<br>大恩ある騎空団です。,更何况姬塔等人是拯救了埃尔斯特的，<br>于我们有大恩的骑空团。
 15,It'd be a royal shame if we didn't show them our warmest hospitality.,そんな方々へのもてなしに<br>手を抜いたとあっては、<br>王家の名に傷がつくことでしょう。,对于这样的贵客如果不能倾力相待，<br>恐怕有伤王室的名誉。
@@ -39,7 +39,7 @@ id,en,jp,trans
 43,"You see, during the Empire's reign, this city was almost entirely neutralized.",帝国時代に、この街はほとんど、<br>無力化されてしまいましたから……,帝国统治时期，<br>这座城市基本都已经被去军事化了。
 44,"Now that you mention it, there wasn't a single soldier the last time we came here.",そういや、前に来た時は、<br>街中には一人も兵隊がいなかったもんな。,说起来上次来的时候，<br>城里可是没见到一个士兵呢。
 45,"Currently, we've requested security from other skyfaring crews who've more or less kept the peace.",現在は騎空団に警備を依頼して、<br>なんとか街の治安維持を……,现在姑且委托了骑空团协助警备，<br>维持着城内的治安。
-47,Groarrr！,グオオォォッ！！,咕喔喔！
+47,Groarrr！,グオオォォッ！！,咕嗷嗷！
 48,"Even so, it seems you could use some more help. 姬塔, how about we take care of these？",それでも人手は足りてねぇようだな。<br>こいつらは俺達で蹴散らすぞ！<br>姬塔！,虽然你这样说，<br>但人手看来还是不太够啊！<br>就由我们处理这些魔物吧！
 info,1,1,scene_cp71_q3_s10
 ,,,

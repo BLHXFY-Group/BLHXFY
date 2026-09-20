@@ -2,7 +2,7 @@ id,name,text,trans
 0-chapter_name,,第98章　蠢く凶兆,第98章 蠢动的凶兆
 0-synopsis,,真っ白な視界の中ロゼッタが意識を取り戻すと、そこはイオの故郷<span class='scene-font-place'>バルツ公国</span>であった。自分が誰からも気付かれない状態にあると気付いたロゼッタは、緊迫した様子の男を追い、大工廠へ入る。そこでは、ザカ大公の失踪について話し合われており、会議を盗み聞いていたイオの姿も見かける。そこでロゼッタは、ここがイオの記憶の世界であることに思い至り、駆け出したイオの後を追うのだった。,在一片雪白之中，萝赛塔醒了过来，发现自己身处伊欧的家乡瓦尔兹公国。意识到现在的自己无法被任何人察觉后，萝赛塔紧跟着一名神情紧张的男人进入了大工厂。在那里，人们正在讨论扎卡大公的失踪，除此之外，她还发现伊欧正在角落里偷听。这时萝赛塔意识到这里是伊欧记忆中的世界，于是开始追逐从大工厂跑走的伊欧。
 2,ロゼッタ/萝赛塔,ここは……？,这里是……？
-3,？？？,ぐすっ……ううっ……<br>ううう……ぐすっ……,呜呜……呜呜……呜呜呜……呜呜……呜呜……
+3,？？？,ぐすっ……ううっ……<br>ううう……ぐすっ……,呜呜……呜呜……<br>呜呜呜……呜呜……呜呜……
 4,,<span class='scene-font-katari'>真っ白な世界の中で、</span><br><span class='scene-font-katari'>泣きじゃくる少女の声が</span><br><span class='scene-font-katari'>ロゼッタの耳に届く。</span>,在这片白茫茫的世界里，<br>一位少女的哭泣声<br>传到了萝赛塔的耳朵里。
 5,ロゼッタ/萝赛塔,……？,……？
 6,,<span class='scene-font-katari'>ロゼッタが声の方向に意識を向けると、</span><br><span class='scene-font-katari'>そこには、</span><br><span class='scene-font-katari'>ぽつりと立ち尽くす少女の姿があった。</span>,萝赛塔将注意力<br>转向声音传来的方向，<br>只见一名少女正孤零零地站在那里。
@@ -26,7 +26,7 @@ id,name,text,trans
 41,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（いえ……</span><br><span class='scene-font-kokoro'>無視、というよりこれは……）</span>,（不……<br>不是无视，这更像是……）
 42,,<span class='scene-font-katari'>思案気に雑踏を見つめていると、</span><br><span class='scene-font-katari'>ロゼッタはその中に、</span><br><span class='scene-font-katari'>一つの流れがあることに気付く。</span>,萝赛塔若有所思地看着<br>熙熙攘攘的人群，<br>突然注意到了其中的某个人影。
 45,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（あそこの彼、あんなに慌てて……</span><br><span class='scene-font-kokoro'>いえ、彼だけじゃないわね……）</span>,（那个人，那么慌张……<br>不，不止是他而已……）
-46,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（他は平静を装ってるけれど、</span><br><span class='scene-font-kokoro'>明らかに表情に余裕が無いわ……）</span>,（虽然其他人表面上装作很平静，但他们的样子一点都谈不上从容……）
+46,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（他は平静を装ってるけれど、</span><br><span class='scene-font-kokoro'>明らかに表情に余裕が無いわ……）</span>,（虽然其他人表面上装作很平静，<br>但他们的样子一点都谈不上从容……）
 47,,<span class='scene-font-katari'>緊迫した様子の彼らの駆け込む先。</span>,他们紧张地跑进去的地方——
 48,,<span class='scene-font-katari'>それは</span><br><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>の中枢とも言える要所、</span><br><span class='scene-font-katari'>バルツ公国大公府官邸、大工廠だった。</span>,是瓦尔兹公国的中枢要地，<br>也就是瓦尔兹公国大公的官邸——大工厂。
 49,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（何かが……起きているみたいね。）</span>,（好像发生了……什么事。）

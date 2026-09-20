@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,第84章　イデルバ王国,第84章 伊德尔瓦王国
 0-synopsis,,姬塔一行が王宮を出ると、ラインハルザが拘束されている場所の方角から、轟音が響いてくる。音の方に向かうと、目を覚ましたラインハルザの姿があった。カインがラインハルザに盗賊達の無事を伝えると、ラインハルザは落ち着きを取り戻す。国王から言い渡された星晶獣討伐の任務についてラインハルザに説明した姬塔達は、出発に備えて準備を始めるのだった。,姬塔一行刚离开王宫，便听见莱茵哈萨被关押的地方传来一阵轰响。众人前往查看，发现莱茵哈萨已经醒来。该隐告诉他其他盗贼都平安无事，他才冷静下来。姬塔等人向他说明了国王交给一行人的任务，随后准备出发。
-1,,<span class='scene-font-katari'>自分達の力を認めさせるため、</span><br><span class='scene-font-katari'>イデルバ国王より、</span><br><span class='scene-font-katari'>星晶獣討伐の任を言い渡された一行。</span>,<span class='scene-font-katari'>姬塔一行接受了第84章伊德尔瓦国王交给他们的任务，<br>以证明自己的实力。</span>
+1,,<span class='scene-font-katari'>自分達の力を認めさせるため、</span><br><span class='scene-font-katari'>イデルバ国王より、</span><br><span class='scene-font-katari'>星晶獣討伐の任を言い渡された一行。</span>,<span class='scene-font-katari'>姬塔一行接受了<br>伊德尔瓦国王交给他们的任务，<br>以证明自己的实力。</span>
 2,,<span class='scene-font-katari'>皆で玉座の間を出ると、</span><br><span class='scene-font-katari'>カインは真っ先に姬塔達へ</span><br><span class='scene-font-katari'>深く頭を下げるのだった。</span>,<span class='scene-font-katari'>一走出谒见厅，<br>该隐就向姬塔等人深深地低下头。</span>
 3,カイン/该隐,ごめん……本当に申し訳ない。<br>任せとけ、って言ったくせに、<br>結局、面倒なことになっちまって……,抱歉……实在对不起。<br>我还说什么都包在我身上，<br>结果还连累了你们……
 3-sel1_txt,,<span class='scene-font-katari'>まったくだ</span>,<span class='scene-font-katari'>就是啊</span>
@@ -30,7 +30,7 @@ id,name,text,trans
 30,イデルバ王国兵２,カイン様！<br>こいつ、目を覚ましたと思ったら、<br>突然、暴れ始めて……,该隐大人！<br>这家伙一醒来就不安分……
 31,カイン/该隐,ラインハルザ……,莱茵哈萨……
 32,ラインハルザ/莱茵哈萨,ちっ……お前らか。<br>おい、ここはどこだ。<br>オレをどこに連れてきた？,切……是你们啊。<br>喂，这里是哪里？<br>你们把我带到哪儿来了？
-33,カイン/该隐,<span class='scene-font-place'>ルクスリエース</span>だ。<br>イデルバ王国の首都だよ。,<span class='scene-font-place'>卢克斯列斯</span>。<br>这里是伊德尔瓦王国的首都。
+33,カイン/该隐,<span class='scene-font-place'>ルクスリエース</span>だ。<br>イデルバ王国の首都だよ。,<span class='scene-font-place'><span class='scene-font-place'>卢克斯列斯</span></span>。<br>这里是伊德尔瓦王国的首都。
 34,ラインハルザ/莱茵哈萨,ふん……<br>それで……<br>オレの仲間達はどうなった？,哼……<br>那么，我的同伴们怎样了？
 35,カイン/该隐,全員生きてる。<br>怪我人はいるけど、<br>死んだ奴はひとりもいねぇよ。,都活着。<br>虽然有人受伤，<br>但是一个都没死。
 36,ラインハルザ/莱茵哈萨,そうか……<br>それなら、もうこれ以上、<br>オレが拳を握る必要はねぇな……,是吗……<br>那么我也没必要捏着拳头不放了……

@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第96章　燻る火種,第96章 阴燃的火种
-0-synopsis,,姬塔達は３日も眠り続けるラカムとオイゲンの無事を祈っていた。その頃、レオナはイデルバ王国<span class='scene-font-place'>ルクスリエース</span>の王城フォルクシルト宮で、フォリアの罪の真実を知るべく資料を漁っていたが、その姿をフォリアに見つかってしまう。レオナは観念してフォリアに調査していた内容を打ち明けると、フォリアは力を開放し、何かをレオナに託すのだった。,姬塔等人正在为昏睡了三天的拉卡姆和欧根祈祷。另一边，蕾欧娜正在伊德尔瓦王国首都卢克斯列斯的福克希尔德宫，翻找有关芙莉亚罪行的资料，却意外被芙莉亚本人发现了。蕾欧娜死心坦白了自己想要调查芙莉亚的意愿，可芙莉亚却解除了某种力量的束缚，并将什么托付给了蕾欧娜。
+0-synopsis,,姬塔達は３日も眠り続けるラカムとオイゲンの無事を祈っていた。その頃、レオナはイデルバ王国<span class='scene-font-place'>ルクスリエース</span>の王城フォルクシルト宮で、フォリアの罪の真実を知るべく資料を漁っていたが、その姿をフォリアに見つかってしまう。レオナは観念してフォリアに調査していた内容を打ち明けると、フォリアは力を開放し、何かをレオナに託すのだった。,姬塔等人正在为昏睡了三天的拉卡姆和欧根祈祷。另一边，蕾欧娜正在伊德尔瓦王国首都<span class='scene-font-place'>卢克斯列斯</span>的福克希尔德宫，翻找有关芙莉亚罪行的资料，却意外被芙莉亚本人发现了。蕾欧娜死心坦白了自己想要调查芙莉亚的意愿，可芙莉亚却解除了某种力量的束缚，并将什么托付给了蕾欧娜。
 1,ビィ/碧,なぁ、これ……<br>本当に大丈夫なのかよ……？,喂，这……<br>真的没问题吗……？
 1-sel1_txt,,<span class='scene-font-katari'>わからない……</span>,我不知道……
 1-sel2_txt,,<span class='scene-font-katari'>信じて待とう</span>,相信并等待吧
@@ -19,15 +19,15 @@ id,name,text,trans
 14,ビィ/碧,けどよぅ……,可是……
 15,,<span class='scene-font-katari'>ビィは不安そうに、</span><br><span class='scene-font-katari'>眠り続ける</span><br><span class='scene-font-katari'>ラカムとオイゲンを見つめる。</span>,碧不安地看着<br>睡着的拉卡姆和欧根。
 16,ビィ/碧,オイラ、やっぱり不安だぜ……,俺，果然还是很担心……
-17,ビィ/碧,星晶獣はそもそも、<br><span class='scene-font-spword'>星の民</span>が作ったもんだろ？,说到底，<br>星晶兽是星之民造出来的吧？
-18,ビィ/碧,その契約、とかって、<br><span class='scene-font-spword'>星の民</span>じゃなくても、<br>そんなあっさり出来るもんなのか？,那个契约什么的，<br>即便不是星之民，<br>也能轻轻松松结下吗？
-18-sel1_txt,,<span class='scene-font-katari'>星晶獣は星の民じゃないと……</span>,星晶兽必须由星之民来……
+17,ビィ/碧,星晶獣はそもそも、<br><span class='scene-font-spword'>星の民</span>が作ったもんだろ？,说到底，<br>星晶兽是<span class='scene-font-spword'>星之民</span>造出来的吧？
+18,ビィ/碧,その契約、とかって、<br><span class='scene-font-spword'>星の民</span>じゃなくても、<br>そんなあっさり出来るもんなのか？,那个契约什么的，<br>即便不是<span class='scene-font-spword'>星之民</span>，<br>也能轻轻松松结下吗？
+18-sel1_txt,,<span class='scene-font-katari'>星晶獣は星の民じゃないと……</span>,星晶兽必须由<span class='scene-font-spword'>星之民</span>来……
 18-sel2_txt,,<span class='scene-font-katari'>シュヴァリエの契約は？</span>,那修瓦利耶的契约又是什么？
-19,カタリナ/卡塔莉娜,確かに一般的には、<br>星晶獣は<span class='scene-font-spword'>星の民</span>でないと従えることは<br>出来ない、と言われているな……,的确，一般来说，<br>星晶兽只会服从星之民的命令……
-20,カタリナ/卡塔莉娜,しかし、七曜の騎士達の力を思うと、<br>星晶獣や<span class='scene-font-spword'>星の民</span>には、<br>まだ私達の知らない秘密がありそうだ。,但是，从七曜骑士的力量看来，<br>星晶兽和星之民们<br>似乎还有什么我们不知道的秘密。
+19,カタリナ/卡塔莉娜,確かに一般的には、<br>星晶獣は<span class='scene-font-spword'>星の民</span>でないと従えることは<br>出来ない、と言われているな……,的确，一般来说，<br>星晶兽只会服从<span class='scene-font-spword'>星之民</span>的命令……
+20,カタリナ/卡塔莉娜,しかし、七曜の騎士達の力を思うと、<br>星晶獣や<span class='scene-font-spword'>星の民</span>には、<br>まだ私達の知らない秘密がありそうだ。,但是，从七曜骑士的力量看来，<br>星晶兽和<span class='scene-font-spword'>星之民</span>们<br>似乎还有什么我们不知道的秘密。
 21,,<span class='scene-font-katari'>ゼエンは姬塔達に対し、</span><br><span class='scene-font-katari'>講義を行うように手を広げる。</span>,泽恩就像是要给姬塔他们上课一般，<br>张开了双臂。
 22,カタリナ/卡塔莉娜,<span class='scene-font-place'>アルビオン</span>の星晶獣シュヴァリエは、<br>私達空の民であっても、<br>契約を結べていたが……,即便我们是空之民，<br>阿尔比昂的星晶兽修瓦利耶<br>也依然与我们缔结了契约……
-23,ゼエン,あれは<span class='scene-font-place'>クルーガー島</span>の教えの最奥とは、<br>また異なるものだ。,这是与克尔加岛的教义秘奥<br>截然不同的存在。
+23,ゼエン,あれは<span class='scene-font-place'>クルーガー島</span>の教えの最奥とは、<br>また異なるものだ。,这是与<span class='scene-font-place'>克尔加岛</span>的教义秘奥<br>截然不同的存在。
 24,ゼエン,シュヴァリエは仕手を必要とする<br>星晶獣であり、君達の言う契約とは、<br>そのためのものだろう。,修瓦利耶是一种需要操纵者的星晶兽。<br>你所说的契约，<br>大概就是这么回事吧。
 25,,<span class='scene-font-katari'>ゼエンは姬塔達に対し、</span><br><span class='scene-font-katari'>講義を行うように手を広げる。</span>,泽恩就像是要给姬塔他们上课一般，<br>张开了双臂。
 26,ゼエン,そもそも星晶獣とは、<br>空の世界の存在が<br>元となっているものだ。,说到头来，所谓星晶兽，<br>是以空之世界的存在<br>为基础诞生的。
@@ -36,13 +36,13 @@ id,name,text,trans
 29,ゼエン,むしろ言うなれば、<br>兄弟のようなものだ。<br>同じ親を持つ、という意味ではね。,不如说，这两个世界<br>就像是兄弟一般的存在。<br>也就是说，它们拥有同样的父母。
 30,カタリナ/卡塔莉娜,兄弟だと……？<br>空の世界と星の世界が、<br>それほどまでに近い存在だというのか？,兄弟……？<br>空之世界和星之世界<br>居然如此相近吗？
 31,ゼエン,例えるならば、だがね。,打个比方是这样的。
-32,ゼエン,しかし、君達が気にするように、<br>確かに星晶獣は<br><span class='scene-font-spword'>星の民</span>によって作られたものだ。,但是，正如你们所想的那样，<br>星晶兽的确是由星之民所制造的。
-33,ゼエン,それゆえに、<br>星晶獣を支配し、従えることは、<br><span class='scene-font-spword'>星の民</span>にしか出来ない。,也就是说，<br>支配并驱使星晶兽，<br>也只有星之民才能做到。
+32,ゼエン,しかし、君達が気にするように、<br>確かに星晶獣は<br><span class='scene-font-spword'>星の民</span>によって作られたものだ。,但是，正如你们所想的那样，<br>星晶兽的确是由<span class='scene-font-spword'>星之民</span>所制造的。
+33,ゼエン,それゆえに、<br>星晶獣を支配し、従えることは、<br><span class='scene-font-spword'>星の民</span>にしか出来ない。,也就是说，<br>支配并驱使星晶兽，<br>也只有<span class='scene-font-spword'>星之民</span>才能做到。
 34,ゼエン,しかし、空の民であっても、<br>互いを認め、対等な存在として、<br>星晶獣と並び立つことは出来る。,但是，即使是空之民，<br>也能与星晶兽相互认可，<br>并作为对等的存在，与其共同前行。
 35,,<span class='scene-font-katari'>ゼエンは案じるように、</span><br><span class='scene-font-katari'>眠り続けるラカムとオイゲンを見やる。</span>,泽恩担忧地看着<br>沉睡的拉卡姆和欧根。
 36,ゼエン,身体が耐え得るうちにそれに気づき、<br>そして実践することが<br>出来れば良いのだが……,如果他们能够<br>在身体能承受的极限范围内，<br>将其付诸现实就好了……
 37,,<span class='scene-font-katari'>ラカムとオイゲンの行く末は、</span><br><span class='scene-font-katari'>ただふたりの心の在り様にのみ、</span><br><span class='scene-font-katari'>委ねられているのだった。</span>,拉卡姆和欧根的命运<br>完全取决于他们自己的的心。
-41,,<span class='scene-font-katari'>一方その頃、</span><br><span class='scene-font-katari'>イデルバ王国首都</span><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>王の居城、フォルクシルト宮には……</span>,另一边，<br>在伊德尔瓦王国首都卢克斯列斯的<br>福克希尔德宫内。
+41,,<span class='scene-font-katari'>一方その頃、</span><br><span class='scene-font-katari'>イデルバ王国首都</span><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>王の居城、フォルクシルト宮には……</span>,另一边，<br>在伊德尔瓦王国首都<span class='scene-font-place'>卢克斯列斯</span>的<br>福克希尔德宫内。
 44,レオナ/蕾欧娜,…………,…………
 45,,<span class='scene-font-katari'>真剣な表情で資料をひとり漁る</span><br><span class='scene-font-katari'>レオナの姿があった。</span>,蕾欧娜正带着严肃的表情<br>查阅着资料。
 46,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（違う……</span><br><span class='scene-font-kokoro'>これにも繋がりそうな情報は無い……）</span>,（不对……<br>就连这里也没有任何情报……）
@@ -84,7 +84,7 @@ id,name,text,trans
 93,フォリア/芙莉亚,して、レオナよ。<br>妾に聞きたいこととは何なのじゃ？,那么，蕾欧娜。<br>你想问妾身什么？
 94,レオナ/蕾欧娜,あ、あはは……<br>そこから聞かれてたんですね……,啊，啊哈哈……<br>原来您是从这里开始听的啊……
 95,,<span class='scene-font-katari'>フォリアの問いに対しレオナは、</span><br><span class='scene-font-katari'>やや迷った末に、大きく頭を下げる。</span>,对于来自芙莉亚的提问，<br>蕾欧娜稍微犹豫了一下，<br>然后深深地低下了头。
-96,レオナ/蕾欧娜,あの、私……ごめんなさい。<br>実は<span class='scene-font-place'>ベスティエ島</span>で……,那个，我……对不起。<br>其实在贝斯缇耶岛，我……
+96,レオナ/蕾欧娜,あの、私……ごめんなさい。<br>実は<span class='scene-font-place'>ベスティエ島</span>で……,那个，我……对不起。<br>其实在<span class='scene-font-place'>贝斯缇耶岛</span>，我……
 97,,<span class='scene-font-katari'>レオナはギルベルトに言われたこと、</span><br><span class='scene-font-katari'>そしていままでそれについて、</span><br><span class='scene-font-katari'>秘密裏に調べていたことを説明する。</span>,蕾欧娜向芙莉亚说明了<br>吉尔伯特告诉她的话，<br>以及她一直在秘密调查着的事情。
 98,レオナ/蕾欧娜,ごめんなさい……<br>これって陛下への背信行為ですよね。<br>私への罰は如何様にでも……,对不起……对陛下来说，<br>这种行为和背叛也没什么两样了。<br>不论对我做出怎样的惩罚，我都……
 99,フォリア/芙莉亚,いや、よい……その必要はない。<br>いずれはこの時が訪れると、<br>妾も覚悟はしていたからの。,不不，也罢……没有这个必要。<br>妾身已经做好了相应的觉悟，<br>来迎接这个时刻的到来。
@@ -110,6 +110,6 @@ id,name,text,trans
 120,フォリア/芙莉亚,うむ……<br>レオナよ、先ほどの<br>調べものの件についてじゃがの……,嗯……<br>蕾欧娜啊，<br>关于你刚才调查的事情……
 121,フォリア/芙莉亚,妾はお主を止めはせん。<br>むしろ、気の済むように、<br>調べ続けるといい。,我不会阻止你的。<br>不如说，你可以继续调查下去，<br>直到自己满意为止。
 122,フォリア/芙莉亚,お主の望んだ真実に、<br>たどり着けるように、の……,为了寻找，<br>你所期待的真相……
-123,,<span class='scene-font-katari'>それだけ告げると、</span><br><span class='scene-font-katari'>フォリアはハクタクを伴い、</span><br><span class='scene-font-katari'>書庫から去っていく。</span>,说完，芙莉亚就和白泽一起<br>离开了书房。
+123,,<span class='scene-font-katari'>それだけ告げると、</span><br><span class='scene-font-katari'>フォリアはハクタクを伴い、</span><br><span class='scene-font-katari'>書庫から去っていく。</span>,说完，芙莉亚就和白泽一起<br>离开了图书馆。
 124,,<span class='scene-font-katari'>そしてそこには、資料に囲まれ、</span><br><span class='scene-font-katari'>ただ茫然とするレオナだけが</span><br><span class='scene-font-katari'>残されたのだった。</span>,在那里，只剩下了<br>被资料包围着的、茫然无措的蕾欧娜。
 info,,,scene_cp96_q2_s10

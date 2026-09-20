@@ -18,9 +18,9 @@ id,en,jp,trans
 14,"Look, Io... I didn't mean anything by it. So could you just... let it go？",なぁ、イオ……<br>さっきのは深い意味はなかった、<br>っつうか、その……機嫌直せよ、な？,我说伊欧啊，<br>刚才的话没什么特别的意思……<br>转换一下心情让它就这么过去了吧？
 15,Humph！,むぅぅーっ……！！,唔……！！
 16,It seems the problem can be traced back to a few hours ago...,<span class='scene-font-katari'>事の発端は、</span><br><span class='scene-font-katari'>数時間前に遡る。</span>,<span class='scene-font-katari'>事情的开始，可以追溯到几个小时前。</span>
-22,姬塔 and company had foiled Prime Minister Freesia's plans in Agastia.,<span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>にて、</span><br><span class='scene-font-katari'>宰相フリーシアの陰謀を</span><br><span class='scene-font-katari'>見事打ち破った姬塔一行。</span>,<span class='scene-font-place'>帝都阿加斯提亚</span><span class='scene-font-katari'>，</span><br><span class='scene-font-katari'>在那里姬塔一行人破坏了芙莉西雅宰相的阴谋。</span>
+22,姬塔 and company had foiled Prime Minister Freesia's plans in Agastia.,<span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>にて、</span><br><span class='scene-font-katari'>宰相フリーシアの陰謀を</span><br><span class='scene-font-katari'>見事打ち破った姬塔一行。</span>,<span class='scene-font-place'>帝都阿加斯提亚</span>，<br>在那里姬塔一行人<br>破坏了芙莉西雅宰相的阴谋。
 23,"And in Mephorash, they had settled the score with the Black Knight once and for all.",<span class='scene-font-katari'>さらに一行は</span><span class='scene-font-place'>メフォラシュ</span><span class='scene-font-katari'>にて、<br><span class='scene-font-katari'>黒騎士との因縁に決着をつける。,<span class='scene-font-katari'>而且众人也在</span><span class='scene-font-place'>美佛拉修</span><span class='scene-font-katari'>与黑骑士作出了了断。</span>
-24,"Then, the crew went to visit 姬塔's hometown of Zinkenstill in order to assure everyone that 姬塔 is doing okay.",<span class='scene-font-katari'>その後、姬塔一行は、</span><br><span class='scene-font-katari'>姬塔の無事を伝えるため、</span><br><span class='scene-font-katari'>故郷の</span><span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を訪れる。</span>,<span class='scene-font-katari'>在那之后，姬塔一行人</span><br><span class='scene-font-katari'>为了传达姬塔平安无事的消息，重返故乡</span><span class='scene-font-place'>赞克汀泽</span><span class='scene-font-katari'>。</span>
+24,"Then, the crew went to visit 姬塔's hometown of Zinkenstill in order to assure everyone that 姬塔 is doing okay.",<span class='scene-font-katari'>その後、姬塔一行は、</span><br><span class='scene-font-katari'>姬塔の無事を伝えるため、</span><br><span class='scene-font-katari'>故郷の</span><span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を訪れる。</span>,<span class='scene-font-katari'>在那之后，姬塔一行人<br>为了传达姬塔平安无事的消息，<br>重返故乡<span class='scene-font-place'>赞克汀泽</span>。
 25,"Upon their arrival, a crowd of villagers gathered to welcome 姬塔 and company.",<span class='scene-font-katari'>するとそこには、</span><br><span class='scene-font-katari'>姬塔達を歓迎するように</span><br><span class='scene-font-katari'>村人達が集まっていた。</span>,<span class='scene-font-katari'>当地村民们便聚集起来欢迎了他们。</span>
 26,"I heard all about it！You took down the Empire, right？",聞いたぞ！<br>帝国の悪い奴を倒したんだってな！？,我听说了哦！<br>是你们击败了帝国的坏人吧！？
 27,"I'm just glad you're alright. We're so happy to have you back, 姬塔！",とにかく無事で良かった……<br>よく戻ってきたわね！<br>姬塔！,总之能平安无事真是太好了，<br>姬塔终于是回来了呀！
@@ -55,7 +55,7 @@ id,en,jp,trans
 56-sel2_txt,We're going to find my father.,<span class='scene-font-katari'>父さんを追う</span>,去追寻父亲
 57,You're going to Estalucia？,星の島へ……？,去星之岛？
 58,"Wait, didn't we tell you？A long time ago, we got a letter from 姬塔's father.",あれ？　言ってなかったっけか？<br>子供の頃、姬塔のところに、<br>親父さんから手紙が届いたんだ。,咦咦？之前没和你说过吗？<br>姬塔小时候，<br>从父亲那里收到了一封信哦！
-59,"And it said, ""I'll be waiting for you in Estalucia, the island of the Astrals.""",そこには、<br><span class='scene-font-bold scene-font-blue'>「星の島イスタルシアで待つ」</span><br>って書いてあってよ……,上面写着<span class='scene-font-bold scene-font-blue'>“我在星之岛伊斯塔尔西亚等你”</span>来着。
+59,"And it said, ""I'll be waiting for you in Estalucia, the island of the Astrals.""",そこには、<br><span class='scene-font-bold scene-font-blue'>「星の島イスタルシアで待つ」</span><br>って書いてあってよ……,上面写着<br><span class='scene-font-bold scene-font-blue'>“我在星之岛伊斯塔尔西亚等你”</span><br>来着。
 60,"Ever since then, it's been 姬塔's dream to go to Estalucia！",それ以来、<br>星の島に行くことが、<br>姬塔の夢なんだぜ！,从那以后，<br>去星之岛就是这家伙的梦想了哦。
 61,I see... Didn't 姬塔's father go off to Estalucia？,父さんって確か……<br>姬塔さんのお父さんは、<br>星の島に渡ったとか……,姬塔的父亲……<br>我记得是抵达了星之岛吧？
 62,Yep！That's why we're headed there to meet him！,その通りだぜ！<br>だから、親父さんに会うために<br>星の島を目指してんだ！,对！<br>所以目标是与老爹在星之岛相见！
@@ -75,7 +75,7 @@ id,en,jp,trans
 76,"When you put them together, there's like a ""pow"" and the shapes magically unfold！",集めて使うと、<br>こう……ぶわーって魔法みてーに、<br>色んな形が広がるんだぜ！,如果把它们放在一起，它们就会……<br>呼哇的一下，像魔法似的，<br>展开各种图形！
 77,"A ""pow""？",ぶ、ぶわー……？,呼、呼哇……？
 78,What's that even mean？Now I'm even more confused.,なによその説明……<br>それじゃ結局、<br>なんだかよくわかんないじゃない……,这算什么说明呀，<br>到头来不还是什么都不知道嘛！
-79,Well alright. We all know that the Astrals left behind more questions than answers.,ま、まぁ……<br>星の民の残したものには、<br>わからないことのほうが多いだろう？,嗯……说到底，<br>那些星之民留下的东西，<br>本就有很多搞不清楚的部分吧？
+79,Well alright. We all know that the Astrals left behind more questions than answers.,ま、まぁ……<br>星の民の残したものには、<br>わからないことのほうが多いだろう？,嗯……说到底，<br>那些<span class='scene-font-spword'>星之民</span>留下的东西，<br>本就有很多搞不清楚的部分吧？
 80,But what are map pieces in the first place？And why do primal beasts possess them？,そもそも空図の欠片とは、<br>一体なんなのか。<br>どうして星晶獣がそれを持っているのか。,说到底，所谓的空图碎片，<br>到底是个什么东西呢？<br>为什么星晶兽会持有它们？
 81,"The more you think on it, the more mysterious it all becomes. If only we had a sliver of information... Wait, hold on a second！",考えればキリがないんだ。<br>ぼんやりした情報でも大きな一歩に……<br>……ん？,越是仔细想越是感到神秘。<br>哪怕只是一些模糊的情报，<br>对我们来说也是一大步……嗯？
 82,"What's wrong, Katalina？",どうしたの？　カタリナ……？,卡塔莉娜，怎么了吗？
@@ -83,7 +83,7 @@ id,en,jp,trans
 84,Don't tell me... You actually possess one as a primal beast？,というか、まさか……<br>君も星晶獣として、<br>空図の欠片を持っているのか……？,或者，难道说，<br>你作为星晶兽也持有空图碎片吗？
 85,...,…………,…………
 86,"Everyone looks to Rosetta, eager for her answer, but she shakes her head.",<span class='scene-font-katari'>カタリナの問いと、</span><br><span class='scene-font-katari'>皆の期待に満ちた眼差しに、</span><br><span class='scene-font-katari'>ロゼッタは大きく首を振って答える。</span>,<span class='scene-font-katari'>对于卡塔莉娜的提问，</span><br><span class='scene-font-katari'>每个人都向萝赛塔投向期望的目光，</span><br><span class='scene-font-katari'>但是她本人却摇了摇头。</span>
-87,The pieces of the Sky Map... One of the legacies left behind by the Astrals.,空図の欠片……<br>星の民が残した遺産の一つ……,空图碎片，<br>是星之民遗留下的遗产之一。
+87,The pieces of the Sky Map... One of the legacies left behind by the Astrals.,空図の欠片……<br>星の民が残した遺産の一つ……,空图碎片，<br>是<span class='scene-font-spword'>星之民</span>遗留下的遗产之一。
 88,Although their primary purpose and even their true name have been lost...,本来の用途や正しい名前は、<br>すでに失われてしまっているものの……,虽然它原来的使用方法<br>和正确的名称都已经失传了……
 89,"... it's widely known that primal beasts, who were abandoned just the same, possess these pieces.",同じく星の民が残した星晶獣が、<br>それらを有しているということだけは、<br>広く知られているわね。,但是同样是星民遗留物的星晶兽<br>持有空图碎片这件事，<br>倒是得到了广泛的认知。
 90,"Unfortunately, I don't have one.",でも……残念だけど……<br>アタシは空図の欠片を持っていないの。,但是，真的很抱歉，<br>我这儿没有空图碎片。

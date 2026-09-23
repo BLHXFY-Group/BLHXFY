@@ -1,7 +1,7 @@
 id,en,jp,trans
 0-chapter_name,70: Erste Kingdom,第70章　エルステ王国,第70章 埃尔斯特王国
 0-synopsis,"姬塔 and the crew arrive at the golem-guarded prison. They come face-to-face with Freesia, who's yet to remove the dark essence from herself.",砂漠の魔物を退け特別監獄へとたどり着いた姬塔一行は看守に案内され、ついにかつての宿敵フリーシアと対面する。暗闇からゆっくりと姿を現したフリーシアの瞳には、いまだ衰えぬ野望の光が爛々と灯っているのだった。,击退了沙漠中的魔物来到特殊监狱的姬塔等人，在看守的带领下，终于来到了芙莉西雅面前。从暗处现身的芙莉西雅，眼神中仍包含着尚未褪去的野心。
-0,姬塔 and company defeat the desert monsters and arrive at the prison where Freesia is being held.,<span class='scene-font-katari'>砂漠の魔物を退け、</span><br><span class='scene-font-katari'>フリーシアが収監される</span><br><span class='scene-font-katari'>牢獄へとやってきた姬塔一行。</span>,<span class='scene-font-katari'>姬塔和同伴击败沙漠中的魔物后，<br>抵达了关押着芙莉西雅的监狱。</span>
+0,姬塔 and company defeat the desert monsters and arrive at the prison where Freesia is being held.,<span class='scene-font-katari'>砂漠の魔物を退け、</span><br><span class='scene-font-katari'>フリーシアが収監される</span><br><span class='scene-font-katari'>牢獄へとやってきた姬塔一行。</span>,姬塔和同伴击败沙漠中的魔物后，<br>抵达了关押着芙莉西雅的监狱。
 1,...,…………,
 2,Whoa！You've got golems guarding the place？,うひゃー……<br>ここ、ゴーレムが守ってんのか？,哇！<br>这里是由魔像看守的吗？
 3,Golem guards for a prison in the middle of an empty desert... You've taken every precaution it seems.,周囲は見晴らしの良い砂漠で、<br>番兵はゴーレムか……<br>ずいぶん徹底しているようだな。,这里视野很好，可以将周围的沙漠一览无余，<br>看守也是由魔像担任的，<br>看来防范措施十分完备呢。
@@ -11,11 +11,11 @@ id,en,jp,trans
 8,Admiral Adam！You've brought guests？,アダム様！<br>そちらの方々は？,亚当将军！<br>这边的各位是？
 9,"They are guests of Her Highness Princess Orchis, and they've come to see Freesia.",オルキス女王陛下のお客様で、<br>フリーシアとの面会をご希望です。,他们是欧尔姬丝女王陛下的客人，<br>希望能与芙莉西雅会面。
 10,"Understood. This way, please.",了解致しました。<br>さぁ、こちらへどうぞ。,了解，这边请。
-16,The guard guides 姬塔 and company through the dimly lit prison.,<span class='scene-font-katari'>看守に案内され、</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>薄暗い牢獄へと進んでいく。</span>,<span class='scene-font-katari'>警卫引导姬塔和同伴们<br>进入了昏暗的监狱。
+16,The guard guides 姬塔 and company through the dimly lit prison.,<span class='scene-font-katari'>看守に案内され、</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>薄暗い牢獄へと進んでいく。</span>,警卫引导姬塔和同伴们<br>进入了昏暗的监狱。
 17,Get up！You have visitors！,起きろ！　面会だ！,起来！有访客！
-18,"At the guard's command, Freesia slowly appears from the darkness.",<span class='scene-font-katari'>看守の声にフリーシアは、</span><br><span class='scene-font-katari'>暗闇からゆっくりと、</span><br><span class='scene-font-katari'>その姿を現す。</span>,<span class='scene-font-katari'>听到看守的声音，<br>芙莉西雅从暗处慢慢走了出来。
+18,"At the guard's command, Freesia slowly appears from the darkness.",<span class='scene-font-katari'>看守の声にフリーシアは、</span><br><span class='scene-font-katari'>暗闇からゆっくりと、</span><br><span class='scene-font-katari'>その姿を現す。</span>,听到看守的声音，<br>芙莉西雅从暗处慢慢走了出来。
 19,It's Freesia...,フリーシアさん……,芙莉西雅……
 20,...,…………,
-21,"In a dark prison, 姬塔 and company come face-to-face with an old enemy.",<span class='scene-font-katari'>薄暗い牢獄で、</span><br><span class='scene-font-katari'>かつての宿敵と</span><br><span class='scene-font-katari'>相対する姬塔一行。</span>,<span class='scene-font-katari'>在这个昏暗的监狱中，<br>姬塔等人与过去的宿敌对视着。
-22,"She says nothing, but the flames of her ambition still burn in her gaze.",<span class='scene-font-katari'>しかし、フリーシアのその目には、</span><br><span class='scene-font-katari'>未だ衰えぬ野望の光が、</span><br><span class='scene-font-katari'>爛々と灯っているのだった。</span>,<span class='scene-font-katari'>但是芙莉西雅的眼神中，<br>仍然闪烁着尚未熄灭的野心之光。
+21,"In a dark prison, 姬塔 and company come face-to-face with an old enemy.",<span class='scene-font-katari'>薄暗い牢獄で、</span><br><span class='scene-font-katari'>かつての宿敵と</span><br><span class='scene-font-katari'>相対する姬塔一行。</span>,在这个昏暗的监狱中，<br>姬塔等人与过去的宿敌对视着。
+22,"She says nothing, but the flames of her ambition still burn in her gaze.",<span class='scene-font-katari'>しかし、フリーシアのその目には、</span><br><span class='scene-font-katari'>未だ衰えぬ野望の光が、</span><br><span class='scene-font-katari'>爛々と灯っているのだった。</span>,但是芙莉西雅的眼神中，<br>仍然闪烁着尚未熄灭的野心之光。
 info,1,1,scene_cp70_q4_s30

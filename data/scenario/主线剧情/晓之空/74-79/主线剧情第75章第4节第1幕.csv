@@ -7,7 +7,7 @@ id,en,jp,trans
 7,Huh？,あれ……？,咦？
 8,Hm？What's up？You're staring at your feet.,ん？　どうしたんだ？<br>じっと足元なんか見て……,嗯？怎么啦？<br>一直看着脚下？
 9,Footprints...,足跡……,脚印……
-10,Orchid points to footprints a little ways from the place where they had battled.,<span class='scene-font-katari'>オーキスは、</span><br><span class='scene-font-katari'>戦闘で踏み荒らされた場所から、</span><br><span class='scene-font-katari'>少し離れた位置にある足跡を指さす。</span>,<span class='scene-font-katari'>欧姬丝指向了离战场稍远一点的地方，<br>那里有一小串脚印。
+10,Orchid points to footprints a little ways from the place where they had battled.,<span class='scene-font-katari'>オーキスは、</span><br><span class='scene-font-katari'>戦闘で踏み荒らされた場所から、</span><br><span class='scene-font-katari'>少し離れた位置にある足跡を指さす。</span>,欧姬丝指向了离战场稍远一点的地方，<br>那里有一小串脚印。
 11,That woman left. Without a word. Only leaving these footprints...,さっきの人……行っちゃった。<br>何も言わないで……<br>この足跡だけ残して……,刚才那个人……走掉了呢。<br>什么都没说，<br>只留下了这些脚印。
 12,Oh！Now that you mention it...,あっ！<br>そう言えば確かに……,啊！<br>说起来确实是……
 13,She's gone. Maybe she got caught up in the monster battle？,どこにも居ないですね……<br>まさか、魔物との戦闘に<br>巻き込まれてしまったんでしょうか……,确实消失得无影无踪了，<br>难道是被卷入了<br>和魔物的战斗吗……
@@ -19,14 +19,14 @@ id,en,jp,trans
 19,"Well, maybe she had her own reasons for rushin' off.",そうだなぁ……<br>まぁ、向こうさんにゃあ、<br>何か急ぐ理由でもあったんだろ。,也是……<br>算啦，说不定对方<br>有什么急事必须马上离开呢。
 20,And we're not here on any vacation either. So let's get back to findin' Drang and...,だがよぉ、オレ達だって、のんびり<br>観光に来てるわけじゃあねぇんだ……<br>とっととドランクの奴を見つけて……,但是我们也不是<br>来这里悠闲地观光的啊，<br>赶快去找德朗克那家伙吧。
 21,Eh？,……あん？,啊？
-22,Eugen suddenly looks up at the sky.,<span class='scene-font-katari'>ふと、オイゲンは空の一点を見つめる。</span>,<span class='scene-font-katari'>突然，欧根紧盯着<br>天空中的一个点。</span>
+22,Eugen suddenly looks up at the sky.,<span class='scene-font-katari'>ふと、オイゲンは空の一点を見つめる。</span>,突然，欧根紧盯着<br>天空中的一个点。
 23,"Oy, get your weapons ready. Somethin' is comin' this way.",おい……構えろ。<br>何か来るぞ。,喂，做好准备，<br>有什么东西过来了！
 24,Hm？Do you hear that strange noise？,ん……？<br>そういや、何か変な音が……,嗯……？<br>说起来好像有什么奇怪的声音。
-26,"All of a sudden, a giant bird monster swoops down from the sky and grabs Vyrn in its talons.",<span class='scene-font-katari'>突如現れた巨大な鳥の魔物は、</span><br><span class='scene-font-katari'>その巨大な鉤爪にビィを捕える。</span>,<span class='scene-font-katari'>突然出现的巨大鸟型魔物<br>用其利爪抓住了碧。</span>
+26,"All of a sudden, a giant bird monster swoops down from the sky and grabs Vyrn in its talons.",<span class='scene-font-katari'>突如現れた巨大な鳥の魔物は、</span><br><span class='scene-font-katari'>その巨大な鉤爪にビィを捕える。</span>,突然出现的巨大鸟型魔物<br>用其利爪抓住了碧。
 27,Whoa！I ain't no bird feed！,うわわっ！？<br>オイラは獲物じゃねぇっての！,呜哇哇！<br>俺才不是猎物啊！
 28,Ngh！,くっ……！,唔……！
 30,Caw！,<span class='scene-font-5'>キュィィィッ！！</span>,<span class='scene-font-5'>吱——！！</span>
-32,"姬塔 and Katalina attack the bird monster at once, forcing it to release Vyrn.",<span class='scene-font-katari'>咄嗟に剣を振るった</span><br><span class='scene-font-katari'>姬塔とカタリナの一撃に、</span><br><span class='scene-font-katari'>鳥の魔物はビィを放す。</span>,<span class='scene-font-katari'>姬塔与卡塔莉娜立即挥剑进攻，<br>让魔物放开了碧。</span>
+32,"姬塔 and Katalina attack the bird monster at once, forcing it to release Vyrn.",<span class='scene-font-katari'>咄嗟に剣を振るった</span><br><span class='scene-font-katari'>姬塔とカタリナの一撃に、</span><br><span class='scene-font-katari'>鳥の魔物はビィを放す。</span>,姬塔与卡塔莉娜立即挥剑进攻，<br>让魔物放开了碧。
 34,"Talk to me, Vyrn！",大丈夫か！　ビィくん！,没事吧！阿碧！
 35,"S-sure... Thanks for the save, you two...",お、おう……<br>助かったぜ、姐さん、姬塔……,嗯、嗯……<br>救命了，大姐头，姬塔。
 36,We're not done yet. That thing's still coming for us.,まだ助かってない……<br>あの魔物……まだこっちを狙ってるぞ。,还没完全脱离险境呢，<br>那个魔物还瞄准着这边。

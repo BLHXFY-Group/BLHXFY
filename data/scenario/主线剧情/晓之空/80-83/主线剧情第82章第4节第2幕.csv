@@ -8,7 +8,7 @@ id,en,jp,trans
 7,"Right. But don't let your guard down, Vyrn.",ああ……<br>だが、本当に気を付けるんだぞ、<br>ビィ君……,是的……<br>但是你可得小心点啊，阿碧。
 8,"Of course！I might be small, but I'm a skyfarer all the same！",あたぼうよ！<br>オイラだってこう見えて、<br>騎空団の一員だからな！,当然啦！<br>别看俺个头小，<br>俺也是骑空团的一员呢！
 9,"Well, if I see anything, I'll let you know！",んじゃ、<br>何かあったらすぐ知らせるぜ！,那么，要是有什么动静，<br>俺立刻通知你们。
-10,And with that Vyrn flies away high into the air.,<span class='scene-font-katari'>そう言うと、</span><br><span class='scene-font-katari'>ビィは空高く飛び上がっていく。</span>,<span class='scene-font-katari'>说完碧就飞上了高空。</span>
+10,And with that Vyrn flies away high into the air.,<span class='scene-font-katari'>そう言うと、</span><br><span class='scene-font-katari'>ビィは空高く飛び上がっていく。</span>,说完碧就飞上了高空。
 11,To think he'd use Vyrn's ability to fly to send messages between us...,空を自在に飛ぶことの出来るビィ君を、<br>合図や連絡の手段に使う、か……,将能够自由飞行于空中的阿碧，<br>作为传达信号或者进行联络的手段吗……
 12,I can't believe we never thought of that. But it still leaves me a little concerned...,これもまた、<br>私達にはない発想だったな。<br>しかし、心配でもあるが……,这也是我们没能想到的，<br>但是确实也有点担心。
 12-sel1_txt,Vyrn will be fine.,<span class='scene-font-katari'>ビィなら大丈夫</span>,碧的话没事的
@@ -16,9 +16,9 @@ id,en,jp,trans
 13,"Yes... I suppose you're right. Considering how long you've been friends, you'd know better than anyone else.",そうか……そうだな。<br>誰より付き合いの長い<br>君が言うのなら、間違いはないな。,是吗……是啊。<br>既然跟碧相处时间最久的你都这么说了，<br>那肯定没问题。
 14,"Now that I think about it, I bet that's true.",ふふっ……<br>言われてみれば、確かにそうだな。,呵呵……<br>说来确实如此啊。
 15,He adores helping others especially when it's something only he can do.,自分にしか出来ない仕事で、<br>人に頼られるというのは、<br>誰にとっても嬉しいものだ。,被别人拜托了<br>只有自己能做的事，<br>任谁都会感到高兴的吧。
-16,"姬塔 and Katalina smile at each other, but Lyria's gaze is fixed on the stone slab in the brush.",<span class='scene-font-katari'>カタリナ達が柔らかな笑みを浮かべる中、</span><br><span class='scene-font-katari'>ルリアはどうにも気になる様子で、</span><br><span class='scene-font-katari'>石碑のある茂みを見やる。</span>,<span class='scene-font-katari'>卡塔莉娜和姬塔露出了微笑<br>而露莉亚以一副无法释怀的样子<br>盯着埋在茂密草木中的石碑看。</span>
+16,"姬塔 and Katalina smile at each other, but Lyria's gaze is fixed on the stone slab in the brush.",<span class='scene-font-katari'>カタリナ達が柔らかな笑みを浮かべる中、</span><br><span class='scene-font-katari'>ルリアはどうにも気になる様子で、</span><br><span class='scene-font-katari'>石碑のある茂みを見やる。</span>,卡塔莉娜和姬塔露出了微笑<br>而露莉亚以一副无法释怀的样子<br>盯着埋在茂密草木中的石碑看。
 17,So what do you think the seal is exactly？,それにしても……<br>この「封印」って、<br>いったい何なんでしょうか……,说起来，<br>这个“封印”到底是什么呢？
-18,"Katalina gazes at the slab as well, looking perplexed.",<span class='scene-font-katari'>ルリアの呟きに、</span><br><span class='scene-font-katari'>カタリナも首を傾げながら</span><br><span class='scene-font-katari'>石碑を見やる。</span>,<span class='scene-font-katari'>听到露莉亚的喃喃自语，<br>卡塔莉娜也歪着头，<br>纳闷地看向石碑。</span>
+18,"Katalina gazes at the slab as well, looking perplexed.",<span class='scene-font-katari'>ルリアの呟きに、</span><br><span class='scene-font-katari'>カタリナも首を傾げながら</span><br><span class='scene-font-katari'>石碑を見やる。</span>,听到露莉亚的喃喃自语，<br>卡塔莉娜也歪着头，<br>纳闷地看向石碑。
 19,The only thing Cain told us was to break the seal on his signal...,カインからは、合図があったら、<br>この「封印」を破壊するようにとしか<br>言われていないからな……,该隐之前说的是，<br>等他发出信号<br>就破坏掉这个“封印”。
 19-sel1_txt,Let's trust Cain.,<span class='scene-font-katari'>カインを信じよう</span>,相信该隐吧
 19-sel2_txt,Let's wait for his signal.,<span class='scene-font-katari'>合図を待とう</span>,等待信号吧
@@ -29,20 +29,20 @@ id,en,jp,trans
 28,Impossible... Who are you？How could you have known about the self-destruct seal？,ありえねぇ……お前、何者だ！？<br>どうして自壊封印のことを<br>知ってやがる！？,不可能，你到底是什么人！？<br>为什么会知道“自坏封印”的事！？
 29,Then that m-means the seal's just been...,じゃ、じゃあ、いまのはまさか、<br>自壊封印を……？,那、那么，刚刚那个是，<br>自坏封印被……？
 30,No. Not yet. That's impossible.,いや、それはまだだ。<br>それはありえねぇ。,不，还没有。<br>那是不可能的。
-31,As Reinhardtzar speaks he looks toward their hideout towering in the distance.,<span class='scene-font-katari'>ラインハルザはそう言いながら、</span><br><span class='scene-font-katari'>高くそびえる自分達のアジトを見やる。</span>,<span class='scene-font-katari'>莱茵哈萨如此说道，<br>然后他望向自己那座高耸的要塞。</span>
+31,As Reinhardtzar speaks he looks toward their hideout towering in the distance.,<span class='scene-font-katari'>ラインハルザはそう言いながら、</span><br><span class='scene-font-katari'>高くそびえる自分達のアジトを見やる。</span>,莱茵哈萨如此说道，<br>然后他望向自己那座高耸的要塞。
 32,The seal is fine. But then...,まだ封印は無事だ……<br>だが……,封印还没事，但……
 33,That sound just now was the signal that 姬塔 and the others have control over the seal's location.,さっきのは、姬塔達が<br>封印周辺を制圧した音だ。<br>もう合図も来てる。,刚才的是姬塔他们<br>镇压封印周边守卫的声音，<br>信号已经发给我了。
-34,"Vyrn is flying high in the air as Cain speaks, but his appearance goes unnoticed by Reinhardtzar.",<span class='scene-font-katari'>そう告げるカインは、</span><br><span class='scene-font-katari'>ラインハルザに気付かれぬよう、</span><br><span class='scene-font-katari'>高く飛び上がったビィを視界に入れる。</span>,<span class='scene-font-katari'>该隐如此宣告，<br>趁莱茵哈萨不注意瞥了一眼<br>飞到高空的碧。</span>
+34,"Vyrn is flying high in the air as Cain speaks, but his appearance goes unnoticed by Reinhardtzar.",<span class='scene-font-katari'>そう告げるカインは、</span><br><span class='scene-font-katari'>ラインハルザに気付かれぬよう、</span><br><span class='scene-font-katari'>高く飛び上がったビィを視界に入れる。</span>,该隐如此宣告，<br>趁莱茵哈萨不注意瞥了一眼<br>飞到高空的碧。
 35,"All I have to do is give them the signal, and they'll destroy the seal.",後は、俺から合図を出せば、<br>いつでも姬塔達は、<br>自壊封印をぶっ壊せるぜ。,之后，只要我发出信号，<br>姬塔他们随时都能破坏自坏封印。
 36,Why you...,てめぇ……！！,混账！！
-37,"While still fearful of an enraged Reinhardtzar, a villager timidly calls out to Cain.",<span class='scene-font-katari'>怒気を纏うラインハルザに怯えながら、</span><br><span class='scene-font-katari'>村人はカインに疑問を投げかける。</span>,<span class='scene-font-katari'>即便畏惧勃然大怒的莱茵哈萨，<br>但一位村民还是壮起胆向该隐发问：</span>
+37,"While still fearful of an enraged Reinhardtzar, a villager timidly calls out to Cain.",<span class='scene-font-katari'>怒気を纏うラインハルザに怯えながら、</span><br><span class='scene-font-katari'>村人はカインに疑問を投げかける。</span>,即便畏惧勃然大怒的莱茵哈萨，<br>但一位村民还是壮起胆向该隐发问：
 38,Pardon m-me... But what's this seal you've been going on about？,な、なぁ……<br>さっきからアンタ達が言ってる、<br>「封印」ってなんのことだ？,那、那个，<br>刚才你们说的“封印”是指什么？
 39,"I'm not sure what's going on, but if it's something dangerous on the island...",なんだか知らないが、<br>島であまり物騒なことは……,虽然不知详情如何，<br>但是如果它会让这座岛陷入危险的话……
 40,"Don't you fret！Even if the self-destruct seal is broken, no harm will come to the village.",心配いらねぇよ。<br>自壊封印を壊しても、<br>村に被害は出ねぇもん。,不用担心，<br>即便破坏了自坏封印，<br>村子也不会遭到损害。
 41,"But that's not the case for you, is it, Reinhardtzar？",ただ、お前はあれを壊されちゃ困る。<br>そうだろ？　ラインハルザ。,只是，那个被破坏了会让你很困扰。<br>是吧，莱茵哈萨？
 42,...,…………,…………
 43,But what's this... self-destruct seal anyway？,だからその、<br>自壊封印、ってのは……？,所以那个自坏封印到底是……？
-44,Cain decides to take a moment to explain what exactly the seal does.,<span class='scene-font-katari'>村人の問いにカインは、</span><br><span class='scene-font-katari'>一度間を置き、</span><br><span class='scene-font-katari'>丁寧に説明するように口を開く。</span>,<span class='scene-font-katari'>该隐暂时没有回应村民的问题，<br>而是十分细心地开始说明。</span>
+44,Cain decides to take a moment to explain what exactly the seal does.,<span class='scene-font-katari'>村人の問いにカインは、</span><br><span class='scene-font-katari'>一度間を置き、</span><br><span class='scene-font-katari'>丁寧に説明するように口を開く。</span>,该隐暂时没有回应村民的问题，<br>而是十分细心地开始说明。
 45,"The self-destruct seal is a seal that, once broken, will make Sturren Fort collapse.",自壊封印、ってのは、<br>あの砦……<span class='scene-font-place'>シュテルンフォート</span>を<br>破壊するためのものなんだ。,自坏封印是为了\n破坏那座<span class='scene-font-place'>修特伦要塞</span>而制造的。
 46,That fortress will collapse？But why was such a thing...,あの砦を破壊……？<br>なんでそんなものが……,破坏那座要塞？<br>为什么会有这样的东西……
 47,"Long story short, Sturren Fort was built by the Astrals a long time ago.",んー。細かい話は省略するけど、<br><span class='scene-font-place'>シュテルンフォート</span>は、<br>かつて星の民が作ったものなんだ。,嗯……过于细致的经过就省略了，<br>那座<span class='scene-font-place'>修特伦要塞</span>是由<span class='scene-font-spword'>星之民</span>建造的。
@@ -57,12 +57,12 @@ id,en,jp,trans
 56,"And so the Astrals placed a secret seal far away from the fortress that could destroy the compound itself, see？",だから星の民は極秘で、<br>砦から離れた位置に、<br>砦を崩壊させる封印を作ったのさ。,所以<span class='scene-font-spword'>星之民</span>就秘密地<br>在离要塞有一段距离的地方，<br>设置了让要塞自己崩塌的封印。
 57,"So when the time came, they could destroy the enemy and the fortress in one strike.",もしも砦が敵の手に渡ったときに、<br>その敵を砦ごと、<br>一網打尽にするために。,万一要塞落到了敌人的手上，<br>就可以将敌人和那座要塞一起，<br>一网打尽。
 58,And you're saying... that's what this self-destruct seal really is？,それが、その……<br>自壊封印、だって言うのか？,这就是……<br>自坏封印的真面目吗？
-59,Reinhardtzar nods in answer as understanding begins to seep into the villager's expression.,<span class='scene-font-katari'>ゆっくりと納得した様子を見せる村人へ、</span><br><span class='scene-font-katari'>ラインハルザは頷きを返す。</span>,<span class='scene-font-katari'>莱茵哈萨也点头回应<br>那些看上去慢慢接受了这个说法<br>的村民们。</span>
+59,Reinhardtzar nods in answer as understanding begins to seep into the villager's expression.,<span class='scene-font-katari'>ゆっくりと納得した様子を見せる村人へ、</span><br><span class='scene-font-katari'>ラインハルザは頷きを返す。</span>,莱茵哈萨也点头回应<br>那些看上去慢慢接受了这个说法<br>的村民们。
 60,He's right. But that story is over five hundred years old...,そうだ……<br>だがそれは、<br>もう５００年以上も前の話だ。,是的……<br>但是这已经是500年以前的事情了。
 61,"If I hadn't been sent to investigate this island while in the Torhid military, I'd never have known.",トリッド王国の正規軍として、<br>この島を調査することがなければ、<br>オレも知ることはなかっただろう。,如果不是作为特里德王国正规军的一员<br>对这座岛进行了一番调查，<br>我恐怕也不会知道这件事。
 62,"And the things you've said, including the Astrals' motives, could only be known by a member of their secret intelligence section.",お前の話した内容は、<br>ナル・グランデの星の民の動向も含め、<br>軍の諜報部くらいしか知りえない内容だ。,你刚刚说的那些内容，<br>包括纳尔·格兰德空域内<span class='scene-font-spword'>星之民</span>的动向在内，<br>应该是只有军队情报部才能知道的东西。
 63,But those traveling skyfarers don't look like the type... So just who are you exactly？,ただの旅人だの騎空士だのが、<br>知ってるはずはねぇ……<br>お前はいったい何者だ……？,区区旅人也好骑空士也好，<br>是不可能知道这些事的……<br>你到底是什么人？
-64,"Reinhardtzar's inquiry seems threatening, but Cain is unfazed.",<span class='scene-font-katari'>恫喝するようなラインハルザの問いに、</span><br><span class='scene-font-katari'>それでもカインが怯むことはない。</span>,<span class='scene-font-katari'>面对莱茵哈萨恫吓一般的提问，<br>该隐没有露出丝毫畏惧之色。</span>
+64,"Reinhardtzar's inquiry seems threatening, but Cain is unfazed.",<span class='scene-font-katari'>恫喝するようなラインハルザの問いに、</span><br><span class='scene-font-katari'>それでもカインが怯むことはない。</span>,面对莱茵哈萨恫吓一般的提问，<br>该隐没有露出丝毫畏惧之色。
 65,"Reinhardtzar. Most of your men are still inside that fortress, aren't they？",ラインハルザ……<br>あの砦にはお前の仲間の<br>ほとんどがまだ残ってるよな。,莱茵哈萨……<br>你的同伴大多都还待在<br>那座要塞里吧。
 66,What do you think will happen when the structure collapses on top of them？,そんな状態で、<br>砦が崩壊を始めたらどうなると思う？,这种状态下要塞要是塌了，<br>你觉得会怎么样？
 67,"Humph. I know you're bluffing. It's those soft-hearted folks who're waiting at the seal, right？",ふん……はったりだな。<br>封印を制圧しに行ったのは、<br>あのお人好し達だろう？,哼，虚张声势。<br>去镇压封印那边的<br>是那群老好人吧？
@@ -74,11 +74,11 @@ id,en,jp,trans
 73,You rat！You've fooled them into becoming your pawns！,クズが……！！<br>てめぇはあいつらも騙して、<br>利用してるってのか！？,你这个人渣！<br>连他们都要欺骗，<br>加以利用吗？
 74,"If that's how you see it, then fine. Taking the brunt of your anger is a small price to pay.",そう捉えてもらって構わない。<br>俺一人が罵られて済むなら、<br>安いもんだ。,你要这样认为也无所谓，<br>如果只骂我一个人就能解决事态，<br>那可真是赚大了。
 75,This is the best idea I could come up with to counter you and your hostage threat.,村人を人質にしたお前らに対抗するには<br>これくらいしか<br>策が思いつかなかったからな。,与劫持村民为人质的你们对抗，<br>我必须拿出这种程度的对策。
-76,Reinhardtzar hears the matter-of-fact tone of Cain's voice.,<span class='scene-font-katari'>カインはあくまで淡々と、</span><br><span class='scene-font-katari'>ラインハルザに告げる。</span>,<span class='scene-font-katari'>该隐一直保持着淡漠的态度<br>与莱茵哈萨对话。</span>
+76,Reinhardtzar hears the matter-of-fact tone of Cain's voice.,<span class='scene-font-katari'>カインはあくまで淡々と、</span><br><span class='scene-font-katari'>ラインハルザに告げる。</span>,该隐一直保持着淡漠的态度<br>与莱茵哈萨对话。
 77,"Now we're in a stalemate. So what's your next move, Your Majesty？",これで状況は五分だぜ。<br>さぁ、どうする、盗賊王。,这样局势就对半开了，<br>那么你要怎么办呢，盗贼王？
 78,Well... you're holding all my men hostage in the fortress. So what are your demands？,お前は……<br>砦に居るオレの仲間全てを人質にして、<br>何を要求するってんだ？,你把要塞中我所有的同伴都当成人质，<br>打算提出什么要求？
 79,Release the villagers. And hand the island back over to the Idelva Kingdom without any further resistance.,村人の解放。<br>それとこの島を無抵抗で<br>イデルバ王国に明け渡してほしい。,释放村民，<br>并且毫不抵抗地<br>将这座岛交还给伊德尔瓦王国。
-80,Reinhardtzar pauses a moment to think before giving a curt answer.,<span class='scene-font-katari'>カインの要求に対し、</span><br><span class='scene-font-katari'>ラインハルザはわずかに間を置き、</span><br><span class='scene-font-katari'>しかし、ハッキリと答えを返す。</span>,<span class='scene-font-katari'>对于该隐的要求，<br>莱茵哈萨停顿了片刻，<br>然后明确地给予了回复。</span>
+80,Reinhardtzar pauses a moment to think before giving a curt answer.,<span class='scene-font-katari'>カインの要求に対し、</span><br><span class='scene-font-katari'>ラインハルザはわずかに間を置き、</span><br><span class='scene-font-katari'>しかし、ハッキリと答えを返す。</span>,对于该隐的要求，<br>莱茵哈萨停顿了片刻，<br>然后明确地给予了回复。
 81,I refuse. You say you'll break the seal？Then let's see you do it.,断わる。<br>自壊封印の破壊？<br>やれるもんならやってみろよ。,我拒绝，破坏自坏封印？<br>你敢做的话就试试看啊。
 82,Tzar... But then the men in the fortress...,キ、キング……？<br>それじゃあ、砦の奴らは……,老……老大，<br>那样的话要塞里的家伙就……
 83,"Reinhardtzar... If you think we're lying about our hold on the seal, you're dead wrong.",ラインハルザ……<br>俺達が自壊封印を制圧したってのは、<br>嘘なんかじゃねぇぞ……,莱茵哈萨……<br>我们已经控制了自坏封印这件事<br>可不是谎言。
@@ -93,22 +93,22 @@ id,en,jp,trans
 92,"The village will find itself in danger then. With no consequences to fear, I could destroy the village all on my own.",村にも当然被害が出る。<br>後先を考えなけりゃあ、<br>オレだけで村を壊滅させることも出来る。,村子当然也会受害，<br>不需要考虑任何后果的话，<br>只凭我们也能摧毁掉这个村子。
 93,But you can't...,そんな……,怎么这样……
 94,Cain. Can you shoulder a burden like that on your own？,カイン……<br>お前には、その全てが背負えるのか？,该隐，你能背负这一切吗？
-95,Cain seems flustered for a moment but then opens his mouth to respond.,<span class='scene-font-katari'>ラインハルザの言葉に</span><br><span class='scene-font-katari'>狼狽えた様子を見せながら、</span><br><span class='scene-font-katari'>カインもまた口を開く。</span>,<span class='scene-font-katari'>莱茵哈萨的话<br>让该隐有些惊慌失措，<br>然后他再次开口：</span>
+95,Cain seems flustered for a moment but then opens his mouth to respond.,<span class='scene-font-katari'>ラインハルザの言葉に</span><br><span class='scene-font-katari'>狼狽えた様子を見せながら、</span><br><span class='scene-font-katari'>カインもまた口を開く。</span>,莱茵哈萨的话<br>让该隐有些惊慌失措，<br>然后他再次开口：
 96,But weren't you trying to build a country for your comrades？,お前は……仲間のために<br>国を建てようと<br>してたんじゃねぇのかよ？,你不是为了同伴<br>才想建立国家的吗？
 97,Don't lie... Not even you could abandon your friends like that.,お前だって……<br>仲間を見捨てるなんて出来ないだろ。,你不也一样吗……<br>你是不可能抛弃自己同伴的吧？
 98,"Oh yes, I could.",いいや、出来る。,不，我可以。
 99,...！,ッ！？,唔！？
 100,I'm absolutely serious. There's no turning back for me.,オレは本気だ……<br>もう後には引けねぇんだ。,我是认真的……<br>我已经不能回头了。
-101,"Reinhardtzar turns to a villager, fist clenched menacingly.",<span class='scene-font-katari'>そう言うとラインハルザは、</span><br><span class='scene-font-katari'>村人に対して</span><br><span class='scene-font-katari'>自らの拳を振りかぶる。</span>,<span class='scene-font-katari'>莱茵哈萨这样说着，<br>向村民挥起拳头。</span>
+101,"Reinhardtzar turns to a villager, fist clenched menacingly.",<span class='scene-font-katari'>そう言うとラインハルザは、</span><br><span class='scene-font-katari'>村人に対して</span><br><span class='scene-font-katari'>自らの拳を振りかぶる。</span>,莱茵哈萨这样说着，<br>向村民挥起拳头。
 102,Eep...,ひっ……！！,咿……！！
 103,I'm not running anymore！I don't care what it takes！,もうオレは逃げねぇ……！！<br>何を犠牲にしようと、<br>オレはッ……！！,我决不会再逃避了！！<br>无论要牺牲什么，<br>我都不会！！
 104,No！,やめっ……！！,住手……！
-108,"With eyes squeezed shut, the villager prepares for the impact of Reinhardtzar's massive fist.",<span class='scene-font-katari'>自らの眼前に迫る</span><br><span class='scene-font-katari'>巨大な拳に身構えるように、</span><br><span class='scene-font-katari'>村人は咄嗟に目を瞑る。</span>,<span class='scene-font-katari'>村民立刻闭紧双眼，<br>准备承受挥到眼前的巨拳。</span>
-109,"But instead of pain, the villager only hears the sound of a loud thunk.",<span class='scene-font-katari'>しかし、音はすれども痛みは現れず、</span><br><span class='scene-font-katari'>村人は不思議そうに</span><br><span class='scene-font-katari'>ゆっくりと瞼を上げる。</span>,<span class='scene-font-katari'>但是，只听到声音却没有感受到疼痛，<br>村民有些不可思议地慢慢睁开眼。</span>
+108,"With eyes squeezed shut, the villager prepares for the impact of Reinhardtzar's massive fist.",<span class='scene-font-katari'>自らの眼前に迫る</span><br><span class='scene-font-katari'>巨大な拳に身構えるように、</span><br><span class='scene-font-katari'>村人は咄嗟に目を瞑る。</span>,村民立刻闭紧双眼，<br>准备承受挥到眼前的巨拳。
+109,"But instead of pain, the villager only hears the sound of a loud thunk.",<span class='scene-font-katari'>しかし、音はすれども痛みは現れず、</span><br><span class='scene-font-katari'>村人は不思議そうに</span><br><span class='scene-font-katari'>ゆっくりと瞼を上げる。</span>,但是，只听到声音却没有感受到疼痛，<br>村民有些不可思议地慢慢睁开眼。
 113,...？,……？,……？
-114,The villager gazes up to see Reinhardtzar's fist stopped mid-swing against a piece of brilliant steel glinting in the sunlight.,<span class='scene-font-katari'>その目に映ったのは、</span><br><span class='scene-font-katari'>ラインハルザの拳を止め、</span><br><span class='scene-font-katari'>陽光を反射する鮮やかな鋼の色。</span>,<span class='scene-font-katari'>他看见了，阻止了莱茵哈萨那一拳的，<br>在阳光反射下熠熠生辉的钢铁之色。</span>
+114,The villager gazes up to see Reinhardtzar's fist stopped mid-swing against a piece of brilliant steel glinting in the sunlight.,<span class='scene-font-katari'>その目に映ったのは、</span><br><span class='scene-font-katari'>ラインハルザの拳を止め、</span><br><span class='scene-font-katari'>陽光を反射する鮮やかな鋼の色。</span>,他看见了，阻止了莱茵哈萨那一拳的，<br>在阳光反射下熠熠生辉的钢铁之色。
 115,Looks like we're just in time.,――間に合いましたね。,赶上了呢。
-116,"Having stopped Reinhardtzar with her weapon, the woman slowly exhales to calm her nerves.",<span class='scene-font-katari'>その女性は</span><br><span class='scene-font-katari'>自らの得物でラインハルザの拳を止め、</span><br><span class='scene-font-katari'>衝撃を殺すように息を吐く。</span>,<span class='scene-font-katari'>这位女性用自己的武器<br>阻止了莱茵哈萨的那一拳，<br>为了缓解冲击而吐了口气。</span>
-117,But her gaze remains sharp and unbroken as she peers at Reinhardtzar.,<span class='scene-font-katari'>その視線は、静かに、しかし鋭く、</span><br><span class='scene-font-katari'>ラインハルザへと</span><br><span class='scene-font-katari'>向けられているのだった。</span>,<span class='scene-font-katari'>刺向莱茵哈萨的那道视线，<br>虽然平静，<br>却也尖锐无比。</span>
+116,"Having stopped Reinhardtzar with her weapon, the woman slowly exhales to calm her nerves.",<span class='scene-font-katari'>その女性は</span><br><span class='scene-font-katari'>自らの得物でラインハルザの拳を止め、</span><br><span class='scene-font-katari'>衝撃を殺すように息を吐く。</span>,这位女性用自己的武器<br>阻止了莱茵哈萨的那一拳，<br>为了缓解冲击而吐了口气。
+117,But her gaze remains sharp and unbroken as she peers at Reinhardtzar.,<span class='scene-font-katari'>その視線は、静かに、しかし鋭く、</span><br><span class='scene-font-katari'>ラインハルザへと</span><br><span class='scene-font-katari'>向けられているのだった。</span>,刺向莱茵哈萨的那道视线，<br>虽然平静，<br>却也尖锐无比。
 info,1,1,scene_cp82_q4_s30
 ,,,

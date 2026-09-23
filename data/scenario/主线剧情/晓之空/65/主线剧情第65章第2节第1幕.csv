@@ -17,9 +17,9 @@
 15,I think I'll go look for her. You guys can go on ahead.,私、モニカさんを探してきます。<br>皆さんは先に行っててください。,我去找找莫妮卡，<br>诸位请先行一步吧。
 18,Lecia leaves 姬塔 and company to search for Monika in one of the halls.,<span class='scene-font-katari'>リーシャは一度</span><br><span class='scene-font-katari'>姬塔達の元を離れ、</span><br><span class='scene-font-katari'>庁舎内をモニカを探し歩く。</span>,莉夏从姬塔那里离开，<br>前往各个厅室寻找莫妮卡。
 19,"She checks all the areas where Monika might turn up, but cannot find her.",<span class='scene-font-katari'>しかし、心当たりのある場所を</span><br><span class='scene-font-katari'>いくら探そうとも、モニカの姿を</span><br><span class='scene-font-katari'>見つけることは出来なかった。</span>,然而，无论她怎么找，<br>都没能见到莫妮卡的身影。
-20,（I wonder where Monika went...）,<span class='scene-font-kokoro'>（モニカさん、</span><br><span class='scene-font-kokoro'>どこに行ったんだろ……）</span>,<span class='scene-font-kokoro'>（莫妮卡，<br>到底去了哪里呢？）
-21,（Could she have gone off on assignment？）,<span class='scene-font-kokoro'>（何かの任務で、</span><br><span class='scene-font-kokoro'>いまはここを空けているとか……？）</span>,<span class='scene-font-kokoro'>（是离开这里去执行什么任务了吗？）
-22,"Lecia ponders Monika's whereabouts as she continues walking, but suddenly comes across a crew member.",<span class='scene-font-katari'>思案しながら歩くリーシャは、</span><br><span class='scene-font-katari'>ふと、秩序の騎空団の団員を見つける。</span>,<span class='scene-font-katari'>莉夏边想边在楼道里走着，<br>突然撞见了一位<br>其他秩序骑空团的成员。
+20,（I wonder where Monika went...）,<span class='scene-font-kokoro'>（モニカさん、</span><br><span class='scene-font-kokoro'>どこに行ったんだろ……）</span>,<span class='scene-font-kokoro'>（莫妮卡，<br>到底去了哪里呢？）</span>
+21,（Could she have gone off on assignment？）,<span class='scene-font-kokoro'>（何かの任務で、</span><br><span class='scene-font-kokoro'>いまはここを空けているとか……？）</span>,<span class='scene-font-kokoro'>（是离开这里去执行什么任务了吗？）</span>
+22,"Lecia ponders Monika's whereabouts as she continues walking, but suddenly comes across a crew member.",<span class='scene-font-katari'>思案しながら歩くリーシャは、</span><br><span class='scene-font-katari'>ふと、秩序の騎空団の団員を見つける。</span>,莉夏边想边在楼道里走着，<br>突然撞见了一位<br>其他秩序骑空团的成员。
 23,"Excuse me, but do you know where Monika is？",すみません……<br>モニカさんが、<br>いまどちらにいるか知りませんか？,打扰一下，<br>你知道莫妮卡现在在哪吗？
 24,Oh！Admiral Lecia！Welcome back！,ああ、リーシャ船団長！<br>よくぞお戻りで……！,哦，莉夏船团长！<br>您回来了呀！
 25,Former admiral... But where is Monika？,元、船団長です……<br>それより、モニカさんは……？,是、是前任来着……<br>说起来，莫妮卡呢？
@@ -29,5 +29,5 @@
 29,Monika is there to escort him back.,モニカさんは、<br>そのお出迎えに行ってらっしゃるんです。,莫妮卡前去迎接那位大人了。
 30,My father... in Phantagrande？,父さんが……<br>ファータ・グランデに……？,父亲……<br>要回到法塔·格兰德空域了吗……？
 31,"Upon hearing of her father's sudden return, Lecia is at a loss for words.",<span class='scene-font-katari'>突然知らされた父の帰還に、</span><br><span class='scene-font-katari'>リーシャは言葉を失う。</span>,突然知晓了父亲要回来一事，<br>莉夏一时惊讶地说不出话来。
-32,"Anticipating their reunion, a mix of both happiness and unease swirls within her heart.",<span class='scene-font-katari'>しかし、リーシャの胸中には、</span><br><span class='scene-font-katari'>父に会えるという喜びだけでなく、</span><br><span class='scene-font-katari'>動揺と不安もまた、渦巻いていた。</span>,<span class='scene-font-katari'>但是此刻她心底<br>并非只有与父亲重逢的喜悦，<br>还有慌张和忧虑。
+32,"Anticipating their reunion, a mix of both happiness and unease swirls within her heart.",<span class='scene-font-katari'>しかし、リーシャの胸中には、</span><br><span class='scene-font-katari'>父に会えるという喜びだけでなく、</span><br><span class='scene-font-katari'>動揺と不安もまた、渦巻いていた。</span>,但是此刻她心底<br>并非只有与父亲重逢的喜悦，<br>还有慌张和忧虑。
 info,1,1,scene_cp65_q2_s10

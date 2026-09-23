@@ -1,14 +1,14 @@
 id,en,jp,trans
 0-chapter_name,,第72章　騒乱のアガスティア,第72章 混乱的阿加斯提亚
 0-synopsis,,オルキス救出のため、旧帝都アガスティアへ進むグランサイファー。しかし、誰よりオルキスの身を案じていたアダムの姿はそこになかった。オルキスの残した言葉に従い混乱した国を導くため王都に残ったアダムの思いを汲み、姬塔一行は、オルキスの笑顔を取り戻すためにも、フリーシアとの対決に臨む覚悟を固めるのだった。,众人为了救出欧尔姬丝，搭乘格兰赛法向旧帝都阿加斯提亚进发。但是，其中却没有比谁都更加关心欧尔姬丝安危的亚当的身影。亚当遵从了欧尔姬丝之前所说的话，留在了王都处理国内混乱的情况，而姬塔等人为了夺回欧尔姬丝的笑容，坚定了与芙莉西雅对决的决心。
-0,,<span class='scene-font-katari'>攫われたオルキスを助けるため、</span><br><span class='scene-font-place'>旧帝都アガスティア</span><span class='scene-font-katari'>へと進む</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔等人为了救出被拐走的欧尔姬丝，<br>决定前往</span><span class='scene-font-place'>旧帝都阿加斯提亚</span><span class='scene-font-katari'>。</span>
-1,,<span class='scene-font-katari'>しかし、その艇の上に、</span><br><span class='scene-font-katari'>誰よりもオルキスの身を案じていた</span><br><span class='scene-font-katari'>アダムの姿は無かった。</span>,<span class='scene-font-katari'>可是，骑空艇上<br>却不见比谁都更关心欧尔姬丝安危的<br>亚当的身影。</span>
+0,,<span class='scene-font-katari'>攫われたオルキスを助けるため、</span><br><span class='scene-font-place'>旧帝都アガスティア</span><span class='scene-font-katari'>へと進む</span><br><span class='scene-font-katari'>姬塔一行。</span>,姬塔等人为了救出被拐走的欧尔姬丝，<br>决定前往<span class='scene-font-place'>旧帝都阿加斯提亚</span>。
+1,,<span class='scene-font-katari'>しかし、その艇の上に、</span><br><span class='scene-font-katari'>誰よりもオルキスの身を案じていた</span><br><span class='scene-font-katari'>アダムの姿は無かった。</span>,可是，骑空艇上<br>却不见比谁都更关心欧尔姬丝安危的<br>亚当的身影。
 2,,オルキスちゃん……,小欧尔姬丝……
 9,,えっ……？<br>ちょ、ちょっと待って！<br>いまなんて……,呃……？<br>等下，刚刚你说什么？
 10,,私は……<br>姬塔さん達に<br>同行することは出来ません。,我不能……<br>与姬塔及各位同行。
 11,,オルキス様が誘拐されたことで、<br>民は非常に混乱しています。,因为欧尔姬丝被掳走了，<br>现在国民十分混乱。
 12,,いまエルステは、<br>指導者を欠くわけにはいかないのです。,现在的埃尔斯特<br>不能缺少领导者。
-13,,<span class='scene-font-katari'>淡々と言葉を続けながらも、</span><br><span class='scene-font-katari'>アダムは悔しげに拳を握りしめる。</span>,<span class='scene-font-katari'>亚当的语气十分平静，<br>却不甘地握紧了拳头。</span>
+13,,<span class='scene-font-katari'>淡々と言葉を続けながらも、</span><br><span class='scene-font-katari'>アダムは悔しげに拳を握りしめる。</span>,亚当的语气十分平静，<br>却不甘地握紧了拳头。
 14,,もしも……<br>万が一、オルキス様の身に<br>何かあった場合……,如果……<br>欧尔姬丝陛下真的<br>出了什么事的话……
 15,,国の維持を……民を最優先するよう、<br>私はオルキス様から仰せつかっています。,也要以国家秩序的维持、以民众为先，<br>过去欧尔姬丝陛下<br>曾对我这么嘱咐过。
 16,,だから……お願いします。<br>どうかオルキス様を、<br>無事に連れ帰って来てください。,所以，请求各位，<br>一定要将欧尔姬丝陛下<br>平安带回来！
@@ -24,7 +24,7 @@ id,en,jp,trans
 31,,ロゼッタの言う通りだな……<br>フリーシアが野望を諦めないのなら、<br>私達は何度でも戦うまでだ。,正如萝赛塔所言，<br>如果芙莉西雅不肯放下自己的野心，<br>那么无论多少次我们也要与之战斗。
 32,,奴の望むアーカーシャが<br>こちらの手に無い以上、<br>強行手段を取ることになる……,既然我们这边没有她想要的阿卡夏的话，<br>就只能使用强硬手段了。
 33,,厳しい戦いになるかもしれないが、<br>必ず無事にオルキスを取り返そう、<br>姬塔。,我们可能会迎来一场严峻的战斗，<br>但欧尔姬丝是一定要夺回来的，<br>姬塔。
-34,,<span class='scene-font-katari'>カタリナの言葉に、</span><br><span class='scene-font-katari'>姬塔は力強く頷く。</span>,<span class='scene-font-katari'>对于卡塔莉娜的话，<br>姬塔深深点头赞同。</span>
-35,,<span class='scene-font-katari'>そんな一行を乗せたグランサイファーは、</span><br><span class='scene-font-katari'>旧エルステ帝国首都</span><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>へと</span><br><span class='scene-font-katari'>徐々に近づきつつあった。</span>,<span class='scene-font-katari'>一行人就这样搭乘着格兰赛法，<br>慢慢向</span><span class='scene-font-place'>阿加斯提亚</span><span class='scene-font-katari'>接近了。</span>
+34,,<span class='scene-font-katari'>カタリナの言葉に、</span><br><span class='scene-font-katari'>姬塔は力強く頷く。</span>,对于卡塔莉娜的话，<br>姬塔深深点头赞同。
+35,,<span class='scene-font-katari'>そんな一行を乗せたグランサイファーは、</span><br><span class='scene-font-katari'>旧エルステ帝国首都</span><span class='scene-font-place'>アガスティア</span><span class='scene-font-katari'>へと</span><br><span class='scene-font-katari'>徐々に近づきつつあった。</span>,一行人就这样搭乘着格兰赛法，<br>慢慢向<span class='scene-font-place'>阿加斯提亚</span>接近了。
 info,,1,scene_cp72_q2_s10
 ,,,

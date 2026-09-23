@@ -8,7 +8,7 @@ id,en,jp,trans
 8,Papa！,パパぁっ！！,爸爸！
 9,？,っ！？,呃！？
 10,Katalina！姬塔！Look！,カタリナ！　姬塔！<br>あれっ！,卡塔莉娜！姬塔！<br>看那边！
-11,Lyria points at an outlaw who's holding a village hostage with his blade.,<span class='scene-font-katari'>ルリアが指し示す方向には、</span><br><span class='scene-font-katari'>盗賊に刃を突き付けられた</span><br><span class='scene-font-katari'>村人の姿があった。</span>,<span class='scene-font-katari'>在露莉亚所指的方向上，<br>一个村民被盗贼用刀架着脖子。</span>
+11,Lyria points at an outlaw who's holding a village hostage with his blade.,<span class='scene-font-katari'>ルリアが指し示す方向には、</span><br><span class='scene-font-katari'>盗賊に刃を突き付けられた</span><br><span class='scene-font-katari'>村人の姿があった。</span>,在露莉亚所指的方向上，<br>一个村民被盗贼用刀架着脖子。
 12,...,…………,
 13,No！,くっ……！,呃……！
 14,Papa！,パパ……！,爸爸！
@@ -16,20 +16,20 @@ id,en,jp,trans
 16,You... barbarian！,くっ……外道が！！,啧……你这小人！！
 17,"What do we do, 姬塔？",ど、どうする……？<br>姬塔……,姬塔，怎、怎么办？
 18,No matter what we do...,どうするもこうするも……,这实在是……
-19,"In the crew's brief moment of hesitation, an unexpected voice chimes in.",<span class='scene-font-katari'>一行が一瞬の逡巡を見せている間に、</span><br><span class='scene-font-katari'>最も早く行動したのは、</span><br><span class='scene-font-katari'>意外な人物だった。</span>,<span class='scene-font-katari'>就在一行人犹豫不定之时，<br>一个意外的人物<br>最先做出了行动。</span>
+19,"In the crew's brief moment of hesitation, an unexpected voice chimes in.",<span class='scene-font-katari'>一行が一瞬の逡巡を見せている間に、</span><br><span class='scene-font-katari'>最も早く行動したのは、</span><br><span class='scene-font-katari'>意外な人物だった。</span>,就在一行人犹豫不定之时，<br>一个意外的人物<br>最先做出了行动。
 20,You win. We'll follow you.,わかった。<br>行こうぜ、アジト。,明白啦。<br>走吧，去据点那边。
-21,Cain sheathes his sword.,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>カインは早々と剣を鞘にしまう。</span>,<span class='scene-font-katari'>该隐这样说着，<br>把剑收进了剑鞘。</span>
+21,Cain sheathes his sword.,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>カインは早々と剣を鞘にしまう。</span>,该隐这样说着，<br>把剑收进了剑鞘。
 22,"Come on, 姬塔. It's too bad, but they've got the upper hand here.",ほら、姬塔達も。<br>残念だけど、<br>こうなっちゃあ、お手上げだろ。,来吧，姬塔你们也是。<br>很遗憾，现在这种情况<br>我们只能投降了。
-23,"At Cain's insistence, 姬塔 and the crew put away their weapons.",<span class='scene-font-katari'>カインに促され、</span><br><span class='scene-font-katari'>姬塔達も皆、</span><br><span class='scene-font-katari'>それぞれの武器を収める。</span>,<span class='scene-font-katari'>在该隐的催促下，<br>姬塔等人也收起了各自的武器。</span>
+23,"At Cain's insistence, 姬塔 and the crew put away their weapons.",<span class='scene-font-katari'>カインに促され、</span><br><span class='scene-font-katari'>姬塔達も皆、</span><br><span class='scene-font-katari'>それぞれの武器を収める。</span>,在该隐的催促下，<br>姬塔等人也收起了各自的武器。
 24,"We're good now, right？Hurry up and let her go.",これでいいだろ。<br>早く放してやれよ。,这样就行了吧，<br>快点放他走吧。
 25,...,…………,
-26,Reinhardtzar keeps his eye on the crew as he gestures to release the girl.,<span class='scene-font-katari'>ラインハルザは</span><br><span class='scene-font-katari'>警戒の眼差しを向けながらも、</span><br><span class='scene-font-katari'>部下に人質を解放するよう指示する。</span>,<span class='scene-font-katari'>莱茵哈萨警惕着盯着一行人，<br>指示部下放走人质。</span>
+26,Reinhardtzar keeps his eye on the crew as he gestures to release the girl.,<span class='scene-font-katari'>ラインハルザは</span><br><span class='scene-font-katari'>警戒の眼差しを向けながらも、</span><br><span class='scene-font-katari'>部下に人質を解放するよう指示する。</span>,莱茵哈萨警惕着盯着一行人，<br>指示部下放走人质。
 27,You're good at following directions... Are you hiding something？,えらく聞き分けがいいな……<br>何か裏があんのか？,你倒是很听话呢，<br>是藏了一手吗。
 28,Of course not. Don't get suspicious over nothing.,ねぇよ。<br>変に勘繰るな。,我没有。<br>别瞎猜了。
 29,"Humph... All right. If you'll do what I say, then I've got no complaints.",ふん……そうかい。<br>まぁ、従ってくれるってんなら、<br>こっちから言うことは何もねぇな。,哼，那好，好好服从我的话，<br>我们也不会再计较以前的恩怨。
 30,Now come along quietly. And don't even think about doing anything stupid.,じゃあ、大人しく付いて来てもらうぜ。<br>いまさら暴れようなんて考えるなよ？,那么就老老实实跟我来吧，<br>可别再考虑胡闹什么的。
 31,"Lyria, you stay within sight of me and  姬塔.",くっ……<br>ルリア、私と姬塔のそばから<br>離れるなよ。,唔……<br>露莉亚，千万不要离开<br>我和姬塔的身边。
 32,Okay...,うん……,嗯……
-33,Lyria grabs hold of 姬塔's sleeve in worry.,<span class='scene-font-katari'>ルリアは不安そうに、</span><br><span class='scene-font-katari'>姬塔の服の裾を掴む。</span>,<span class='scene-font-katari'>露莉亚不安地<br>抓住了姬塔的衣角。</span>
-34,"And so 姬塔 and the crew, surrounded by armed outlaws, march toward their den.",<span class='scene-font-katari'>こうして、武装した盗賊達に囲まれ、</span><br><span class='scene-font-katari'>姬塔一行はそのアジトへと、</span><br><span class='scene-font-katari'>連行されていくのだった。</span>,<span class='scene-font-katari'>就这样，姬塔等人<br>被武装起来的盗贼们包围着，<br>带到了贼窝之中。</span>
+33,Lyria grabs hold of 姬塔's sleeve in worry.,<span class='scene-font-katari'>ルリアは不安そうに、</span><br><span class='scene-font-katari'>姬塔の服の裾を掴む。</span>,露莉亚不安地<br>抓住了姬塔的衣角。
+34,"And so 姬塔 and the crew, surrounded by armed outlaws, march toward their den.",<span class='scene-font-katari'>こうして、武装した盗賊達に囲まれ、</span><br><span class='scene-font-katari'>姬塔一行はそのアジトへと、</span><br><span class='scene-font-katari'>連行されていくのだった。</span>,就这样，姬塔等人<br>被武装起来的盗贼们包围着，<br>带到了贼窝之中。
 info,1,1,scene_cp81_q2_s10

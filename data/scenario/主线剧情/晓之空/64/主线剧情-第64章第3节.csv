@@ -1,8 +1,8 @@
 id,en,jp,trans
 0-chapter_name,64: Night of Reflection,第64章　逡巡の夜,第64章 逡巡之夜
 0-synopsis,"The night that 姬塔 and company are treated to a hearty welcome by the villagers, 姬塔 discusses with Lyria, Vyrn, Katalina, and Lecia about what they should do on their journey ahead. Lyria and Vyrn wish to continue their journey to discover their true identities, and Katalina swears an oath to continue protecting Lyria. Lecia too, clumsy as she may be, acknowledges her longing to continue traveling with the crew.",姬塔一行が村人達から歓待を受けたその日の夜、ルリア、ビィ、カタリナ、リーシャと共に今後の旅について話し合う姬塔。ルリアとビィは自らの正体を知るため旅を続けたいと話し、カタリナは改めてルリアを守り続けることを誓う。そしてリーシャもまた不器用ながら、姬塔達と旅を続けたい思いを明かすのだった。,在姬塔和同伴受到村民热烈欢迎的那天夜里，姬塔与露莉亚、碧、卡塔莉娜和莉夏共同讨论了关于未来旅途的事。露利亚和碧为了发掘他们的真实身份而决定继续旅行，卡塔莉娜宣誓继续保护露莉亚。莉夏认为自己还不够成熟，但也很想继续这趟旅途。
-0,"In another room, 姬塔, Lyria, Vyrn, Katalina, and Lecia sit in a circle talking about the journey ahead.",<span class='scene-font-katari'>その部屋では、姬塔、ルリア、</span><br><span class='scene-font-katari'>ビィ、カタリナ、リーシャが車座になり、</span><br><span class='scene-font-katari'>今後の旅について話しあっていた。</span>,<span class='scene-font-katari'>在另一个房间里，姬塔、露莉亚、</span><br><span class='scene-font-katari'>碧、卡塔莉娜和莉夏围成一圈，</span><br><span class='scene-font-katari'>谈论着未来的旅程。</span>
-1,Katalina begins to sum up everyone's situations.,<span class='scene-font-katari'>そんな中、カタリナは指を立て、</span><br><span class='scene-font-katari'>自分達の置かれている状況を整理する。</span>,<span class='scene-font-katari'>卡塔莉娜开始总结每个人的情况。
+0,"In another room, 姬塔, Lyria, Vyrn, Katalina, and Lecia sit in a circle talking about the journey ahead.",<span class='scene-font-katari'>その部屋では、姬塔、ルリア、</span><br><span class='scene-font-katari'>ビィ、カタリナ、リーシャが車座になり、</span><br><span class='scene-font-katari'>今後の旅について話しあっていた。</span>,在另一个房间里，姬塔、露莉亚、<br>碧、卡塔莉娜和莉夏围成一圈，<br>谈论着未来的旅程。
+1,Katalina begins to sum up everyone's situations.,<span class='scene-font-katari'>そんな中、カタリナは指を立て、</span><br><span class='scene-font-katari'>自分達の置かれている状況を整理する。</span>,卡塔莉娜开始总结每个人的情况。
 2,"We have a choice here, but...",ひとつの選択肢として、だが……,这可以作为一个备选项，但……
 3,"Since we're no longer wanted by the empire, there's no need to journey beyond the skydom.",帝国から追われる身でなくなった以上、<br>私達には、<br>無理に空域を越える理由は無い。,现在已经没有帝国在后头追着我们，\n所以我们也没有必要穿越空域了。
 4,"Lyria, if you want, we can leave and go live somewhere in peace.",ルリア、姬塔……<br>君達がそれを望むなら、<br>このまま静かに暮らすことも出来るんだ。,露莉亚，姬塔……\n如果你们希望，\n今后我们可以就这样平静地生活下去。
@@ -10,7 +10,7 @@ id,en,jp,trans
 6,"In peace, huh？That could be really nice！But we'd be a little lonely.",確かにまぁ……<br>そーいうのもありかもしんねーよな。<br>……ちょっと寂しくなるけどよ。,确实啊，那可能也挺不错的，<br>但总觉得以后就变得有点寂寞了。
 7,"But there are plenty of skyfarers who live in one place, too.",騎空士と言えど、<br>特定の島に定住なさってる方も<br>たくさんいらっしゃいますもんね……,就算在骑空士里，<br>也有很多是定居在一个岛上的呢。
 8,"What do you think, Lyria？",姬塔の意思は<br>固まっているようだが、<br>君はどうしたい？　ルリア……,姬塔看来已经下定决心了，<br>但你是怎么想的呢，露莉亚？
-9,"With everyone's eyes on her, Lyria opens her mouth with firm determination.",<span class='scene-font-katari'>皆の視線の中央で、</span><br><span class='scene-font-katari'>ルリアは意を決したように口を開く。</span>,<span class='scene-font-katari'>在众人汇集到自己身上的目光中，</span><br><span class='scene-font-katari'>露莉亚坚定不移地开口道：
+9,"With everyone's eyes on her, Lyria opens her mouth with firm determination.",<span class='scene-font-katari'>皆の視線の中央で、</span><br><span class='scene-font-katari'>ルリアは意を決したように口を開く。</span>,在众人汇集到自己身上的目光中，<br>露莉亚坚定不移地开口道：
 10,I want to... keep traveling with 姬塔.,私は……<br>姬塔と一緒に旅を続けたいです。,我想……<br>继续和姬塔一起旅行。
 11,"I mean, if it's okay with 姬塔 of course...",あ、えと……<br>もちろん、姬塔が、<br>嫌じゃなければなんですけど……,呃，那个……<br>当然，前提是姬塔不嫌弃的话……
 11-sel1_txt,Of course it's okay.,<span class='scene-font-katari'>大歓迎</span>,很欢迎哦！
@@ -31,21 +31,21 @@ id,en,jp,trans
 25,"And I promised, didn't I？I promised I'd show you an endless world.",それに約束したろう？<br>君に無限の世界を見せる、と……,而且我向你承诺过了不是吗？<br>我会带你去看无尽的世界。
 26,That was not an order from the Empire. It was my promise to you.,あれは帝国からの指示なんかじゃない。<br>私が、君と、約束したんだ。,那不是帝国的命令，<br>而是我与你之间的约定。
 27,I protect you because I want to. I'm with you because I want to be. Isn't that enough？,私が、君を、守りたいから守る。<br>一緒に居たいから居る。<br>それだけで、十分だろう？,我想保护你，我想在你身旁，\n所以我在这里。\n这个理由难道还不充分吗？
-28,"Hearing Katalina's words, Lyria smiles in relief.",<span class='scene-font-katari'>カタリナの言葉に、</span><br><span class='scene-font-katari'>ルリアは安堵したように笑みをこぼす。</span>,<span class='scene-font-katari'>听到卡塔莉娜的话，</span><br><span class='scene-font-katari'>露莉亚微笑着松了一口气。</span>
+28,"Hearing Katalina's words, Lyria smiles in relief.",<span class='scene-font-katari'>カタリナの言葉に、</span><br><span class='scene-font-katari'>ルリアは安堵したように笑みをこぼす。</span>,听到卡塔莉娜的话，<br>露莉亚微笑着松了一口气。
 29,"I see. Thank you, Katalina.",そっか……<br>ありがとう、カタリナ……,这样啊……<br>谢谢你，卡塔莉娜。
 30,You're right. That's enough for me...,そう……そうだよね。<br>それでいいんだよね。,是……是啊。<br>这样就好了。
-31,"Lyria mutters softly, and then looks to 姬塔.",<span class='scene-font-katari'>そう呟き、</span><br><span class='scene-font-katari'>ルリアは姬塔を見つめる。</span>,<span class='scene-font-katari'>露莉亚如是轻语，</span><br><span class='scene-font-katari'>然后看向姬塔。</span>
+31,"Lyria mutters softly, and then looks to 姬塔.",<span class='scene-font-katari'>そう呟き、</span><br><span class='scene-font-katari'>ルリアは姬塔を見つめる。</span>,露莉亚如是轻语，<br>然后看向姬塔。
 32,"I want to be by your side, 姬塔, from now on. I want to be where you are, 姬塔.",私は……<br>これからも姬塔と一緒に居たい。<br>姬塔と同じ場所を目指したい。,我……\n今后也想和姬塔一起，\n想和姬塔去同样的地方。
 33,And I also must go to the island of the Astrals... to the ends of the skies.,それに私自身、星の島……<br>空の果てまで<br>行かなきゃいけないと思うんです。,而且从我自己的角度出发，\n我也必须去<span class='scene-font-spword'>星之岛</span>……\n去天空的尽头。
 34,"Lyria, you have a reason to go to Estalucia too？",……？<br>ルリアにも、<br>何か星の島に行く理由があるんですか？,……？<br>露莉亚，<br>你也有什么去星之岛的理由吗？
 35,"That's right. On that island, there may be a way to sever the link connecting 姬塔 and Lyria's lives.",そうか……姬塔とルリアの<br>命のリンクも、星の島ならば<br>解くことが出来るかもしれないな……,对了，去星之岛的话，<br>可能有办法切断<br>姬塔和露莉亚之间的生命链接也说不定。
 36,"There's that, but there's one more thing...",それもそうなんだけど、<br>もう一つあって……,也有这个原因在，<br>但更重要的是……
-37,Lyria nods in response to Lecia and begins to speak.,<span class='scene-font-katari'>ルリアはわずかに</span><br><span class='scene-font-katari'>逡巡した様子を見せるものの、</span><br><span class='scene-font-katari'>やがてゆっくりと話し始める。</span>,<span class='scene-font-katari'>露莉亚略显迟疑，</span><br><span class='scene-font-katari'>然后接着说道：</span>
+37,Lyria nods in response to Lecia and begins to speak.,<span class='scene-font-katari'>ルリアはわずかに</span><br><span class='scene-font-katari'>逡巡した様子を見せるものの、</span><br><span class='scene-font-katari'>やがてゆっくりと話し始める。</span>,露莉亚略显迟疑，<br>然后接着说道：
 38,"You know, that one time, I saw something when Akasha was activated.",私、あの時……<br>起動した星晶獣アーカーシャを通して、<br>見たんです……,那时，星晶兽阿卡夏被激活的时候，<br>我看到了……
 39,You saw something？You're kidding！,見た……？<br>まさか……！？,看到了？难道是……！
 40,"I saw... a record of my own past. I thought there might be answers within Akasha, so...",私自身の……過去の記録を。<br>アーカーシャの中になら、<br>答えがあるかも、って思って……,我在想，<br>阿卡夏那里会不会有我自己过去的记录呢……
 41,So...？What were they？,そ、それで……？<br>どうだったんだよ……？,所以……？到底怎样？
-42,"Vyrn presses for the answer, but Lyria's expression turns dreary as she shakes her head.",<span class='scene-font-katari'>ビィの問いかけに、</span><br><span class='scene-font-katari'>ルリアはやるせない様子で首を振る。</span>,<span class='scene-font-katari'>对于碧提出的问题，</span><br><span class='scene-font-katari'>露莉亚的表情变得很沉闷，她摇了摇头。</span>
+42,"Vyrn presses for the answer, but Lyria's expression turns dreary as she shakes her head.",<span class='scene-font-katari'>ビィの問いかけに、</span><br><span class='scene-font-katari'>ルリアはやるせない様子で首を振る。</span>,对于碧提出的问题，<br>露莉亚的表情变得很沉闷，她摇了摇头。
 43,I don't know... at all.,わかりませんでした……何も。,我什么都没找到……
 44,Huh？But Akasha holds the records of everything in this world.,え……？<br>で、でもアーカーシャには、<br>この世界の全ての記録が……,咦？但是阿卡夏<br>拥有这世界上所有事物的记录……
 45,She's supposed to... But she had no past records of me.,そのはずなんですけど……<br>私についての過去の記録は、何も……,本应是这样的……<br>但它没有与我过去相关的任何记录。
@@ -67,20 +67,20 @@ id,en,jp,trans
 59,All the answers can surely be found at the ends of the skies.,きっと空の果てには、<br>全ての答えがあるはずだから……,所有答案肯定都可以<br>在天空的尽头找到！
 60,"Heh heh！You're just like me, Lyria！",へへっ！<br>そんならルリアも、<br>オイラと同じかもな！,嘿嘿！<br>露莉亚，那样的话<br>你就和俺一样了啊！
 61,"Huh？Just like you, Vyrn？",えっ……？<br>ビィさんと……？,咦……？<br>和碧一样…？
-62,Lyria listens wide-eyed as Vyrn continues.,<span class='scene-font-katari'>目を丸くするルリアに、</span><br><span class='scene-font-katari'>ビィは得意げに話し始める。</span>,<span class='scene-font-katari'>露莉亚为这句话惊讶地睁大了眼，</span><br><span class='scene-font-katari'>然后碧得意地给出了它的理由。</span>
+62,Lyria listens wide-eyed as Vyrn continues.,<span class='scene-font-katari'>目を丸くするルリアに、</span><br><span class='scene-font-katari'>ビィは得意げに話し始める。</span>,露莉亚为这句话惊讶地睁大了眼，<br>然后碧得意地给出了它的理由。
 63,I'm not sure just what I am. So I hope to find answers about my true self on this journey！,オイラも自分がいったい何なのか……<br>自分自身の正体を、<br>旅の中で見つけてーんだ！,俺总在想，自己到底是什么呢……\n所以俺也希望在旅程中弄清自己的真身！
 64,"I ain't no lizard... But, what am I？",オイラはトカゲじゃねぇけどさ……<br>でも、じゃあ、何なんだ？<br>っていうと……,俺当然不是蜥蜴……\n但真要论起来，\n俺到底是什么呢？
 65,"To be honest, I'm not sure.",実はオイラにも、<br>よくわかってなかったんだよな……,说实话，\n俺自己也不太明白……
 66,"I always thought it was fine not knowing. No matter what I am, 姬塔 is with me.",いままではそれでいいと思ってた……<br>オイラが何だろうと、<br>姬塔は一緒に居てくれるし……,一直以来，俺觉得维持现状就可以了，\n不管俺是什么，\n姬塔都和俺在一起。
 67,"If my memories are sealed, then leave 'em be, I thought.",記憶が封印されてる、ってんなら、<br>そのままにしておこうと思ってたんだ。,如果俺的记忆是封印着的，\n俺想那么就这样顺其自然吧。
 68,But that just won't do anymore！,けどもう、<br>そう言ってるわけにもいかねーもんな！,但现在决不会再这么想了！
-69,"Vyrn gets fired up, and makes a small fist as he speaks.",<span class='scene-font-katari'>自分自身に気合を入れ直すように、</span><br><span class='scene-font-katari'>ビィはその小さな手を握りしめる。</span>,<span class='scene-font-katari'>碧这样说着，提起了劲，</span><br><span class='scene-font-katari'>握紧了小小的拳头。</span>
+69,"Vyrn gets fired up, and makes a small fist as he speaks.",<span class='scene-font-katari'>自分自身に気合を入れ直すように、</span><br><span class='scene-font-katari'>ビィはその小さな手を握りしめる。</span>,碧这样说着，提起了劲，<br>握紧了小小的拳头。
 70,"Once your power and memories are released, there's no turning back.",力と記憶の封印を解いちまった以上、<br>もう逃げてるわけにはいかねーんだ……,在俺力量和记忆的封印被解开时，<br>就没有回头路可走了。
 71,I dunno why he sealed my power and memories...,どうして親父さんは、<br>オイラの力と記憶を封印したのか……,我不知道为什么老爹他<br>封印锁了俺的力量和记忆……
 72,...but I know I'll regret it if I don't try to find out.,オイラはそれを知っていかないと、<br>きっと後悔することになる……,……但俺知道如果俺不试图努力找出来，<br>以后一定会后悔。
 73,That's why I'm also on this journey to search for myself！,だからオイラも、この旅の中で、<br>オイラ自身のことを<br>探していきてーんだ！,这就是为什么俺决定<br>要在这段旅途中探寻自己的事！
 74,Vyrn...,ビィさん……,碧……
-75,"Lecia watches Lyria smile at Vyrn, before breaking her silence.",<span class='scene-font-katari'>ビィの言葉に微笑むルリアを見て、</span><br><span class='scene-font-katari'>沈黙を保っていたリーシャが、</span><br><span class='scene-font-katari'>ゆっくりと口を開く。</span>,<span class='scene-font-katari'>莉夏看着微笑的露莉亚，</span><br><span class='scene-font-katari'>缓缓开口。
+75,"Lecia watches Lyria smile at Vyrn, before breaking her silence.",<span class='scene-font-katari'>ビィの言葉に微笑むルリアを見て、</span><br><span class='scene-font-katari'>沈黙を保っていたリーシャが、</span><br><span class='scene-font-katari'>ゆっくりと口を開く。</span>,莉夏看着微笑的露莉亚，<br>缓缓开口。
 76,"It seems Vyrn, Lyria, and Katalina have no doubt in their hearts about moving forward.",ビィくんも、ルリアも、カタリナさんも、<br>旅を続けることに迷いはないんですね。,看起来碧，露莉亚和卡塔莉娜\n都已经下定决心向前迈进了。
 77,"You betcha！How about you, Lecia？",あったり前だぜ！<br>そう言うリーシャはどうなんだよ？,完全正确！<br>莉夏又怎样呢？
 78,Huh？Me？,え？　わ、私ですか……？,咦？我吗？
@@ -91,9 +91,9 @@ id,en,jp,trans
 83,Ah！But！I'll still be a member of the Crew of Enforcers.,あ、で、でも！<br>私の所属は、<br>秩序の騎空団でして……,啊！但是呢！\n我仍然属于秩序骑空团的一员……
 84,"It's just, through this journey, there's still so much I'd like to learn from you.",この旅、というのは、<br>あくまでその、まだ色々と<br>勉強させてもらいたい、というか……,不过是通过这段旅程……\n对，该说是我还有很多\n想向你学习的东西。
 85,"Heh heh！If you wanna come with us, you're welcome aboard！Right, 姬塔？",へへっ！<br>とにかく一緒に来るってんなら、<br>大歓迎だぜ！　なぁ！　姬塔！,嘿嘿！<br>总之想和我们一起来的话，<br>欢迎你上船！是吧，姬塔？
-86,姬塔 nods happily in agreement.,<span class='scene-font-katari'>ビィの言葉に、</span><br><span class='scene-font-katari'>姬塔は大きく頷き、</span><br><span class='scene-font-katari'>同意を示す。</span>,<span class='scene-font-katari'>姬塔愉快地点头表示同意。</span>
+86,姬塔 nods happily in agreement.,<span class='scene-font-katari'>ビィの言葉に、</span><br><span class='scene-font-katari'>姬塔は大きく頷き、</span><br><span class='scene-font-katari'>同意を示す。</span>,姬塔愉快地点头表示同意。
 87,姬塔...,姬塔さん……,姬塔……
-88,Lecia feels an ease come over her at 姬塔's reassuring smile.,<span class='scene-font-katari'>そんな姬塔に、</span><br><span class='scene-font-katari'>リーシャは心からの安堵を覚える。</span>,<span class='scene-font-katari'>见到姬塔的真诚之举，</span><br><span class='scene-font-katari'>莉夏感到由衷的安心。</span>
-89,"However, that foreboding line from her father's journal still remains in the back of her mind.",<span class='scene-font-katari'>しかし、その胸中には、</span><br><span class='scene-font-katari'>父の残した手記の一文が、</span><br><span class='scene-font-katari'>しこりとなって残っているのだった。</span>,<span class='scene-font-katari'>然而，父亲的日记中的</span><br><span class='scene-font-katari'>那句不祥之语仍然留在她的脑海里。</span>
+88,Lecia feels an ease come over her at 姬塔's reassuring smile.,<span class='scene-font-katari'>そんな姬塔に、</span><br><span class='scene-font-katari'>リーシャは心からの安堵を覚える。</span>,见到姬塔的真诚之举，<br>莉夏感到由衷的安心。
+89,"However, that foreboding line from her father's journal still remains in the back of her mind.",<span class='scene-font-katari'>しかし、その胸中には、</span><br><span class='scene-font-katari'>父の残した手記の一文が、</span><br><span class='scene-font-katari'>しこりとなって残っているのだった。</span>,然而，父亲的日记中的<br>那句不祥之语仍然留在她的脑海里。
 info,1,1,scene_cp64_q3_s10
 ,,,

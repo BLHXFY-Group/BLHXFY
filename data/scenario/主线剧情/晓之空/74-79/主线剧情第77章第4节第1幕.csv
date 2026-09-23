@@ -1,10 +1,10 @@
 id,en,jp,trans
 0-chapter_name,,第77章　隠れ里,第77章 山中隐村
 0-synopsis,," 姬塔達はエオニオ山脈を登り始める。イスタバイオン軍の砦は瘴流域にあり、星晶獣ディコトムスの持つ空図の欠片を手に入れれば辿り着けると語るハル。そんなハルに一行は、どうして瘴流域を越えるために必要な空図の欠片を知っているのか尋ねる。それに対しハルは、自らの知識の理由は自身の正体に関わるものであり、明かすことは出来ないと告げるのだった。",姬塔开始攀登艾欧尼欧山脉。既然伊斯塔拜恩军的据点处于瘴流域当中，那么就必须先从星晶兽迪克特穆斯那里取得空图碎片，哈尔是这么说的。于是，姬塔等人反问哈尔，为何他会知道跨越瘴流域必须具备空图碎片这件事。而哈尔的回应是，他所了解此事的原因与自己的身份有重要关系，不便向其他人说出来。
-0,,<span class='scene-font-katari'>ルリアは雪原の中央に立ち、</span><br><span class='scene-font-katari'>姬塔達が見守る中、</span><br><span class='scene-font-katari'>意識を集中させる。</span>,<span class='scene-font-katari'>露莉亚站在雪原中央，<br>其他同伴保护着她，<br>让她可以保持意识集中。</span>
+0,,<span class='scene-font-katari'>ルリアは雪原の中央に立ち、</span><br><span class='scene-font-katari'>姬塔達が見守る中、</span><br><span class='scene-font-katari'>意識を集中させる。</span>,露莉亚站在雪原中央，<br>其他同伴保护着她，<br>让她可以保持意识集中。
 2,,んん……<br>こっち、こっちです……<br>この方向から、星晶獣の気配がします。,嗯……<br>这边，是这边……<br>这个方向有星晶兽的气息。
-3,,<span class='scene-font-katari'>星晶獣ディコトムスを調査するため、</span><br><span class='scene-font-katari'>集落を発った姬塔達とハル。</span>,<span class='scene-font-katari'>为了调查星晶兽迪克特穆斯的情况，<br>姬塔等人与哈尔再次从村庄出发。
-4,,<span class='scene-font-katari'>一同はルリアの示した方向に従い、</span><br><span class='scene-font-katari'>エオニオ山脈を登り始める。</span>,<span class='scene-font-katari'>众人沿着露莉亚所指的方向，<br><br>攀登艾欧尼欧山脉。</span>
+3,,<span class='scene-font-katari'>星晶獣ディコトムスを調査するため、</span><br><span class='scene-font-katari'>集落を発った姬塔達とハル。</span>,为了调查星晶兽迪克特穆斯的情况，<br>姬塔等人与哈尔再次从村庄出发。
+4,,<span class='scene-font-katari'>一同はルリアの示した方向に従い、</span><br><span class='scene-font-katari'>エオニオ山脈を登り始める。</span>,众人沿着露莉亚所指的方向，<br><br>攀登艾欧尼欧山脉。
 5,,しかし……<br>まさかイスタバイオン軍の砦が、<br>瘴流域の中にあるとはな……,但是……<br>真没想到伊斯塔拜恩军的据点<br>竟然处于瘴流域之中啊。
 6,,確かに<span class='scene-font-place'>白風の境</span>は部分的に、<br>瘴流域にかかってるもんな……,确实<span class='scene-font-place'>白风之境</span>内<br>已有部分区域进入了瘴流域没错……
 7,,しかし、普通、そんな場所に、<br>拠点を置くかねぇ……<br>いったい何考えてんだか。,但是，正常情况<br>谁会在那种地方设立基地啊……<br>那些家伙到底在想些什么啊？
@@ -21,7 +21,7 @@ id,en,jp,trans
 23,,どうしてお前は、<br>あと一つ<span class='scene-font-spword'>空図の欠片</span>を手に入れれば、<br>俺達が瘴流域を越えられると思うんだ？,为什么你会认为，\n只要再获得一块<span class='scene-font-spword'>空图碎片</span>，\n我们就能跨越瘴流域了呢？
 24,,確かに……<br>あの集落では他の者の目もあった手前、<br>聞くことが出来なかったが……,确实，<br>在村子里时因为顾虑其他人耳目，<br>没能向你询问这件事。
 25,,そう断言するのには、<br>何か根拠でもあるのか……？,你如此断言，<br>是有什么根据吗？
-26,,<span class='scene-font-katari'>そう問われ、</span><br><span class='scene-font-katari'>ハルは気まずそうに視線を泳がせる。</span>,<span class='scene-font-katari'>听到卡塔莉娜的问题，<br>哈尔的眼神有些游离。</span>
+26,,<span class='scene-font-katari'>そう問われ、</span><br><span class='scene-font-katari'>ハルは気まずそうに視線を泳がせる。</span>,听到卡塔莉娜的问题，<br>哈尔的眼神有些游离。
 27,,あー……えっと……実はですね。<br>姬塔さん達が気絶している間に<br>荷物を検めさせてもらいまして……,啊……那个……<br>其实在姬塔你们昏过去的时候，<br>我检查了一下你们携带的行李。
 28,,その、ごめんなさい……,那个，很对不起……
 29,,緊急事態とはいえ、どうしても、<br>僕達の敵ではないことを<br>確認しなければならなかったんです。,虽然是紧急情况，<br>但我不得不确认一下<br>你们是否是我们的敌人。
@@ -30,11 +30,11 @@ id,en,jp,trans
 32,,<span class='scene-font-spword'>空図の欠片</span>って、<br>全部で十個なんだっけか……,难道空图碎片总共有十个吗？
 33,,いいや……<br>碧の騎士の残していたメモには、<br>私達も知らない島の名前があった。,不……<br>碧骑士留下的手记里，<br>还写着我们所不知道的岛屿的名字。
 34,,ということは私達が持つ以外にも、<br><span class='scene-font-spword'>空図の欠片</span>は<br>存在しているはずだが……,也就是说除了我们拥有的之外，<br>还有其他的<span class='scene-font-spword'>空图碎片</span>存在。
-35,,<span class='scene-font-katari'>皆の期待に満ちた視線にさらされ、</span><br><span class='scene-font-katari'>ややたじろぎながら、</span><br><span class='scene-font-katari'>ハルは口を開く。</span>,<span class='scene-font-katari'>众人将期待的目光一同投向哈尔，<br>哈尔有些畏缩，<br>但是还是开口说道：</span>
+35,,<span class='scene-font-katari'>皆の期待に満ちた視線にさらされ、</span><br><span class='scene-font-katari'>ややたじろぎながら、</span><br><span class='scene-font-katari'>ハルは口を開く。</span>,众人将期待的目光一同投向哈尔，<br>哈尔有些畏缩，<br>但是还是开口说道：
 36,,そのことについては……<br>いまは、僕を信じてください、<br>としか言えません。,关于这件事……<br>我只能说，现在请相信我。
 37,,いま、僕は自分の正体を、<br>人に明かすわけにはいきません……,现在，我不能向任何人<br>坦明自己的身份。
 38,,しかし……<br>僕の正体を明かさないことには、<br>恐らく、納得はしてもらえないでしょう。,但是……<br>我隐藏自己真实身份这件事，<br>你们可能也难以接受吧。
-39,,<span class='scene-font-katari'>真剣な様子のハルに、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>かけるべき言葉を見失う。</span>,<span class='scene-font-katari'>看到哈尔一副认真的模样，<br>姬塔等人也不知说什么好。</span>
+39,,<span class='scene-font-katari'>真剣な様子のハルに、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>かけるべき言葉を見失う。</span>,看到哈尔一副认真的模样，<br>姬塔等人也不知说什么好。
 40,,お前の言うことが本当なら、<br>どうして知ってるかなんて、<br>どうでもいい……,如果你说的是真的，<br>那么你怎么知道的就无关紧要。
 41,,ただ……<br>もし嘘を言っているんだったら、<br>それはいずれバレる嘘だ。,只是……<br>如果你说谎，<br>那么这谎言要不了多久就会被拆穿。
 42,,その嘘がバレた時、<br>自分がどういう目に遭うか……<br>それなりに覚悟しておくんだな。,真到那时你会是什么下场……<br>你可要做好心理准备啊。

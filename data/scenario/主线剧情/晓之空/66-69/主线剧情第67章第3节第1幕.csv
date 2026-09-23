@@ -1,16 +1,16 @@
 id,en,jp,trans
 0-chapter_name,67: Crimson Chronicles,第67章　緋色の過去,第67章 绯色的过去
 0-synopsis,"The crew arrives at the source of the rumble. There, 姬塔 and company find Scarlet Knight Baragona and the Golden Knight standing face-to-face. Seeing the crew approach, the Golden Knight soon takes her leave. Baragona explains the battle that took place and reminds the crew that they have no power to get involved. With a smile, Baragona asks that they not concern themselves any further, but the truth behind his smile is filled with darkness.",光の柱が立ち上ったという辺境までたどり着いた姬塔一行。そこでは緋色の騎士と黄金の騎士が相対していた。黄金の騎士は一行の姿に驚いた様子を見せ、その場を去っていく。先の衝撃は彼らの打ち合いによるものだとわかるものの、七曜の騎士を捕縛できるはずもなく、一行に笑みを見せるバラゴナは、その笑みに一行の踏み込めぬ闇を湛えているのだった。,姬塔一行人一直前进，抵达了之前光柱出现过的边缘地带。在那里绯骑士与金骑士正针锋相对。金骑士见到众人到来，露出了惊讶之色，接着离开了那个地方。虽然知道了刚刚的冲击是两人打斗引起的，但是他们无权抓捕七曜骑士。巴拉格纳微笑着看着众人，但众人却无法踏入这微笑背后隐藏着的黑暗真相。
-0,"Heading toward the source of the disturbance, 姬塔 and company find themselves in a remote area.",<span class='scene-font-katari'>衝撃の発生個所にして、</span><br><span class='scene-font-katari'>光の柱が立ち上ったという、</span><br><span class='scene-font-katari'>辺境までやって来る姬塔一行。</span>,<span class='scene-font-katari'>在冲击发生的地点曾出现了一道光柱，</span><br><span class='scene-font-katari'>姬塔一行人为了调查此事来到了边缘地区。</span>
-1,"There, they see a familiar but unexpected face.",<span class='scene-font-katari'>そこで一行は、</span><br><span class='scene-font-katari'>思わぬ再会を得ることになるのだった。</span>,<span class='scene-font-katari'>在那里等着众人的，</span><br><span class='scene-font-katari'>竟是一次不曾预料的重逢。</span>
+0,"Heading toward the source of the disturbance, 姬塔 and company find themselves in a remote area.",<span class='scene-font-katari'>衝撃の発生個所にして、</span><br><span class='scene-font-katari'>光の柱が立ち上ったという、</span><br><span class='scene-font-katari'>辺境までやって来る姬塔一行。</span>,在冲击发生的地点曾出现了一道光柱，<br>姬塔一行人为了调查此事来到了边缘地区。
+1,"There, they see a familiar but unexpected face.",<span class='scene-font-katari'>そこで一行は、</span><br><span class='scene-font-katari'>思わぬ再会を得ることになるのだった。</span>,在那里等着众人的，<br>竟是一次不曾预料的重逢。
 2,Haaa... Haaa...,はぁ……はぁ……,哈……哈……
 3,...,…………,
 4,What's this？What's happening here？,なんだこれは……<br>いったい何が起きたというんだ……？,这是什么？<br>这里到底发生了什么事？
-5,"The two knights stand off against each other, the ground rupturing beneath their feet.",<span class='scene-font-katari'>大きくえぐられた大地の上では、</span><br><span class='scene-font-katari'>ふたりの騎士が対峙していた。</span>,<span class='scene-font-katari'>因战斗而裂开的大地上，</span><br><span class='scene-font-katari'>两名骑士正针锋相对着。</span>
-6,The Scarlet Knight calmly raises his sword.,<span class='scene-font-katari'>緋色の甲冑を纏う屈強な騎士は、</span><br><span class='scene-font-katari'>悠々と己の剣を構える。</span>,<span class='scene-font-katari'>身着绯色甲胄的顽强骑士，</span><br><span class='scene-font-katari'>沉着地架起了剑。</span>
-7,"Short of breath, the Golden Knight glares back at him.",<span class='scene-font-katari'>それに対し黄金の甲冑を纏う</span><br><span class='scene-font-katari'>線の細い女騎士は、</span><br><span class='scene-font-katari'>荒い息で相手を睨みつけていた。</span>,<span class='scene-font-katari'>与之相对，</span><br><span class='scene-font-katari'>身着金色铠甲的纤瘦女骑士，</span><br><span class='scene-font-katari'>则呼吸急促地瞪着对手。</span>
+5,"The two knights stand off against each other, the ground rupturing beneath their feet.",<span class='scene-font-katari'>大きくえぐられた大地の上では、</span><br><span class='scene-font-katari'>ふたりの騎士が対峙していた。</span>,因战斗而裂开的大地上，<br>两名骑士正针锋相对着。
+6,The Scarlet Knight calmly raises his sword.,<span class='scene-font-katari'>緋色の甲冑を纏う屈強な騎士は、</span><br><span class='scene-font-katari'>悠々と己の剣を構える。</span>,身着绯色甲胄的顽强骑士，<br>沉着地架起了剑。
+7,"Short of breath, the Golden Knight glares back at him.",<span class='scene-font-katari'>それに対し黄金の甲冑を纏う</span><br><span class='scene-font-katari'>線の細い女騎士は、</span><br><span class='scene-font-katari'>荒い息で相手を睨みつけていた。</span>,与之相对，<br>身着金色铠甲的纤瘦女骑士，<br>则呼吸急促地瞪着对手。
 8,Huh？,ん……？,嗯？
-9,The glaring match is interrupted when the Golden Knight finally notices the arrival of the crew.,<span class='scene-font-katari'>一心に緋色の騎士を睨んでいた</span><br><span class='scene-font-katari'>黄金の騎士は、</span><br><span class='scene-font-katari'>ようやくやって来た一行の姿に気付く。</span>,<span class='scene-font-katari'>注意力全部放在绯骑士身上的金骑士，</span><br><span class='scene-font-katari'>终于注意到了来到此地的众人的身影。</span>
+9,The glaring match is interrupted when the Golden Knight finally notices the arrival of the crew.,<span class='scene-font-katari'>一心に緋色の騎士を睨んでいた</span><br><span class='scene-font-katari'>黄金の騎士は、</span><br><span class='scene-font-katari'>ようやくやって来た一行の姿に気付く。</span>,注意力全部放在绯骑士身上的金骑士，<br>终于注意到了来到此地的众人的身影。
 10,"Upon seeing their faces, she raises her voice in shock.",<span class='scene-font-katari'>その顔ぶれを見るや黄金の騎士は、</span><br><span class='scene-font-katari'>驚きの声を上げるのだった。</span>,在看到这几副面孔时，<br>金骑士震惊地叫喊出声。
 11,You！Why are you all here？,お前達は……！？<br>なぜここに……,你们！？<br>为什么会在这里？
 12,"Hey, haven't we seen that red guy in Lumacie before？",ね、ねぇ……<br>あの赤い人って確か、<br><span class='scene-font-place'>ルーマシー</span>に居た……？,我、我说……<br>那个红色的家伙确实是，<br>在<span class='scene-font-place'>露玛茜</span>见过的那个吧？
@@ -21,7 +21,7 @@ id,en,jp,trans
 17,"Ha ha ha, but we're no strangers！Didn't we have a bit of fun crossing blades？",ははは、水臭いですよ。<br>剣を交え、<br>共に汗を流した仲じゃないですか。,哈哈哈，真是见外啊。<br>我们明明是切磋过武艺，<br>共同流过汗水的交情不是嘛。
 18,A bit of fun？You were the one having fun while we were trying to keep up.,汗、ってお前……<br>あの時、お前は汗一つかかないで、<br>俺達のことを軽くあしらったじゃねぇか。,什么流汗啊……<br>那个时候，你不是一点汗都没流，<br>很轻松就应对了我们吗。
 19,"Not at all！In any case, it certainly seems you've grown stronger since then.",いやいや、しかし……<br>あの時と比べると、<br>また一層強くなったようですね……,但是，和那个时候相比，<br>看来你们的实力又上升了一层啊。
-20,"Monika stands before Baragona, interrupting the pleasant banter between him and 姬塔's crew.",<span class='scene-font-katari'>愉快そうに姬塔達に</span><br><span class='scene-font-katari'>話しかけるバラゴナの前へ、</span><br><span class='scene-font-katari'>遮るようにモニカが立つ。</span>,<span class='scene-font-katari'>在很愉快地与姬塔等人搭话的巴拉格纳面前，</span><br><span class='scene-font-katari'>莫妮卡像是要打断他们似的站了出来。</span>
+20,"Monika stands before Baragona, interrupting the pleasant banter between him and 姬塔's crew.",<span class='scene-font-katari'>愉快そうに姬塔達に</span><br><span class='scene-font-katari'>話しかけるバラゴナの前へ、</span><br><span class='scene-font-katari'>遮るようにモニカが立つ。</span>,在很愉快地与姬塔等人搭话的巴拉格纳面前，<br>莫妮卡像是要打断他们似的站了出来。
 21,"I'm sure you have much to catch up on, but do you mind answering a few questions？",すまない……積もる話もあるようだが、<br>まずはこちらの質問に答えてもらおうか。,打扰了，你们看起来有很多事想聊，<br>但是可以先回答一下我这边的问题吗？
 22,What happened here？What was that flash and that trembling earlier？,いったいここで何があった？<br>先ほどの衝撃と光はいったい何なのだ？,这里到底发生了什么？<br>先前出现的冲击和光柱到底是什么？
 23,...,…………,
@@ -33,7 +33,7 @@ id,en,jp,trans
 29,"No no, there's no need for that.",いえいえ……<br>そんな必要はないんです。,不不……<br>没有那个必要。
 30,"After all, even if you saw through it, we couldn't possibly tell you the truth. Right？",貴方達が何を見抜こうと、<br>結局、本当のことをお話しするわけにも<br>いきませんから……ねぇ？,不管你们多想看穿真相，<br>最后我也不可能把真实的情况述说出来的。
 31,Tch...,……ちっ。,……切。
-32,The Golden Knight turns on her heel and quickly leaves the scene.,<span class='scene-font-katari'>黄金の騎士はそれを応答とするように、</span><br><span class='scene-font-katari'>その場から足早に去っていく。</span>,<span class='scene-font-katari'>金骑士像是在回应着那句话似的，</span><br><span class='scene-font-katari'>动身离开了现场。</span>
+32,The Golden Knight turns on her heel and quickly leaves the scene.,<span class='scene-font-katari'>黄金の騎士はそれを応答とするように、</span><br><span class='scene-font-katari'>その場から足早に去っていく。</span>,金骑士像是在回应着那句话似的，<br>动身离开了现场。
 33,Wait！I'm not done with you！,待てっ！　まだ話は終わって……,等等！话还没有……
 34,"Oh, but you are. It's best to not pursue this any further, for your own sake.",いいえ……話はこれで終わりです。<br>これ以上は追及しないほうが、<br>身のためですよ。,不，已经全部说完了，<br>为了你自己考虑，<br>还是不要继续追问了。
 35,What？,なに……？,什么？
@@ -46,7 +46,7 @@ id,en,jp,trans
 42,"In other words, these two knights hold the same rank as our captain.",つまり、我々の組織のトップと、<br>決闘をしていた彼らは同格の存在……,换句话说，参与决斗的他们俩\n和我们组织的顶头人物是同等地位的。
 43,"With no formal injunction like we had for the Black Knight, we have no power over them.",黒騎士を捕縛した時のような、<br>明確な依頼もなく、<br>彼らを拘束することは出来ない……,如果没有像捕获黑骑士那时的明确的委托，\n想要拘捕他们是做不到的。
 44,I'm so glad you understand.,ふふ……<br>お分かりいただけたようで、<br>何よりです。,呵呵……\n你能理解就太好了。
-45,"As Monika grits her teeth, his mouth creeps into a wide grin.",<span class='scene-font-katari'>歯噛みするモニカに対し、</span><br><span class='scene-font-katari'>バラゴナはなおも余裕を崩さず、</span><br><span class='scene-font-katari'>柔和な笑みを浮かべる。</span>,<span class='scene-font-katari'>相对于咬牙切齿的莫妮卡，</span><br><span class='scene-font-katari'>巴拉格纳仍然保持着游刃有余的样子，</span><br><span class='scene-font-katari'>脸上浮现出柔和的笑容。</span>
-46,But 姬塔 and company do not yet see the glimpse of darkness hidden beneath his smile.,<span class='scene-font-katari'>その笑みは、</span><br><span class='scene-font-katari'>いまはまだ姬塔達の踏み込めぬ、</span><br><span class='scene-font-katari'>大いなる闇の片鱗を湛えているのだった。</span>,<span class='scene-font-katari'>那抹笑容，</span><br><span class='scene-font-katari'>只不过是姬塔一行人目前尚无法踏足的、</span><br><span class='scene-font-katari'>巨大黑暗的冰山一角。</span>
+45,"As Monika grits her teeth, his mouth creeps into a wide grin.",<span class='scene-font-katari'>歯噛みするモニカに対し、</span><br><span class='scene-font-katari'>バラゴナはなおも余裕を崩さず、</span><br><span class='scene-font-katari'>柔和な笑みを浮かべる。</span>,相对于咬牙切齿的莫妮卡，<br>巴拉格纳仍然保持着游刃有余的样子，<br>脸上浮现出柔和的笑容。
+46,But 姬塔 and company do not yet see the glimpse of darkness hidden beneath his smile.,<span class='scene-font-katari'>その笑みは、</span><br><span class='scene-font-katari'>いまはまだ姬塔達の踏み込めぬ、</span><br><span class='scene-font-katari'>大いなる闇の片鱗を湛えているのだった。</span>,那抹笑容，<br>只不过是姬塔一行人目前尚无法踏足的、<br>巨大黑暗的冰山一角。
 info,1,1,scene_cp67_q3_s10
 ,,,

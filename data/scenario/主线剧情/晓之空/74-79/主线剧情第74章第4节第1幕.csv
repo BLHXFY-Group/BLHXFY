@@ -7,39 +7,39 @@ id,en,jp,trans
 4,"Can't get much explorin' done in a place as snowy as this, eh？",なるほどな。こんな吹雪いてる<br>土地じゃあ、そりゃ調査も<br>ロクに進むわけがねぇよなぁ、おい。,原来如此，在这片暴雪肆虐的土地上，<br>怎么可能顺利地进行调查啊。
 5,I could catch a cold just standing here.,うぅ……<br>た、立ってるだけで、<br>風邪をひいちゃいそうです……,呜……<br>只是站着就感觉要感冒了……
 6,"Are you all right, Lyria？<br>Looks like we can't stick around here for long.",大丈夫か？　ルリア。<br>あまり長居は出来なさそうだな……,还好吧，露莉亚？<br>这里可不是能长期停留的地方呢。
-7,姬塔 and the crew meet the fierce winds and snow of Silverwind Stretch.,<span class='scene-font-katari'>風雪吹きすさぶ</span><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>に降り立った</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>姬塔等人降落到了</span><br><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>的土地上。</span>
-8,The crew is taken aback by the harsh environment.,<span class='scene-font-katari'>そのあまりにも過酷な環境に、</span><br><span class='scene-font-katari'>皆一様に眉をしかめていた。</span>,<span class='scene-font-katari'>在这种极其严酷的环境中，<br>众人皱起了眉头。</span>
-9,Orchid glances over at the crystal sphere in Sturm's hand.,<span class='scene-font-katari'>そんな中、</span><br><span class='scene-font-katari'>オーキスはスツルムの握る珠を覗きこむ。</span>,<span class='scene-font-katari'>此时，欧姬丝盯着<br>斯特姆手中所握的珠子。</span>
+7,姬塔 and the crew meet the fierce winds and snow of Silverwind Stretch.,<span class='scene-font-katari'>風雪吹きすさぶ</span><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>に降り立った</span><br><span class='scene-font-katari'>姬塔一行。</span>,姬塔等人降落到了<br><span class='scene-font-place'>白风之境</span>的土地上。
+8,The crew is taken aback by the harsh environment.,<span class='scene-font-katari'>そのあまりにも過酷な環境に、</span><br><span class='scene-font-katari'>皆一様に眉をしかめていた。</span>,在这种极其严酷的环境中，<br>众人皱起了眉头。
+9,Orchid glances over at the crystal sphere in Sturm's hand.,<span class='scene-font-katari'>そんな中、</span><br><span class='scene-font-katari'>オーキスはスツルムの握る珠を覗きこむ。</span>,此时，欧姬丝盯着<br>斯特姆手中所握的珠子。
 10,But the light is pointing somewhere in the distance.,でも光……<br>この奥を指してる。,但是光芒，<br>指向这深处。
 11,Yeah. Drang must be up ahead.,そうだな……<br>ドランクはこの先に居るはずだ。,是的……<br>德朗克应该就在这前方。
-12,Sturm gazes at a giant snow-covered mountain rising into the clouds.,<span class='scene-font-katari'>そう言ってスツルムが見やる先には、</span><br><span class='scene-font-katari'>雪に覆われた巨大な山がそびえ立つ。</span>,<span class='scene-font-katari'>斯特姆视线的前方，<br>耸立着被白雪覆盖的大山。</span>
+12,Sturm gazes at a giant snow-covered mountain rising into the clouds.,<span class='scene-font-katari'>そう言ってスツルムが見やる先には、</span><br><span class='scene-font-katari'>雪に覆われた巨大な山がそびえ立つ。</span>,斯特姆视线的前方，<br>耸立着被白雪覆盖的大山。
 13,Yikes... We're gonna climb that thing？That's the biggest mountain I've ever seen！,うへぇ……この山を登るってのかよ。<br>オイラ、こんなデッカイ山、<br>初めて見るぜ……,呜诶……要登上这座山吗，<br>我还是第一次见到这么大的山脉呢。
 14,And in a snowstorm like this we could easily get lost.,これだけ吹雪いていると、<br>お互い、すぐ近くに居ても<br>はぐれちゃいそうね……,这样的暴雪中，<br>即便是大家离得很近，<br>也很容易走散呢。
 15,"Before we climb, it may be best to decide on a meeting place in case there's trouble.",山を登り始める前に、<br>どこか困ったときの集合地点を<br>決めておいた方がいいんじゃないかしら。,在登山之前，<br>先决定一个遇到麻烦时的集合场所吧。
 16,But it all looks the same with all this snow piled up.,でも……<br>雪が積もってるおかげで、<br>どれも同じ景色に見えちゃうけど……,但是因为积雪的原因，<br>哪里看上去都是一样的景色。
 17,"And the mountain itself is enormous, so the foot of the mountain is quite an expanse.",山自体が相当な大きさのせいか、<br>裾野もかなりの広さがあるからな……,山脉本身很大，<br>山脚地带也相当广阔。
 18,"So then, should we just start climbing？",となると、じゃあ……逆に頂上か？,那么，反过来去上面怎样？
-19,Rackam squints through the wind and snow at the distant mountaintop.,<span class='scene-font-katari'>風雪に霞む</span><br><span class='scene-font-katari'>遥かな山の頂を睨みつけながら、</span><br><span class='scene-font-katari'>ラカムは呟く。</span>,<span class='scene-font-katari'>拉卡姆眺望着被白雪笼罩的远处的山顶，<br>嘟囔着。</span>
+19,Rackam squints through the wind and snow at the distant mountaintop.,<span class='scene-font-katari'>風雪に霞む</span><br><span class='scene-font-katari'>遥かな山の頂を睨みつけながら、</span><br><span class='scene-font-katari'>ラカムは呟く。</span>,拉卡姆眺望着被白雪笼罩的远处的山顶，<br>嘟囔着。
 20,"If we get lost, just keep heading for the top and we'll meet up eventually.",迷子になっちまっても、<br>それぞれ頂上を目指してりゃ、<br>そのうち合流出来るだろ。,就算迷了路，<br>只要朝着山顶走，<br>就能会合了吧。
 21,"Ha-ha-ha！Bit of a crude plan you got there, but it's not half bad！",ははっ！<br>ずいぶん大雑把な話だが、<br>まぁ、間違いではねぇな！,哈哈！<br>话糙理不糙！
 22,But we should make sure we don't get lost in the first place.,しかし、<br>そもそもはぐれずに済むのが一番だ。,但是，能不走散是最好的。
 23,"Everyone, keep a constant eye out on who's around you.",それぞれ周囲の仲間には、<br>常に気を配るようにしてくれ。,大家都时刻注意好<br>身边的伙伴。
-24,"With Katalina's orders, everyone nods and looks around at each other.",<span class='scene-font-katari'>カタリナの言葉に、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>互いに互いの顔を見やる。</span>,<span class='scene-font-katari'>众人都互相点头赞同卡塔莉娜的话，<br>并且都看了看身旁的伙伴。</span>
+24,"With Katalina's orders, everyone nods and looks around at each other.",<span class='scene-font-katari'>カタリナの言葉に、</span><br><span class='scene-font-katari'>姬塔達は</span><br><span class='scene-font-katari'>互いに互いの顔を見やる。</span>,众人都互相点头赞同卡塔莉娜的话，<br>并且都看了看身旁的伙伴。
 25,Good. Now we just follow this light.,よし……<br>それじゃあ、この光に従って……,好……<br>那就顺着光芒所指的方向……
 27,！,っ！？,唔！？
 28,W-what is it！,な、なんだ！？,什么！？
 29,Hey！Something's coming this way！,ねぇ、何か近づいてくるわよ！,各位，有什么过来了哦！
-30,Io points ahead at a shadow speeding its way toward the crew.,<span class='scene-font-katari'>イオの指さす先には、</span><br><span class='scene-font-katari'>高速で一行に近づく影があった。</span>,<span class='scene-font-katari'>众人顺着伊欧所指的方向看去，<br>只见一个黑影正高速接近。</span>
+30,Io points ahead at a shadow speeding its way toward the crew.,<span class='scene-font-katari'>イオの指さす先には、</span><br><span class='scene-font-katari'>高速で一行に近づく影があった。</span>,众人顺着伊欧所指的方向看去，<br>只见一个黑影正高速接近。
 31,Is that a monster？,あれは……魔物か？,那是……魔物吗？
-32,"Katalina stares at the monster which, at first, appears to be a creature commonly found throughout Phantagrande.",<span class='scene-font-katari'>カタリナが睨んだ先に居たのは、</span><br><span class='scene-font-katari'>ファータ・グランデ空域の、</span><br><span class='scene-font-katari'>どこででも見かけるような魔物だった。</span>,<span class='scene-font-katari'>卡塔莉娜看着的那个地方，<br>有着在法塔·格兰德空域<br>随处可见的魔物。</span>
-33,"However, she soon notices something strange about it and grips her sword.",<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>剣を構えようとしたカタリナは、</span><br><span class='scene-font-katari'>ある異変に気付く。</span>,<span class='scene-font-katari'>卡塔莉娜正准备拔剑以待，<br>却注意到了某个异样。</span>
+32,"Katalina stares at the monster which, at first, appears to be a creature commonly found throughout Phantagrande.",<span class='scene-font-katari'>カタリナが睨んだ先に居たのは、</span><br><span class='scene-font-katari'>ファータ・グランデ空域の、</span><br><span class='scene-font-katari'>どこででも見かけるような魔物だった。</span>,卡塔莉娜看着的那个地方，<br>有着在法塔·格兰德空域<br>随处可见的魔物。
+33,"However, she soon notices something strange about it and grips her sword.",<span class='scene-font-katari'>しかし、</span><br><span class='scene-font-katari'>剣を構えようとしたカタリナは、</span><br><span class='scene-font-katari'>ある異変に気付く。</span>,卡塔莉娜正准备拔剑以待，<br>却注意到了某个异样。
 34,"Huh？W-wait, is that what I think it is？",む……？<br>ま、待て……いや、まさか！？,嗯？<br>等、等等……不，难道说？
 35,Groarrr！,<span class='scene-font-5'>グオォォッ！！</span>,咕嗷嗷嗷嗷！
 36,Were these monsters always this big？,こ、この魔物って……<br>こんなにおっきかったっけ……？,这个魔物原来有这么大吗？
 37,"Not all of them are the same, you know. There are big ones, little ones, and some in between.",魔物にも個体差はあるわ。<br>大きな子も小さな子も、<br>それぞれね。,魔物也有个体差别的，<br>大的小的，各种各样。
 38,Even those of the same type are never the exact same size.,種類が同じでも、<br>まったく同じ大きさの子なんて、<br>そうそう居ないものよ。,尽管种类相同，<br>但是大小完全一样的<br>可几乎没有哦。
 39,This goes beyond size here！It's like a whole other species！,これはそういう限度を超えてんだろ！<br>もうほとんど別の魔物じゃねぇか！,这已经超出限度了吧？<br>完全是另一种魔物了吧？
-40,"While 姬塔 and the crew stand there flustered, Sturm coolly pulls out her blade.",<span class='scene-font-katari'>狼狽える姬塔達に対し、</span><br><span class='scene-font-katari'>スツルムは冷静に刃を抜く。</span>,<span class='scene-font-katari'>与慌张的姬塔等人相对，<br>斯特姆冷静地拔出剑来。</span>
+40,"While 姬塔 and the crew stand there flustered, Sturm coolly pulls out her blade.",<span class='scene-font-katari'>狼狽える姬塔達に対し、</span><br><span class='scene-font-katari'>スツルムは冷静に刃を抜く。</span>,与慌张的姬塔等人相对，<br>斯特姆冷静地拔出剑来。
 41,"Who cares？Whatever monster stands in our way, we'll still take it down.",関係ない……<br>どんな魔物だろうと、<br>邪魔なら排除する。,无所谓……<br>无论是怎样的魔物，<br>要妨碍我的话就消灭掉。
 43,"Let's move, 姬塔. Don't be scared of this big bully！",いくぞ、姬塔……<br>こんなやつ、ただデカいだけだ。<br>大きさに気圧されるなよ……！,上吧，姬塔！<br>这样的家伙只有身子大而已，<br>可别被体型吓倒了哦！
 info,1,1,scene_cp74_q4_s10

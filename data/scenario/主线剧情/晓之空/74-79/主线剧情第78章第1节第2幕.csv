@@ -1,11 +1,11 @@
 id,en,jp,trans
 0-chapter_name,78: The Welcoming Miasma,第78章　瘴気の歓待,第78章 瘴气之迎
 0-synopsis,"Hal explains that the miasma is harmful to people, but energizes monsters. Lyria worries about the force controlling Dykotomus.",空図の欠片によって拓かれた道を辿りながら、瘴流域を進んでいく姬塔一行。道中、襲ってきた魔物を倒しつつ歩を進める中、ルリアはディコトムスについて思い悩んでいた。誰が何の目的でディコトムスを操り、空図の欠片を差し出させたのか。疑問や妙な違和感は拭えないものの先に進むほかはなく、一層用心して一行は奥へと進んでいくのだった。,空图碎片开辟出了道路，姬塔等人终于可以向瘴流域进发了。他们一边打倒来袭的魔物一边前进，而露莉亚还是在为迪克特穆斯的事烦恼——究竟是谁，怀揣何种目的操纵了迪克特穆斯，让它将空图碎片交给了他们。尽管仍然有无法释怀的疑惑和异样感，但是现在只有前进一条路可走。于是众人提高警惕，继续向更深处进发。
-0,The crew continues through the miasma down the path opened by the map pieces.,<span class='scene-font-spword'>空図の欠片</span><span class='scene-font-katari'>によって</span><br><span class='scene-font-katari'>拓かれた道を辿りながら、</span><br><span class='scene-font-katari'>一行は瘴流域の中を進んでいく。</span>,<span class='scene-font-katari'>空图碎片开辟出了道路，<br>姬塔等人终于可以向瘴流域进发了。</span>
+0,The crew continues through the miasma down the path opened by the map pieces.,<span class='scene-font-spword'>空図の欠片</span><span class='scene-font-katari'>によって</span><br><span class='scene-font-katari'>拓かれた道を辿りながら、</span><br><span class='scene-font-katari'>一行は瘴流域の中を進んでいく。</span>,空图碎片开辟出了道路，<br>姬塔等人终于可以向瘴流域进发了。
 1,"The Grim Basin is supposed to be the wall bordering the skydoms, but this is a pretty thick wall.",瘴流域は、<br>空域を分断する壁だって言うが、<br>ずいぶん分厚い壁だな……,人们说瘴流域是分隔空域之壁——<br>这墙壁还真够厚的……
 2,"It's a wall that divides the skies, not a barrier protecting cities or houses.",空そのものを分断する壁だからな。<br>街や家を守る壁とはわけが違う。,毕竟是将天空分隔开的墙壁，<br>和保护城市或者民居的墙壁<br>有着本质不同。
 3,But to think that the miasma here would be this thick...,しかし……<br>瘴流域の中の瘴気が、<br>これほど濃いとは……,但是……<br>真想不到瘴流域内部的瘴气<br>竟浓厚到这种地步……
-4,Katalina looks around at the miasma that perpetuates the darkness surrounding them.,<span class='scene-font-katari'>そう言うと、カタリナは</span><br><span class='scene-font-katari'>空間を黒く塗りつぶす</span><br><span class='scene-font-katari'>左右の瘴流域を見やる。</span>,<span class='scene-font-katari'>卡塔莉娜这样说着，<br>凝视着将左右空间<br>抹成一团漆黑的瘴流域。</span>
+4,Katalina looks around at the miasma that perpetuates the darkness surrounding them.,<span class='scene-font-katari'>そう言うと、カタリナは</span><br><span class='scene-font-katari'>空間を黒く塗りつぶす</span><br><span class='scene-font-katari'>左右の瘴流域を見やる。</span>,卡塔莉娜这样说着，<br>凝视着将左右空间<br>抹成一团漆黑的瘴流域。
 5,"Without the map pieces, we'd have stumbled over each other in only a few steps.",<span class='scene-font-spword'>空図の欠片</span>がなければ、<br>数歩も歩かないうちに、<br>倒れ込んでしまっていたな……,如果没有<span class='scene-font-spword'>空图碎片</span>的话，<br>恐怕走不了几步就倒下了吧。
 6,Humph. As much as I appreciate the visual commentary...,ふん……<br>観光気分で感心するのはいいが……,哼……<br>真佩服你们还有心情观光……
 8,Groarrr！,<span class='scene-font-4'>グオオォォッ！！</span>,<span class='scene-font-4'>咕嗷嗷嗷嗷！！</span>
@@ -16,8 +16,8 @@ id,en,jp,trans
 15,But for monsters it's the opposite. The miasma revitalizes them.,魔物にとってはむしろ逆……<br>瘴気は魔物の持つ力を、<br>活性化させます。,对魔物来说却正好相反，<br>瘴气可以让它们的身体活化。
 16,This is another reason that the Grim Basin is said to divide the skies.,これも、<br>瘴流域が空を分断している、<br>と言われる理由の一つです。,这也是为什么人们会说<br>瘴流域将空域分隔开。
 17,Tch... That explains why the monsters here are so active.,ちっ……<br>道理でここの魔物は<br>やたらと活きがいいわけだ……,切……<br>难怪这里的魔物<br>能这么活蹦乱跳的啊……
-18,Sturm seems annoyed as she takes a breath before cautiously eyeing the path ahead.,<span class='scene-font-katari'>スツルムは面倒そうに息をつき、</span><br><span class='scene-font-katari'>警戒した様子で行く先を睨む。</span>,<span class='scene-font-katari'>斯特姆抱怨似的叹了口气，<br>然后警戒地盯着前方的道路。</span>
-19,"At that moment Lyria begins to worry, her eyes cast downward.",<span class='scene-font-katari'>そんな中、</span><br><span class='scene-font-katari'>ルリアはどこか不安そうに</span><br><span class='scene-font-katari'>視線を落としていた。</span>,<span class='scene-font-katari'>而这时，<br>露莉亚十分不安地<br>垂下了目光。</span>
+18,Sturm seems annoyed as she takes a breath before cautiously eyeing the path ahead.,<span class='scene-font-katari'>スツルムは面倒そうに息をつき、</span><br><span class='scene-font-katari'>警戒した様子で行く先を睨む。</span>,斯特姆抱怨似的叹了口气，<br>然后警戒地盯着前方的道路。
+19,"At that moment Lyria begins to worry, her eyes cast downward.",<span class='scene-font-katari'>そんな中、</span><br><span class='scene-font-katari'>ルリアはどこか不安そうに</span><br><span class='scene-font-katari'>視線を落としていた。</span>,而这时，<br>露莉亚十分不安地<br>垂下了目光。
 20,...,…………,
 21,"What's wrong？Are you all right, Lyria？",どうした？<br>大丈夫か？　ルリア。,怎么了？<br>露莉亚，你没事吧？
 22,"Well, um... I'm not sure...",えっと、その……<br>わからなくって……,呃，那个……<br>我也不太清楚……

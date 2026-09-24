@@ -14,7 +14,7 @@ id,name,text,trans
 24,,<span class='scene-font-katari'>ロゼッタが周囲を見渡すと、</span><br><span class='scene-font-katari'>煙突の並ぶ赤茶けた大地を、</span><br><span class='scene-font-katari'>たくさんのドラフ達が行き交っていた。</span>,萝赛塔环顾四周，<br>看到有许多多拉夫族男人<br>行走在烟囱林立的红褐色大地上。
 25,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（ここは……</span><span class='scene-font-place'>バルツ公国</span><span class='scene-font-kokoro'>？）</span>,（这里是……<br>瓦尔兹公国？）
 26,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（</span><span class='scene-font-place'>バルツ</span><span class='scene-font-kokoro'>は確か……</span><br><span class='scene-font-kokoro'>イオちゃんの故郷よね。）</span>,（这里应该是……<br>小伊欧的家乡吧？）
-27,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（アタシはナル・グランデ空域の</span><br><span class='scene-font-place'>ベスティエ島</span><span class='scene-font-kokoro'>に居たはず……</span><br><span class='scene-font-kokoro'>それがどうして……？）</span>,（我刚刚还在纳尔·格兰德空域的<br>贝斯提耶岛上……<br>又怎么会在这里……？）
+27,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（アタシはナル・グランデ空域の</span><br><span class='scene-font-place'>ベスティエ島</span><span class='scene-font-kokoro'>に居たはず……</span><br><span class='scene-font-kokoro'>それがどうして……？）</span>,（我刚刚还在纳尔·格兰德空域的<br><span class='scene-font-place'>贝斯缇耶</span>岛上……<br>又怎么会在这里……？）
 28,,<span class='scene-font-katari'>ロゼッタは周囲の街並みと雑踏を、</span><br><span class='scene-font-katari'>観察するように見やる。</span>,萝赛塔观察着周围的街道<br>和熙熙攘攘的人群。
 29,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（イオちゃんは……</span><br><span class='scene-font-kokoro'>どこに行ったのかしら……？）</span>,（小伊欧……<br>她到哪儿去了？）
 30,,<span class='scene-font-katari'>ロゼッタは大勢が行き交う街中を、</span><br><span class='scene-font-katari'>イオを探しながら</span><br><span class='scene-font-katari'>ゆっくりと歩き始める。</span>,萝赛塔一边在街上慢慢地走着，<br>一边寻找着伊欧。
@@ -28,7 +28,7 @@ id,name,text,trans
 45,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（あそこの彼、あんなに慌てて……</span><br><span class='scene-font-kokoro'>いえ、彼だけじゃないわね……）</span>,（那个人，那么慌张……<br>不，不止是他而已……）
 46,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（他は平静を装ってるけれど、</span><br><span class='scene-font-kokoro'>明らかに表情に余裕が無いわ……）</span>,（虽然其他人表面上装作很平静，<br>但他们的样子一点都谈不上从容……）
 47,,<span class='scene-font-katari'>緊迫した様子の彼らの駆け込む先。</span>,他们紧张地跑进去的地方——
-48,,<span class='scene-font-katari'>それは</span><br><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>の中枢とも言える要所、</span><br><span class='scene-font-katari'>バルツ公国大公府官邸、大工廠だった。</span>,是瓦尔兹公国的中枢要地，<br>也就是瓦尔兹公国大公的官邸——大工厂。
+48,,<span class='scene-font-katari'>それは</span><br><span class='scene-font-place'>バルツ公国</span><span class='scene-font-katari'>の中枢とも言える要所、</span><br><span class='scene-font-katari'>バルツ公国大公府官邸、大工廠だった。</span>,<span class='scene-font-katari'>是瓦尔兹公国的中枢要地，</span><br><span class='scene-font-katari'>也就是瓦尔兹公国大公的官邸——大工厂。</span>
 49,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（何かが……起きているみたいね。）</span>,（好像发生了……什么事。）
 50,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（イオちゃんを探すためにも、</span><br><span class='scene-font-kokoro'>まずは手がかりが必要だわ……）</span>,（为了找到小伊欧，<br>现在需要找些线索……）
 51,ロゼッタ/萝赛塔,<span class='scene-font-kokoro'>（それに、恐らく……）</span>,（这里，恐怕是……）

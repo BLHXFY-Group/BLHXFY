@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,第94章　教えの最奥,第94章 教义的秘奥
 0-synopsis,,リーシャとモニカは、帰還したヴァルフリートからとある調査を依頼される。二人はナル・グランデ空域の罪という思いもよらぬ内容に眉をひそめる。一方姬塔達はカイン達と合流し、イデルバ王国<span class='scene-font-place'>首都ルクスリエース</span>に戻っていた。一行はギルベルトの蛮行を止めるべく、星晶獣の真の力を得るため、ゼエンの元を訪れるのだった。,莉夏和莫妮卡两人，从回归的瓦尔弗利德那接到了调查任务。两人为“纳尔·格兰德空域之罪”这项意想不到的内容皱起了眉头。与此同时，姬塔一行和该隐等人会合，返回了伊德尔瓦王国的首都<span class='scene-font-place'>卢克斯列斯</span>。为了阻止吉尔伯特的暴行，也为了获得星晶兽们真正的力量，他们决定再次前往泽恩的所在之处。
-1,,<span class='scene-font-katari'>ファータ・グランデ空域担当、</span><br><span class='scene-font-katari'>秩序の騎空団第四騎空艇団の拠点である</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>。</span>,这里是负责法塔·格兰德空域，<br>秩序骑空团第四骑空团的据点，<br>阿玛提亚岛。
+1,,<span class='scene-font-katari'>ファータ・グランデ空域担当、</span><br><span class='scene-font-katari'>秩序の騎空団第四騎空艇団の拠点である</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>。</span>,<span class='scene-font-katari'>这里是负责法塔·格兰德空域，</span><br><span class='scene-font-katari'>秩序骑空团第四骑空团的据点，</span><br><span class='scene-font-katari'>阿玛提亚岛。</span>
 2,,<span class='scene-font-katari'>その港に、</span><br><span class='scene-font-katari'>幾つかの騎空艇が</span><br><span class='scene-font-katari'>寄港しようとしていた。</span>,此时，它的港口<br>停泊着几艘骑空艇。
 3,秩序の騎空団員/秩序骑空团员,――旗艦グランアインス、<br>着港します！,——旗舰格兰艾因斯，<br>准备停靠了！
 9,,<span class='scene-font-katari'>港に停泊した騎空艇の中でも、</span><br><span class='scene-font-katari'>ひときわ大きく壮麗なものから、</span><br><span class='scene-font-katari'>ひとりの騎士が島へと降り立つ。</span>,某位骑士从停泊于港口的<br>那艘最大最华丽的骑空艇上走了下来。
@@ -86,7 +86,7 @@ id,name,text,trans
 120,フォリア/芙莉亚,――そうか。<br>あのギルベルトがな……,——是吗，那个吉尔伯特他……
 121,フォリア/芙莉亚,いや、少なからず、<br>予期していたことではあったが……,不，这件事多少<br>也在妾身的预料之中……
 122,ルリア/露莉亚,でも、<br>オーキスちゃん達が無事みたいで<br>良かったです！,但是，<br>小欧姬丝他们也没事，<br>这可真是太好了！
-122-sel1_txt,,<span class='scene-font-katari'>ホッとした</span>,松了口气
+122-sel1_txt,,<span class='scene-font-katari'>ホッとした</span>,这下放心了
 122-sel2_txt,,<span class='scene-font-katari'>無事だと信じてた</span>,我就知道他们没事
 123,イオ/伊欧,ホントそうよね。<br>色々すごいこと<br>頼まれちゃったけど……,真的是。<br>虽然被拜托了件不得了的事呢……
 124,イオ/伊欧,まずは、<br>あの瘴流域に巻き込まれた皆が、<br>無事でいることが一番だもん。,总之，被卷入瘴流域的大家<br>都平安无事才是最重要的。

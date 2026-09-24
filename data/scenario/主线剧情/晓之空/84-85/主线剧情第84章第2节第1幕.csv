@@ -2,7 +2,7 @@ id,name,text,trans
 0-chapter_name,,第84章　イデルバ王国,第84章 伊德尔瓦王国
 0-synopsis,,イデルバ王国の首都、ルクスリエースに降り立った姬塔達は王に謁見する。カインは、メルクマール島を支配していた盗賊について、本来なら極刑であるが、島の治安を守っていたことをふまえ処遇を考え直すよう王を説得する。それに対し王は、一行に西の森の洞窟に棲み着いた星晶獣の討伐を命じ、盗賊達の処分や一行の扱いは、その結果により判断すると言い渡す。,姬塔一行降落在伊德尔瓦王国首都<span class='scene-font-place'>卢克斯列斯</span>，进宫谒见国王。占领美克马尔岛的盗贼本应处以极刑，该隐想要说服国王，看在他们维持着岛屿治安的份上重新考虑。国王命众人前往西方森林的洞窟中讨伐星晶兽，根据众人的成果判断是否重新考虑盗贼的处置。
 0,,<span class='scene-font-katari'>魔物を退けながら航路を進み……</span>,姬塔一行在与魔物的战斗中<br>继续航行……
-1,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>無事、イデルバ王国の首都、</span><br><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>に降り立つ。</span>,最终平安抵达了伊德尔瓦王国的首都<br>卢克斯列斯。
+1,,<span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>無事、イデルバ王国の首都、</span><br><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>に降り立つ。</span>,<span class='scene-font-katari'>最终平安抵达了伊德尔瓦王国的首都</span><br><span class='scene-font-katari'>卢克斯列斯。</span>
 2,ルリア/露莉亚,わぁ……！<br>いままで見てきた街とは、<br>なんだかちょっぴり違う感じがします！,哇……！<br>感觉和之前去的地方<br>都不太一样呢！
 2-sel1_txt,,<span class='scene-font-katari'>ワクワクするね！</span>,好期待！
 2-sel2_txt,,<span class='scene-font-katari'>気のせいじゃない？</span>,是错觉吧？

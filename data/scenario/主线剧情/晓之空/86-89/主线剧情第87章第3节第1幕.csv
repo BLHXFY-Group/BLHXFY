@@ -7,8 +7,8 @@ id,name,text,trans
 3,ラカム/拉卡姆,あー、なんだ……<br>相変わらず元気そうだな、お前ら……,啊，那啥……<br>你们看上去还是那么精神啊……
 4,カタリナ/卡塔莉娜,まったく……<br>どうして隠れていたりなんてしたんだ。<br>最初から姿を現していればいいものを。,真是的，<br>为什么要躲起来啊，<br>一开始就出来不就好了。
 5,ラカム/拉卡姆,いや、なんつーかな……<br>声をかけにくい状況だった、<br>っつーか……,不，该怎么说呢……<br>该说这个状况很难向你们搭话吗……
-5-sel1_txt,,<span class='scene-font-katari'>どうしてこの島に？</span>,<span class='scene-font-katari'>你为什么在这座岛上？</span>
-5-sel2_txt,,<span class='scene-font-katari'>どうやってこの島に？</span>,<span class='scene-font-katari'>你怎么到这座岛上的？</span>
+5-sel1_txt,,<span class='scene-font-katari'>どうしてこの島に？</span>,你为什么在这座岛上？
+5-sel2_txt,,<span class='scene-font-katari'>どうやってこの島に？</span>,你怎么到这座岛上的？
 6,ラカム/拉卡姆,うん？<br>どうして、ってそりゃあ……<br>まぁ、成り行きというか、な……,嗯？<br>为什么，那个啊……<br>哎哟，该说是形势所迫吧……
 7,ラカム/拉卡姆,まぁ、色々とな……,毕竟发生了很多事……
 8,ラカム/拉卡姆,…………,…………
@@ -17,13 +17,13 @@ id,name,text,trans
 11,ルリア/露莉亚,とにかく合流出来て良かったです！<br>イオちゃんと一緒に、<br>この島に居たんですか？,总之会合了就很好，<br>你是和小伊欧一起<br>待在这座岛上的吗？
 12,ラカム/拉卡姆,ああ、いや、そうだな……<br>俺は後からこの島に来たんだ。,啊啊，不，这个……<br>我是之后才来这里的。
 13,ビィ/碧,あっ！　てことはもしかして、<br>昨日のグランサイファーって、<br>見間違いじゃねーんじゃねーか！？,啊！难道说，<br>昨天那个格兰赛法<br>并不是俺们看错了啊！？
-14,,<span class='scene-font-katari'>ビィの一言に、</span><br><span class='scene-font-katari'>ラカムは複雑そうな様子で、</span><br><span class='scene-font-katari'>眉根を寄せる。</span>,<span class='scene-font-katari'>碧的这句话<br>让拉卡姆心情复杂地皱起眉头。</span>
+14,,<span class='scene-font-katari'>ビィの一言に、</span><br><span class='scene-font-katari'>ラカムは複雑そうな様子で、</span><br><span class='scene-font-katari'>眉根を寄せる。</span>,碧的这句话<br>让拉卡姆心情复杂地皱起眉头。
 15,ラカム/拉卡姆,そうか……見られてたんだな。,这样啊，被你们看到了啊。
 16,ビィ/碧,……？,……？
 17,レオナ/蕾欧娜,あの……<br>失礼ですが、こちらの方は……？,那个……<br>不好意思，请问这位是？
 18,カタリナ/卡塔莉娜,ああ、紹介が遅れてしまったな。<br>私達の騎空団の操舵士で、<br>名はラカムという。,啊，方才忘记介绍了，<br>这位是我们骑空团的操舵士，<br>他叫拉卡姆。
 19,レオナ/蕾欧娜,ああ！<br>例のはぐれてしまった仲間の、<br>お一人なんですね。,啊，就是你们失散的伙伴之一呢。
-21,,<span class='scene-font-katari'>レオナはラカムに対し、</span><br><span class='scene-font-katari'>自分達がイデルバ王国の</span><br><span class='scene-font-katari'>軍人であることを説明する。</span>,<span class='scene-font-katari'>蕾欧娜向拉卡姆介绍了<br>自己以及其他几位来自伊德尔瓦王国的军人。</span>
+21,,<span class='scene-font-katari'>レオナはラカムに対し、</span><br><span class='scene-font-katari'>自分達がイデルバ王国の</span><br><span class='scene-font-katari'>軍人であることを説明する。</span>,蕾欧娜向拉卡姆介绍了<br>自己以及其他几位来自伊德尔瓦王国的军人。
 22,ラカム/拉卡姆,そうか……<br>やっぱりお前らは、<br>イデルバ王国に……,这样啊……<br>你们果然投靠了<br>伊德尔瓦王国……
 23,ラインハルザ/莱茵哈萨,…………,…………
 24,ラインハルザ/莱茵哈萨,あんた……ラカムって言ったか。,你是叫拉卡姆来着？
@@ -32,8 +32,8 @@ id,name,text,trans
 27,ラインハルザ/莱茵哈萨,戦艦の停めてある港には、<br>他の艇は停泊してなかったはずだ。,战舰停泊的那个港口，<br>我记得可没停其他的骑空艇。
 28,ラカム/拉卡姆,…………,…………
 29,ラインハルザ/莱茵哈萨,何か……<br>港を使うわけにいかない<br>理由があったのか？,有什么不能使用港口的理由吗？
-29-sel1_txt,,<span class='scene-font-katari'>やめてよね</span>,<span class='scene-font-katari'>打住吧</span>
-29-sel2_txt,,<span class='scene-font-katari'>疑ってる？</span>,<span class='scene-font-katari'>你在怀疑他吗？</span>
+29-sel1_txt,,<span class='scene-font-katari'>やめてよね</span>,打住吧
+29-sel2_txt,,<span class='scene-font-katari'>疑ってる？</span>,你在怀疑他吗？
 30,ラインハルザ/莱茵哈萨,オレはただ聞いてるだけだ。<br>やましいことが無いなら、<br>大人しく理由を話せばいい。,我只是想听听看罢了，<br>如果你真的问心无愧，<br>就大大方方说出缘由如何。
 31,ラインハルザ/莱茵哈萨,ふん……じゃあ聞くが、<br>お前はどう思っているんだ？<br>この状況での奴の登場を。,哼……那么我倒想问，<br>对于这种在奇怪时机出现的家伙，<br>还能有什么看法？
 32,カイン/该隐,ここに至るまでの経緯か……<br>確かにそれは気になるな。,他来到此地的经过，<br>我确实也很在意。
@@ -43,7 +43,7 @@ id,name,text,trans
 36,ラカム/拉卡姆,…………,…………
 37,ラカム/拉卡姆,流石に、な……<br>隠し通せるわけはねぇか……,不愧是你们，<br>果然还是隐瞒不住啊。
 38,カタリナ/卡塔莉娜,ラカム……？,拉卡姆？
-39,,<span class='scene-font-katari'>ラカムはカタリナの声には応えず、</span><br><span class='scene-font-katari'>意を決した様子でカインに向き直る。</span>,<span class='scene-font-katari'>拉卡姆没有回应卡塔莉娜，<br>而是坚毅地转身朝向该隐。</span>
+39,,<span class='scene-font-katari'>ラカムはカタリナの声には応えず、</span><br><span class='scene-font-katari'>意を決した様子でカインに向き直る。</span>,拉卡姆没有回应卡塔莉娜，<br>而是坚毅地转身朝向该隐。
 40,ラカム/拉卡姆,イデルバ王国将軍カイン……<br>いまの俺の仕事は、<br>あんたの拘束と千里眼の賢者の捕獲だ。,伊德尔瓦王国将军该隐——<br>我现在的工作，<br>就是抓捕你和千里眼的贤者。
 41,ラカム/拉卡姆,レム王国所属の客将として、<br>正々堂々、話をさせてもらおうか。,作为雷姆王国的客将，<br>我们就打开天窗说亮话吧。
 info,,,scene_cp87_q3_s10

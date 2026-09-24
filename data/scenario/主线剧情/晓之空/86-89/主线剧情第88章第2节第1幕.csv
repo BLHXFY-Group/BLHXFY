@@ -2,14 +2,14 @@ id,name,text,trans
 0-chapter_name,,第88章　囚われた仲間,第88章 被囚禁的伙伴
 0-synopsis,,レム王国の軍艦へ向かう道中、レオナは奪還作戦がレム王国との全面戦争の引き金になることを危惧する。しかしカインはレオナに、自分はもう後悔を重ねないのだと語る。レム王国の戦艦の停泊場所に着くと、一行は制圧軍の指揮官であるギルベルトと面会する。カインは、イデルバの将軍である自分の身柄と引き換えに、イオを解放させるのだった。,在去往雷姆王国军舰的途中，蕾欧娜还在担心这次夺还作战会成为引发与雷姆王国全面战争的导火索。但是该隐告诉蕾欧娜，他不想再让自己后悔了。在抵达雷姆王国战舰的停泊地点之后，一行人与压制部队指挥官吉尔伯特会面了。作为伊德尔瓦的将军，该隐提出以自己为人质交换伊欧。
 0,ラカム/拉卡姆,こっちだ……獣道になる。<br>いつ魔物が出るかわからないから、<br>注意して進んでくれ。,这边走。<br>这条山野小路不知哪里会冒出魔物来，<br>大伙请小心前进。
-1,,<span class='scene-font-katari'>カインの作戦に乗り、</span><br><span class='scene-font-katari'>グランサイファー奪還のため、</span><br><span class='scene-font-katari'>動き始めた姬塔達。</span>,<span class='scene-font-katari'>姬塔等人按照该隐的计划，<br>为了夺回格兰赛法开始了行动。</span>
-2,,<span class='scene-font-katari'>一行はラカムの案内で、</span><br><span class='scene-font-katari'>レム王国の戦艦が停泊しているという、</span><br><span class='scene-font-katari'>島の反対側へと向かっていた。</span>,<span class='scene-font-katari'>他们在拉卡姆的带领下<br>去往雷姆王国战舰停泊的地点——<br>岛屿的另一侧。</span>
+1,,<span class='scene-font-katari'>カインの作戦に乗り、</span><br><span class='scene-font-katari'>グランサイファー奪還のため、</span><br><span class='scene-font-katari'>動き始めた姬塔達。</span>,姬塔等人按照该隐的计划，<br>为了夺回格兰赛法开始了行动。
+2,,<span class='scene-font-katari'>一行はラカムの案内で、</span><br><span class='scene-font-katari'>レム王国の戦艦が停泊しているという、</span><br><span class='scene-font-katari'>島の反対側へと向かっていた。</span>,他们在拉卡姆的带领下<br>去往雷姆王国战舰停泊的地点——<br>岛屿的另一侧。
 3,ビィ/碧,けどよぅ……<br>ホントにいいのか？　カイン……,但是啊，<br>这样真的好吗？该隐……
 4,ルリア/露莉亚,えっと……<br>協力してくれるのは嬉しいんですけど、<br>でも、この作戦は……,那个……<br>我很开心你能帮助我们，<br>但是，这个作战……
 5,カイン/该隐,うん？　気にすんなって！<br>だって言い出したのは俺だぜ？<br>大丈夫……絶対上手くいくからさ。,嗯？别想太多啦！<br>可是我自己说要这么做的。<br>没关系，一定会顺利进行的。
 6,ルリア/露莉亚,はい……,嗯……
-7,,<span class='scene-font-katari'>カインにそう笑顔で返され、</span><br><span class='scene-font-katari'>ルリアはそれ以上言葉を持たず、</span><br><span class='scene-font-katari'>すごすごと下がっていく。</span>,<span class='scene-font-katari'>该隐微笑着回应，<br>露莉亚也不再说什么，<br>似乎有些沮丧地退了回去。</span>
-8,,<span class='scene-font-katari'>そんなカインに、</span><br><span class='scene-font-katari'>後ろから声をかける姿があった。</span>,<span class='scene-font-katari'>这时，一个人从该隐身后靠近了他，<br>向他搭话。</span>
+7,,<span class='scene-font-katari'>カインにそう笑顔で返され、</span><br><span class='scene-font-katari'>ルリアはそれ以上言葉を持たず、</span><br><span class='scene-font-katari'>すごすごと下がっていく。</span>,该隐微笑着回应，<br>露莉亚也不再说什么，<br>似乎有些沮丧地退了回去。
+8,,<span class='scene-font-katari'>そんなカインに、</span><br><span class='scene-font-katari'>後ろから声をかける姿があった。</span>,这时，一个人从该隐身后靠近了他，<br>向他搭话。
 9,レオナ/蕾欧娜,カイン……私は気にするよ。<br>気にするな、って言われても、<br>心配しないわけないじゃない。,该隐，这件事我还是很介怀。<br>不如说，这不可能不让我担心呀。
 10,カイン/该隐,レオ姉……,蕾欧姐……
 11,レオナ/蕾欧娜,それに、ここでレム王国と<br>事を構えることがどういうことか、<br>カインだってわかってるよね？,而且，如果现在和雷姆王国起了冲突，<br>后果该隐你也知道的吧？
@@ -28,19 +28,19 @@ id,name,text,trans
 30,ビィ/碧,ひとまず<br>変な色とかには<br>塗られてねーみてーだな！,至少没有被涂上奇怪的颜色呢！
 31,ラカム/拉卡姆,させるかよ、そんなこと……,我怎么可能让他们这么做……
 32,ラカム/拉卡姆,いくぞ……<br>じき、警備の奴らが出てくるはずだ。,准备好……<br>负责警戒的家伙<br>应该马上就到了。
-39,,<span class='scene-font-katari'>ラカムの言葉通り、</span><br><span class='scene-font-katari'>一行は近辺の警備を行っていた</span><br><span class='scene-font-katari'>レム王国兵に囲まれる。</span>,<span class='scene-font-katari'>正如拉卡姆所说，<br>众人立刻被在附近警戒的<br>雷姆王国军包围了。</span>
+39,,<span class='scene-font-katari'>ラカムの言葉通り、</span><br><span class='scene-font-katari'>一行は近辺の警備を行っていた</span><br><span class='scene-font-katari'>レム王国兵に囲まれる。</span>,正如拉卡姆所说，<br>众人立刻被在附近警戒的<br>雷姆王国军包围了。
 40,,<span class='scene-font-katari'>しかし、ラカムの取り次ぎにより、</span><br><span class='scene-font-katari'>一行は、この制圧軍の指揮官に</span><br><span class='scene-font-katari'>面会を許されたのだった。</span>,但在拉卡姆的斡旋之下，<br>一行人还是顺利与压制部队的指挥官<br>吉尔伯特会面了。
 47,？？？,ラカム……敵国に捕まった貴方と、<br>こうして再び相見えることが出来るとは<br>夢にも思いませんでしたよ。,拉卡姆……能以这种方式<br>与被帝国捕获的你再会，<br>真是做梦都想不到啊。
 48,ラカム/拉卡姆,そりゃどーも……,很高兴再见到你……
 49,？？？,そして……<br>貴方がイデルバのカイン将軍ですね？,然后……<br>你就是伊德尔瓦的该隐将军吗？
 50,ギルベルト,私はギルベルト。<br>栄光あるレム王国において、<br>王の補佐を務める者です。,我是吉尔伯特，<br>在雷姆王国辅佐国王。
 51,ギルベルト,それで、<br>この制圧軍の指揮官は私ですが――,而且我也是压制部队的指挥官。
-52,,<span class='scene-font-katari'>ギルベルトは柔和な態度を保ちながらも、</span><br><span class='scene-font-katari'>値踏みするように</span><br><span class='scene-font-katari'>鋭い視線をカインに向ける。</span>,<span class='scene-font-katari'>吉尔伯特保持着温和的态度，<br>像是在估价一般，<br>将锐利的视线投向该隐。</span>
+52,,<span class='scene-font-katari'>ギルベルトは柔和な態度を保ちながらも、</span><br><span class='scene-font-katari'>値踏みするように</span><br><span class='scene-font-katari'>鋭い視線をカインに向ける。</span>,吉尔伯特保持着温和的态度，<br>像是在估价一般，<br>将锐利的视线投向该隐。
 53,ギルベルト,――人質の交換とは、<br>いったい、どういうおつもりですか？,人质交换……<br>你到底有何企图呢？
-54,,<span class='scene-font-katari'>丁寧に出迎えたギルベルトに対し、</span><br><span class='scene-font-katari'>カインもまた恭しく一礼し、</span><br><span class='scene-font-katari'>言葉を続ける。</span>,<span class='scene-font-katari'>对于恭敬出迎的吉尔伯特，<br>该隐也彬彬有礼地接话道。</span>
+54,,<span class='scene-font-katari'>丁寧に出迎えたギルベルトに対し、</span><br><span class='scene-font-katari'>カインもまた恭しく一礼し、</span><br><span class='scene-font-katari'>言葉を続ける。</span>,对于恭敬出迎的吉尔伯特，<br>该隐也彬彬有礼地接话道。
 55,カイン/该隐,言葉通りの意味さ、ギルベルト殿。,正是字面含义，吉尔伯特阁下。
 56,カイン/该隐,代わりを差し出すから、<br>そちらが捕えている人物を<br>解放してほしいんだ。,我们交出人质后，<br>希望你们也能释放<br>被你们抓捕的人。
-57,,<span class='scene-font-katari'>カインの提案に、</span><br><span class='scene-font-katari'>ギルベルトは眉をひそめる。</span>,<span class='scene-font-katari'>对于该隐的提案，<br>吉尔伯特皱起了起眉头。</span>
+57,,<span class='scene-font-katari'>カインの提案に、</span><br><span class='scene-font-katari'>ギルベルトは眉をひそめる。</span>,对于该隐的提案，<br>吉尔伯特皱起了起眉头。
 58,ギルベルト,その交渉に我々が乗ると、<br>本気で思っているのですか。,你真的以为<br>我们会接受这个提议吗。
 59,カイン/该隐,もちろん。<br>そう悪い話じゃないと思うぜ。,当然了。<br>我觉得这对你们而言<br>也不是什么坏事。
 60,ギルベルト,確かに……<br>ラカムは我々にとって、<br>貴重な経験を積んだ大切な戦力です。,确实，拉卡姆对于我军而言，<br>是具备宝贵经验的重要战力。
@@ -58,23 +58,23 @@ id,name,text,trans
 72,ギルベルト,あのイオという少女は、<br>それほど価値のある人物なのですか？,那个名叫伊欧的少女，<br>真的是具有如此价值的人物吗？
 73,カイン/该隐,レム王国にとって<br>価値があるかを決めるのは、<br>俺じゃなくてあんたの仕事だろ。,对于雷姆王国而言是否有价值，<br>这是你们决定的事情，<br>而不是我。
 74,カイン/该隐,ただ……俺達にとっては、<br>その子が帰ってくることに、<br>大きな意味がある。,但是，对我来说，<br>那个孩子能回来具有巨大的意义。
-75,,<span class='scene-font-katari'>そう言うとカインは、</span><br><span class='scene-font-katari'>姬塔へと視線を送る。</span>,<span class='scene-font-katari'>姬塔目送着该隐离开。</span>
-76,,<span class='scene-font-katari'>それを見たギルベルトもまた、</span><br><span class='scene-font-katari'>姬塔へと目を向ける。</span>,<span class='scene-font-katari'>目睹了这一幕的吉尔伯特<br>将目光转向姬塔。</span>
+75,,<span class='scene-font-katari'>そう言うとカインは、</span><br><span class='scene-font-katari'>姬塔へと視線を送る。</span>,姬塔目送着该隐离开。
+76,,<span class='scene-font-katari'>それを見たギルベルトもまた、</span><br><span class='scene-font-katari'>姬塔へと目を向ける。</span>,目睹了这一幕的吉尔伯特<br>将目光转向姬塔。
 77,ギルベルト,貴方は……<br>つい最近、<br>イデルバの客将となった騎空士ですね。,你……<br>就是最近<br>成为伊德尔瓦客将的骑空士吗。
 78,ギルベルト,イオという少女は貴方達にとって、<br>それほどまでに重要な人物なのですか？,那位名叫伊欧的少女，<br>对你们而言是那么重要的人物吗？
-78-sel1_txt,,<span class='scene-font-katari'>仲間だから</span>,<span class='scene-font-katari'>她是我们的同伴</span>
+78-sel1_txt,,<span class='scene-font-katari'>仲間だから</span>,她是我们的同伴
 79,ギルベルト,…………,
 80,ギルベルト,……わかりました。<br>この場におけるレム王国の代表として、<br>人質交換に応じましょう。,明白了，<br>作为此次行动的雷姆王国代表，<br>我答应人质交换。
-81,,<span class='scene-font-katari'>手近な部下に、</span><br><span class='scene-font-katari'>ギルベルトは口頭で指示を出す。</span>,<span class='scene-font-katari'>吉尔伯特向身边的几位部下<br>吩咐了些什么。</span>
-88,,<span class='scene-font-katari'>やがて、レム王国の兵士に連れられ、</span><br><span class='scene-font-katari'>困惑した表情のイオが</span><br><span class='scene-font-katari'>姿を現したのだった。</span>,<span class='scene-font-katari'>不久后，雷姆王国的士兵们<br>便带着一脸困惑的伊欧出现了。</span>
+81,,<span class='scene-font-katari'>手近な部下に、</span><br><span class='scene-font-katari'>ギルベルトは口頭で指示を出す。</span>,吉尔伯特向身边的几位部下<br>吩咐了些什么。
+88,,<span class='scene-font-katari'>やがて、レム王国の兵士に連れられ、</span><br><span class='scene-font-katari'>困惑した表情のイオが</span><br><span class='scene-font-katari'>姿を現したのだった。</span>,不久后，雷姆王国的士兵们<br>便带着一脸困惑的伊欧出现了。
 89,イオ/伊欧,姬塔！<br>ね、ねぇ！<br>人質交換、ってどういうこと！？,姬塔！喂！<br>人质交换是怎么回事！？
 90,イオ/伊欧,あれ……？<br>それになんでラカムが……<br>,咦？<br>而且为什么拉卡姆……
 91,イオ/伊欧,いつこっちに来たの！？<br>っていうか、無事だったんだ！,你什么时候来这的！？<br>不对，你没事吗！
 92,ラカム/拉卡姆,お、おう……,还、还好啦……
-93,,<span class='scene-font-katari'>イオが解放されたのを確認すると、</span><br><span class='scene-font-katari'>カインは抵抗することなく、</span><br><span class='scene-font-katari'>自らをレム王国の兵士に委ねる。</span>,<span class='scene-font-katari'>确认伊欧被释放后，<br>该隐也毫无抵抗地<br>把自己交给了雷姆王国士兵。</span>
+93,,<span class='scene-font-katari'>イオが解放されたのを確認すると、</span><br><span class='scene-font-katari'>カインは抵抗することなく、</span><br><span class='scene-font-katari'>自らをレム王国の兵士に委ねる。</span>,确认伊欧被释放后，<br>该隐也毫无抵抗地<br>把自己交给了雷姆王国士兵。
 94,レオナ/蕾欧娜,カイン……,该隐……
 95,ラインハルザ/莱茵哈萨,…………,
 96,カイン/该隐,んじゃ……<br>あとの事、頼んだからな……<br>姬塔。,那么，<br>接下来就拜托你了，姬塔。
-97,,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>カインは普段と変わらぬ笑顔を</span><br><span class='scene-font-katari'>姬塔に向ける。</span>,<span class='scene-font-katari'>该隐这样说着，<br>对姬塔露出了与平日里<br>别无二致的笑容。</span>
-98,,<span class='scene-font-katari'>そして、レム王国の兵士に拘束され、</span><br><span class='scene-font-katari'>カインは甲板から姿を消すのだった。</span>,<span class='scene-font-katari'>然后，雷姆王国的士兵拘拿了该隐，<br>带着他一起离开了甲板。</span>
+97,,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>カインは普段と変わらぬ笑顔を</span><br><span class='scene-font-katari'>姬塔に向ける。</span>,该隐这样说着，<br>对姬塔露出了与平日里<br>别无二致的笑容。
+98,,<span class='scene-font-katari'>そして、レム王国の兵士に拘束され、</span><br><span class='scene-font-katari'>カインは甲板から姿を消すのだった。</span>,然后，雷姆王国的士兵拘拿了该隐，<br>带着他一起离开了甲板。
 info,,,scene_cp88_q2_s10

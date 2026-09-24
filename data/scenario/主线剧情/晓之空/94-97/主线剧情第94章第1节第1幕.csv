@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,第94章　教えの最奥,第94章 教义的秘奥
 0-synopsis,,リーシャとモニカは、帰還したヴァルフリートからとある調査を依頼される。二人はナル・グランデ空域の罪という思いもよらぬ内容に眉をひそめる。一方姬塔達はカイン達と合流し、イデルバ王国<span class='scene-font-place'>首都ルクスリエース</span>に戻っていた。一行はギルベルトの蛮行を止めるべく、星晶獣の真の力を得るため、ゼエンの元を訪れるのだった。,莉夏和莫妮卡两人，从回归的瓦尔弗利德那接到了调查任务。两人为“纳尔·格兰德空域之罪”这项意想不到的内容皱起了眉头。与此同时，姬塔一行和该隐等人会合，返回了伊德尔瓦王国的首都<span class='scene-font-place'>卢克斯列斯</span>。为了阻止吉尔伯特的暴行，也为了获得星晶兽们真正的力量，他们决定再次前往泽恩的所在之处。
-1,,<span class='scene-font-katari'>ファータ・グランデ空域担当、</span><br><span class='scene-font-katari'>秩序の騎空団第四騎空艇団の拠点である</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>。</span>,<span class='scene-font-katari'>这里是负责法塔·格兰德空域，<br>秩序骑空团第四骑空团的据点，<br>阿玛提亚岛。
+1,,<span class='scene-font-katari'>ファータ・グランデ空域担当、</span><br><span class='scene-font-katari'>秩序の騎空団第四騎空艇団の拠点である</span><br><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>。</span>,这里是负责法塔·格兰德空域，<br>秩序骑空团第四骑空团的据点，<br>阿玛提亚岛。
 2,,<span class='scene-font-katari'>その港に、</span><br><span class='scene-font-katari'>幾つかの騎空艇が</span><br><span class='scene-font-katari'>寄港しようとしていた。</span>,此时，它的港口<br>停泊着几艘骑空艇。
 3,秩序の騎空団員/秩序骑空团员,――旗艦グランアインス、<br>着港します！,——旗舰格兰艾因斯，<br>准备停靠了！
 9,,<span class='scene-font-katari'>港に停泊した騎空艇の中でも、</span><br><span class='scene-font-katari'>ひときわ大きく壮麗なものから、</span><br><span class='scene-font-katari'>ひとりの騎士が島へと降り立つ。</span>,某位骑士从停泊于港口的<br>那艘最大最华丽的骑空艇上走了下来。
@@ -82,7 +82,7 @@ id,name,text,trans
 105,ヴァルフリート,――これが、<br>私の元に来た告発の全容だ。,——这就是，<br>对方告诉我的全部内容。
 106,,<span class='scene-font-katari'>思いもよらぬ依頼の内容に、</span><br><span class='scene-font-katari'>リーシャとモニカは眉をひそめる。</span>,这份意想不到的委托<br>让莉夏和莫妮卡皱起了眉头。
 111,,<span class='scene-font-katari'>一方、その頃、</span><br><span class='scene-font-katari'>カイン達と合流した</span><br><span class='scene-font-katari'>姬塔達は――</span>,另一边，姬塔一行人<br>终于与该隐一行会合了。
-115,,<span class='scene-font-katari'>ひとまず事態を整理するため、</span><br><span class='scene-font-katari'>イデルバ王国</span><span class='scene-font-place'>首都ルクスリエース</span><span class='scene-font-katari'>へと</span><br><span class='scene-font-katari'>戻ってきていた。</span>,为了整理目前所知的有关事态的情报，<br>一行人回到了<br>伊德尔瓦王国的首都<span class='scene-font-place'>卢克斯列斯</span>。
+115,,<span class='scene-font-katari'>ひとまず事態を整理するため、</span><br><span class='scene-font-katari'>イデルバ王国</span><span class='scene-font-place'>首都ルクスリエース</span><span class='scene-font-katari'>へと</span><br><span class='scene-font-katari'>戻ってきていた。</span>,为了整理目前所知的有关事态的情报，<br>一行人回到了<br>伊德尔瓦王国的首都卢克斯列斯。
 120,フォリア/芙莉亚,――そうか。<br>あのギルベルトがな……,——是吗，那个吉尔伯特他……
 121,フォリア/芙莉亚,いや、少なからず、<br>予期していたことではあったが……,不，这件事多少<br>也在妾身的预料之中……
 122,ルリア/露莉亚,でも、<br>オーキスちゃん達が無事みたいで<br>良かったです！,但是，<br>小欧姬丝他们也没事，<br>这可真是太好了！
@@ -98,7 +98,7 @@ id,name,text,trans
 130,カタリナ/卡塔莉娜,いや……<br>あの男のことだ。<br>何か考えがあってのことだろう。,不，如果是那个男人的话，<br>一定有他自己的考虑吧。
 131,カタリナ/卡塔莉娜,伝言の内容から察するに……<br>まだ調査や準備が<br>必要なのかもしれないな。,从传达给我们的内容上来看，<br>我们或许还需要进行一些<br>调查和准备。
 132,,<span class='scene-font-katari'>ナル・グランデ空域のため、</span><br><span class='scene-font-katari'>ギルベルトとイスタバイオン王国を</span><br><span class='scene-font-katari'>止めてほしい──</span>,为了纳尔·格兰德空域，<br>我们也希望能够阻止<br>吉尔伯特和伊斯塔拜恩王国。
-133,,<span class='scene-font-place'>ベスティエ島</span><span class='scene-font-katari'>から戻った一行は、</span><br><span class='scene-font-katari'>ドランク達からの伝言を受け、</span><br><span class='scene-font-katari'>皆でその内容について話し合っていた。</span>,从<span class='scene-font-place'>贝斯缇耶岛</span>回来的众人，<br>都在讨论从德朗克一行人那得到的讯息。
+133,,<span class='scene-font-place'>ベスティエ島</span><span class='scene-font-katari'>から戻った一行は、</span><br><span class='scene-font-katari'>ドランク達からの伝言を受け、</span><br><span class='scene-font-katari'>皆でその内容について話し合っていた。</span>,从贝斯缇耶岛回来的众人，<br>都在讨论从德朗克一行人那得到的讯息。
 134,フォリア/芙莉亚,下準備……<br>裏工作が必要というのは、<br>妾も同意じゃな。,准备工作……<br>暗中行动是必要的，<br>这点妾身也同意。
 135,フォリア/芙莉亚,なにせ相手が<br>あのギルベルトということじゃからな。,毕竟你们的对手<br>是那个吉尔伯特。
 136,カイン/该隐,でも、ギルベルトが、<br>レム王国すら眼中にないなら……,但是，如果吉尔伯特<br>连雷姆王国都不在乎了……

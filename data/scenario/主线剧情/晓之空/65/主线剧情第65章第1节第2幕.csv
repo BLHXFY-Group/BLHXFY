@@ -1,13 +1,13 @@
 ﻿id,en,jp,trans
 0-chapter_name,,第65章　新たな旅立ち,第65章 新的旅程
 0-synopsis,,魔物を退けながら<span class='scene-font-place'>アマルティア島</span>へと進む姬塔一行。そんな中、リーシャは不安げに空を見つめる。現在、リーシャは秩序の騎空団の指示で姬塔達の騎空団に派遣されており、エルステ帝国が崩壊したいま、新たな任務が下った場合、その任務の内容次第では一行の騎空団を離れることになるかもしれないことを危惧していたのだった。,众人击退魔物后，继续向<span class='scene-font-place'>阿玛提亚岛</span>前进。而其中，莉夏不安地望着天空。现在莉夏的立场是被秩序骑空团派遣到姬塔的骑空团的。埃尔斯特帝国已然崩坏的现在，莉夏害怕下一个新的任务就是让她从姬塔的骑空团离开。
-0,,<span class='scene-font-katari'>魔物を退けながら、</span><br><span class='scene-font-katari'>一路、</span><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>へ向かう</span><br><span class='scene-font-katari'>姬塔一行。</span>,姬塔一行人击退了魔物，<br>继续前往<span class='scene-font-place'>阿玛提亚岛</span>。
+0,,<span class='scene-font-katari'>魔物を退けながら、</span><br><span class='scene-font-katari'>一路、</span><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>へ向かう</span><br><span class='scene-font-katari'>姬塔一行。</span>,姬塔一行人击退了魔物，<br>继续前往阿玛提亚岛。
 1,,<span class='scene-font-katari'>そんな中、リーシャはひとり甲板の隅で、</span><br><span class='scene-font-katari'>不安げに空を眺めていた。</span>,在此期间，莉夏站在甲板角落，<br>心事重重地望着天空。
 2,,…………,…………
 3,,リーシャさん？<br>どうしたんですか？<br>こんなところにひとりで……,莉夏小姐？<br>你怎么了？<br>怎么一个人待在这里？
 4,,ルリア、ビィくん<br>それに姬塔さんも……,露莉亚、碧还有姬塔……
 5,,どうしたってんだ？<br>なんか暗い顔してっけどよぅ……,发生什么事了？<br>你的脸色看起来不太好。
-6,,<span class='scene-font-place'>アマルティア島</span>って言ったら、<br>リーシャの<br>故郷みてーなもんじゃねーか！,说起<span class='scene-font-place'>阿玛提亚岛</span>，<br>那不是莉夏的故乡吗！
+6,,<span class='scene-font-place'>アマルティア島</span>って言ったら、<br>リーシャの<br>故郷みてーなもんじゃねーか！,说起<span class='scene-font-place'>阿玛提亚岛</span>，<br>那里算得上是你的老家啊！
 7,,何か……<br>不安な事でもあるんですか？,是发生了什么令你不安的事情吗？
 8,,いえ、それが、その……,不，那个……
 9,,<span class='scene-font-katari'>リーシャは迷うような素振りを見せたが、</span><br><span class='scene-font-katari'>不意に頭を下げて話し始める。</span>,莉夏看上去有些犹豫，<br>然后低下头开始说道。
@@ -20,5 +20,5 @@
 16,,そんな……リーシャさん、<br>私達の騎空団を<br>離れちゃうんですか……？,怎么会这样……<br>莉夏要离开我们的骑空团吗？
 17,,…………,…………
 18,,<span class='scene-font-katari'>自らの身の置き様を迷うように、</span><br><span class='scene-font-katari'>悲しげにリーシャは俯く。</span>,莉夏陷入了迷茫，<br>悲伤地垂下了头。
-19,,<span class='scene-font-katari'>しかし、それでも刻一刻と、</span><br><span class='scene-font-katari'>一行は</span><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>に</span><br><span class='scene-font-katari'>近づきつつあるのだった。</span>,然而，格兰赛法<br>已经离<span class='scene-font-place'>阿玛提亚岛</span>越来越近了。
+19,,<span class='scene-font-katari'>しかし、それでも刻一刻と、</span><br><span class='scene-font-katari'>一行は</span><span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>に</span><br><span class='scene-font-katari'>近づきつつあるのだった。</span>,然而，格兰赛法<br>已经离阿玛提亚岛越来越近了。
 info,,1,scene_cp65_q1_s20

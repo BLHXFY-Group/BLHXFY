@@ -15,7 +15,7 @@ id,name,text,trans
 14,フォリア/芙莉亚,…………,…………
 15,,<span class='scene-font-katari'>カタリナの推理に、</span><br><span class='scene-font-katari'>フォリアは苦々しげな顔で頷く。</span>,听完卡塔莉娜的推测，<br>芙莉亚苦笑着点了点头。
 16,ビィ/碧,やれやれ……<br>離れちまった仲間と合流するのは、<br>今回も難航しそうだぜ……,哎呀呀……<br>看来这次的探寻失散同伴之旅，<br>也不会那么一帆风顺呢……
-22,,<span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>にて、ラカム、イオ、</span><br><span class='scene-font-katari'>そしてグランサイファーを</span><br><span class='scene-font-katari'>取り戻した姬塔一行。</span>,姬塔一行在<span class='scene-font-place'>克尔加岛</span>夺回了拉卡姆、伊欧<br>以及格兰赛法。
+22,,<span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>にて、ラカム、イオ、</span><br><span class='scene-font-katari'>そしてグランサイファーを</span><br><span class='scene-font-katari'>取り戻した姬塔一行。</span>,姬塔一行在克尔加岛夺回了拉卡姆、伊欧<br>以及格兰赛法。
 23,,<span class='scene-font-katari'>その後一行は、イデルバ王国へと戻り、</span><br><span class='scene-font-katari'>ラカムとイオの滞在を</span><br><span class='scene-font-katari'>国王フォリアに認めてもらう。</span>,在那之后，他们回到了伊德尔瓦王国。<br>在得到国王芙莉亚的允许后，<br>伊欧和拉卡姆也留在了那里。
 24,,<span class='scene-font-katari'>そうして、残る仲間を探すべく、</span><br><span class='scene-font-katari'>イオがゼエンに教えられた島について、</span><br><span class='scene-font-katari'>フォリア達に尋ねていたのだった。</span>,就这样，为了寻找剩下的伙伴，<br>伊欧向芙莉亚问起了<br>泽恩告诉他们的那座岛。
 26,イオ/伊欧,じゃあ、<span class='scene-font-place'>ベスティエ島</span>には、<br>マスター達みたいな人達が<br>住んでるとか？,<span class='scene-font-place'>贝斯缇耶岛</span>的居民<br>也和老师他们一样吗？
@@ -61,5 +61,5 @@ id,name,text,trans
 62,フォリア/芙莉亚,おっと……憐れんでくれるなよ。<br>妾は望んで王となったのだからな。,哎呀……没什么好可怜的。<br>妾身是出于自身的意愿，<br>才成为一国之君的。
 63,フォリア/芙莉亚,わけもわからず<br>自由を奪われていた昔より、<br>いまは遥かに幸せじゃからの。,比起往昔那久居樊笼的时日，<br>妾身现在可要幸福得多了。
 64,,<span class='scene-font-katari'>そう語るフォリアの目は、</span><br><span class='scene-font-katari'>まるで、ここではないどこかを</span><br><span class='scene-font-katari'>眺めるように遠いものだった。</span>,说这些话的时候，<br>芙莉亚一直看着远方，<br>好像在注视着某个十分遥远的地方。
-65,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>散り散りになった仲間を探すため、</span><br><span class='scene-font-place'>ベスティエ島</span><span class='scene-font-katari'>へと向かうのだった。</span>,就这样，姬塔一行人<br>为了寻找失散的同伴，<br>向着<span class='scene-font-place'>贝斯缇耶岛</span>出发了。
+65,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>散り散りになった仲間を探すため、</span><br><span class='scene-font-place'>ベスティエ島</span><span class='scene-font-katari'>へと向かうのだった。</span>,就这样，姬塔一行人<br>为了寻找失散的同伴，<br>向着贝斯缇耶岛出发了。
 info,,,scene_cp90_q2_s10

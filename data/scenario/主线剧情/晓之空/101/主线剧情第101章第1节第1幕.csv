@@ -3,7 +3,7 @@ id,name,text,trans
 0-synopsis,,時は遡りラカムとオイゲンが仮の契約状態で眠っていた頃、姬塔達はイデルバ王国の首都へ戻ってきていた。そんな中、レム王国が総力を挙げてイデルバ王国に攻め込んでくるが、なぜか国王フォリアが見当たらず、統率が取れないイデルバ軍は苦戦を強いられる。また、同時にレオナの姿も消えており、一行は王宮を出て前線で戦う、カイン、ラインハルザと合流する。,时间追溯到拉卡姆与欧根因临时契约陷入沉睡之时，姬塔一行人回到了伊德尔瓦瓦国的首都。与此同时，雷姆王国正向伊德尔瓦发起总攻，但国王芙莉亚却在这时神秘失踪，失去统帅的军队一时间陷入了苦战。同时，蕾欧娜也不见了踪影。于是姬塔一行人走出王宫踏上了前线，与在前线作战的该隐和莱茵哈萨会合。
 1,,<span class='scene-font-katari'>──時は遡り、教えの最奥へと至るため</span><br><span class='scene-font-katari'>ラカムとオイゲンが</span><br><span class='scene-font-katari'>仮の契約状態で眠り続けていた頃……</span>,时间追溯到为了掌握教义秘奥，<br>拉卡姆和欧根与星晶兽缔结临时契约，<br>陷入沉睡的时候……
 2,,<span class='scene-font-katari'>ふたりの試練に対し</span><br><span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>ただ信じて待つことしか出来なかった。</span>,对于两人所面临的试炼，<br>姬塔能做的只有相信并等待着他们回归。
-7,,<span class='scene-font-katari'>そうして、姬塔達は、</span><br><span class='scene-font-katari'>一度、イデルバ王国の首都である、</span><br><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>へと戻ってきていた。</span>,就这样，姬塔一行暂时回到了<br>伊德尔瓦王国的首都<span class='scene-font-place'>卢克斯列斯</span>。
+7,,<span class='scene-font-katari'>そうして、姬塔達は、</span><br><span class='scene-font-katari'>一度、イデルバ王国の首都である、</span><br><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>へと戻ってきていた。</span>,就这样，姬塔一行暂时回到了<br>伊德尔瓦王国的首都卢克斯列斯。
 8,ビィ/碧,やれやれ……<br>待つしか出来ない、ってのも、<br>もどかしいもんだぜ……,哎呀呀……<br>现在也只能等了，<br>不过，这也太让人心急了……
 8-sel1_txt,,<span class='scene-font-katari'>信じて待とう</span>,等待并相信吧
 8-sel2_txt,,<span class='scene-font-katari'>きっと大丈夫</span>,一定会没事的

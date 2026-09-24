@@ -1,8 +1,8 @@
 id,name,text,trans
 0-chapter_name,,第85章　少女フォリア,第85章 少女芙莉亚
 0-synopsis,,洞窟に辿り着いた姬塔一行。フォリアと共に一行が洞窟内を進んでいると、話に聞いていた通り、星晶獣と出会う。星晶獣の背後には、倒れ伏すカインの姿があった。ルリアは目の前の星晶獣に対し、僅かな違和感を得るものの、問答無用で襲いかかる星晶獣に一行は応戦する。,姬塔一行终于抵达了洞穴。众人跟随芙莉亚进入洞穴，果然遇到了国王所说的星晶兽。虽然露莉亚感到了一丝异样，但面对猛然袭来的星晶兽，众人只有应战。
-1,,<span class='scene-font-katari'>星晶獣を討伐するため、</span><br><span class='scene-font-katari'>フォリアの案内で森を進み、</span><br><span class='scene-font-katari'>洞窟を目指す姬塔一行。</span>,<span class='scene-font-katari'>为讨伐星晶兽，<br>姬塔一行跟随芙莉亚<br>在森林中前进。</span>
-7,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>一つの怪しげな洞窟へと</span><br><span class='scene-font-katari'>辿り着いたのだった。</span>,<span class='scene-font-katari'>终于，<br>他们来到了一处可疑的洞穴。</span>
+1,,<span class='scene-font-katari'>星晶獣を討伐するため、</span><br><span class='scene-font-katari'>フォリアの案内で森を進み、</span><br><span class='scene-font-katari'>洞窟を目指す姬塔一行。</span>,为讨伐星晶兽，<br>姬塔一行跟随芙莉亚<br>在森林中前进。
+7,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>一つの怪しげな洞窟へと</span><br><span class='scene-font-katari'>辿り着いたのだった。</span>,终于，<br>他们来到了一处可疑的洞穴。
 8,フォリア/芙莉亚,ここじゃ……<br>この洞窟に、例の星晶獣がおる。,就是这里……<br>星晶兽就在这个洞穴里。
 9,レオナ/蕾欧娜,じゃあ、カインもここに……,那，该隐也在这里吗……
 10,フォリア/芙莉亚,じゃな。<br>星晶獣が陣取っておるのは、<br>この洞窟の一番奥じゃ。,应该是吧。<br>星晶兽的巢穴在最深处。
@@ -17,20 +17,20 @@ id,name,text,trans
 19,フォリア/芙莉亚,くくくくく……<br>まぁ、いまのは冗談としても、<br>妾の心配は無用じゃ。,呵呵呵呵……<br>开玩笑而已，<br>各位不用担心妾身。
 20,フォリア/芙莉亚,危険、などと、<br>この地において、<br>妾には有りえぬことじゃからの。,毕竟，妾身在这里，是<br>绝对不可能有危险的。
 21,フォリア/芙莉亚,さぁ、ゆくぞ。<br>この洞窟はさほど広くないでの。<br>じき星晶獣にお目見え出来ようぞ。,好了，走吧。<br>这个洞穴不大，<br>很快就能见到星晶兽了。
-22,,<span class='scene-font-katari'>そう言うとフォリアは、</span><br><span class='scene-font-katari'>気軽な様子で洞窟の奥へと進んでいく。</span>,<span class='scene-font-katari'>芙莉亚说完迈着轻松的步伐走进洞穴。</span>
+22,,<span class='scene-font-katari'>そう言うとフォリアは、</span><br><span class='scene-font-katari'>気軽な様子で洞窟の奥へと進んでいく。</span>,芙莉亚说完迈着轻松的步伐走进洞穴。
 23,ビィ/碧,やれやれ……<br>ホントにどーいう嬢ちゃんなんだよ……,哎……<br>真拿她没辙……
 24,ラインハルザ/莱茵哈萨,行くぞ。<br>いまは悩むだけ無駄だ。,走了。<br>现在你们再头疼也没用。
 25,ラインハルザ/莱茵哈萨,あまり隠す気もないようだが、<br>正直に話すつもりもないようだからな。,虽说她没打算向我们隐瞒什么，<br>但也没打算如实告诉我们真相。
-31,,<span class='scene-font-katari'>洞窟を進む一行の耳に、</span><br><span class='scene-font-katari'>威嚇するような唸り声が届く。</span>,<span class='scene-font-katari'>众人在洞穴中前进，<br>突然听到一阵威吓般的低吼。</span>
+31,,<span class='scene-font-katari'>洞窟を進む一行の耳に、</span><br><span class='scene-font-katari'>威嚇するような唸り声が届く。</span>,众人在洞穴中前进，<br>突然听到一阵威吓般的低吼。
 33,？？？,グルルルルル……,吼——……
-33-sel1_txt,,<span class='scene-font-katari'>星晶獣……！</span>,<span class='scene-font-katari'>星晶兽……！</span>
-33-sel2_txt,,<span class='scene-font-katari'>カインを返せ！</span>,<span class='scene-font-katari'>把该隐还来！</span>
+33-sel1_txt,,<span class='scene-font-katari'>星晶獣……！</span>,星晶兽……！
+33-sel2_txt,,<span class='scene-font-katari'>カインを返せ！</span>,把该隐还来！
 34,カタリナ/卡塔莉娜,ああ、<br>この星晶獣で間違いない……<br>見えるか？　姬塔。,没错，就是这只星晶兽……<br>你能看见吗，姬塔？
-35,,<span class='scene-font-katari'>そう言うとカタリナは、</span><br><span class='scene-font-katari'>星晶獣の背後を示す。</span>,<span class='scene-font-katari'>说着，卡塔莉娜<br>指向星晶兽的背后。</span>
-36,,<span class='scene-font-katari'>そこには、</span><br><span class='scene-font-katari'>倒れ伏すカインの姿があった。</span>,<span class='scene-font-katari'>该隐就倒在那里。</span>
+35,,<span class='scene-font-katari'>そう言うとカタリナは、</span><br><span class='scene-font-katari'>星晶獣の背後を示す。</span>,说着，卡塔莉娜<br>指向星晶兽的背后。
+36,,<span class='scene-font-katari'>そこには、</span><br><span class='scene-font-katari'>倒れ伏すカインの姿があった。</span>,该隐就倒在那里。
 37,カタリナ/卡塔莉娜,ひとまず外傷は見当たらない。<br>気絶しているだけだといいんだが……,看起来没有外伤。<br>应该只是昏迷了……
 38,ビィ/碧,姬塔！<br>おい、見ろよ、あれ！,姬塔！<br>快看那边！
-39,,<span class='scene-font-katari'>驚いたビィの示す先、</span><br><span class='scene-font-katari'>星晶獣の背後には、</span><br><span class='scene-font-katari'>倒れ伏すカインの姿があった。</span>,<span class='scene-font-katari'>碧指着倒在星晶兽背后的该隐，<br>惊讶地喊道。</span>
+39,,<span class='scene-font-katari'>驚いたビィの示す先、</span><br><span class='scene-font-katari'>星晶獣の背後には、</span><br><span class='scene-font-katari'>倒れ伏すカインの姿があった。</span>,碧指着倒在星晶兽背后的该隐，<br>惊讶地喊道。
 40,ビィ/碧,ここから見える限り、<br>怪我はねーみてーだけど……,从这里看他好像没有受伤……
 43,ルリア/露莉亚,……あれ？,……咦？
 44,カタリナ/卡塔莉娜,どうした？　ルリア。,怎么了，露莉亚？

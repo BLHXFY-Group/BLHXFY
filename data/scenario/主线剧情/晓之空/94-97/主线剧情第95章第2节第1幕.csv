@@ -27,7 +27,7 @@ id,name,text,trans
 24,オイゲン/欧根,ついでに聞くがよ……<br>お前、<span class='scene-font-place'>エルステ帝国</span>、<br>って知ってっか？,顺便一提……<br>你知道埃尔斯特帝国吗？
 25,エルマー,んん？　どこだそれ……,嗯？那是哪儿啊……
 26,エルマー,あ、待てよ、<span class='scene-font-place'>エルステ</span>ってあれだろ？<br>あの小さいけど歴史のある……,啊，等等，是那个埃尔斯特吧？<br>国土虽小却历史悠久的那个……
-27,オイゲン/欧根,<span class='scene-font-kokoro'>（間違いねぇ……</span><br><span class='scene-font-kokoro'>こいつの言うことが正しけりゃ、</span><br><span class='scene-font-kokoro'>ここは過去の</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>だ）</span>,（毫无疑问……<br>如果这家伙说的没错，<br>这里确实就是奥古斯提。）
+27,オイゲン/欧根,<span class='scene-font-kokoro'>（間違いねぇ……</span><br><span class='scene-font-kokoro'>こいつの言うことが正しけりゃ、</span><br><span class='scene-font-kokoro'>ここは過去の</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>だ）</span>,<span class='scene-font-kokoro'>（毫无疑问……</span><br><span class='scene-font-kokoro'>如果这家伙说的没错，</span><br><span class='scene-font-kokoro'>这里确实就是</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>。）</span>
 28,オイゲン/欧根,<span class='scene-font-kokoro'>（エルマーがいまの仕事を始めて５年、</span><br><span class='scene-font-kokoro'>ってこたぁ……</span><br><span class='scene-font-kokoro'>だいたい２５年前か……）</span>,（可这里的埃尔默才工作5年……<br>正常来说应该是25年前吧……）
 29,オイゲン/欧根,<span class='scene-font-kokoro'>（しかし、解せねぇな……）</span>,（但是，我不明白……）
 30,オイゲン/欧根,エルマー……<br>お前、オレの顔を見て、<br>言うことはねぇのか？,艾鲁默……<br>你看着我的脸，<br>难道没有什么话想说吗？
@@ -35,10 +35,10 @@ id,name,text,trans
 32,オイゲン/欧根,いや、そうじゃなくてよ。<br>こう、老けたな、とか、<br>雰囲気が変わったな、とかよ……,不，我不是那个意思。<br>就是像老了啊，<br>或者给人的感觉变了啊，之类的……
 33,エルマー,あん？<br>お前、ここ数年は、<br>大して長く島を空けてねぇだろ。,啊？<br>你这几年都没离开这座岛太久。
 34,エルマー,ちょっと前にも飲んだばっかだろ？<br>たかだか数日で、<br>どれだけ老けるってんだよ。,你是不是喝多了啊？<br>这才几天，你能老多少啊。
-35,オイゲン/欧根,"<span class='scene-font-kokoro'>（これだ……</span><br><span class='scene-font-kokoro'>ここは確かに過去の</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>だが、</span><br><span class='scene-font-kokoro'>この反応はおかしい……）</span>",（是了……<br>这里确实就是过去的奥古斯提，<br>但他的反应却很奇怪……）
+35,オイゲン/欧根,"<span class='scene-font-kokoro'>（これだ……</span><br><span class='scene-font-kokoro'>ここは確かに過去の</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>だが、</span><br><span class='scene-font-kokoro'>この反応はおかしい……）</span>",<span class='scene-font-kokoro'>（是了……</span><br><span class='scene-font-kokoro'>这里确实就是过去的</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>，</span><br><span class='scene-font-kokoro'>但他的反应却很奇怪……）</span>
 36,,<span class='scene-font-katari'>オイゲンは浪打際まで歩くと、</span><br><span class='scene-font-katari'>揺れる水面に己の顔を映す。</span>,欧根走到海边，<br>透过摇荡着的海水<br>看了看自己的脸。
 37,,<span class='scene-font-katari'>そこには、波でわずかに歪むものの、</span><br><span class='scene-font-katari'>歴戦を経た老獪な騎空士の顔があった。</span>,虽然被波浪稍微扭曲了一点，<br>但那毫无疑问是一副身经百战的、<br>老练骑空士的面孔。
-38,オイゲン/欧根,<span class='scene-font-kokoro'>（オレは別に若返っちゃいねぇ。</span><br><span class='scene-font-kokoro'>つまりはこの世界の基準で言や、</span><br><span class='scene-font-kokoro'>２５歳老けてることになる）</span>,（我并没有变年轻。<br>也就是说以这个世界的基准而言，<br>只是老了25岁而已。）
+38,オイゲン/欧根,<span class='scene-font-kokoro'>（オレは別に若返っちゃいねぇ。</span><br><span class='scene-font-kokoro'>つまりはこの世界の基準で言や、</span><br><span class='scene-font-kokoro'>２５歳老けてることになる）</span>,（我并没有变年轻。<br>也就是说，<br>我比这个世界的基准老了25岁。）
 39,オイゲン/欧根,<span class='scene-font-kokoro'>（だが、あいつはそれを指摘しねぇ……</span><br><span class='scene-font-kokoro'>いや、気付いてすらいねぇ）</span>,（但是，那家伙却并没有指出来……<br>不，他甚至都没能察觉。）
 40,オイゲン/欧根,<span class='scene-font-kokoro'>（誰かが、何かが、</span><br><span class='scene-font-kokoro'>こういうズレを</span><br><span class='scene-font-kokoro'>都合よく調整してやがる……）</span>,（确实，一定是有什么东西<br>调整好了这种偏差感……）
 41,オイゲン/欧根,ってこたぁ、まさか……<br>これに、あのゼエンの言ってた、<br>仮の契約とやらが関係してんのか……？,这么说的话……<br>难道说这种情况<br>和泽恩说的临时契约有什么关系吗？

@@ -4,7 +4,7 @@ id,name,text,trans
 2,カタリナ/卡塔莉娜,<span class='scene-font-4'>はあぁぁっ！</span>,啊啊！
 7,イスタバイオン王国兵,くっ……！？,咕……！？
 9,ラインハルザ/莱茵哈萨,道が空いたな……急ぐぞ。<br>次が来る前にこの区画を出たい。,这下就没人挡路了……<br>快点，得在下一批人到来之前<br>离开这片区域。
-10,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>兵士達の相手をしながら、</span><br><span class='scene-font-place'>ライヒェ島</span><span class='scene-font-katari'>を進んでいく。</span>,姬塔一行人一边对付士兵，<br>一边朝着莱耶岛的深处进发。
+10,,<span class='scene-font-katari'>姬塔達は、</span><br><span class='scene-font-katari'>兵士達の相手をしながら、</span><br><span class='scene-font-place'>ライヒェ島</span><span class='scene-font-katari'>を進んでいく。</span>,<span class='scene-font-katari'>姬塔一行人一边对付士兵，</span><br><span class='scene-font-katari'>一边朝着</span><span class='scene-font-place'>莱耶岛</span><span class='scene-font-katari'>的深处进发。</span>
 11,カイン/该隐,走れるか？<br>この辺りは連中の駐屯所が近い。<br>気を抜いたら囲まれちまうぞ！,能跑起来吗？<br>这里离那些家伙的驻地很近。<br>稍微不注意就会被发现的！
 12,ルリア/露莉亚,だ、大丈夫です！,我、我可以！
 12-sel1_txt,,<span class='scene-font-katari'>どんどん行こう</span>,快跑吧
@@ -25,7 +25,7 @@ id,name,text,trans
 32,ルリア/露莉亚,へっ……？,咦……？
 33,ルリア/露莉亚,え、えっと……,哎，那个……
 34,ビィ/碧,へっへっへ……<br>歴戦の騎空士である、<br>オイラ達を舐めてもらっちゃあ困るぜ！,嘿嘿嘿……<br>俺们可是身经百战的骑空士，<br>可别小瞧了俺们啊！
-35,ビィ/碧,なんたってオイラ達は、<br>星晶獣と戦って、<span class='scene-font-spword'>空図の欠片</span>を集めて、<br>この空域まで来たんだからな！,毕竟俺们可是一边和星晶兽战斗，<br>一边搜集空图碎片，<br>才来到这片空域的！
+35,ビィ/碧,なんたってオイラ達は、<br>星晶獣と戦って、<span class='scene-font-spword'>空図の欠片</span>を集めて、<br>この空域まで来たんだからな！,毕竟俺们可是一边和星晶兽战斗，<br>一边搜集<span class='scene-font-spword'>空图碎片</span>，<br>才来到这片空域的！
 36,ドルザ・レム,ほう……！<br>そうか、星晶獣と……！,哦……！<br>是嘛，和星晶兽……！
 37,カタリナ/卡塔莉娜,ま、まぁ……<br>共に空域を超えた仲間のほとんどが、<br>いまは修行に出ているんだがな……,不、不过啊……<br>和我们共同跨越空域的伙伴，<br>现在大多还在修行之中……
 38,ドルザ・レム,お前達は<br>囚われたイデルバ王を助けたい、<br>ということだったな。,你们想救出被囚禁的伊德尔瓦国王，<br>是这样吧。

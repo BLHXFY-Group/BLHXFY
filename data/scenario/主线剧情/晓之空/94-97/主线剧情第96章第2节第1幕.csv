@@ -4,7 +4,7 @@ id,name,text,trans
 1,ビィ/碧,なぁ、これ……<br>本当に大丈夫なのかよ……？,喂，这……<br>真的没问题吗……？
 1-sel1_txt,,<span class='scene-font-katari'>わからない……</span>,我不知道……
 1-sel2_txt,,<span class='scene-font-katari'>信じて待とう</span>,相信并等待吧
-2,,<span class='scene-font-place'>グロース島</span><span class='scene-font-katari'>にて</span><br><span class='scene-font-katari'>不安そうに話す、姬塔とビィ。</span>,姬塔和碧正在古洛斯岛上<br>不安地谈着话。
+2,,<span class='scene-font-place'>グロース島</span><span class='scene-font-katari'>にて</span><br><span class='scene-font-katari'>不安そうに話す、姬塔とビィ。</span>,<span class='scene-font-katari'>姬塔和碧正在</span><span class='scene-font-place'>古洛斯岛</span><span class='scene-font-katari'>上</span><br><span class='scene-font-katari'>不安地谈着话。</span>
 3,,<span class='scene-font-katari'>その眼前には、</span><br><span class='scene-font-katari'>静かに眠り続ける</span><br><span class='scene-font-katari'>ラカムとオイゲンの姿があった。</span>,在他们面前，<br>拉卡姆和欧根只是静静地睡着。
 4,カタリナ/卡塔莉娜,ふたりが意識を失ってから、<br>これでもう３日だ……,他们已经失去知觉三天了……
 5,カタリナ/卡塔莉娜,本当に、<br>ふたりは大丈夫なんだろうな……？,他们两个……真的没事吗……？
@@ -26,7 +26,7 @@ id,name,text,trans
 19,カタリナ/卡塔莉娜,確かに一般的には、<br>星晶獣は<span class='scene-font-spword'>星の民</span>でないと従えることは<br>出来ない、と言われているな……,的确，一般来说，<br>星晶兽只会服从<span class='scene-font-spword'>星之民</span>的命令……
 20,カタリナ/卡塔莉娜,しかし、七曜の騎士達の力を思うと、<br>星晶獣や<span class='scene-font-spword'>星の民</span>には、<br>まだ私達の知らない秘密がありそうだ。,但是，从七曜骑士的力量看来，<br>星晶兽和<span class='scene-font-spword'>星之民</span>们<br>似乎还有什么我们不知道的秘密。
 21,,<span class='scene-font-katari'>ゼエンは姬塔達に対し、</span><br><span class='scene-font-katari'>講義を行うように手を広げる。</span>,泽恩就像是要给姬塔他们上课一般，<br>张开了双臂。
-22,カタリナ/卡塔莉娜,<span class='scene-font-place'>アルビオン</span>の星晶獣シュヴァリエは、<br>私達空の民であっても、<br>契約を結べていたが……,即便我们是空之民，<br>阿尔比昂的星晶兽修瓦利耶<br>也依然与我们缔结了契约……
+22,カタリナ/卡塔莉娜,<span class='scene-font-place'>アルビオン</span>の星晶獣シュヴァリエは、<br>私達空の民であっても、<br>契約を結べていたが……,即便我们是空之民，<br><span class='scene-font-place'>阿尔比昂</span>的星晶兽修瓦利耶<br>也依然与我们缔结了契约……
 23,ゼエン,あれは<span class='scene-font-place'>クルーガー島</span>の教えの最奥とは、<br>また異なるものだ。,这是与<span class='scene-font-place'>克尔加岛</span>的教义秘奥<br>截然不同的存在。
 24,ゼエン,シュヴァリエは仕手を必要とする<br>星晶獣であり、君達の言う契約とは、<br>そのためのものだろう。,修瓦利耶是一种需要操纵者的星晶兽。<br>你所说的契约，<br>大概就是这么回事吧。
 25,,<span class='scene-font-katari'>ゼエンは姬塔達に対し、</span><br><span class='scene-font-katari'>講義を行うように手を広げる。</span>,泽恩就像是要给姬塔他们上课一般，<br>张开了双臂。
@@ -42,7 +42,7 @@ id,name,text,trans
 35,,<span class='scene-font-katari'>ゼエンは案じるように、</span><br><span class='scene-font-katari'>眠り続けるラカムとオイゲンを見やる。</span>,泽恩担忧地看着<br>沉睡的拉卡姆和欧根。
 36,ゼエン,身体が耐え得るうちにそれに気づき、<br>そして実践することが<br>出来れば良いのだが……,如果他们能够<br>在身体能承受的极限范围内，<br>将其付诸现实就好了……
 37,,<span class='scene-font-katari'>ラカムとオイゲンの行く末は、</span><br><span class='scene-font-katari'>ただふたりの心の在り様にのみ、</span><br><span class='scene-font-katari'>委ねられているのだった。</span>,拉卡姆和欧根的命运<br>完全取决于他们自己的的心。
-41,,<span class='scene-font-katari'>一方その頃、</span><br><span class='scene-font-katari'>イデルバ王国首都</span><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>王の居城、フォルクシルト宮には……</span>,另一边，<br>在伊德尔瓦王国首都卢克斯列斯的<br>福克希尔德宫内。
+41,,<span class='scene-font-katari'>一方その頃、</span><br><span class='scene-font-katari'>イデルバ王国首都</span><span class='scene-font-place'>ルクスリエース</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>王の居城、フォルクシルト宮には……</span>,<span class='scene-font-katari'>另一边，</span><br><span class='scene-font-katari'>在伊德尔瓦王国首都</span><span class='scene-font-place'>卢克斯列斯</span><span class='scene-font-katari'>的</span><br><span class='scene-font-katari'>福克希尔德宫内。</span>
 44,レオナ/蕾欧娜,…………,…………
 45,,<span class='scene-font-katari'>真剣な表情で資料をひとり漁る</span><br><span class='scene-font-katari'>レオナの姿があった。</span>,蕾欧娜正带着严肃的表情<br>查阅着资料。
 46,レオナ/蕾欧娜,<span class='scene-font-kokoro'>（違う……</span><br><span class='scene-font-kokoro'>これにも繋がりそうな情報は無い……）</span>,（不对……<br>就连这里也没有任何情报……）

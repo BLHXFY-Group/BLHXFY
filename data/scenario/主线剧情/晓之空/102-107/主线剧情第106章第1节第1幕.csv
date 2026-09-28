@@ -1,8 +1,8 @@
 id,name,text,trans
 0-chapter_name,,第106章　天罰,第106章 天罚
-0-synopsis,,ヴァルフリートの命により、ナル・グランデ空域の罪を調査するため、リーシャとモニカはかつてトリッド王国首都があった<span class='scene-font-place'>シュテルケ島</span>に降り立つ。島の一部を消滅させた「天罰」と呼ばれる災禍の爪痕はそのまま残されていた。「天罰」の正体について考え込むモニカは、空に浮かぶグレートウォールに不吉なものを感じるのだった。,奉瓦尔弗里德之命，莉夏和莫妮卡为了调查纳尔·格兰德空域之罪，降落在了特里德王国从前的首都修提尔克岛。岛屿上还残留着当时被称为“天罚”的灾祸痕迹。正在沉思着“天罚”真身的莫妮卡，从浮在空中的长城那里感到了不祥的气息。
+0-synopsis,,ヴァルフリートの命により、ナル・グランデ空域の罪を調査するため、リーシャとモニカはかつてトリッド王国首都があった<span class='scene-font-place'>シュテルケ島</span>に降り立つ。島の一部を消滅させた「天罰」と呼ばれる災禍の爪痕はそのまま残されていた。「天罰」の正体について考え込むモニカは、空に浮かぶグレートウォールに不吉なものを感じるのだった。,奉瓦尔弗里德之命，莉夏和莫妮卡为了调查纳尔·格兰德空域之罪，降落在了特里德王国从前的首都<span class='scene-font-place'>修提尔克岛</span>。岛屿上还残留着当时被称为“天罚”的灾祸痕迹。正在沉思着“天罚”真身的莫妮卡，从浮在空中的长城那里感到了不祥的气息。
 3,,<span class='scene-font-katari'>団長ヴァルフリートの命を受け、</span><br><span class='scene-font-katari'>ナル・グランデ空域の罪について、</span><br><span class='scene-font-katari'>調査を続けるリーシャとモニカ。</span>,奉团长瓦尔弗里德之命，<br>莉夏和莫妮卡继续调查着<br>纳尔·格兰德空域之罪。
-8,,<span class='scene-font-katari'>手がかりを求めるふたりは、</span><br><span class='scene-font-katari'>かつての統一王国が首都を置いていた、</span><br><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>へと足を踏み入れる。</span>,<span class='scene-font-katari'>为了寻找线索，</span><br><span class='scene-font-katari'>两人来到了昔日统一王国的首都</span><br><span class='scene-font-katari'>修提尔克岛。</span>
+8,,<span class='scene-font-katari'>手がかりを求めるふたりは、</span><br><span class='scene-font-katari'>かつての統一王国が首都を置いていた、</span><br><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>へと足を踏み入れる。</span>,<span class='scene-font-katari'>为了寻找线索，</span><br><span class='scene-font-katari'>两人来到了昔日统一王国的首都</span><br><span class='scene-font-place'>修提尔克岛</span><span class='scene-font-katari'>。</span>
 9,,<span class='scene-font-katari'>ありありと残る災禍の傷跡に、</span><br><span class='scene-font-katari'>モニカは眉をひそめていた。</span>,目睹了岛上清晰可见的灾祸痕迹，<br>莫妮卡皱起了眉头。
 10,モニカ/莫妮卡,噂に聞く「天罰」とやらが、<br>まさかこれほどのものとはな……,真没想到，传闻中的“天罚”<br>居然如此恐怖……
 11,モニカ/莫妮卡,こんな大規模な破壊の痕は、<br>私もいままで見たことがない。,我可从没见过<br>如此大规模的破坏痕迹。
@@ -17,7 +17,7 @@ id,name,text,trans
 32,リーシャ/莉夏,そんな折、<br>まるで民衆の声を代弁するかのように、<br>天上から巨大な光の柱が降り注ぎ……,就在这时，<br>就像是在为民众的呼声代言一般，<br>一道巨大的光柱从天而降……
 33,リーシャ/莉夏,王族や官吏のはびこる首都の一部を、<br>大きく抉り取るように消滅させました。,这道光柱就像是把地面整块挖走了一样，<br>连带着王族和官吏一起，<br>把首都的一部分摧毁掉了。
 42,リーシャ/莉夏,これにより政府中枢の８割が破壊され、<br>犠牲者は首都の住人の、<br>３分の１にも達したそうです。,它的威力破坏了政府中枢的80%，<br>殉难者的数量<br>达到了首都所有居民的三分之一。
-43,リーシャ/莉夏,この一件、通称<span class='scene-font-spword'>『天罰』</span>によって、<br>トリッド王国は国としての機能が壊滅。<br>王国には終止符が打たれました。,这起被世人称为“天罚”的事件，<br>令特里德王国失去了作为一个国家的机能，<br>为其统治画上了句号。
+43,リーシャ/莉夏,この一件、通称<span class='scene-font-spword'>『天罰』</span>によって、<br>トリッド王国は国としての機能が壊滅。<br>王国には終止符が打たれました。,这起被世人称为<span class='scene-font-spword'>“天罚”</span>的事件，<br>令特里德王国失去了作为一个国家的机能，<br>为其统治画上了句号。
 48,リーシャ/莉夏,そして王族も<br>そのほとんどが姿を消したため、<br>小国家が多数乱立。,由于事后大多数王族都不见了踪影，<br>整个空域出现了<br>多个小国并立的乱象。
 49,リーシャ/莉夏,それらはやがて、<br>イデルバ王国、レム王国に統合され、<br>現在に至るそうです。,在那之后，这些小国<br>逐渐被伊德尔瓦王国和雷姆王国统合，<br>形成了现在的局面。
 54,,<span class='scene-font-katari'>リーシャの語る王国の興亡を聞き、</span><br><span class='scene-font-katari'>モニカは考察するように息を漏らす。</span>,听到莉夏讲述的王国兴衰，<br>莫妮卡像是在思考什么似的叹了口气。

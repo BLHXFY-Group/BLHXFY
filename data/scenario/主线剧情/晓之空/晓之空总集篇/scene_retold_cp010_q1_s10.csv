@@ -2,10 +2,10 @@ id,name,text,trans
 1,ラカム/拉卡姆,なぁ、イオ……\nさっきのは深い意味はなかった、\nっつうか、その……機嫌直せよ、な？,我说伊欧啊，\n刚才的话没什么特别的意思……\n转换一下心情让它就这么过去了吧？
 2,イオ/伊欧,むぅぅーっ……！！,哼……！！
 3,,とある民家の一室で歓迎を受ける中、\nイオが不満げに頬を膨らませる理由は\n数時間前に遡る。,一行人正在某处民居接受款待，\n而其间伊欧不满地鼓起腮帮的理由，\n要追溯到几个小时前。
-8,,帝都アガスティアにて、\n宰相フリーシアの陰謀を\n見事打ち破った姬塔一行。,<span class='scene-font-katari'>在帝都阿加斯提亚，</span>\n<span class='scene-font-katari'>姬塔一行人破坏了芙莉西雅宰相的阴谋。</span>
-13,,さらに一行はメフォラシュにて、\n黒騎士との因縁に決着をつける。,并也为与黑骑士的因缘画上了句号。
-18,,その後姬塔の無事を伝えるため\n一行が故郷ザンクティンゼルを訪れると\n村人たちは帰還を祝う宴を催した。,之后，他们为了传达平安无事的消息\n重返故乡赞克汀泽，\n村民们为庆祝他们的凯旋而大摆宴席。
-24,,皆が宴を楽しむ中、ふとリーシャに\n次の目的地を聞かれた姬塔は\n星の島に向かうと答える。,<span class='scene-font-katari'>就在众人享受宴会期间，</span>\n<span class='scene-font-katari'>莉夏突然向姬塔询问起接下来的目的地，</span>\n<span class='scene-font-katari'>而姬塔则回答要继续前往星之岛。</span>
+8,,<span class='scene-font-place'>帝都アガスティア</span>にて、\n宰相フリーシアの陰謀を\n見事打ち破った姬塔一行。,<span class='scene-font-katari'>在</span><span class='scene-font-place'>帝都阿加斯提亚</span><span class='scene-font-katari'>，</span>\n<span class='scene-font-katari'>姬塔一行人破坏了芙莉西雅宰相的阴谋。</span>
+13,,さらに一行は<span class='scene-font-place'>メフォラシュ</span>にて、\n黒騎士との因縁に決着をつける。,并也为与黑骑士的因缘画上了句号。
+18,,その後姬塔の無事を伝えるため\n一行が故郷<span class='scene-font-place'>ザンクティンゼル</span>を訪れると\n村人たちは帰還を祝う宴を催した。,<span class='scene-font-katari'>之后，他们为了传达平安无事的消息</span>\n<span class='scene-font-katari'>重返故乡</span><span class='scene-font-place'>赞克汀泽</span><span class='scene-font-katari'>，</span>\n<span class='scene-font-katari'>村民们为庆祝他们的凯旋而大摆宴席。</span>
+24,,皆が宴を楽しむ中、ふとリーシャに\n次の目的地を聞かれた姬塔は\n星の島に向かうと答える。,就在众人享受宴会期间，\n莉夏突然向姬塔询问起接下来的目的地，\n而姬塔则回答要继续前往星之岛。
 25,リーシャ/莉夏,けど、<span class='scene-font-spword'>星の島</span>なんて、存在するかも\n怪しいものを目指すだなんて\nどれだけ大変な旅になるか……,可是，这个<span class='scene-font-spword'>星之岛</span>是否存在都得打个问号，<br>以此为目标的旅行，<br>其艰难程度简直令人难以想象……
 26,ビィ/碧,へっへっへ……\nでもオイラ達、もう何個か\n<span class='scene-font-spword'>空図の欠片</span>を手に入れてるんだぜ！,嘿嘿嘿！\n但是俺们已经收集到\n好几个<span class='scene-font-spword'>空图碎片</span>了哦！
 27,ラカム/拉卡姆,しかし……\nこれが、<span class='scene-font-spword'>空図の欠片</span>ってんだから、\n不思議なもんだよな……,但是，\n<span class='scene-font-spword'>空图碎片</span>居然是这么一种东西，\n真是不可思议。

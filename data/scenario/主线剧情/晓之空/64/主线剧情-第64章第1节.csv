@@ -18,9 +18,9 @@ id,en,jp,trans
 14,"Look, Io... I didn't mean anything by it. So could you just... let it go？",なぁ、イオ……<br>さっきのは深い意味はなかった、<br>っつうか、その……機嫌直せよ、な？,我说伊欧啊，<br>刚才的话没什么特别的意思……<br>转换一下心情让它就这么过去了吧？
 15,Humph！,むぅぅーっ……！！,唔……！！
 16,It seems the problem can be traced back to a few hours ago...,<span class='scene-font-katari'>事の発端は、</span><br><span class='scene-font-katari'>数時間前に遡る。</span>,事情的开始，可以追溯到几个小时前。
-22,姬塔 and company had foiled Prime Minister Freesia's plans in Agastia.,<span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>にて、</span><br><span class='scene-font-katari'>宰相フリーシアの陰謀を</span><br><span class='scene-font-katari'>見事打ち破った姬塔一行。</span>,在帝都阿加斯提亚，<br>姬塔一行人<br>破坏了芙莉西雅宰相的阴谋。
-23,"And in Mephorash, they had settled the score with the Black Knight once and for all.",<span class='scene-font-katari'>さらに一行は</span><span class='scene-font-place'>メフォラシュ</span><span class='scene-font-katari'>にて、<br><span class='scene-font-katari'>黒騎士との因縁に決着をつける。,而且众人也在美佛拉修与黑骑士作出了了断。
-24,"Then, the crew went to visit 姬塔's hometown of Zinkenstill in order to assure everyone that 姬塔 is doing okay.",<span class='scene-font-katari'>その後、姬塔一行は、</span><br><span class='scene-font-katari'>姬塔の無事を伝えるため、</span><br><span class='scene-font-katari'>故郷の</span><span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を訪れる。</span>,在那之后，姬塔一行人<br>为了传达姬塔平安无事的消息，<br>重返故乡赞克汀泽。
+22,姬塔 and company had foiled Prime Minister Freesia's plans in Agastia.,<span class='scene-font-place'>帝都アガスティア</span><span class='scene-font-katari'>にて、</span><br><span class='scene-font-katari'>宰相フリーシアの陰謀を</span><br><span class='scene-font-katari'>見事打ち破った姬塔一行。</span>,<span class='scene-font-katari'>在</span><span class='scene-font-place'>帝都阿加斯提亚</span><span class='scene-font-katari'>，</span><br><span class='scene-font-katari'>姬塔一行人</span><br><span class='scene-font-katari'>破坏了芙莉西雅宰相的阴谋。</span>
+23,"And in Mephorash, they had settled the score with the Black Knight once and for all.",<span class='scene-font-katari'>さらに一行は</span><span class='scene-font-place'>メフォラシュ</span><span class='scene-font-katari'>にて、<br><span class='scene-font-katari'>黒騎士との因縁に決着をつける。,<span class='scene-font-katari'>而且众人也在</span><span class='scene-font-place'>美佛拉修</span><span class='scene-font-katari'>与黑骑士作出了了断。</span>
+24,"Then, the crew went to visit 姬塔's hometown of Zinkenstill in order to assure everyone that 姬塔 is doing okay.",<span class='scene-font-katari'>その後、姬塔一行は、</span><br><span class='scene-font-katari'>姬塔の無事を伝えるため、</span><br><span class='scene-font-katari'>故郷の</span><span class='scene-font-place'>ザンクティンゼル</span><span class='scene-font-katari'>を訪れる。</span>,<span class='scene-font-katari'>在那之后，姬塔一行人</span><br><span class='scene-font-katari'>为了传达姬塔平安无事的消息，</span><br><span class='scene-font-katari'>重返故乡</span><span class='scene-font-place'>赞克汀泽</span><span class='scene-font-katari'>。</span>
 25,"Upon their arrival, a crowd of villagers gathered to welcome 姬塔 and company.",<span class='scene-font-katari'>するとそこには、</span><br><span class='scene-font-katari'>姬塔達を歓迎するように</span><br><span class='scene-font-katari'>村人達が集まっていた。</span>,当地村民们便聚集起来欢迎了他们。
 26,"I heard all about it！You took down the Empire, right？",聞いたぞ！<br>帝国の悪い奴を倒したんだってな！？,我听说了哦！<br>是你们击败了帝国的坏人吧！？
 27,"I'm just glad you're alright. We're so happy to have you back, 姬塔！",とにかく無事で良かった……<br>よく戻ってきたわね！<br>姬塔！,总之能平安无事真是太好了，<br>姬塔终于是回来了呀！
@@ -119,7 +119,7 @@ id,en,jp,trans
 125,Humph！,むぅぅ～……,唔~~……
 126,"Rackam, you're saying you just want me to leave the crew？",ラカムはあたしだけ、<br>騎空団から離れろっていうの！？,拉卡姆，你是说要\n只把我一个人踢出去吗！？
 127,"No, that's not it. After all, the Empire's fallen, right？",いや、そうは言わねぇけどよ……<br>だってほら……<br>もうエルステ帝国は崩壊したろ？,不，我没有这么说……<br>但是……那个呀……<br>埃尔斯特帝国不是已经解体了吗？
-128,Don't you think they got what they deserved for what happened in Valtz？,バルツにされたことの落とし前は、<br>十分つけられたんじゃねぇのか？,你不觉得他们<br>已经为他们在瓦尔兹的所作所为<br>付出代价了吗？
+128,Don't you think they got what they deserved for what happened in Valtz？,バルツにされたことの落とし前は、<br>十分つけられたんじゃねぇのか？,你不觉得他们<br>已经为他们在<span class='scene-font-place'>瓦尔兹</span>的所作所为<br>付出代价了吗？
 129,"Well yeah, but...",そ、それはそうだけど……,话虽如此，不过……
 130,Then why keep pushing yourself down a dangerous journey？,だったら、<br>もう無理に危険な旅を<br>続ける理由は……,所以，你已经没有<br>继续如此危险旅途的理由了……
 131,！,～～～～っ！！,~~~~！！

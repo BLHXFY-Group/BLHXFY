@@ -26,7 +26,7 @@ id,en,jp,trans
 26,But we're in a real fix. We can't even wrap our heads around what's happening.,けど、困ったぜ……<br>何が起きてるんだか、<br>さっぱりわかんねぇ……,但这下可伤脑筋了……<br>到底发生了什么，<br>完全摸不着头脑……
 27,"Let me check with you one more time, Rackam. You remember who Monika is, right？",もう一度確認させてもらうけど……<br>貴方、モニカちゃんのことは、<br>覚えてるのよね？,再和你确认一遍，<br>你还记着莫妮卡的事情吧？
 28,"Yep. She might be tiny, but she packs a real punch.",ああ……<br>小っちぇ割に妙に強いってのもな。,是啊……个子小小的实力却很强大。
-29,"And I remember a fight back in Amalthea, for sure.",そんで、アマルティアで<br>戦ったってのも覚えてんだが……,在阿玛提亚岛上战斗的事我也记得，但……
+29,"And I remember a fight back in Amalthea, for sure.",そんで、アマルティアで<br>戦ったってのも覚えてんだが……,在<span class='scene-font-place'>阿玛提亚岛</span>上战斗的事我也记得，但……
 30,But I can't for the life of me remember who stood with me.,そん時、隣に誰が居たか、ってのが、<br>どうにもぼんやりしてて、<br>思い出せねぇんだよな……,要说那个时候我身边都有谁，<br>记忆就变得非常模糊，<br>完全想不起来。
 31,"And on the other hand, I can remember all of you.",うむ……<br>そして逆に私は<br>貴公らのことは覚えているのだが……,嗯，然后相反的是，<br>我记得诸位的事情……
 32,But I haven't the foggiest idea who this Lecia is.,リーシャという騎空士については、<br>どうにも霞がかかったように、<br>おぼろげでな……,但我对名为莉夏的骑空士的事，<br>记忆就像是在迷雾中，<br>完全记不起来。
@@ -56,19 +56,19 @@ id,en,jp,trans
 56,"So, what business do you have here？Might it be connected to what's happening throughout the area？",それで？　どんなご用事なのかしら？<br>もしかして、<br>いま起きていることと、何か関係が？,那么，您有什么事？<br>难道和现在发生的事有关？
 57,"Yes. To put it shortly, a primal beast is what's behind all these recent events.",はい……<br>端的に言えば、いま起きていることは、<br>全てある星晶獣が原因です。,是，简而言之，<br>现在发生的一切<br>都是某个星晶兽导致的。
 58,"A primal beast？Now that you mention it, I thought I'd felt a presence yesterday.",星晶獣、ですか……？<br>そういえば昨日も、<br>少しだけ気配がしたけど……,星晶兽吗？<br>说起来昨天也稍微感受到了一些气息。
-59,The primal beast Kikuri resides within the Dydroit Belt.,このダイダロイトベルトには、<br>「キクリ」という星晶獣がいます。,在这个碎石环地带有一只<br>名为“菊理”的星晶兽存在。
+59,The primal beast Kikuri resides within the Dydroit Belt.,このダイダロイトベルトには、<br>「キクリ」という星晶獣がいます。,在这个<span class='scene-font-place'>碎石环</span>地带有一只<br>名为“菊理”的星晶兽存在。
 60,It possesses the power to control all fated connections.,そして星晶獣キクリは、<br>ありとあらゆる<br>「縁」を司る星晶獣なのです。,菊理是司掌一切“缘”的星晶兽。
 61,Huh？What kind of primal beast is that？What's a fated connection？,ってぇ……<br>どういう星晶獣なんだ？　そいつ。<br>「えにし」って、何のことだよ？,那个到底是怎样的星晶兽啊？<br>“缘”又是什么呢？
 62,"A fated connection is a link. A link between people or events. Ultimately, it binds destinies.",「縁」とは繋がり……<br>人と人、出来事と出来事、<br>果ては運命をも繋ぎ留め、結び合わせる。,“缘”是一种联系……<br>它能把人与人，事与事，<br>以及与之关联的命运，都联系起来。
 63,Kikuri can link together various things in order to control these fated connections.,その「縁」を支配する星晶獣キクリは、<br>様々なものを<br>繋ぎ合わせることが出来ます。,而支配“缘”的星晶兽菊理，<br>可以将各种各样的事物联系在一起。
 64,"Conversely, severing those connections is easily within its power.",そしてその逆……<br>つまり、「縁」を断つことすら、<br>星晶獣キクリには容易でしょう。,反过来说，切断“缘”，<br>对星晶兽菊理来说也不在话下。
-65,It would seem that the anomalies appearing throughout the Dydroit Belt are the result of Kikuri's power running rampant.,いまダイダロイトベルトを<br>襲っている異常は恐らく、<br>星晶獣キクリの失控によるもの……,现在发生在整个碎石环的异常事态，<br>恐怕是因为星晶兽菊理的失控。
+65,It would seem that the anomalies appearing throughout the Dydroit Belt are the result of Kikuri's power running rampant.,いまダイダロイトベルトを<br>襲っている異常は恐らく、<br>星晶獣キクリの失控によるもの……,现在发生在整个<span class='scene-font-place'>碎石环</span>的异常事态，<br>恐怕是因为星晶兽菊理的失控。
 66,Memories become lost when it severs a deep connection.,星晶獣キクリによって、<br>皆、深い繋がりを持つ者との縁を断たれ、<br>その者の記憶を失ってしまったのです。,因为星晶兽菊理，\n大家与联系最深的人之间的缘被切断了，\n与那些人相关的记忆也就缺失了。
 67,Oh no！Does that mean Katalina has forgotten all about us？,そんな……<br>じゃあカタリナは、<br>私達のことを忘れちゃったの……？,怎么会……<br>难道说卡塔莉娜<br>把我们的事情忘记了吗？
 68,"What she says makes some sense. After all, I can clearly remember people I've met only 2 or 3 times before.",言われてみりゃあ、<br>２、３回会っただけの奴は、<br>すぐに思い出せるんだよな。,这么说来，<br>只是见过两三回的家伙，<br>很快就能想起来来着。
 69,But the people I've spent most of my time with？I can't remember them at all.,だが、なんつーか、こう……<br>しばらく一緒に居たはずの奴は、<br>どーしても思い出せねぇ……,但是啊，怎么说呢……<br>长时间待在一起的家伙<br>就怎么也想不起来。
-70,"Same here. As far as I know, I should be posted in Amalthea, not the Dydroit Belt.",私もだ……<br>私は本来、ダイダロイトベルトではなく、<br>アマルティア勤務なのだが……,我也是……<br>我本来不应该在碎石环，<br>而是在阿玛提亚岛执勤的才对。
-71,And my confusion doesn't end with Lecia. I can't even remember my fellow crew members on Amalthea either.,リーシャとやらだけじゃない……<br>アマルティアに居るはずの仲間が、<br>どうにも思い出せん……,不仅仅莉夏这个人，<br>在阿玛提亚岛的伙伴们<br>也怎么都想不起来。
+70,"Same here. As far as I know, I should be posted in Amalthea, not the Dydroit Belt.",私もだ……<br>私は本来、ダイダロイトベルトではなく、<br>アマルティア勤務なのだが……,我也是……<br>我本来不应该在<span class='scene-font-place'>碎石环</span>，<br>而是在<span class='scene-font-place'>阿玛提亚岛</span>执勤的才对。
+71,And my confusion doesn't end with Lecia. I can't even remember my fellow crew members on Amalthea either.,リーシャとやらだけじゃない……<br>アマルティアに居るはずの仲間が、<br>どうにも思い出せん……,不仅仅莉夏这个人，<br>在<span class='scene-font-place'>阿玛提亚岛</span>的伙伴们<br>也怎么都想不起来。
 72,But 姬塔 and I haven't forgotten about Lyria and the others.,でもよぅ……<br>オイラも姬塔も、<br>ルリア達のこと忘れてないぜ？,但是我和姬塔，<br>都没有忘记露莉亚你们的事情哦？
 73,"That's right. I remember everyone too, and so do you, Lyria. Right？",そうね……<br>アタシも皆のことは覚えてるし、<br>ルリアちゃんだってそうでしょう？,是呢，我也记得大家的事。<br>小露莉亚也是这样的吧？
 74,"Yeah, I remember all of you. And all of our journey together.",そういえば……<br>私、皆のことちゃんと覚えてます……<br>いままでの旅だって、全部……,说起来，我记得所有人的事，<br>也记得至今为止的旅行，全都记得。
@@ -93,7 +93,7 @@ id,en,jp,trans
 91,May I accompany you in your investigation？,その調査……<br>私も同行させていただけませんか？,关于这个调查，<br>可以允许我同行吗？
 92,Ho ho！You'd be quite welcome. But are you sure？,おお！　それは頼もしいが……<br>しかし、良いのか？,哦！那可真叫人放心。<br>但是这样真的好吗？
 93,It's the reason I came here in the first place.,元よりそのために、<br>ここを訪ねてきたのです。,我本就是为此而来的。
-94,The Dydroit Belt is a crucial area to the Luminary Knights.,ここ、ダイダロイトベルトは、<br>我々、七曜の騎士にとって、<br>欠かすことの出来ない重要な地です。,这里——碎石环地区<br>对于我们七曜骑士来说，<br>也是不容有失的战略要地。
+94,The Dydroit Belt is a crucial area to the Luminary Knights.,ここ、ダイダロイトベルトは、<br>我々、七曜の騎士にとって、<br>欠かすことの出来ない重要な地です。,这里——<span class='scene-font-place'>碎石环</span>地区<br>对于我们七曜骑士来说，<br>也是不容有失的战略要地。
 95,We must find out for certain what's happening here.,現在の状況について、<br>正確に知っておく必要がありますから。,我们有必要知道<br>现在发生之事的准确情况。
 96,Agreed. Then we'll have you assist us to the fullest.,ふむ……！<br>ならばその力、<br>遠慮なく借りるとしよう！,嗯！<br>那么就让我借助您的力量吧。
 97,"And so 姬塔 departs on an expedition, along with Monika, the Golden Knight, and the Crew of Enforcers.",<span class='scene-font-katari'>こうして姬塔は、</span><br><span class='scene-font-katari'>モニカ、そして黄金の騎士アリアと共に、</span><br><span class='scene-font-katari'>秩序の騎空団を伴い、調査に出る。</span>,就这样，姬塔与莫妮卡<br>以及金骑士阿莉亚一起，<br>带领着秩序骑空团的众成员，展开了调查。

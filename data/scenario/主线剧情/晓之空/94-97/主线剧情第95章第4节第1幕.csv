@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第95章　ふたりの世界,第95章 两人的世界
-0-synopsis,,ラカムは自身の意思を示し、もうひとりのラカムを退けて<span class='scene-font-place'>ポート・ブリーズ</span>の城下町に足を踏み入れる。一方、オイゲンはアルテミシアと穏やかなひと時を過ごし、いつしか元の世界に戻る意思を失いつつあった。そんなある日、オイゲンは黒騎士と出会い、黒騎士から覚悟の揺らぎを責められる。オイゲンはアルテミシアと過ごす幸せと、覚悟の狭間で苦悶するのだった。,为了表明自己的决心，拉卡姆击退了另一个拉卡姆，踏进了位于微风港的城镇中。另一边，欧根正和阿尔忒弥西亚过着平稳悠闲的生活，不知不觉间已经失去了回到原来世界的意愿。然而某天，欧根突然和黑骑士相遇了，黑骑士指责他意志不够坚定。在那之后，欧根深陷于幸福生活以及觉悟的抉择之中。
+0-synopsis,,ラカムは自身の意思を示し、もうひとりのラカムを退けて<span class='scene-font-place'>ポート・ブリーズ</span>の城下町に足を踏み入れる。一方、オイゲンはアルテミシアと穏やかなひと時を過ごし、いつしか元の世界に戻る意思を失いつつあった。そんなある日、オイゲンは黒騎士と出会い、黒騎士から覚悟の揺らぎを責められる。オイゲンはアルテミシアと過ごす幸せと、覚悟の狭間で苦悶するのだった。,为了表明自己的决心，拉卡姆击退了另一个拉卡姆，踏进了位于<span class='scene-font-place'>微风港</span>的城镇中。另一边，欧根正和阿尔忒弥西亚过着平稳悠闲的生活，不知不觉间已经失去了回到原来世界的意愿。然而某天，欧根突然和黑骑士相遇了，黑骑士指责他意志不够坚定。在那之后，欧根深陷于幸福生活以及觉悟的抉择之中。
 4,ラカム？/拉卡姆？,くっ……！？,咕……！？
 6,ラカム/拉卡姆,まだ続けるか。<br>同じ顔してんだ、<br>とどめは刺したくねぇんだがな。,还要继续吗。<br>虽说要把和我长一张脸的人干掉<br>也挺不是滋味的。
 7,ラカム？/拉卡姆？,とどめなんざ刺しても無駄だ。<br>俺はお前だ。<br>お前がいる限り、俺も消えやしねぇ。,就算杀了我也没用。<br>我就是你。<br>只要你还在，我就不会消失。
@@ -19,7 +19,7 @@ id,name,text,trans
 22,,<span class='scene-font-katari'>ラカムの疑問に、</span><br><span class='scene-font-katari'>ティアマトもまた</span><br><span class='scene-font-katari'>困惑している様子で首を振る。</span>,对于拉卡姆的疑问，<br>提亚玛特困惑地摇了摇头。
 23,ラカム/拉卡姆,そうか……<br>いや、とにかくいまは、<br>このまま街に入ろうぜ。,这样啊……<br>不管怎么说<br>我们现在先到城镇里去吧。
 24,ラカム/拉卡姆,他にも人がいりゃ、この嵐のことや、<br>もうひとりの俺についても、<br>何か聞けるかもしれねぇ。,如果那里还有其他人的话，<br>也许还能打听到有关这场风暴<br>以及另一个我的事。
-25,,<span class='scene-font-katari'>ラカムとティアマトは、</span><br><span class='scene-font-katari'>不可思議な邂逅に思いを巡らせながら、</span><br><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>の城下町へと入る。</span>,拉卡姆和提亚玛特一边回想着<br>这场不可思议的邂逅，<br>一边朝着微风港的城郊镇走去。
+25,,<span class='scene-font-katari'>ラカムとティアマトは、</span><br><span class='scene-font-katari'>不可思議な邂逅に思いを巡らせながら、</span><br><span class='scene-font-place'>ポート・ブリーズ</span><span class='scene-font-katari'>の城下町へと入る。</span>,<span class='scene-font-katari'>拉卡姆和提亚玛特一边回想着</span><br><span class='scene-font-katari'>这场不可思议的邂逅，</span><br><span class='scene-font-katari'>一边朝着</span><span class='scene-font-place'>微风港</span><span class='scene-font-katari'>的城郊镇走去。</span>
 31,,<span class='scene-font-katari'>一方その頃オイゲンは――</span>,与此同时，欧根那边——
 33,アルテミシア,あ、お湯が沸いたみたい。,啊，水好像烧开了。
 35,,<span class='scene-font-katari'>立ち上がり、お茶の準備をしようとする</span><br><span class='scene-font-katari'>アルテミシアを、</span><br><span class='scene-font-katari'>オイゲンはやや強引に制する。</span>,欧根强行制止了<br>正准备起身泡茶的阿尔忒弥西亚。
@@ -32,7 +32,7 @@ id,name,text,trans
 42,,<span class='scene-font-katari'>そう言いながら、</span><br><span class='scene-font-katari'>アルテミシアは愛おしそうに、</span><br><span class='scene-font-katari'>自らの腹部を撫でる。</span>,阿尔忒弥西亚这样说着，<br>怜爱地抚摸着自己的腹部。
 43,アルテミシア,アポロも、<br>やっぱりお父さんが近くにいると、<br>嬉しいのかしらね……,有爸爸在身边，<br>阿波罗果然也很高兴……
 44,オイゲン/欧根,はは……<br>そうだといいんだがなぁ……,哈哈……<br>希望如此……
-45,,<span class='scene-font-katari'>過去の</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>でオイゲンは、</span><br><span class='scene-font-katari'>身重の妻を甲斐甲斐しく支えながら、</span><br><span class='scene-font-katari'>穏やかな日々を送っていた。</span>,在过去的奥古斯提，<br>欧根全心全意地照顾着怀孕的妻子，<br>过着平稳的生活。
+45,,<span class='scene-font-katari'>過去の</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>でオイゲンは、</span><br><span class='scene-font-katari'>身重の妻を甲斐甲斐しく支えながら、</span><br><span class='scene-font-katari'>穏やかな日々を送っていた。</span>,<span class='scene-font-katari'>在过去的</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>，</span><br><span class='scene-font-katari'>欧根全心全意地照顾着怀孕的妻子，</span><br><span class='scene-font-katari'>过着平稳的生活。</span>
 46,アルテミシア,アポロはきっと元気な子に育つわね……<br>やっぱり貴方に似たのかしら。,阿波罗一定会长成一个健康的孩子……<br>应该会很像你吧。
 47,オイゲン/欧根,いやぁ……<br>妙に頑固なところとか、<br>大雑把なところとか……,哎呀……<br>倔得跟头牛似的，<br>还很粗枝大叶……
 48,オイゲン/欧根,アポロは、<br>俺に似なくてもいいとこばっか<br>似ちまったぜ……,阿波罗继承的，<br>净是些我不想让她像我的地方……

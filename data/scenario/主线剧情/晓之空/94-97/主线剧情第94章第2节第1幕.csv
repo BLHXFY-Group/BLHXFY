@@ -1,8 +1,8 @@
 id,name,text,trans
 0-chapter_name,,第94章　教えの最奥,第94章 教义的秘奥
 0-synopsis,,姬塔一行は星晶獣の真の力を得るため、<span class='scene-font-place'>クルーガー島</span>の長ゼエンの元へ向かうが、ゼエンからその力はすぐには得られないと告げられる。見かねたゼエンは最短ながら危険を伴う方法を提示し、ラカム、オイゲン、イオに覚悟を問う。決意を固めた三人は、それぞれの方法で星晶獣と互いに理解を深めるべく、試練に挑む。そして試練に挑んだラカムを光が包み込むのだった。,姬塔一行为了获得星晶兽的真正力量，前往位于<span class='scene-font-place'>克尔加岛</span>的泽恩的住处，却被告知这种力量无法立刻得到。最终，泽恩提出了一种耗时短却异常危险的方法，并且询问拉卡姆、欧根和伊欧三人是否有相应的觉悟。下定决心的三人为了与星晶兽彼此之间的理解，接受了试炼。随后，拉卡姆便被强烈的光芒所包裹了。
-1,,<span class='scene-font-katari'>緋色の騎士、黄金の騎士に相対するため</span><br><span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>へと向かった</span><br><span class='scene-font-katari'>姬塔一行。</span>,为了与绯骑士和金骑士交战，<br>姬塔一行人出发前往克尔加岛。
-2,,<span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>の長、ゼエンは、</span><br><span class='scene-font-katari'>星晶獣アンティキティラの力により、</span><br><span class='scene-font-katari'>一行の全ての事情を察していたが……</span>,此时，住在克尔加岛上的泽恩，<br>已经通过星晶兽安缇基提拉的力量<br>得知了一切。
+1,,<span class='scene-font-katari'>緋色の騎士、黄金の騎士に相対するため</span><br><span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>へと向かった</span><br><span class='scene-font-katari'>姬塔一行。</span>,<span class='scene-font-katari'>为了与绯骑士和金骑士交战，</span><br><span class='scene-font-katari'>姬塔一行人出发前往</span><span class='scene-font-place'>克尔加岛</span><span class='scene-font-katari'>。</span>
+2,,<span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>の長、ゼエンは、</span><br><span class='scene-font-katari'>星晶獣アンティキティラの力により、</span><br><span class='scene-font-katari'>一行の全ての事情を察していたが……</span>,<span class='scene-font-katari'>此时，住在</span><span class='scene-font-place'>克尔加岛</span><span class='scene-font-katari'>上的泽恩，</span><br><span class='scene-font-katari'>已经通过星晶兽安缇基提拉的力量</span><br><span class='scene-font-katari'>得知了一切。</span>
 6,ゼエン,結論から言おう。<br>君達が望むような力を与えることは、<br>私には不可能だ。,先说结论吧。<br>我没办法赐予你们所期待的力量。
 7,イオ/伊欧,えっ！？<br>な、なんで……？,诶！？<br>为、为什么……？
 8,ゼエン,君達の求めるもの、<br>それは即ち、この<span class='scene-font-place'>クルーガー島</span>の<br>教えの最奥にあたる。,你们所追求的，<br>就是<span class='scene-font-place'>克尔加岛</span>教义的秘奥。
@@ -69,7 +69,7 @@ id,name,text,trans
 82,ゼエン,君達と、星晶獣。<br>つまりは君達騎空団次第ということだ。,取决于你们和星晶兽，<br>也就是说取决于你们整个骑空团。
 83,,<span class='scene-font-katari'>ラカムはゼエンの言葉に、</span><br><span class='scene-font-katari'>呆れたように首をすくめる。</span>,听了泽恩的话后，<br>拉卡姆无奈地耸了耸肩。
 84,ゼエン,そうと決まれば善は急げだ。<br>やや荒っぽいことになる。<br>まずは人里を遠く離れた地が必要だな。,既然决定了，那我们就快点动身吧。<br>因为手段稍微有些粗暴，<br>所以我们需要找个远离人群的地方。
-85,カイン/该隐,そういうことなら、<br><span class='scene-font-place'>グロース島</span>がいいと思うぜ。,既然是这样的话，<br>我觉得古洛斯岛比较好。
+85,カイン/该隐,そういうことなら、<br><span class='scene-font-place'>グロース島</span>がいいと思うぜ。,既然是这样的话，<br>我觉得<span class='scene-font-place'>古洛斯岛</span>比较好。
 86,カイン/该隐,<span class='scene-font-place'>ルクスリエース</span>から<br>山を挟んだ反対側は、<br>まだ未開拓だから誰も住んでないんだ。,<span class='scene-font-place'>卢克斯列斯</span>背面的山区未经开发，<br>没有任何人居住。
 87,ゼエン,ふむ……ならばそこを借りるとしよう。<br>そのほうが、後のためにも良い。,嗯……为了方便善后，<br>那么就先借用那里吧。
 88,ゼエン,ラカム、オイゲンは、<br>皆と共にそちらに移動だ。,拉卡姆和欧根与我同行。
@@ -80,9 +80,9 @@ id,name,text,trans
 93,ゼエン,いま彼女は辛い状況だろうが、<br>きっと彼女も<br>君達に力を貸したいはずだ。,虽然她目前也很痛苦，<br>但她一定也想要帮助你们。
 94,,<span class='scene-font-katari'>ゼエンの説明に、</span><br><span class='scene-font-katari'>ロゼッタは納得した様子を見せる。</span>,泽恩进行了说明之后，<br>萝赛塔恍然大悟。
 95,ロゼッタ/萝赛塔,そう……そうね。<br>様子を見に行こうとは思っていたし、<br>ちょうどいいわ。,是啊……原来是这样啊。<br>正好，我也想去看看她的情况。
-96,,<span class='scene-font-katari'>こうしてゼエンの指示の元、</span><br><span class='scene-font-katari'>一度、イオ達とは別行動を取り、</span><br><span class='scene-font-katari'>一行は</span><span class='scene-font-place'>グロース島</span><span class='scene-font-katari'>の辺境へと移動する。</span>,就这样，在泽恩的指示下，<br>伊欧一行前往别处，<br>另一行人则跟着泽恩去了古洛斯岛。
+96,,<span class='scene-font-katari'>こうしてゼエンの指示の元、</span><br><span class='scene-font-katari'>一度、イオ達とは別行動を取り、</span><br><span class='scene-font-katari'>一行は</span><span class='scene-font-place'>グロース島</span><span class='scene-font-katari'>の辺境へと移動する。</span>,<span class='scene-font-katari'>就这样，在泽恩的指示下，</span><br><span class='scene-font-katari'>伊欧一行前往别处，</span><br><span class='scene-font-katari'>另一行人则跟着泽恩去了</span><span class='scene-font-place'>古洛斯岛</span><span class='scene-font-katari'>。</span>
 101,,<span class='scene-font-katari'>カイン達もまた、</span><br><span class='scene-font-katari'>国王フォリアへ状況を共有するため、</span><br><span class='scene-font-katari'>ひとまず一行の元を離れる。</span>,为了向过往芙莉亚汇报目前的状况，<br>该隐一行也暂时和大家道别了。
-106,,<span class='scene-font-katari'>こうして</span><span class='scene-font-place'>グロース島</span><span class='scene-font-katari'>の辺境には、</span><br><span class='scene-font-katari'>姬塔、ビィ、ルリア、</span><br><span class='scene-font-katari'>カタリナ、ラカム、オイゲン……</span>,就这样，姬塔、碧、露莉亚、<br>卡塔莉娜、拉卡姆和欧根<br>随即向古洛斯岛的边境出发。
+106,,<span class='scene-font-katari'>こうして</span><span class='scene-font-place'>グロース島</span><span class='scene-font-katari'>の辺境には、</span><br><span class='scene-font-katari'>姬塔、ビィ、ルリア、</span><br><span class='scene-font-katari'>カタリナ、ラカム、オイゲン……</span>,<span class='scene-font-katari'>就这样，姬塔、碧、露莉亚、</span><br><span class='scene-font-katari'>卡塔莉娜、拉卡姆和欧根</span><br><span class='scene-font-katari'>随即向</span><span class='scene-font-place'>古洛斯岛</span><span class='scene-font-katari'>的边境出发。</span>
 107,,<span class='scene-font-katari'>そして、ゼエンが集っていた。</span>,到达后，<br>泽恩将大家聚集在了一起。
 112,ゼエン,さて……<br>まずは教えの最奥について、<br>改めて説明しておこう。,首先，<br>有关教义的秘奥，<br>让我来向你们进行说明。
 113,ゼエン,星晶獣は島と契約を結ぶことで、<br>島に縛られる代わりに、<br>真の力を発揮出来る……,星晶兽通过和岛屿缔结契约，<br>以被束缚在岛屿上作为代价，<br>得以发挥真正的实力……

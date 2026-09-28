@@ -1,14 +1,14 @@
 id,name,text,trans
 0-chapter_name,,第95章　ふたりの世界,第95章 两人的世界
-0-synopsis,,光に包まれたオイゲンが最初に耳にしたのは、耳馴染みのある<span class='scene-font-place'>アウギュステ</span>の波の音だった。オイゲンはしばし波に身を任せ、ふとわずかな違和感に気づくが、その答えは出ない。オイゲンは諦めて浜に歩き始めると、どこかから男性の悲鳴が聞こえ、慌てて駆けつける。その男性は偶然にもオイゲンの顔見知りなのだった。,在被光芒包裹着的欧根耳边响起的，是奥古斯提熟悉的波浪声。欧根泡在海中，任由海浪拍打着身体。虽然他也觉得哪里不对劲，却无法找到答案。就这么放弃了思考的欧根朝着海岸边走去，却突然听到了一个男人的惨叫。他连忙跑了过去，却发现对方恰好是自己的熟人。
+0-synopsis,,光に包まれたオイゲンが最初に耳にしたのは、耳馴染みのある<span class='scene-font-place'>アウギュステ</span>の波の音だった。オイゲンはしばし波に身を任せ、ふとわずかな違和感に気づくが、その答えは出ない。オイゲンは諦めて浜に歩き始めると、どこかから男性の悲鳴が聞こえ、慌てて駆けつける。その男性は偶然にもオイゲンの顔見知りなのだった。,在被光芒包裹着的欧根耳边响起的，是<span class='scene-font-place'>奥古斯提</span>熟悉的波浪声。欧根泡在海中，任由海浪拍打着身体。虽然他也觉得哪里不对劲，却无法找到答案。就这么放弃了思考的欧根朝着海岸边走去，却突然听到了一个男人的惨叫。他连忙跑了过去，却发现对方恰好是自己的熟人。
 1,ゼエン,君達ならばたどり着ける。<br>これは祈りであり願いだ。,你们一定能够领悟的。<br>这是我的期盼，也是我的愿望。
 2,ゼエン,頼んだぞ、未来の担い手達よ……,拜托了，肩负未来的人们啊……
 6,オイゲン/欧根,っ――！？,唔——！？
 7,,<span class='scene-font-katari'>目もくらむような光は、</span><br><span class='scene-font-katari'>ラカムだけでなくオイゲンも包み、</span><br><span class='scene-font-katari'>意識を白く塗りつぶしていく。</span>,令人炫目的光芒不仅包裹了拉卡姆，<br>也包裹了欧根，<br>并且将他的意识染成了一片雪白。
 12,,<span class='scene-font-katari'>そうして、</span><br><span class='scene-font-katari'>オイゲンの耳に最初に届いたのは、</span><br><span class='scene-font-katari'>耳馴染みのある波の音だった。</span>,然后，最先传到欧根耳朵里的，<br>是早已听惯了的海浪声。
-13,オイゲン/欧根,ここは……<br><span class='scene-font-place'>アウギュステ</span>、か……？,这里是……<br>奥古斯提吗……？
-14,オイゲン/欧根,<span class='scene-font-kokoro'>（いや、こんな海、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>の他にあるわけがねぇ）</span>,（应该说，有这种海洋的，<br>除了奥古斯提之外也没有别的地方了。）
-15,オイゲン/欧根,<span class='scene-font-kokoro'>（それに何より、</span><br><span class='scene-font-kokoro'>オレはこの波を知ってる……</span><br><span class='scene-font-kokoro'>この揺り籠のような穏やかな波を）</span>,（更重要的是，我很熟悉……<br>这种像摇篮一样平稳的波浪。）
+13,オイゲン/欧根,ここは……<br><span class='scene-font-place'>アウギュステ</span>、か……？,这里是……<br><span class='scene-font-place'>奥古斯提</span>吗……？
+14,オイゲン/欧根,<span class='scene-font-kokoro'>（いや、こんな海、</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>の他にあるわけがねぇ）</span>,<span class='scene-font-kokoro'>（应该说，有这种海洋的，</span><br><span class='scene-font-kokoro'>除了</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>之外也没有别的地方了。）</span>
+15,オイゲン/欧根,<span class='scene-font-kokoro'>（それに何より、</span><span class='scene-font-kokoro'>オレはこの波を知ってる……</span><br><span class='scene-font-kokoro'>この揺り籠のような穏やかな波を）</span>,（更重要的是，<br>我很熟悉……<br>这种像摇篮一样平稳的波浪。）
 16,,<span class='scene-font-katari'>ふと、耳を澄ませるように、</span><br><span class='scene-font-katari'>オイゲンは揺れる波間に身を任せる。</span>,欧根就像是在侧耳倾听什么一般，<br>任由波浪拍打着自己的身体。
 17,オイゲン/欧根,<span class='scene-font-kokoro'>（この優しさと柔らかさ……</span><br><span class='scene-font-kokoro'>それでいて、どこか温かみがある）</span>,（这种柔和的触感……<br>而且，还包含着些许温暖。）
 18,オイゲン/欧根,<span class='scene-font-kokoro'>（あいつが……</span><br><span class='scene-font-kokoro'>アポロが海で遭難しちまったとき……）</span>,（那家伙……<br>阿波罗在海上遇险的时候……）
@@ -19,10 +19,10 @@ id,name,text,trans
 23,オイゲン/欧根,<span class='scene-font-kokoro'>（そんな何かに、</span><br><span class='scene-font-kokoro'>包まれているような……）</span>,（就像被什么东西包裹着一样……）
 24,,<span class='scene-font-katari'>オイゲンは波の中で思いを巡らせるが、</span><br><span class='scene-font-katari'>その答えには届きそうで届かない。</span>,欧根在波浪中思索了一阵，<br>但怎么样也无法得出答案。
 25,オイゲン/欧根,いや……思い違いか。,不……是我想错了吗。
-26,オイゲン/欧根,<span class='scene-font-kokoro'>（そもそもナル・グランデ空域にまで</span><br><span class='scene-font-kokoro'>行っちまって、</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>の海に</span><br><span class='scene-font-kokoro'>触れるのも久しぶりだからな……）</span>,（毕竟自从前往纳尔·格兰德空域以后，<br>就再也没接触过奥古斯提的大海了……）
+26,オイゲン/欧根,<span class='scene-font-kokoro'>（そもそもナル・グランデ空域にまで</span><br><span class='scene-font-kokoro'>行っちまって、</span><span class='scene-font-place'>アウギュステ</span><span class='scene-font-kokoro'>の海に</span><br><span class='scene-font-kokoro'>触れるのも久しぶりだからな……）</span>,<span class='scene-font-kokoro'>（毕竟自从前往纳尔·格兰德空域以后，</span><br><span class='scene-font-kokoro'>就再也没接触过</span><span class='scene-font-place'>奥古斯提</span><span class='scene-font-kokoro'>的大海了……）</span>
 27,,<span class='scene-font-katari'>わずかに首を振って考えを振り払い、</span><br><span class='scene-font-katari'>オイゲンは浜へと歩き始める。</span>,欧根微微摇了摇头，清醒了下头脑。<br>然后向着海滩游去。
 32,オイゲン/欧根,しっかし……<br>こいつはいったいどういうことだ……？,可是……<br>这到底是怎么回事……？
-33,,<span class='scene-font-katari'>見渡す限りに燦々と陽光が降り注ぎ、</span><br><span class='scene-font-katari'>そこはオイゲンの良く知る</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の砂浜に違いなかった。</span>,视线所及之处尽是灿烂阳光，<br>这里确实就是欧根所熟知的<br>奥古斯提的沙滩。
+33,,<span class='scene-font-katari'>見渡す限りに燦々と陽光が降り注ぎ、</span><br><span class='scene-font-katari'>そこはオイゲンの良く知る</span><br><span class='scene-font-place'>アウギュステ</span><span class='scene-font-katari'>の砂浜に違いなかった。</span>,<span class='scene-font-katari'>视线所及之处尽是灿烂阳光，</span><br><span class='scene-font-katari'>这里确实就是欧根所熟知的</span><br><span class='scene-font-place'>奥古斯提</span><span class='scene-font-katari'>的沙滩。</span>
 34,オイゲン/欧根,オレぁさっきまで、<br>ナル・グランデ空域の、<br>イデルバの島に居たはずなんだがな……,明明到刚才为止，<br>我还在那个纳尔·格兰德空域，<br>在属于伊德尔瓦的岛上呢……
 35,,<span class='scene-font-katari'>警戒から愛銃を構え、</span><br><span class='scene-font-katari'>一歩を進もうとしたその時だった。</span>,出于警惕，欧根握紧爱枪，<br>正准备向前迈出一步。
 36,？？？,<span class='scene-font-4'>うわあああっ！！</span>,呜哇啊啊啊啊！！

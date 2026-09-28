@@ -4,7 +4,7 @@ id,name,text,trans
 1,カタリナ/卡塔莉娜,千里眼の賢者……？,千里眼的贤者……？
 2,フォリア/芙莉亚,うむ……<br>このナル・グランデにはな、<br>そう呼ばれる男がおるのじゃ。,正是……<br>在这个纳尔·格兰德，<br>有一个号称千里眼贤者的男人。
 3,,<span class='scene-font-katari'>イデルバ国王フォリアから期待に応え、</span><br><span class='scene-font-katari'>その力を認められた姬塔一行。</span>,姬塔一行通过了试炼，<br>伊德尔瓦国王芙莉亚<br>认同了众人的实力。
-4,,<span class='scene-font-place'>首都ルクスリエース</span><span class='scene-font-katari'>に戻った数日後、</span><br><span class='scene-font-katari'>姬塔達はフォリアから</span><br><span class='scene-font-katari'>呼び出され、玉座の間を訪れていた。</span>,回到首都卢克斯列斯数日后，<br>芙莉亚再次召见众人。
+4,,<span class='scene-font-place'>首都ルクスリエース</span><span class='scene-font-katari'>に戻った数日後、</span><br><span class='scene-font-katari'>姬塔達はフォリアから</span><br><span class='scene-font-katari'>呼び出され、玉座の間を訪れていた。</span>,<span class='scene-font-katari'>回到</span><span class='scene-font-place'>首都卢克斯列斯</span><span class='scene-font-katari'>数日后，</span><br><span class='scene-font-katari'>芙莉亚再次召见众人。</span>
 5,フォリア/芙莉亚,これがまた、実に厄介な男でな……<br>その異名に違わず、<br>あらゆることを見透かしてきよる。,他是个非常难对付的男人……<br>名副其实，能够看穿一切。
 6,フォリア/芙莉亚,以前、妾自ら、奴の元まで<br>出向いたこともあったが、<br>早々に妾の正体を見破りおっての。,妾身曾经亲自拜访过他，<br>他早早地识破了妾身的身份。
 7,フォリア/芙莉亚,こちらがあ奴で遊ぶどころか、<br>礼を尽くして丁重に<br>出迎えられてしもうたわ。,别说陪妾身游玩了，<br>他竟对妾身大礼相迎。
@@ -59,5 +59,5 @@ id,name,text,trans
 47,フォリア/芙莉亚,くくく……良い返事じゃ。<br>期待しておるぞ。,呵呵……不错的回答。<br>妾身期待你们的好消息。
 48,カイン/该隐,そう畏まらなくても大丈夫だって！<br>俺達も一緒に付いて行くからさ。,不用太担心啦！<br>我们也会一起去的。
 49,,<span class='scene-font-katari'>こうして、国王フォリアからの</span><br><span class='scene-font-katari'>勅命を受けた姬塔一行。</span>,姬塔一行接受了<br>国王芙莉亚的勅令。
-50,,<span class='scene-font-katari'>一行は、</span><br><span class='scene-font-katari'>イデルバ兵を連れたカイン達と共に、</span><br><span class='scene-font-katari'>賢者が待つという</span><span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>へと進む。</span>,他们与该隐率领的伊德尔瓦兵一同，<br>前往贤者所在的克尔加岛。
+50,,<span class='scene-font-katari'>一行は、</span><br><span class='scene-font-katari'>イデルバ兵を連れたカイン達と共に、</span><br><span class='scene-font-katari'>賢者が待つという</span><span class='scene-font-place'>クルーガー島</span><span class='scene-font-katari'>へと進む。</span>,<span class='scene-font-katari'>他们与该隐率领的伊德尔瓦兵一同，</span><br><span class='scene-font-katari'>前往贤者所在的</span><span class='scene-font-place'>克尔加岛</span><span class='scene-font-katari'>。</span>
 info,,,scene_cp86_q1_s10

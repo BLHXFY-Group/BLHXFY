@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第107章　変貌する闇,第107章 变貌的黑暗
-0-synopsis,,狂乱状態のギルベルトは、苦しみながらもフォリアを抱えて走り去ってしまう。一方、バラゴナはハルを助けに牢獄に向うも、牢獄には誰もいなかった。残された痕跡から白騎士と真王の存在を推測したバラゴナは、次に向かうべきは<span class='scene-font-place'>シュテルケ島</span>であることを導き出す。こうして最後の舞台に役者が揃いつつあるのだった。,处于狂乱状态的吉尔伯特痛苦地抱着芙莉亚跑开了。另一方面，巴拉格纳为救哈尔前往监狱，但监狱里已经空无一人。根据遗留下来的痕迹，他推断出白骑士和真王来过这里，并认为他们的下一个目的地应该是修提尔克岛。就这样，演员们终于开始在最后的舞台上聚集。
+0-synopsis,,狂乱状態のギルベルトは、苦しみながらもフォリアを抱えて走り去ってしまう。一方、バラゴナはハルを助けに牢獄に向うも、牢獄には誰もいなかった。残された痕跡から白騎士と真王の存在を推測したバラゴナは、次に向かうべきは<span class='scene-font-place'>シュテルケ島</span>であることを導き出す。こうして最後の舞台に役者が揃いつつあるのだった。,处于狂乱状态的吉尔伯特痛苦地抱着芙莉亚跑开了。另一方面，巴拉格纳为救哈尔前往监狱，但监狱里已经空无一人。根据遗留下来的痕迹，他推断出白骑士和真王来过这里，并认为他们的下一个目的地应该是<span class='scene-font-place'>修提尔克岛</span>。就这样，演员们终于开始在最后的舞台上聚集。
 24,ギルベルト,<span class='scene-font-4'>あああああぁッ！</span><br><span class='scene-font-4'>くそっ！　くそっ！</span>,啊啊啊啊啊！<br>该死！该死！
 25,ギルベルト,があっ……く……<br>頭が……割れ、る……！！,啊啊……咕……<br>头……要裂、开了……！！
 26,カイン/该隐,はぁ……はぁ……<br>ど、どうなってんだ……？,哈啊……哈啊……<br>怎、怎么回事……？
@@ -32,7 +32,7 @@ id,name,text,trans
 62,,<span class='scene-font-katari'>どうすればハルを</span><br><span class='scene-font-katari'>助けることが出来るのか。</span>,我到底该怎么做，<br>才能救下哈尔呢。
 63,,<span class='scene-font-katari'>それを考えた時、</span><br><span class='scene-font-katari'>答えを得るまでに</span><br><span class='scene-font-katari'>それほど時間を必要としなかった。</span>,对于这个问题，<br>他几乎没有花费太多时间<br>就得到了答案。
 64,緋色の騎士,<span class='scene-font-kokoro'>（真王の目的はたった一つ。</span><br><span class='scene-font-kokoro'>それは悲劇の始まりである</span><br><span class='scene-font-kokoro'>15年前から変わらない……）</span>,（真王的目的只有一个。<br>这就是这一连串悲剧的开端，<br>15年来这一目的就从未改变过……）
-65,緋色の騎士,ならば向かうべきは……<br><span class='scene-font-place'>シュテルケ島</span>か。,那么我该去的地方……<br>是修提尔克岛啊。
+65,緋色の騎士,ならば向かうべきは……<br><span class='scene-font-place'>シュテルケ島</span>か。,那么我该去的地方……<br>是<span class='scene-font-place'>修提尔克岛</span>啊。
 66,,<span class='scene-font-katari'>決意を固めたバラゴナは、</span><br><span class='scene-font-katari'>踵を返し、すぐさま行動を開始する。</span>,下定决心的巴拉格纳立刻转身，<br>开始了行动。
 70,,<span class='scene-font-katari'>こうして最後の舞台には、</span><br><span class='scene-font-katari'>着々と役者が揃いつつあるのだった。</span>,就这样，演员们<br>终于开始在最后的舞台上聚集。
 info,,,scene_cp107_q4_s30

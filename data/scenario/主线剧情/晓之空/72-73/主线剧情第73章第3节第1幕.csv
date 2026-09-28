@@ -3,7 +3,7 @@
 0-synopsis,"姬塔 and company finally come face to face with Freesia who discovers that Lyria is unable to summon Akasha. She decides to look for Akasha on her own, and runs away with Orchis in tow to escape from the top of the tower, but the crew is hot on her heels.",ついに姬塔一行はフリーシアと相対する。星晶獣アーカーシャを呼び出すことの出来ないルリアに見切りをつけたフリーシアは、自らの手でアーカーシャを探し出すことを決め、オルキスを引きずり去っていく。タワー上階から逃げようと試みるフリーシアを逃がさないために、姬塔一行は急ぎその後を追うのだった。,终于，姬塔等人与芙莉西雅见面了。对于不能呼唤出星晶兽阿卡夏的露莉亚，芙莉西雅放弃了自己原来的想法，决定靠自己的手段找出阿卡夏，并拖着欧尔姬丝离开了那里。就在芙莉西雅试图从高塔上层逃离时，姬塔等人急忙从后面追了上来。
 0,"You're here, which means you got my message.",――ここに来た、ということは、<br>言伝は伝わっていますね？,——既然你们来到了这里，<br>那想必已经了解了传话的内容了吧？
 1,...,…………,…………
-2,姬塔 and the crew enter the tower in central Agastia and find Freesia waiting for them.,<span class='scene-font-katari'>アガスティア中央、タワーに踏み込んだ</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>ついにフリーシアと相対する。</span>,终于，姬塔等人进入了<br>位于阿加斯提亚中心的高塔，<br>与芙莉西雅针锋相对。
+2,姬塔 and the crew enter the tower in central Agastia and find Freesia waiting for them.,<span class='scene-font-katari'>アガスティア中央、タワーに踏み込んだ</span><br><span class='scene-font-katari'>姬塔一行は、</span><br><span class='scene-font-katari'>ついにフリーシアと相対する。</span>,<span class='scene-font-katari'>终于，姬塔等人进入了</span><br><span class='scene-font-katari'>位于</span><span class='scene-font-place'>阿加斯提亚</span><span class='scene-font-katari'>中心的高塔，</span><br><span class='scene-font-katari'>与芙莉西雅针锋相对。</span>
 3,You all came.,みんな……,大家……
 4,Where's Akasha？Or do you intend to use Lyria's power to summon it here？,アーカーシャはどこです？<br>それとも、ルリアの力で<br>この場に呼び出すつもりですか？,阿卡夏在哪里？<br>还是说，你们打算用露莉亚的力量<br>在这里召唤出来？
 4-sel1_txt,We won't summon Akasha.,<span class='scene-font-katari'>アーカーシャは呼べない</span>,阿卡夏已经召唤不了了
@@ -40,7 +40,7 @@
 35,Wait！,待てっ！,等等！
 37,...,…………,…………
 38,What！Who are they？,なっ！？<br>彼らはいったい……！？,什么！？<br>他们到底是？
-39,My oh my. We've already been acquainted with a few like these in Lumacie.,あら……<br>アタシ達はすでに<br>ルーマシーで近い子達に遭遇してるわ。,哎呀……<br>我们在露玛茜<br>就遇见过类似的孩子了吧。
+39,My oh my. We've already been acquainted with a few like these in Lumacie.,あら……<br>アタシ達はすでに<br>ルーマシーで近い子達に遭遇してるわ。,哎呀……<br>我们在<span class='scene-font-place'>露玛茜</span><br>就遇见过类似的孩子了吧。
 40,"Bestowed with power from an overflowing source, they were like puppets come to life.",崩壊しつつある器から溢れた力によって<br>操り人形のように<br>なってしまった子達にね……,被崩坏容器中溢出的力量所操纵的，<br>人偶一般的孩子……
 41,You mean like what she did to Yggdrasil？,ってぇことは宰相サンは、<br>あの時の星晶獣ユグドラシルと、<br>似たような状態ってことか……？,也就是说现在宰相的状态，<br>很接近那时候的<br>星晶兽尤格多拉希尔了吗？
 42,To think that she's been driven so far into the corner...,魔晶を使った自分を、<br>自分自身で<br>あそこまで追い込むなんて……,把魔晶用在自己身上，<br>将自己逼到这种地步……

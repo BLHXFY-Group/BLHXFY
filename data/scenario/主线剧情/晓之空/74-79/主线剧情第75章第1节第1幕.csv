@@ -1,8 +1,8 @@
 id,en,jp,trans
 0-chapter_name,75: Trial of Ice and Wind,第75章　極地の試練,第75章 极地的试炼
 0-synopsis,Monika informs Lecia that she received a request to capture the crew and disband them within the borders of Phantagrande.,ひとりアマルティア島へと戻ったリーシャ。モニカがリーシャを呼び戻した理由は、七曜の騎士のひとりからイスタバイオン王国を経由して寄せられた依頼であるという。その内容は、空域内での影響力を強めた姬塔の騎空団を捕えて解散させよというものであり、しかしファータ・グランデ空域を出れば不問にするともとれる内容に二人は不穏な意図を感じるのだった。,莉夏独自返回了阿玛提亚岛。莫妮卡将莉夏召回的原因，是某位七曜骑士经由伊斯塔拜恩王国向秩序骑空团发出了一项委托。该委托的内容是将在该空域影响力巨大的姬塔的骑空团逮捕并使之解散，但是如果他们离开了法塔·格兰德空域，就不再过问。对于这一内容，两人都感觉其中另有蹊跷。
-0,姬塔 and the crew trudge on through the wind and snow of Silverwind Stretch. Meanwhile...,<span class='scene-font-katari'>姬塔一行が、</span><br><span class='scene-font-katari'>風雪吹きすさぶ</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>を進んでいたその頃。</span>,正当姬塔等人<br>在风雪交加的白风之境中前进时。
-3,"Lecia arrives on Amalthea Island, where an officer of small stature is waiting to greet her.",<span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>に到着した</span><br><span class='scene-font-katari'>リーシャを乗せた騎空艇を、</span><br><span class='scene-font-katari'>小さな影が出迎えていた。</span>,莉夏已经乘坐骑空艇<br>降落到了阿玛提亚岛上，<br>此时一个小小的身影出来迎接。
+0,姬塔 and the crew trudge on through the wind and snow of Silverwind Stretch. Meanwhile...,<span class='scene-font-katari'>姬塔一行が、</span><br><span class='scene-font-katari'>風雪吹きすさぶ</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>を進んでいたその頃。</span>,<span class='scene-font-katari'>正当姬塔等人</span><br><span class='scene-font-katari'>在风雪交加的</span><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>中前进时。</span>
+3,"Lecia arrives on Amalthea Island, where an officer of small stature is waiting to greet her.",<span class='scene-font-place'>アマルティア島</span><span class='scene-font-katari'>に到着した</span><br><span class='scene-font-katari'>リーシャを乗せた騎空艇を、</span><br><span class='scene-font-katari'>小さな影が出迎えていた。</span>,<span class='scene-font-katari'>莉夏已经乘坐骑空艇</span><br><span class='scene-font-katari'>降落到了</span><span class='scene-font-place'>阿玛提亚岛</span><span class='scene-font-katari'>上，</span><br><span class='scene-font-katari'>此时一个小小的身影出来迎接。</span>
 4,Lecia！Glad you made it. Sorry for calling you here without disclosing the details.,リーシャ！　よく来てくれた……<br>事情も知らせず、<br>無理を言ってすまなかったな。,莉夏，你能来真是太好了！<br>很抱歉在未告知你实情的情况下<br>提出这个强人所难的要求。
 5,"Monika, what's going on here？Is it about my father？",モニカさん……<br>いったい何があったんですか？<br>まさか父さんが……？,莫妮卡……<br>到底发生了什么事？<br>难道说父亲他……
 6,"No, Captain Walfried has nothing to do with it... I think.",いや、ヴァルフリート団長は<br>関係ない……ハズだ。,不，这与瓦尔弗利德团长无关……<br>应该是这样的。
@@ -16,7 +16,7 @@ id,en,jp,trans
 18,Not exactly？,逆？,相反？
 19,Monika glances around cautiously before continuing.,<span class='scene-font-katari'>モニカは、</span><br><span class='scene-font-katari'>用心深く確認するように、</span><br><span class='scene-font-katari'>周囲に目線を飛ばす。</span>,莫妮卡十分谨慎地<br>环视了周围。
 20,"The request, you see, is that we capture 姬塔's crew and force them to disband.",依頼というのはだな……<br>姬塔達の騎空団を捕まえ、<br>解散させてほしい、というものなんだ。,这个委托……<br>就是要抓捕姬塔的骑空团<br>并且让其解散。
-21,What！Who requested that？A supporter of the Erste Empire？,なっ……！<br>だ、誰がそんな依頼を……<br><span class='scene-font-place'>エルステ帝国</span>の残党でしょうか……,什么！？<br>是谁提出了这样的委托……<br>是<span class='scene-font-place'>埃尔斯特帝国</span>的残党吗？
+21,What！Who requested that？A supporter of the Erste Empire？,なっ……！<br>だ、誰がそんな依頼を……<br><span class='scene-font-place'>エルステ帝国</span>の残党でしょうか……,什么！？<br>是谁提出了这样的委托……<br>是埃尔斯特帝国的残党吗？
 22,"If it were a person like that, I wouldn't be a bundle of nerves right now.",そういう連中からの依頼であれば、<br>私もここまで慌てたりはしないさ。,如果真是那些家伙的委托，<br>我也不至于这么慌了。
 23,But this request has come from a Luminary Knight by way of the Istavion Kingdom.,だがこの依頼は、<br>イスタバイオン王国経由で、<br>七曜の騎士から届いた依頼なんだ。,但这个委托，<br>是经由伊斯塔拜恩王国，<br>从一位七曜骑士那里发出的。
 24,Istavion？,イスタバイオン……,伊斯塔拜恩……
@@ -37,7 +37,7 @@ id,en,jp,trans
 39,That's right. I kept thinking it was sort of strange.,そこなんだ……<br>私がずっと奇妙に思っていたのは。,就是这个……<br>我一直觉得很奇怪。
 40,Though I have heard the potential reasoning behind it.,一応、理由も聞いてはいるんだがな。,理由我姑且也听到了。
 41,Monika pulls out a missive and begins to read.,<span class='scene-font-katari'>モニカは懐から</span><br><span class='scene-font-katari'>一枚の書状を取り出して、</span><br><span class='scene-font-katari'>読み上げる。</span>,莫妮卡从怀中取出一张书信<br>并读了起来。
-42,The centripetal force of the crew that overthrew the Erste Empire is extraordinary...,<span class='scene-font-place'>エルステ帝国</span>を打倒した<br>かの騎空団の求心力は、<br>もはや並々ならぬものであり……,击败<span class='scene-font-place'>埃尔斯特帝国</span>的那个骑空团的向心力<br>已经异乎寻常。
+42,The centripetal force of the crew that overthrew the Erste Empire is extraordinary...,<span class='scene-font-place'>エルステ帝国</span>を打倒した<br>かの騎空団の求心力は、<br>もはや並々ならぬものであり……,击败埃尔斯特帝国的那个骑空团的向心力<br>已经异乎寻常。
 43,And it threatens to disrupt order within Phantagrande Skydom. As such we request that this crew be disbanded.,ファータ・グランデ空域の<br>秩序を乱しかねないため、<br>かの騎空団の解散を依頼したい。,为了保证法塔·格兰德空域的秩序不被扰乱，<br>委托你们将其解散。
 44,"Furthermore, as this crew is not regarded as dangerous in other skydoms...",そして、その他の空域における<br>かの騎空団の知名度は<br>危険視するほどではないため……,此外，在其他空域，<br>该骑空团的知名度<br>还没有上升到危急的状况。
 45,We request that planning and execution be limited to the Phantagrande Skydom... it says.,ファータ・グランデ空域内においてのみ、<br>指名手配をかけてほしい……とな。,所以希望把追捕范围<br>限定在法塔·格兰德空域之内。

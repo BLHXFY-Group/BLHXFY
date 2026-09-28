@@ -10,7 +10,7 @@ id,name,text,trans
 19,,<span class='scene-font-katari'>教えの最奥へと至ったラカムは、</span><br><span class='scene-font-katari'>ティアマトの心を理解し、思いやる。</span>,领悟了教义秘奥的拉卡姆<br>理解了提亚玛特的内心。
 21,ラカム/拉卡姆,おっ……？<br>こりゃあ……,哦……？<br>这是……
 29,ラカム/拉卡姆,ん……<br>ここは……,唔……这里是……
-30,,<span class='scene-font-katari'>周囲を見回すと、</span><br><span class='scene-font-katari'>そこは最初に気を失った、</span><br><span class='scene-font-katari'>イデルバ王国領の</span><span class='scene-font-place'>グロース島</span><span class='scene-font-katari'>だった。</span>,拉卡姆环顾四周，<br>发现这里就是自己当初失去意识的，<br>伊德尔瓦王国的古洛斯岛。
+30,,<span class='scene-font-katari'>周囲を見回すと、</span><br><span class='scene-font-katari'>そこは最初に気を失った、</span><br><span class='scene-font-katari'>イデルバ王国領の</span><span class='scene-font-place'>グロース島</span><span class='scene-font-katari'>だった。</span>,<span class='scene-font-katari'>拉卡姆环顾四周，</span><br><span class='scene-font-katari'>发现这里就是自己当初失去意识的，</span><br><span class='scene-font-katari'>伊德尔瓦王国的</span><span class='scene-font-place'>古洛斯岛</span><span class='scene-font-katari'>。</span>
 31,ラカム/拉卡姆,…………,…………
 37,ティアマト/提亚玛特,――――,————
 38,ラカム/拉卡姆,へへっ……<br>夢のようで、<br>夢じゃねぇってやつか……,哈哈……<br>好像是在做梦，<br>又不像是在做梦……
@@ -57,7 +57,7 @@ id,name,text,trans
 83,オイゲン/欧根,…………,…………
 84,,<span class='scene-font-katari'>ただ茫然とするオイゲンに対し、</span><br><span class='scene-font-katari'>黒い騎士は淡々と話を続ける。</span>,面对不知所措的欧根，<br>黑骑士淡淡地说了下去。
 85,黒騎士？/黑骑士？,私は手段や能力ではなく、<br>ただ貴様の意思だけを試す。,我想要看到的<br>不是你的手段和能力，<br>而是你的觉悟。
-86,黒騎士？/黑骑士？,現実の貴様の身体が限界を迎えるまで、<br>私は<span class='scene-font-place'>アウギュステ大瀑布</span>に居る。,我会一直待在奥古斯提大瀑布，<br>直到你现实中的身体迎来极限为止。
+86,黒騎士？/黑骑士？,現実の貴様の身体が限界を迎えるまで、<br>私は<span class='scene-font-place'>アウギュステ大瀑布</span>に居る。,我会一直待在<span class='scene-font-place'>奥古斯提大瀑布，</span><br>直到你现实中的身体迎来极限为止。
 87,黒騎士？/黑骑士？,この世界を脱出する鍵である、<br>私を見つけられなかった、<br>などという言い訳を聞く気はない。,我可不想再听到你拿<br>“找不到逃离这个世界的钥匙——我”<br>当借口。
 88,黒騎士？/黑骑士？,貴様が選べ。<br>己の未来か、贖罪か。,你自己选。<br>究竟是要未来，还是要赎罪。
 90,,<span class='scene-font-katari'>その選択を突き付け、</span><br><span class='scene-font-katari'>黒い騎士は踵を返して、</span><br><span class='scene-font-katari'>オイゲンの前から去っていく。</span>,抛下了这个问题后，<br>黑骑士随即转身，<br>离开了欧根。

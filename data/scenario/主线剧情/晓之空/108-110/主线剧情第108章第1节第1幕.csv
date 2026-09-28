@@ -2,9 +2,9 @@ id,name,text,trans
 0-chapter_name,,第108章　集う意志,第108章 集结的意志
 0-synopsis,,ギルベルトに連れ去られたフォリアを救出すべく、<span class='scene-font-place'>シュテルケ島</span>へと向かう姬塔一行。カインはひとりで思い詰めていたが、ラインハルザと姬塔にもう個人の問題ではないと説かれ、共に戦うことを決意する。その周囲にはいつの間にか仲間達も揃い、姬塔達はこれまでの旅路を振り返りつつ作戦を立てるのだった。,为了营救被吉尔伯特带走的芙莉亚，姬塔一行人出发前往修提尔克岛。该隐独自陷入了沉思，却在莱茵哈萨以及姬塔的劝说下明白了这已经不是他一个人的问题，下定决心和同伴们并肩作战。不知不觉中，同伴们都聚集到了一起。在听完姬塔等人对迄今为止旅途的回顾之后，该隐制定了一个计划。
 1,,<span class='scene-font-katari'>ギルベルトによって、</span><br><span class='scene-font-katari'>フォリアを連れ去られてしまった</span><br><span class='scene-font-katari'>姬塔一行。</span>,姬塔一行人<br>眼看着吉尔伯特带走了芙莉亚。
-6,,<span class='scene-font-katari'>フォリアを連れたギルベルトは、</span><br><span class='scene-font-katari'>港の兵士達を薙ぎ払い、</span><br><span class='scene-font-katari'>騎空艇で</span><span class='scene-font-place'>ライヒェ島</span><span class='scene-font-katari'>を後にする。</span>,带着芙莉亚的吉尔伯特，<br>将驻守港口的士兵们全部打倒，<br>然后驾驶骑空艇离开了莱耶岛。
-7,,<span class='scene-font-katari'>ギルベルトを乗せた騎空艇は、</span><br><span class='scene-font-katari'>隠そうとする素振りを見せもせず、</span><br><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>へと向かっていた。</span>,<span class='scene-font-katari'>吉尔伯特乘坐的骑空艇</span><br><span class='scene-font-katari'>朝着修提尔克岛驶去，</span><br><span class='scene-font-katari'>丝毫没有隐藏行程的意思。</span>
-13,,<span class='scene-font-katari'>姬塔一行は</span><br><span class='scene-font-katari'>フォリアを救出すべく、</span><br><span class='scene-font-katari'>一路、</span><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>へと向かう。</span>,为了救出芙莉亚，<br>姬塔一行人也<br>开始向修提尔克岛进发。
+6,,<span class='scene-font-katari'>フォリアを連れたギルベルトは、</span><br><span class='scene-font-katari'>港の兵士達を薙ぎ払い、</span><br><span class='scene-font-katari'>騎空艇で</span><span class='scene-font-place'>ライヒェ島</span><span class='scene-font-katari'>を後にする。</span>,<span class='scene-font-katari'>带着芙莉亚的吉尔伯特，</span><br><span class='scene-font-katari'>将驻守港口的士兵们全部打倒，</span><br><span class='scene-font-katari'>然后驾驶骑空艇离开了</span><span class='scene-font-place'>莱耶岛</span><span class='scene-font-katari'>。</span>
+7,,<span class='scene-font-katari'>ギルベルトを乗せた騎空艇は、</span><br><span class='scene-font-katari'>隠そうとする素振りを見せもせず、</span><br><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>へと向かっていた。</span>,<span class='scene-font-katari'>吉尔伯特乘坐的骑空艇</span><br><span class='scene-font-katari'>朝着</span><span class='scene-font-place'>修提尔克岛</span><span class='scene-font-katari'>驶去，</span><br><span class='scene-font-katari'>丝毫没有隐藏行程的意思。</span>
+13,,<span class='scene-font-katari'>姬塔一行は</span><br><span class='scene-font-katari'>フォリアを救出すべく、</span><br><span class='scene-font-katari'>一路、</span><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>へと向かう。</span>,<span class='scene-font-katari'>为了救出芙莉亚，</span><br><span class='scene-font-katari'>姬塔一行人也</span><br><span class='scene-font-katari'>开始向</span><span class='scene-font-place'>修提尔克岛</span><span class='scene-font-katari'>进发。</span>
 14,カイン/该隐,…………,…………
 15,,<span class='scene-font-katari'>甲板に立つカインは、</span><br><span class='scene-font-katari'>真剣な表情で空を見上げる。</span>,该隐正站在甲板上，<br>严肃地看着天空。
 18,,<span class='scene-font-katari'>そこには、ナル・グランデ空域の</span><br><span class='scene-font-katari'>象徴たる遺物、</span><br><span class='scene-font-katari'>グレートウォールが鎮座していた。</span>,在他的视线前方，<br>象征着纳尔·格兰德空域的遗物——<br>长城，正静静地耸立在那里。
@@ -54,7 +54,7 @@ id,name,text,trans
 67,カイン/该隐,いや、まぁ、<br>そう言われちまうと<br>そうなんだけどよ……,哎呀，<br>说来好像确实是这么回事……
 68,カイン/该隐,でも、ちゃんと礼は言わせてもらう。<br>ありがとう、姬塔。,但我还是要好好向你道谢。<br>谢谢你，姬塔。
 69,,<span class='scene-font-katari'>共に戦う決意を固めたことで、</span><br><span class='scene-font-katari'>姬塔達には、</span><br><span class='scene-font-katari'>わずかに気持ちの余裕が生まれる。</span>,在坚定了并肩作战的决心后，<br>姬塔一行人<br>也终于稍稍放松了一些。
-70,カイン/该隐,しかし、こうして改まってみると、<br><span class='scene-font-place'>メルクマール島</span>でのことを思い出すな。,像这样郑重其事地拜托你们，<br>让我想起了在美克马尔岛发生的事。
+70,カイン/该隐,しかし、こうして改まってみると、<br><span class='scene-font-place'>メルクマール島</span>でのことを思い出すな。,像这样郑重其事地拜托你们，<br>让我想起了在<span class='scene-font-place'>美克马尔岛</span>发生的事。
 70-sel1_txt,,<span class='scene-font-katari'>今度は裏はないよね？</span>,这次没有隐情了吧？
 71,カイン/该隐,あー……その、すまん……<br>あの時は、本当に悪いことをした。,啊……那个，对不起……<br>那时候，真的非常对不起。
 72,カイン/该隐,あの時はまだ、<br>俺は姬塔達を、<br>警戒してたのかもしれない……,或许在那时候，<br>我确实对姬塔你们怀有戒心……
@@ -76,7 +76,7 @@ id,name,text,trans
 88,オイゲン/欧根,思い出してみりゃあ、<br>もうずいぶん<br>長ぇ付き合いだなぁ、おい。,回想起来，<br>我们已经认识得挺久了啊，喂。
 89,オイゲン/欧根,なんたって空域まで超えたんだ。<br>ここまで成し遂げた騎空団は、<br>そう多くはねぇはずだぜ。,没想到我们竟然跨越了空域。<br>能走到这个地步的骑空团，<br>可没有太多哦。
 90,ロゼッタ/萝赛塔,ある意味、アタシ達それぞれが、<br>姬塔さんの、<br>旅の記録と言えるかもしれないわね。,从某种意义上来说，<br>我们所有人都是姬塔旅途的记录。
-91,イオ/伊欧,じゃあ、あたし、<br><span class='scene-font-place'>バルツ</span>でのことを教えたげる！<br>あの島で、どんなことがあったのか！,那么，<br>在瓦尔兹发生的事情，<br>就由我来说明吧！
+91,イオ/伊欧,じゃあ、あたし、<br><span class='scene-font-place'>バルツ</span>でのことを教えたげる！<br>あの島で、どんなことがあったのか！,那么，<br>在<span class='scene-font-place'>瓦尔兹</span>发生的事情，<br>就由我来说明吧！
 92,ドランク/德朗克,ねぇねぇ、どうしよう？<br>スツルム殿～,喂喂，怎么办？<br>斯特姆阁下~
 93,ドランク/德朗克,僕達、<br>ちょーっと語れることが少ないよねぇ～,我们可没什么好说的啊~
 94,ドランク/德朗克,どうしよっか？<br>色々と暗躍してた内容話しちゃう？,怎么样？<br>我们要把暗中活跃的事情说出来嘛？
@@ -87,6 +87,6 @@ id,name,text,trans
 99,カイン/该隐,ありがとう……,谢谢你们……
 100,カイン/该隐,じゃあ、さっそく聞かせてくれ！,那么，请马上说给我听听吧！
 101,カイン/该隐,姬塔達のこれまでの旅の中に、<br>ギルベルトを倒す<br>ヒントが隠れてる気がするんだ。,我总觉得在姬塔一行人的旅途中，<br>一定藏着能够打倒吉尔伯特的关键点。
-102,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>に着くまでの間、</span><br><span class='scene-font-katari'>これまでの旅を振り返る一行。</span>,就这样，<br>在去往修提尔克岛的途中，<br>一行人就这么回顾着往日的旅程。
+102,,<span class='scene-font-katari'>こうして、</span><br><span class='scene-font-place'>シュテルケ島</span><span class='scene-font-katari'>に着くまでの間、</span><br><span class='scene-font-katari'>これまでの旅を振り返る一行。</span>,<span class='scene-font-katari'>就这样，</span><br><span class='scene-font-katari'>在去往</span><span class='scene-font-place'>修提尔克岛</span><span class='scene-font-katari'>的途中，</span><br><span class='scene-font-katari'>一行人就这么回顾着往日的旅程。</span>
 103,,<span class='scene-font-katari'>そして、そうしたこれまでの経験から、</span><br><span class='scene-font-katari'>ギルベルトを止めるための作戦を</span><br><span class='scene-font-katari'>皆で打ち立てるのだった。</span>,就这样，<br>根据姬塔一行迄今为止的旅行经历，<br>众人一起制定出了打倒吉尔伯特的计划。
 info,,,scene_cp108_q1_s10

@@ -1,5 +1,5 @@
 id,name,text,trans
-0-chapter_name,,第93章　終焉の幕開け,第93章 终焉的开幕
+0-chapter_name,,第93章　終焉の幕開け,第93章 终焉开幕
 0-synopsis,,姬塔達は緋色の騎士、黄金の騎士と引き分けるが、すでにエキドナと島の星晶獣達は倒され、ギルベルトはその場にいなかった。一方、別行動のカイン達は島を出ようとしていたギルベルトに遭遇する。カインとラインハルザはギルベルトの幽世の力で島外に吹き飛ばされてしまうが、謎の男達により救助される。フードの男はギルベルトを止めてほしいと姬塔に伝えるよう、カイン達に依頼するのだった。,正在姬塔一行人与绯骑士以及金骑士打得不可开交之时，吉尔伯特已经打倒了艾奇多娜和在这座岛上的星晶兽们。另一方面，分头行动的该隐他们遇到了即将离开这座岛屿的吉尔伯特。该隐和莱茵哈萨被吉尔伯特持有的幽世之力击飞到了岛外，却被一个神秘男子及其同伴给救了下来。这个戴兜帽的男子拜托该隐，务必要向姬塔传达阻止吉尔伯特的讯息。
 0,緋色の騎士,…………,…………
 1,黄金の騎士/金骑士,……ほう。,……哦。
@@ -15,7 +15,7 @@ id,name,text,trans
 13,,<span class='scene-font-katari'>エキドナも星晶獣も皆一様に、</span><br><span class='scene-font-katari'>地面に倒れ伏していた。</span>,在那边，<br>艾奇多娜和星晶兽全都倒在地上，<br>一动不动。
 15,ルリア/露莉亚,だ、大丈夫ですかっ！？,没、没事吧！？
 16,,<span class='scene-font-katari'>慌てて駆け寄った姬塔は、</span><br><span class='scene-font-katari'>エキドナにまだ</span><br><span class='scene-font-katari'>息があることを確認する。</span>,姬塔一行人连忙跑了过去，<br>确认了艾奇多娜还存有一丝气息。
-17,,<span class='scene-font-katari'>しかし、それ以外の、</span><br><span class='scene-font-place'>ベスティエ島</span><span class='scene-font-katari'>の星晶獣達は、</span><br><span class='scene-font-katari'>最悪の結末を迎えようとしていた。</span>,但是，贝斯缇耶岛上的星晶兽<br>却迎来了最坏的结局。
+17,,<span class='scene-font-katari'>しかし、それ以外の、</span><br><span class='scene-font-place'>ベスティエ島</span><span class='scene-font-katari'>の星晶獣達は、</span><br><span class='scene-font-katari'>最悪の結末を迎えようとしていた。</span>,<span class='scene-font-katari'>但是，</span><span class='scene-font-place'>贝斯缇耶岛</span><span class='scene-font-katari'>上的星晶兽</span><br><span class='scene-font-katari'>却迎来了最坏的结局。</span>
 21,ラカム/拉卡姆,なんだ……？<br>急に光が……,怎么了……？<br>突然出现的光芒是……
 29,,<span class='scene-font-katari'>倒れ伏す星晶獣達は、</span><br><span class='scene-font-katari'>その身体を徐々に光に変えると、</span><br><span class='scene-font-katari'>やがて光を弾けさせ、姿を消す。</span>,星晶兽们的身体开始变成光粒，<br>最终光芒四散而去，随风消逝了。
 30,,<span class='scene-font-katari'>一つ、また一つと光は散っていき、</span><br><span class='scene-font-katari'>その場に残った島の星晶獣は、</span><br><span class='scene-font-katari'>ついにエキドナのみとなったのだった。</span>,星晶兽们接二连三地变成光芒消散，<br>没过多久，还留在原地的星晶兽<br>就只剩下艾奇多娜一个了。

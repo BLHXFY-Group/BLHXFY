@@ -1,7 +1,7 @@
 id,name,text,trans
 0-chapter_name,,第103章　最後の鍵,第103章 最后的钥匙
-0-synopsis,,<span class='scene-font-place'>ライヒェ島</span>の王宮にて、黄金の騎士はドランク、スツルム、オーキスから緋色の騎士について信じがたい調査結果の報告を受けていた。緋色の騎士に加えギルベルトの行動にも不可解な点がある上、それらを見逃す真王陛下の意図もわからず、黄金の騎士は不安を隠しきれない。そんな中、レジスタンスの中にイデルバの者の姿を見たとの報告が入り、黄金の騎士は前線へと向うのだった。,在莱耶岛的王宫之中，金骑士从德朗克、斯特姆和欧姬丝那里，听到了和绯骑士相关的、令人难以置信的调查报告。除了绯骑士之外，吉尔伯特的行动也有令人无法理解的地方，而真王对此睁一只眼闭一只眼的原因也尚不明确，这令金骑士陷入了不安之中。与此同时，士兵们发来报告说看到反抗军中混入了伊德尔瓦的人，于是金骑士立刻向前线进发。
-1,,<span class='scene-font-katari'>レム王国は</span><span class='scene-font-place'>ライヒェ島</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>王宮の一室で、黄金の騎士アリアは</span><br><span class='scene-font-katari'>不安そうに城下を眺めていた。</span>,在隶属于雷姆王国的莱耶岛上，<br>金骑士正在王宫中的某个房间中，<br>不安地看着城下。
+0-synopsis,,<span class='scene-font-place'>ライヒェ島</span>の王宮にて、黄金の騎士はドランク、スツルム、オーキスから緋色の騎士について信じがたい調査結果の報告を受けていた。緋色の騎士に加えギルベルトの行動にも不可解な点がある上、それらを見逃す真王陛下の意図もわからず、黄金の騎士は不安を隠しきれない。そんな中、レジスタンスの中にイデルバの者の姿を見たとの報告が入り、黄金の騎士は前線へと向うのだった。,在<span class='scene-font-place'>莱耶岛</span>的王宫之中，金骑士从德朗克、斯特姆和欧姬丝那里，听到了和绯骑士相关的、令人难以置信的调查报告。除了绯骑士之外，吉尔伯特的行动也有令人无法理解的地方，而真王对此睁一只眼闭一只眼的原因也尚不明确，这令金骑士陷入了不安之中。与此同时，士兵们发来报告说看到反抗军中混入了伊德尔瓦的人，于是金骑士立刻向前线进发。
+1,,<span class='scene-font-katari'>レム王国は</span><span class='scene-font-place'>ライヒェ島</span><span class='scene-font-katari'>の</span><br><span class='scene-font-katari'>王宮の一室で、黄金の騎士アリアは</span><br><span class='scene-font-katari'>不安そうに城下を眺めていた。</span>,<span class='scene-font-katari'>在隶属于雷姆王国的</span><span class='scene-font-place'>莱耶岛</span><span class='scene-font-katari'>上，</span><br><span class='scene-font-katari'>金骑士正在王宫中的某个房间中，</span><br><span class='scene-font-katari'>不安地看着城下。</span>
 2,黄金の騎士/金骑士,…………,…………
 4,ドランク/德朗克,……街の様子が気になるのかな？<br>何か時期や報告を待ってたりとか？,……你很在意城里的状况吗？<br>是在等什待么时机或者报告之类的吗？
 6,黄金の騎士/金骑士,要点の守りは、<br>アニシダ達に任せてあります。<br>彼女達の能力に不安はありません。,我已经把守卫要地的任务<br>交给了阿尼希妲她们。<br>对于她们的能力，我没有任何不放心的地方。
@@ -11,9 +11,9 @@ id,name,text,trans
 10,黄金の騎士/金骑士,バラゴナの件について、<br>あの調査結果は真実なのですね？,关于巴拉格纳的事，<br>那个调查结果是真的吗？
 11,スツルム/斯特姆,嘘を報告する理由が無い。<br>それに、仕事は仕事だ。,我们没有理由汇报谎言。<br>而且，工作就是工作。
 12,スツルム/斯特姆,まぁ……<br>あの内容に<br>驚かなかったとは言わないけどな。,不过……<br>这并不代表我不为那个调查结果<br>感到惊讶。
-13,ドランク/德朗克,<span class='scene-font-place'>白風の境</span>で<br>見逃してもらった恩もあるし……,还有你在白风之境<br>放过我们的恩情……
+13,ドランク/德朗克,<span class='scene-font-place'>白風の境</span>で<br>見逃してもらった恩もあるし……,还有你在<span class='scene-font-place'>白风之境</span><br>放过我们的恩情……
 14,ドランク/德朗克,こういう仕事を<br>口八丁で誤魔化そうとは思わないなぁ。,对于你指派的工作，<br>我怎么可能会用花言巧语打发过去呢。
-15,,<span class='scene-font-katari'>かつてドランクは、</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>の砦で黄金の騎士と、</span><br><span class='scene-font-katari'>一つの密約を交わしていた。</span>,德朗克曾在白风之境与金骑士<br>达成了一项秘密协议。
+15,,<span class='scene-font-katari'>かつてドランクは、</span><br><span class='scene-font-place'>白風の境</span><span class='scene-font-katari'>の砦で黄金の騎士と、</span><br><span class='scene-font-katari'>一つの密約を交わしていた。</span>,<span class='scene-font-katari'>德朗克曾在</span><span class='scene-font-place'>白风之境</span><span class='scene-font-katari'>与金骑士</span><br><span class='scene-font-katari'>达成了一项秘密协议。</span>
 16,,<span class='scene-font-katari'>それは、その場からの脱出を</span><br><span class='scene-font-katari'>見逃す代わりに、いずれ力を貸す、</span><br><span class='scene-font-katari'>というものであり……</span>,那时候，金骑士放过了<br>从据点中逃出的众人。<br>作为回报，她要德朗克帮她办一件事……
 17,,<span class='scene-font-katari'>ナル・グランデ空域に渡って以降、</span><br><span class='scene-font-katari'>ドランク達は黄金の騎士の元、</span><br><span class='scene-font-katari'>緋色の騎士の調査にあたっていた。</span>,自从德朗克一行人到达纳尔·格兰德空域，<br>就一直在金骑士的手下<br>调查有关绯骑士的事情。
 18,黄金の騎士/金骑士,間違いはない、というのか……<br>この内容が……,你是说，<br>这个情报准确无误是吗……

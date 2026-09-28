@@ -1,5 +1,5 @@
 id,name,text,trans
-1,,姬塔の故郷、\nザンクティンゼルで\n一夜を過ごした姬塔一行。,<span class='scene-font-katari'>姬塔一行人在故乡赞克汀泽</span>\n<span class='scene-font-katari'>度过了一夜。</span>
+1,,姬塔の故郷、\n<span class='scene-font-place'>ザンクティンゼル</span>で\n一夜を過ごした姬塔一行。,<span class='scene-font-katari'>姬塔一行人在故乡</span><span class='scene-font-place'>赞克汀泽</span>\n<span class='scene-font-katari'>度过了一夜。</span>
 2,,これからの旅への覚悟を固め、\n仲間達は\nグランサイファーの前に集合する。,他们聚集在格兰赛法前，\n重新确认此次旅行的决心。
 7,ルリア/露莉亚,イオちゃん……\nすっごく眠そうですけど、\n大丈夫ですか？,小伊欧……\n你看上去很困的样子，\n没事吧？
 8,イオ/伊欧,ふわ……ん……\nずっと考え事してたら、\nなかなか眠れなくて……,呼哇……\n翻来覆去想事情，\n几乎没怎么睡呢。
@@ -19,13 +19,13 @@ id,name,text,trans
 22,カタリナ/卡塔莉娜,<span class='scene-font-spword'>空図の欠片</span>を集めるには、\n何よりまず情報が必要だろう。,要收集<span class='scene-font-spword'>空图碎片</span>，<br>首先最重要的是情报。
 23,ロゼッタ/萝赛塔,そうね……\nまずは星晶獣が根付いている島を\n探す必要があるわ。,是呢，\n所以先得去寻找\n与星晶兽有关联的岛屿。
 24,リーシャ/莉夏,<span class='scene-font-place'>アマルティア島</span>に向かいましょう……\n秩序の騎空団の資料庫には、\n各島の情報もあるはずですから。,去<span class='scene-font-place'>阿玛提亚岛</span>吧！\n秩序骑空团的资料库\n应该收集了每个岛屿的信息！
-25,,リーシャの提案に賛同した一行は、\nザンクティンゼルに別れを告げ、\nアマルティア島へと向かう。,一行人赞同莉夏的提议，\n告别了赞克汀泽，\n前往阿玛提亚岛。
+25,,リーシャの提案に賛同した一行は、\n<span class='scene-font-place'>ザンクティンゼル</span>に別れを告げ、\n<span class='scene-font-place'>アマルティア島</span>へと向かう。,<span class='scene-font-katari'>一行人赞同莉夏的提议，</span>\n<span class='scene-font-katari'>告别了</span><span class='scene-font-place'>赞克汀泽</span><span class='scene-font-katari'>，</span>\n<span class='scene-font-katari'>前往</span><span class='scene-font-place'>阿玛提亚岛</span><span class='scene-font-katari'>。</span>
 29,,旅路の途中、甲板の隅で不安げな表情の\nリーシャを見かけた姬塔達は\n何事かと声をかける。,在旅途之中，姬塔等人看到莉夏\n在甲板角落露出了不安的神情，\n便上前询问。
 30,リーシャ/莉夏,ごめんなさい……\n私、昨日言ったことを、\n翻すことになるかもしれません。,对不起……\n我之后可能会\n收回昨天所说的话。
 31,リーシャ/莉夏,姬塔さん達と、\n旅を続けたいという気持ちは、\n私の中で変わっていません……,在我心中，\n和姬塔你们一起旅行的想法\n并没有改变。
 32,リーシャ/莉夏,ですが……よくよく考えれば、\nエルステ帝国が\n崩壊してしまった以上……,但是，仔细想想的话，\n现在埃尔斯特帝国已经覆灭……
 33,リーシャ/莉夏,秩序の騎空団は、\n私に新たな任務を下すかもしれません。,秩序骑空团可能会\n给予我新的任务也说不定。
-34,,リーシャに告げられた可能性に\n不安を覚えながらも、艇は\nアマルティア島へと到着する。,姬塔为莉夏提出的一种可能感到担忧。\n不久后，飞艇到达了阿玛提亚岛。
+34,,リーシャに告げられた可能性に\n不安を覚えながらも、艇は\n<span class='scene-font-place'>アマルティア島</span>へと到着する。,<span class='scene-font-katari'>姬塔为莉夏提出的一种可能感到担忧。</span>\n<span class='scene-font-katari'>不久后，飞艇到达了</span><span class='scene-font-place'>阿玛提亚岛</span><span class='scene-font-katari'>。</span>
 40,リーシャ/莉夏,私、モニカさんを探してきます。\n皆さんは先に行っててください。,我去找找莫妮卡，\n诸位请先行一步吧。
 43,,今後のことを相談するため、リーシャは\nひとり心当たりのある場所を探すが、\n庁舎内にモニカの姿は見つからない。,为了寻求今后安排的意见，\n莉夏找遍了莫妮卡所有有可能在的地方，\n却始终没有找到。
 44,,思案しながら歩いていたリーシャは、\n秩序の騎空団の団員を見つけて\n声をかけた。,一边思考一边在办公楼里走着的她，\n朝偶然撞见的一名秩序骑空团团员搭话。
@@ -44,7 +44,7 @@ id,name,text,trans
 60,リーシャ/莉夏,（でも……父さんに確認して、\n二人が一緒にいると\n本当に危険だとわかったら……？）,（可是……如果和父亲确认后，\n她们俩在一起真的很危险的话……）
 61,リーシャ/莉夏,（私は……\nルリアとビィくんを……\n二人を引き離すことが出来るの……？）,（我真的能让露莉亚和碧分开吗？）
 62,,思わず想像した最悪の光景は、\nリーシャの脳裏から離れないまま、\n彼女を苦しめる。,最坏的想象在莉夏脑中挥之不去，\n令她苦恼不已。
-66,,かなりの迷いがあったものの、\nダイダロイトベルトへ向かうことを、\nリーシャは一行に提案していた。,<span class='scene-font-katari'>尽管心中充满迷茫，</span>\n<span class='scene-font-katari'>但她还是向姬塔一行提议，</span>\n<span class='scene-font-katari'>前往碎石环。</span>
+66,,かなりの迷いがあったものの、\n<span class='scene-font-place'>ダイダロイトベルト</span>へ向かうことを、\nリーシャは一行に提案していた。,<span class='scene-font-katari'>尽管心中充满迷茫，</span>\n<span class='scene-font-katari'>但她还是向姬塔一行提议，</span>\n<span class='scene-font-katari'>前往</span><span class='scene-font-place'>碎石环</span><span class='scene-font-katari'>。</span>
 67,カタリナ/卡塔莉娜,<span class='scene-font-place'>ダイダロイトベルト</span>とは確か……\n帯のような形で空域を跨って存在する、\n特殊な列島だったな。,可以肯定的是，\n<span class='scene-font-place'>碎石环</span>是一个特殊的群岛，\n以带状的形式横跨空域。
 68,リーシャ/莉夏,この空域では瘴流に最も近い島\nであるため、各国の共同調査基地が\n置かれている場所でもあります。,在这个空域，\n它是最靠近瘴流域的岛屿，\n因此各个国家在此设立了联合研究基地。
 69,リーシャ/莉夏,現在、モニカさんは、\nこの<span class='scene-font-place'>ダイダロイトベルト</span>に、\n父さんを迎えに行っているそうです。,目前，据说莫妮卡\n将在<span class='scene-font-place'>碎石环</span>上迎接父亲。
@@ -54,7 +54,7 @@ id,name,text,trans
 73,カタリナ/卡塔莉娜,七曜の騎士ともなれば多忙だろう……\nこの機会を逃すのは、\nもったいないな……,七曜骑士大都比较忙的吧，\n错过这次机会可就太可惜了。
 74,ラカム/拉卡姆,んじゃ、次に向かうのは、\nその<span class='scene-font-place'>ダイダロイトベルト</span>だな！,那么，接下来要去的地方就是\n<span class='scene-font-place'>碎石环</span>了吧。
 75,ラカム/拉卡姆,入れ違いになっちゃ、面倒だ……\nすぐに出るぞ！　準備してくれ！,如果错过的话就很麻烦了吧，\n即刻动身，\n大家都准备准备！
-76,,ラカムの号令で、姬塔達は\nグランサイファーに乗り込み、\nダイダロイトベルトへ向かう。,<span class='scene-font-katari'>随着拉卡姆的口号，</span>\n<span class='scene-font-katari'>姬塔等人登上格兰赛法，</span>\n<span class='scene-font-katari'>向着碎石环进发。</span>
+76,,ラカムの号令で、姬塔達は\nグランサイファーに乗り込み、\n<span class='scene-font-place'>ダイダロイトベルト</span>へ向かう。,<span class='scene-font-katari'>随着拉卡姆的口号，</span>\n<span class='scene-font-katari'>姬塔等人登上格兰赛法，</span>\n<span class='scene-font-katari'>向着</span><span class='scene-font-place'>碎石环</span><span class='scene-font-katari'>进发。</span>
 80,ビィ/碧,なぁなぁ！　リーシャの親父さんは、\n瘴流域を抜けて、\n別の空域から来るんだよな？,喂喂！莉夏的父亲\n是穿过了瘴流域，\n从别的空域过来的吧？
 81,ビィ/碧,ってことは、リーシャの親父さんも、\n姬塔の親父さんと同じように、\n<span class='scene-font-spword'>空図の欠片</span>を持ってんのか？,难道说莉夏的父亲也和姬塔的老爹一样，\n都有<span class='scene-font-spword'>空图碎片</span>吗？
 82,リーシャ/莉夏,いえ……\n私も詳しくは知らないんですが……,虽然我并不清楚详情，\n但应该不是……
@@ -66,7 +66,7 @@ id,name,text,trans
 88,,そんな折、まるで凪が訪れたかのように、\n騎空艇を襲っていた暴風が、\nぱたりと止む。,就在这时，袭向格兰赛法的狂风\n忽然间止住了。
 89,ビィ/碧,お、おい、あれ！\nあれがもしかして……,喂！\n难道说那个是！
 90,ラカム/拉卡姆,瘴流域……か。,瘴流域……吗？
-94,,ダイダロイトベルトを目指す、\n姬塔一行の前に、\nついに瘴流域が姿を現す。,<span class='scene-font-katari'>瘴流域终于出现在了</span>\n<span class='scene-font-katari'>前往碎石环途中的姬塔一行面前。</span>
+94,,<span class='scene-font-place'>ダイダロイトベルト</span>を目指す、\n姬塔一行の前に、\nついに瘴流域が姿を現す。,<span class='scene-font-katari'>瘴流域终于出现在了</span>\n<span class='scene-font-katari'>前往</span><span class='scene-font-place'>碎石环</span><span class='scene-font-katari'>途中的姬塔一行面前。</span>
 95,,空域を分かつその巨大な隔たりは、\n見る者全てを圧倒し、\n果てない黒雲は恐怖すら与える。,这片足以分隔空域的巨大屏障\n就这样耸立在众人面前，\n延绵不尽的黑云令所有见者心生畏惧。
 96,,そしてこの瘴流域の遥か彼方では、\n更なる脅威と陰謀が、\n一行を待ち受けているのだった。,而在这瘴流域的彼岸，\n更大的威胁和阴谋正等待着他们。
 info,,,scene_retold_cp011_q1_s10

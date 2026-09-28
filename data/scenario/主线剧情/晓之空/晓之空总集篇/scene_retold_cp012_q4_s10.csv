@@ -1,8 +1,8 @@
 id,name,text,trans
-10,,一行が見守る中、空図の欠片は\n光を帯び、一筋の閃光となって\n彼方まで瘴流域を切り裂く。,在一行人在注视下，空图碎片散发着光芒，\n汇成一道闪光射向远方，\n将瘴流域分为两半。
+10,,一行が見守る中、空図の欠片は\n光を帯び、一筋の閃光となって\n彼方まで瘴流域を切り裂く。,<span class='scene-font-katari'>在一行人在注视下，</span><span class='scene-font-spword'>空图碎片</span><span class='scene-font-katari'>散发着光芒，</span>\n<span class='scene-font-katari'>汇成一道闪光射向远方，</span>\n<span class='scene-font-katari'>将瘴流域分为两半。</span>
 20,カタリナ/卡塔莉娜,これが……<span class='scene-font-spword'>空図の欠片</span>の力か。,这就是……<span class='scene-font-spword'>空图碎片</span>的力量吗。
 21,スツルム/斯特姆,ようやく道が出来たんだ……\nさっさとあの馬鹿を助けに行くぞ！\n姬塔！,终于有路可走了，\n赶紧去救出那个笨蛋吧，姬塔！
-28,,スツルムに続き、道へと足を踏み入れた\n姬塔達は、やがて\n堅牢な砦を見つけ侵入する。,姬塔等人跟在斯特姆后面\n踏上了空图碎片开辟的道路，\n最后找到了并入侵了那座坚固的堡垒。
+28,,スツルムに続き、道へと足を踏み入れた\n姬塔達は、やがて\n堅牢な砦を見つけ侵入する。,<span class='scene-font-katari'>姬塔等人跟在斯特姆后面</span>\n<span class='scene-font-katari'>踏上了</span><span class='scene-font-spword'>空图碎片</span><span class='scene-font-katari'>开辟的道路，</span>\n<span class='scene-font-katari'>最后找到了并入侵了那座坚固的堡垒。</span>
 39,,姬塔達が起こした騒動により\n慌ただしく駆け回る兵士達の様子を、\nイオ達は牢の中で眺めていた。,士兵们因姬塔等人引起的骚动\n慌忙地四处奔走起来，\n这幅景象被伊欧等人看在眼里。
 40,イオ/伊欧,みんな行っちゃった……\nいったい何が起きてるの……？,人都走了诶。\n到底发生什么了？
 41,ドランク/德朗克,んふふ～……\n来たんだろうね、助けがさ。,嗯哼哼……\n看来援军赶到了呢。

@@ -34,7 +34,7 @@ id,en,jp,trans
 32,"Oh... Well, thank you.",はぁ……ありがとうございます。,哈……十分感激。
 33,"The woman slowly comes out of her daze. Regaining her wits, she begins to stand up.",<span class='scene-font-katari'>女性は徐々に</span><br><span class='scene-font-katari'>ハッキリとした意識を取り戻しながら、</span><br><span class='scene-font-katari'>バラゴナに礼を述べ、立ち上がる。</span>,这位女性逐渐恢复了神志，<br>在感谢了巴拉格纳之后，她站了起来。
 34,"Her eyes are clear, showing no trace of the empty gaze from before.",<span class='scene-font-katari'>その足取りはしっかりしたものであり、</span><br><span class='scene-font-katari'>先ほどまでの虚ろな様子は、</span><br><span class='scene-font-katari'>どこにも無かった。</span>,这回她的步态很稳，<br>完全不同于之前那副毫无生气的样子。
-35,"By the way, miss, have any airships arrived in Lumacie recently？",ところでご婦人……<br>この<span class='scene-font-place'>ルーマシー群島</span>に、<br>いま艇は来ていませんか？,这位女士，顺便一问，<br>有船只来到这个<span class='scene-font-place'>露玛茜群岛</span>吗？
+35,"By the way, miss, have any airships arrived in Lumacie recently？",ところでご婦人……<br>この<span class='scene-font-place'>ルーマシー群島</span>に、<br>いま艇は来ていませんか？,这位女士，顺便一问，<br>最近有船只来到这个<span class='scene-font-place'>露玛茜群岛</span>吗？
 36,Airships？Why yes. A fleet of merchant ships arrived the other day. They should still be docked at the port.,艇なら……そうですね、<br>この間来た商船団が、<br>まだ港に居ると思いますよ。,船吗？我想想……<br>前阵子来到此地的商船，<br>应该还停留在港口那边。
 37,Is that so？You have my gratitude！,そうですか！<br>それはありがたい……,是这样吗，感恩不尽。
 38,"But sir knight, please allow me to thank you properly, with a meal perhaps？",あの、それより騎士様……<br>何かお礼をさせていただけませんか？<br>ささやかですが、うちでお食事でも……,嗯，比起这个，骑士大人，<br>能让我做点什么作为回报吗？<br>即使是在我家吃一顿饭这样小小的回报也行。
@@ -42,6 +42,6 @@ id,en,jp,trans
 40,Baragona smiles gently as the woman bows her head and sets off toward the village.,<span class='scene-font-katari'>その後、何度も頭を下げながら、</span><br><span class='scene-font-katari'>村の方角へと去っていく女性を、</span><br><span class='scene-font-katari'>バラゴナは笑顔で見送る。</span>,在那之后，这位女性向他数次低头道谢，<br>然后就朝着村子的方向去了，<br>巴拉格纳微笑着送走了她。
 41,"She disappears into the distance, and he lets out a heavy sigh.",<span class='scene-font-katari'>そうして女性の姿が見えなくなると、</span><br><span class='scene-font-katari'>バラゴナは、</span><br><span class='scene-font-katari'>大きなため息をついた。</span>,然后，在女性的身影彻底离开视线之后，<br>巴拉格纳重重地叹了口气。
 42,Good grief... I never get used to talking to oracles.,やれやれ……<br>やはりシビュレを通した連絡は、<br>どうにも慣れませんね……,哎哟……\n我到底还是没法习惯\n通过西比拉进行联络啊……
-43,"Shrugging his shoulders, Baragona makes his way toward the port. He wonders what lies in store for him at the Dydroit Belt.",<span class='scene-font-katari'>そう言って肩をすくめながらバラゴナは、</span><br><span class='scene-font-place'>ダイダロイトベルト</span><span class='scene-font-katari'>へ向かうべく</span><br><span class='scene-font-katari'>港へと歩を進めるのだった。</span>,巴拉格纳这么说着，耸了耸肩，<br>然后朝着港口那边走去了，<br>他很好奇在碎石环那里有什么等着他。
+43,"Shrugging his shoulders, Baragona makes his way toward the port. He wonders what lies in store for him at the Dydroit Belt.",<span class='scene-font-katari'>そう言って肩をすくめながらバラゴナは、</span><br><span class='scene-font-place'>ダイダロイトベルト</span><span class='scene-font-katari'>へ向かうべく</span><br><span class='scene-font-katari'>港へと歩を進めるのだった。</span>,<span class='scene-font-katari'>巴拉格纳这么说着，耸了耸肩，</span><br><span class='scene-font-katari'>然后朝着港口那边走去了，</span><br><span class='scene-font-katari'>他很好奇在</span><span class='scene-font-place'>碎石环</span><span class='scene-font-katari'>那里有什么等着他。</span>
 info,1,1,scene_cp66_q1_s10
 ,,,

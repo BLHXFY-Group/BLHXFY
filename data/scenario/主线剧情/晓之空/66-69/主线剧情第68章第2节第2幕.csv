@@ -7,7 +7,7 @@ id,en,jp,trans
 3,But isn't it a little impulsive to run wild over that？,でも、それだけで失控しちゃうのは、<br>ちょっとこらえ性が<br>無いんじゃないかしら？,但是，只是这样就失控了，<br>忍受力未免也太差了点吧？
 4,"I dunno, but now that you mention it...",オイラわかんねぇけど……<br>言われてみりゃ、そうなの……か？,我不知道，<br>但是你这么说的话，<br>好像确实如此？
 5,"I'm not sure what to think either, since its presence kept appearing and disappearing.",星晶獣の気配は、<br>急に現れたり消えたりしてて、<br>私にもよくわかりません……,星晶兽的气息<br>也是很快出现很快消失的，<br>我也不太清楚。
-6,The Erste Empire doesn't seem to be involved in the Dydroit Belt.,このダイダロイトベルトには、<br>エルステ帝国も<br>関わってないみたいだし……,埃尔斯特帝国和这个碎石环地区<br>好像没有什么关联。
+6,The Erste Empire doesn't seem to be involved in the Dydroit Belt.,このダイダロイトベルトには、<br>エルステ帝国も<br>関わってないみたいだし……,埃尔斯特帝国和这个<span class='scene-font-place'>碎石环</span>地区<br>好像没有什么关联。
 7,"But perhaps there's another reason behind all this. So Ally, what do you think？",もしかして、<br>何か他にも原因があるんじゃないかしら。<br>ねぇ……？　アリアちゃん？,或许这背后还有着其它什么原因，<br>是这样的吧，小阿莉亚？
 8,"First, don't call me that.",……まず、<br>その呼び方をやめていただけますか。,首先，可以不要这样称呼我吗。
 9,Oh？I thought you told us to call you by your name.,あら……<br>名前で呼ぶように言ったのは、<br>貴女だったように思うのだけれど？,哎呀，用名字来称呼你，<br>不是你自己说的吗？
@@ -56,5 +56,5 @@ id,en,jp,trans
 57,"Unfortunately, I don't have any real proof that he's meddled with Kikuri.",残念ながら……<br>確かに奴がキクリに細工をしたという<br>確たる証拠はありません。,很遗憾，<br>我确实没有任何确凿证据<br>证明那个家伙对菊理动了手脚。
 58,But it seems there's something strange behind this disturbance.,けれど……<br>この騒動には何か裏があるみたいね。,但是这场骚动背后，<br>似乎确实有什么内幕呢。
 59,"I know we want to find everyone quickly, but we must move carefully.",早く皆を見つけたいところだけど、<br>十分に警戒しながら進みましょ。,我很想尽快找到走失的伙伴们，<br>但现在还是保持十分警惕前进吧。
-60,姬塔 nods back at her as the gang pushes on through the winds and wild beasts of the Dydroit Belt.,<span class='scene-font-katari'>その言葉に姬塔は頷きを返し、</span><br><span class='scene-font-katari'>一行は強風と魔物の舞う</span><br><span class='scene-font-katari'>ダイダロイトベルトを進む。</span>,姬塔对这句话点头赞成，<br>一行人继续在<br>充满着强风与魔物的碎石环中前进。
+60,姬塔 nods back at her as the gang pushes on through the winds and wild beasts of the Dydroit Belt.,<span class='scene-font-katari'>その言葉に姬塔は頷きを返し、</span><br><span class='scene-font-katari'>一行は強風と魔物の舞う</span><br><span class='scene-font-katari'>ダイダロイトベルトを進む。</span>,<span class='scene-font-katari'>姬塔对这句话点头赞成，</span><br><span class='scene-font-katari'>一行人继续在</span><br><span class='scene-font-katari'>充满着强风与魔物的</span><span class='scene-font-place'>碎石环</span><span class='scene-font-katari'>中前进。</span>
 info,1,1,scene_cp68_q2_s20

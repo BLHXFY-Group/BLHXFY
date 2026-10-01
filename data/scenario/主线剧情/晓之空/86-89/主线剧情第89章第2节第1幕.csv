@@ -4,8 +4,8 @@ id,name,text,trans
 1,レム王国兵士,ぐはっ……！,呜啊……！
 3,カタリナ/卡塔莉娜,よし……<br>なんとかこれで、<br>グランサイファーに乗りこめたな。,好了……<br>总算是成功登上了格兰赛法。
 4,ルリア/露莉亚,うう……<br>グランサイファーのこの感じ、<br>なんだかすっごく久しぶりです……,呜呜……<br>这种感觉，真的是格兰赛法，<br>总觉得好久不见了……
-4-sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>おかえり、ルリア</span></span>,欢迎回来，露莉亚
-4-sel2_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>ただいま、グランサイファー</span></span>,我回来了，格兰赛法
+4-sel1_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>おかえり、ルリア</span>,欢迎回来，露莉亚
+4-sel2_txt,,<span class='scene-font-katari'><span class='scene-font-katari'>ただいま、グランサイファー</span>,我回来了，格兰赛法
 5,ルリア/露莉亚,はいっ！<br>ただいま、です……！,是的！<br>我回来了……！
 6,ビィ/碧,へへっ……<br>よーやく我が家に帰ってきた、<br>って感じだよな！,呵呵……<br>好像终于回到自己的家了！
 7,ラカム/拉卡姆,残念だが……<br>そういうのはまだ、<br>おあずけしといたほうが良さそうだぜ。,只不过……<br>与其让它经历这种事，<br>说不定还不如把它交出去呢……

@@ -59,8 +59,8 @@ id,en,jp,trans
 58,So we've got to go. We've got to go save him.,だから……行かなくちゃ。<br>ドランクを、助けに。,所以……<br>我们必须去拯救德朗克。
 59,Orchid squeezes Sturm's hand reassuringly.,<span class='scene-font-katari'>そう言ってオーキスは、</span><br><span class='scene-font-katari'>スツルムの手を強く握る。</span>,欧姬丝这样说着，<br>紧紧握住了斯特姆的手。
 60,Now didn't you say these folks are with the Istavion Troop？,ふむ……なぁ、アンタ。その二人組は、<br>イスタバイオン軍の奴らだって<br>言ってたな？,嗯……我说，<br>你刚才说那个二人组<br>是伊斯塔拜恩军的家伙吧？
-61,That's what Drang had said. The Istavion Troop from Oarlyegrande.,ドランクは……そう話していたな。<br>アウライ・グランデの、<br>イスタバイオン軍だったか……,我记得德朗克是这么说的，<br>奥莱・格兰德空域的伊斯塔拜恩军。
-62,"Oarlyegrande, eh？Things get more complicated when skydom-crossing authorities are involved.",アウライ・グランデか……<br>空域を跨ぐ組織が関わっているとなると、<br>事は想像以上に厄介だな……,奥莱・格兰德空域吗……<br>如果牵扯到跨空域的组织，<br>事情可能比我们想象的要复杂。
+61,That's what Drang had said. The Istavion Troop from Oarlyegrande.,ドランクは……そう話していたな。<br>アウライ・グランデの、<br>イスタバイオン軍だったか……,我记得德朗克是这么说的，<br>奥莱·格兰德空域的伊斯塔拜恩军。
+62,"Oarlyegrande, eh？Things get more complicated when skydom-crossing authorities are involved.",アウライ・グランデか……<br>空域を跨ぐ組織が関わっているとなると、<br>事は想像以上に厄介だな……,奥莱·格兰德空域吗……<br>如果牵扯到跨空域的组织，<br>事情可能比我们想象的要复杂。
 63,"Yeah, and I know I'm in no place to ask this of you.",ああ……<br>こんなことを頼めた立場じゃないのは、<br>アタシも承知の上だ。,是的，我也知道自己<br>并不是能向你们拜托的立场。
 64,But I need your power to get him back from those two.,それでも、<br>いま、お前達の力が必要なんだ……<br>あいつらからドランクを助け出すために。,但是即便如此，<br>救出德朗克也需要你们的力量。
 65,"What do you say, 姬塔？Will you help me？",だから頼む……姬塔。<br>アタシに力を貸してくれないか？,所以拜托你了，姬塔。<br>可以助我一臂之力吗？
@@ -99,6 +99,6 @@ id,en,jp,trans
 96,"You're right. In any case, be careful out there！",はい……<br>でも……気を付けてくださいね。,是的……<br>但是你们也要小心。
 97,The people who've got Drang sound a bit different from the people we've come across so far.,ドランクさんを攫ったのは、<br>いままでとは、<br>また少し違った相手のようですから……,把德朗克抓走的，<br>是与至今为止都不太一样的对手。
 98,姬塔 nods reassuringly at Lecia.,<span class='scene-font-katari'>リーシャの言葉に、</span><br><span class='scene-font-katari'>姬塔は力強く頷きを返す。</span>,姬塔点头肯定了<br>莉夏所说的话。
-99,"As they depart to rescue Drang, the crew bid farewell to Lecia and leave the city of Mephorash behind them.",<span class='scene-font-katari'>こうして一行はリーシャと別れ、</span><br><span class='scene-font-katari'>ドランクを助け出すため、</span><br><span class='scene-font-place'>メフォラシュ</span><span class='scene-font-katari'>を後にしたのだった。</span>,就这样，众人告别了莉夏，<br>然后为了救出德朗克，<br>离开了梅佛拉修。
+99,"As they depart to rescue Drang, the crew bid farewell to Lecia and leave the city of Mephorash behind them.",<span class='scene-font-katari'>こうして一行はリーシャと別れ、</span><br><span class='scene-font-katari'>ドランクを助け出すため、</span><br><span class='scene-font-place'>メフォラシュ</span><span class='scene-font-katari'>を後にしたのだった。</span>,<span class='scene-font-katari'>就这样，众人告别了莉夏，</span><br><span class='scene-font-katari'>然后为了救出德朗克，</span><br><span class='scene-font-katari'>离开了</span><span class='scene-font-place'>美佛拉修</span><span class='scene-font-katari'>。</span>
 info,1,1,scene_cp74_q1_s10
 ,,,

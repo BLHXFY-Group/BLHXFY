@@ -1,6 +1,6 @@
 id,name,text,trans
 0-chapter_name,,第110章　真実の守り人,第110章 真相的守护者
-0-synopsis,,「天罰」が起きる前。真王に対抗し、トリッド王家は鍵となる自分達の一族を根絶やしにする事を決め、真王が一族の抹殺を命じるように仕向けた。一族を次々に殺したバラゴナは、アベルの説得によりハルヴァーダを守る決意をし、自分ごとグレートウォールを破壊する計画を遂行したのだった。しかし今、姬塔は「誰も死なせたりしない！」とバラゴナに相対する。,在“天罚”发生之前，为了对抗真王，特里德王室决定断绝作为钥匙的自己一族的血脉，故意引导真王下令抹杀一族。将族人一个个杀死的巴拉格纳，在亚伯的劝说下决定保护哈尔瓦达，制定并执行了将自己和长城一并破坏的计划。但是现在，姬塔却以“不会让任何人死去！”的信念与巴拉格纳相对。
+0-synopsis,,「天罰」が起きる前。真王に対抗し、トリッド王室は鍵となる自分達の一族を根絶やしにする事を決め、真王が一族の抹殺を命じるように仕向けた。一族を次々に殺したバラゴナは、アベルの説得によりハルヴァーダを守る決意をし、自分ごとグレートウォールを破壊する計画を遂行したのだった。しかし今、姬塔は「誰も死なせたりしない！」とバラゴナに相対する。,在“天罚”发生之前，为了对抗真王，特里德王室决定断绝作为钥匙的自己一族的血脉，故意引导真王下令抹杀一族。将族人一个个杀死的巴拉格纳，在亚伯的劝说下决定保护哈尔瓦达，制定并执行了将自己和长城一并破坏的计划。但是现在，姬塔却以“不会让任何人死去！”的信念与巴拉格纳相对。
 6,,<span class='scene-font-gray'>──ナル・グランデの空には、</span><br><span class='scene-font-gray'>他の空域では見られないものがあった。</span>,纳尔·格兰德的天空中，<br>有着在其他空域中<br>无法见到的东西。
 7,,<span class='scene-font-gray'>グレートウォール。</span>,长城。
 8,,<span class='scene-font-gray'>それは私が生まれる前から、</span><br><span class='scene-font-gray'>ただそこに漂っていた。</span>,在我出生之前，<br>它就已经漂浮在那了。
@@ -9,26 +9,26 @@ id,name,text,trans
 11,,<span class='scene-font-gray'>グレートウォールは、</span><br><span class='scene-font-gray'>いったい何故、そこにあるのか。</span>,长城究竟为什么会在那里。
 12,,<span class='scene-font-gray'>ナル・グランデ空域には、</span><br><span class='scene-font-gray'>どうして、グレートウォールが、</span><br><span class='scene-font-gray'>存在してしまったのか。</span>,为什么长城会存在于<br>这片纳尔·格兰德空域之中呢。
 13,,<span class='scene-font-gray'>何故、私達の一族は、</span><br><span class='scene-font-gray'>過酷な運命を</span><br><span class='scene-font-gray'>歩まねばならなかったのか──</span>,为什么，我们一族<br>必须走上这条过于残酷的命运之路呢——
-19,トリッド王家１,────,————
-22,トリッド王家１,────,————
+19,トリッド王室１,────,————
+22,トリッド王室１,────,————
 24,緋色の騎士,<span class='scene-font-kokoro'>（どうして、</span><br><span class='scene-font-kokoro'>こんなことになってしまったのか……）</span>,（为什么，<br>事情会变成这样……）
-30,トリッド王家２,────,————
-33,トリッド王家２,────,————
-34,,<span class='scene-font-katari'>ある者は望むように。</span><br><span class='scene-font-katari'>ある者は託すように。</span><br><span class='scene-font-katari'>ある者は怯えながら。</span>,有的人如愿以偿。<br>有的人像在托付。<br>还有的人面露惧色。
+30,トリッド王室２,────,————
+33,トリッド王室２,────,————
+34,,<span class='scene-font-katari'>ある者は望むように。</span><br><span class='scene-font-katari'>ある者は託すように。</span><br><span class='scene-font-katari'>ある者は怯えながら。</span>,有的人如愿以偿。<br>有的人像在托付。<br>有的人面露惧色。
 35,,<span class='scene-font-katari'>しかし、決して抵抗することなく、</span><br><span class='scene-font-katari'>バラゴナの親族達は、</span><br><span class='scene-font-katari'>緋色の刃の前に命を散らせていく。</span>,但他们最终都没有做出任何抵抗，<br>就这样死在了绯色的剑刃之下。
 36,緋色の騎士,<span class='scene-font-kokoro'>（父上……</span><br><span class='scene-font-kokoro'>これが貴方の望むものなのですか……）</span>,（父王……<br>这就是你所期望的吗……）
-42,トリッド王家３,────,————
-45,トリッド王家３,────,————
+42,トリッド王室３,────,————
+45,トリッド王室３,────,————
 46,,<span class='scene-font-katari'>無抵抗に倒れていく親族達。</span>,亲属们都毫无抵抗地倒在了地上。
 47,,<span class='scene-font-katari'>その全ては、バラゴナの父、</span><br><span class='scene-font-katari'>当代のトリッド王国国王が、</span><br><span class='scene-font-katari'>親族達と共に決めたことだった。</span>,这一切都是巴拉格纳的父王，<br>当时的特里德王国国王，<br>以及所有的亲属们一起决定的。
 53,,<span class='scene-font-gray'>当時、父上達は追い詰められていた。</span>,那时候，父王和他的同伴们<br>已经被逼入绝境。
 54,,<span class='scene-font-gray'>父上は高潔な人だった。</span><br><span class='scene-font-gray'>先代の緋色の座にふさわしく、</span><br><span class='scene-font-gray'>強く、使命感に満ちていた。</span>,父王是个高尚的人。<br>他和先代的绯色之座十分相称，<br>充满了强烈的使命感。
 55,,<span class='scene-font-gray'>しかし、その強い使命感ゆえに、</span><br><span class='scene-font-gray'>道を誤らざるをえなかった……</span>,但是，正是这种强烈的使命感，<br>使他走上了错误的道路……
 60,,<span class='scene-font-katari'>「天罰」が起きる少し前──</span>,就在“天罚”发生的不久之前——
-64,,<span class='scene-font-katari'>真王からグレートウォールの起動を</span><br><span class='scene-font-katari'>執拗に迫られていたトリッド王家は、</span><br><span class='scene-font-katari'>親族達でとある決断を下す。</span>,在真王执意启动长城的威胁之下，<br>特里德王室全体做出了这样的决断。
+64,,<span class='scene-font-katari'>真王からグレートウォールの起動を</span><br><span class='scene-font-katari'>執拗に迫られていたトリッド王室は、</span><br><span class='scene-font-katari'>親族達でとある決断を下す。</span>,在真王执意启动长城的威胁之下，<br>特里德王室全体做出了这样的决断。
 65,,<span class='scene-font-katari'>それは、どんな犠牲を払おうとも、</span><br><span class='scene-font-katari'>決してグレートウォールを</span><br><span class='scene-font-katari'>真王には渡さない、という決断だった。</span>,那就是，不论付出什么代价，<br>都绝对不会把长城交给真王。
 66,,<span class='scene-font-gray'>どんな犠牲を払おうとも……</span>,不论付出什么代价……
-67,,<span class='scene-font-gray'>父上達は、ナル・グランデを預かる</span><br><span class='scene-font-gray'>王家の使命に対して、</span><br><span class='scene-font-gray'>あまりに忠実過ぎた。</span>,父王他们对于纳尔·格兰德<br>赋予王王室的使命，<br>实在是太过忠诚了。
+67,,<span class='scene-font-gray'>父上達は、ナル・グランデを預かる</span><br><span class='scene-font-gray'>王室の使命に対して、</span><br><span class='scene-font-gray'>あまりに忠実過ぎた。</span>,父王他们对于纳尔·格兰德<br>赋予王王室的使命，<br>实在是太过忠诚了。
 68,,<span class='scene-font-katari'>グレートウォールを真王には渡さない。</span><br><span class='scene-font-katari'>決して起動させはしない。</span>,绝不能把长城交给真王。<br>绝不会让它启动。
 69,,<span class='scene-font-katari'>その方法は単純であり、</span><br><span class='scene-font-katari'>起動の鍵となる自分達の一族を</span><br><span class='scene-font-katari'>根絶やしにすることだった。</span>,其实方法非常简单，<br>只要让作为钥匙的一族<br>彻底根绝就行了。
 70,,<span class='scene-font-katari'>しかし、下手に動いては、</span><br><span class='scene-font-katari'>真王に計画を勘付かれてしまう──</span>,但是如果行动不当，<br>就会让真王察觉到这一计划——

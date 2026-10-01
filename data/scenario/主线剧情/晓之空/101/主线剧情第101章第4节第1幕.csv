@@ -89,13 +89,13 @@ id,name,text,trans
 108,フォリア/芙莉亚,妾には確かに罪がある。<br>じゃが、この国にも、この街にも、<br>この民達にも罪は無い。,妾身确实有罪。<br>但是这个国家，这个城市，<br>这些人民都是无辜的。
 109,フォリア/芙莉亚,これが、妾が王として出来る<br>最後の仕事じゃ……,这是妾身作为国王能做的<br>最后一件事了……
 110,,<span class='scene-font-katari'>フォリアの頼みを、</span><br><span class='scene-font-katari'>ギルベルトは二つ返事で受け入れる。</span>,吉尔伯特爽快接受了<br>芙莉亚的请求。
-111,ギルベルト,構いませんよ。<br>むしろ、罪人ながら見事な判断です。,无妨。<br>不如说，作为一个罪人，<br>你的判断倒是挺准确的。
+111,ギルベルト,構いませんよ。<br>むしろ、罪人ながら見事な判断です。,无妨。<br>不如说，作为一个罪人，<br>你的判断倒是还挺准确。
 112,ギルベルト,同じナル・グランデの民を<br>無暗に傷つけるのは、<br>私も本意ではありませんから。,毕竟，伤害纳尔·格兰德的子民，<br>也并非我的本意。
 113,フォリア/芙莉亚,ん……<br>では皆の者、<br>後のことは頼んだぞ。,嗯……<br>那么各位，后面的事就拜托了。
 114,フォリア/芙莉亚,妾が居らずともこの国は回る。<br>イデルバは強い国じゃ。<br>それは妾が誰より知っておる。,即使妾身不在了，这个国家也依然能够运转。\n伊德尔瓦是个强大的国家。\n妾身比任何人都清楚这点。
 115,フォリア/芙莉亚,もっともっと国を豊かにして、<br>いずれはナル・グランデに、<br>あの頃のような平和を取り戻すのじゃ。,让国家更加富裕吧，<br>总有一天，要让昔日的和平<br>重回纳尔·格兰德空域。
 116,カイン/该隐,…………,…………
-118,,<span class='scene-font-katari'>それだけ告げると、</span><br><span class='scene-font-katari'>フォリアは抵抗することなく、</span><br><span class='scene-font-katari'>レム王国の兵士達に取り囲まれていく。</span>,说完这些后，<br>芙莉亚便毫无抵抗地<br>被雷姆帝国的士兵给抓了起来。
+118,,<span class='scene-font-katari'>それだけ告げると、</span><br><span class='scene-font-katari'>フォリアは抵抗することなく、</span><br><span class='scene-font-katari'>レム王国の兵士達に取り囲まれていく。</span>,说完这些后，<br>芙莉亚便毫无抵抗地<br>被雷姆王国的士兵给抓了起来。
 119,ビィ/碧,く、くそぅ……<br>いいのかよ、これ、このままで……！,可、可恶……<br>难道要这样眼睁睁地看着……！
 119-sel1_txt,,<span class='scene-font-katari'>いいわけない</span>,当然不能
 119-sel2_txt,,<span class='scene-font-katari'>止めよう</span>,阻止他们
@@ -111,6 +111,6 @@ id,name,text,trans
 130,,<span class='scene-font-katari'>ギルベルトは</span><br><span class='scene-font-katari'>姬塔達をちらりと見やる。</span>,吉尔伯特说着，<br>看了姬塔一眼。
 131,ギルベルト,貴方達は、<br>無抵抗の相手を斬るおつもりですか？,你们打算杀了<br>那些毫无抵抗之意的对手吗？
 132,カタリナ/卡塔莉娜,くっ……！,唔……！
-133,,<span class='scene-font-katari'>ギルベルトは姬塔達にも、</span><br><span class='scene-font-katari'>遠回しに武器を収めるよう要求する。</span>,吉尔伯委婉地要求姬塔一行收起武器。
+133,,<span class='scene-font-katari'>ギルベルトは姬塔達にも、</span><br><span class='scene-font-katari'>遠回しに武器を収めるよう要求する。</span>,吉尔伯特委婉地要求姬塔一行收起武器。
 134,,<span class='scene-font-katari'>こうして一行は、</span><br><span class='scene-font-katari'>フォリアがレム王国に連れ去られるのを</span><br><span class='scene-font-katari'>ただ見送ることしか出来ないのだった。</span>,就这样，一行人只能眼睁睁地看着<br>芙莉亚被带回雷姆王国。
 info,,,scene_cp101_q4_s10

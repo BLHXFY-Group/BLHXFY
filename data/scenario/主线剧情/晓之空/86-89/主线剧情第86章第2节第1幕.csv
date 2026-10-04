@@ -16,10 +16,10 @@ id,name,text,trans
 10,カイン/该隐,仲間のことも心配だろうけど、<br>それはそれで確かに気にかかるな。,的确，失散的同伴<br>固然令人担心，<br>留在原地的骑空艇同样也是个问题啊。
 11,カイン/该隐,しかし、<br>騎空艇で空域を越えるとなると……,但是，<br>如果是用骑空艇穿越空域的话……
 13,ラインハルザ/莱茵哈萨,もうじき<span class='scene-font-place'>クルーガー島</span>の港に着くそうだ。<br>この軍の指揮官が、<br>こんなところで何して――,马上就到<span class='scene-font-place'>克尔加岛</span>了。<br>你这个指挥官在这里闲聊什么——
-15,？？？,<span class='scene-font-gray'>えーっと……こほん。</span><br><span class='scene-font-gray'>そこの戦艦……</span><br><span class='scene-font-gray'>貴方達、イデルバ王国なのよね？</span>,<span class='scene-font-gray'>呃……咳咳。<br>前面的战舰……<br>你们是伊德尔瓦王国的吧？</span>
+15,？？？,<span class='scene-font-gray'>えーっと……こほん。</span><br><span class='scene-font-gray'>そこの戦艦……</span><br><span class='scene-font-gray'>貴方達、イデルバ王国なのよね？</span>,呃……咳咳。<br>前面的战舰……<br>你们是伊德尔瓦王国的吧？
 16,カイン/该隐,っ！？　これ……<br>魔法で声をこっちに<br>届けてるのか……！？,唔！？这是……<br>对方在用魔法<br>和我们通讯吗……！？
 17,ルリア/露莉亚,こ、この声って……！！,这、这个声音是……！！
-18,？？？,<span class='scene-font-gray'>もし、この島を侵略に来たんだったら、</span><br><span class='scene-font-gray'>いますぐ引き返して。</span><br><span class='scene-font-gray'>そうすれば、マスターも――</span>,<span class='scene-font-gray'>如果你们是来侵略这座岛的，<br>就请你们赶快回去。<br>如果照做，老师也会——</span>
+18,？？？,<span class='scene-font-gray'>もし、この島を侵略に来たんだったら、</span><br><span class='scene-font-gray'>いますぐ引き返して。</span><br><span class='scene-font-gray'>そうすれば、マスターも――</span>,如果你们是来侵略这座岛的，<br>就请你们赶快回去。<br>如果照做，老师也会——
 19,ルリア/露莉亚,イ、イオちゃんっ！！<br>私達です！　ルリアです！,伊、伊欧！！<br>是我们！我是露莉亚！
 19-sel1_txt,,<span class='scene-font-katari'>忘れたとは言わせない！</span>,可别说把我们忘了！
 19-sel2_txt,,<span class='scene-font-katari'>やっと見つけた！</span>,终于找到你了！

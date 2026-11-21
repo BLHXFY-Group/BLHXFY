@@ -1,6 +1,7 @@
 id,name,detail
 npc,法尔提,3040086000
 special,天霸魔龙枪,暗属性伤害特大/技能2发动
+special-双覇戴天竜槍,,暗属性伤害特大/受伤加重/技能2发动
 skill-1,黑龙双击波,对敌方单体造成2次暗属性伤害/驱散1个强化效果
 skill-1++,黑龙双击波,<div class=prt-text-small>对敌方单体造成2次暗属性伤害/驱散1个强化效果<span class=text-blue>◆攻击开始时消耗3层幽暗刻印发动</span></div>
 skill-2,战吼,<div class=prt-text-small>对敌方全体造成暗属性伤害/攻防DOWN(累积)/我方全体获得1层幽暗刻印</div>
